@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dpv",{"dpvs":{"word":"dpvs","translation":"abbr. dysplastic pulmonary valves 發育不良性肺動脈瓣","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

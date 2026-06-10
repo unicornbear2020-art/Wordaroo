@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rve",{"rve":{"word":"rve","translation":"abbr. radar video extractor 雷達視頻信號析取器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

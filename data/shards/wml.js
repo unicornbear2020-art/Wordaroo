@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wml",{"wml":{"word":"wml","translation":"abbr. 無線標記語言（Wireless Markup Language）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

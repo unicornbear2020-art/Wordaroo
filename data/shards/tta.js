@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tta",{"tta":{"word":"tta","translation":"abbr. test target array 試驗目標陣列","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

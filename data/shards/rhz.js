@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rhz",{"rhzomorph":{"word":"rhzomorph","translation":"菌素; 菌素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

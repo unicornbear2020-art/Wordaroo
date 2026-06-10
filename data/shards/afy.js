@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("afy",{"afyon":{"word":"Afyon","translation":"n. 阿菲永（土耳其城市）；金絲黃","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ɑ:'fjəun/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

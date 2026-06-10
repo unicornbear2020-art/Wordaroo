@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jpg",{"jpg":{"word":"jpg","translation":"abbr. 一種圖像壓縮格式（Joint Picture Group）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

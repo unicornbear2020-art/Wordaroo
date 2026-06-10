@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ltj",{"ltjg":{"word":"LTJG","translation":"abbr. Lieutenant Junior Grade","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

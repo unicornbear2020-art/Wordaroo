@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eyj",{"eyjafjallajokull":{"word":"eyjafjallajokull","translation":"n. 艾雅法拉火山（冰島南部）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ai-af'jɑ:tlajokutd/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

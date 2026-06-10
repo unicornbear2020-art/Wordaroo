@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wwk",{"wwk":{"word":"wwk","translation":"abbr. Wewak, Papua New Guinea 巴布亞新幾內亞，威瓦克機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

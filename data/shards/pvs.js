@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pvs",{"pvs":{"word":"pvs","translation":"(pv 的複數) abbr. 產品鑑定（Production Validation）；票面值（Par Value）；撐杆跳高（Pole Vault）；卯酉圈（prime vertical）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"plural of pv","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

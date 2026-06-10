@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uw_",{"uw":{"word":"uw","translation":"abbr. 華盛頓大學（University of Washington）；水下的（Underwater）；超聲波（Ultrasonic Wave）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/θ,u/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

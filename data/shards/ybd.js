@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ybd",{"ybd":{"word":"ybd","translation":"abbr. Y-branching device Y型分路器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

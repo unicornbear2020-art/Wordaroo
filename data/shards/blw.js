@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("blw",{"blwup":{"word":"blwup","translation":"爆炸,叱責,攝影放大","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

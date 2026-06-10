@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wmi",{"wmi":{"word":"wmi","translation":"[醫][=wall motion index]壁運動指數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

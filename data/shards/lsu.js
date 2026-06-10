@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lsu",{"lsu":{"word":"lsu","translation":"abbr. （美）通用登陸艦（landing ship utility）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ppw",{"ppw":{"word":"PPW","translation":"外圍處理機字","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tly",{"tly":{"word":"tly","translation":"abbr. tally 符木（古時用，上有刻痕記載交貨，欠款等的數量）; 記賬; 得分; 標記牌","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/t'lɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

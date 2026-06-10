@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jh_",{"jh":{"word":"jh","translation":"abbr. 保幼激素（juvenile hormone）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

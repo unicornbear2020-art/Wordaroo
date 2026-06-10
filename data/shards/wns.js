@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wns",{"wns":{"word":"wns","translation":"abbr. Washington National Symphony <美國>華盛頓國家交響樂團","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("1_0",{"1,000th":{"word":"1,000th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"1,000th is an abbreviation of thousandth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

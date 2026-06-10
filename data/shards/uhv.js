@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uhv",{"uhv":{"word":"uhv","translation":"abbr. ultra-high vacuum 超高真空","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

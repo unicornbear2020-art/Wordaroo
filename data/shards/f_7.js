@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("f_7",{"f.710":{"word":"F.710","translation":"[醫] 福諾七一零, 羅多奎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

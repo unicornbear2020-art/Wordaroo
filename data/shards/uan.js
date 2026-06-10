@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uan",{"uang":{"word":"uang","translation":"獨角仙(一種甲蟲)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/wɑ:ŋ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

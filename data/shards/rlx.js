@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rlx",{"rlx":{"word":"rlx","translation":"[醫][=right lower extremity]右下肢","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

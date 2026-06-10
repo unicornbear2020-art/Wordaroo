@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qaz",{"qazi":{"word":"qazi","translation":"n. (Qazi)人名；(阿富、巴基、伊朗)卡齊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

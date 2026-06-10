@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tbg",{"tbg":{"word":"TBG","translation":"[化] 甲(狀)腺素結合球蛋白","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

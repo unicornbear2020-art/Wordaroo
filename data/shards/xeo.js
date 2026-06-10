@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xeo",{"xeon":{"word":"xeon","translation":"n. INTEL 至強處理器系列","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

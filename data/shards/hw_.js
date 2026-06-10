@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hw_",{"hw":{"word":"hw","translation":"abbr. 半波（Half Wave）；熱水（hot water）；硬件（Hardware）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

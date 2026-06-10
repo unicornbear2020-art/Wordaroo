@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qj_",{"qj":{"word":"qj","translation":"abbr. Jet Airways 噴氣機航空公司（代碼）; queue jockey 候話音樂播放師","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

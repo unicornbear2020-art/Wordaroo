@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jpl",{"jpl":{"word":"jpl","translation":"abbr. 噴氣推進實驗室（Jet Propulsion Laboratory）；日本白金（Japanese Platinum）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

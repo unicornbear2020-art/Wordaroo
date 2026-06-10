@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("q10",{"q10":{"word":"Q10","translation":"[醫] 温度改變十度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

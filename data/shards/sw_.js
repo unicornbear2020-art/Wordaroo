@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sw_",{"sw":{"word":"SW","translation":"[計] 軟件, 狀態字, 開關","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n the compass point midway between south and west; at 225 degrees","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

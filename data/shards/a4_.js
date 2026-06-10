@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("a4_",{"a4":{"word":"a4","translation":"n. A4型紙（規格為297×210毫米的紙）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

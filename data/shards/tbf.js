@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tbf",{"tbf":{"word":"tbf","translation":"abbr. to be furnished 應予供給的; total batters faced (baseball) 完全斜面的（棒球）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("f3_",{"f3":{"word":"F3","translation":"[醫] 第三子代","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

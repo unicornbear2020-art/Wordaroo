@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vlf",{"vlf":{"word":"VLF","translation":"甚低頻","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. 3 to 30 kilohertz","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

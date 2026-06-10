@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zax",{"zax":{"word":"zax","translation":"n. 石斧","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/zæks/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n. A tool for trimming and puncturing roofing slates.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hnp",{"hnpcc":{"word":"hnpcc","translation":"[醫]遺傳性非息肉性結腸直腸癌","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

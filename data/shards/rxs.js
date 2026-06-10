@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rxs",{"rxs":{"word":"rxs","translation":"abbr. radar cross-section 雷達覆蓋區，雷達散射截面（積），雷達有效反射面積","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ˈɑ:rˈeksiz/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

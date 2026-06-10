@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("asx",{"asx":{"word":"asx","translation":"abbr. 澳洲證券交易所（Australian Securities Exchange）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

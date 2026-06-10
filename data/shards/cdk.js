@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cdk",{"cdkey":{"word":"cdkey","translation":"n. 激活碼；序列號","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

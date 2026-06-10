@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fds",{"fds":{"word":"fds","translation":"[醫][=fibronectin-depleted serum]纖維連結蛋白缺乏血清","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'efd'i:'es/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

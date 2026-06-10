@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pws",{"pws":{"word":"pws","translation":"[醫][=pickwickian syndrome]皮克韋坎（氏）綜合徵：肺泡換氣低下肥胖綜合徵","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

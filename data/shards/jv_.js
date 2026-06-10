@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jv_",{"jv":{"word":"jv","translation":"abbr. 資淺代表隊（Junior Varsity）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a college or university team that competes at a level below the varsity team","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

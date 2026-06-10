@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("crj",{"crje":{"word":"CRJE","translation":"[計] 會話式遠程作業輸入","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

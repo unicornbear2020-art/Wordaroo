@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rmu",{"rmu":{"word":"rmu","translation":"abbr. remote maneuvering unit 遠程機動單位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

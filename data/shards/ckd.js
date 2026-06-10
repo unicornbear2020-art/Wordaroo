@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ckd",{"ckd":{"word":"ckd","translation":"abbr. checked 已核實; 已查過; cracked 裂紋的; 破裂的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

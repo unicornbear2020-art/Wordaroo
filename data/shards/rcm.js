@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rcm",{"rcmp":{"word":"RCMP","translation":"abbr. 加拿大皇家騎警隊（Royal Canadian Mounted Police）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. the federal police force of Canada","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

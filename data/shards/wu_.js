@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wu_",{"wu":{"word":"Wu","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"name","senses":[{"gloss":"Wu is a unisex given name.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"abbr. 西聯（Western Union）；工作單位（Work Unit）；武漢航空公司"}});

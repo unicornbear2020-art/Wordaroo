@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("q_h",{"q.h.":{"word":"q.h.","translation":"[醫] 每小時","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

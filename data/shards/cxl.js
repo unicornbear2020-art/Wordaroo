@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cxl",{"cxl":{"word":"cxl","translation":"abbr. Calexico; California 美國; 加利福尼亞州; 卡萊克西科機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"s being ten more than one hundred thirty","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

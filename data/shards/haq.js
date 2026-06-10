@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("haq",{"haq":{"word":"haq","translation":"[醫][=health assessment questionnaire]健康評定問卷","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

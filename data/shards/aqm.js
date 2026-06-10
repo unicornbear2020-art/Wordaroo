@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aqm",{"aqmd":{"word":"aqmd","translation":"abbr. Air-Quality Management District (Southern California) <美國>大氣質量管理部門（南加利福尼亞）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

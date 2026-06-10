@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rx_",{"rx":{"word":"rx","translation":"n. 處方；治療方案","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:r'eks/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

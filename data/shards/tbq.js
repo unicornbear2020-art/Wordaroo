@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tbq",{"tbq":{"word":"tbq","translation":"abbr. to be queried 需質疑的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:b'i:kj'u:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gwp",{"gwp":{"word":"gwp","translation":"n. Global Warming Potential. 温室效應潛能值。","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

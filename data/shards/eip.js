@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eip",{"eip":{"word":"eip","translation":"abbr. 企業資訊入口網站（Enterprise Information Portal）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("o_w",{"o-wave":{"word":"o-wave","translation":"[電] O型波","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

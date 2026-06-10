@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ues",{"ues":{"word":"ues","translation":"(ue 的第三人稱 -s形式) abbr. 統一標準裝置（Unified Equipment）；用户體驗設計（Users Experience Design）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"-s form of ue","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oeq",{"oeq":{"word":"oeq","translation":"abbr. Office of Environmental Quality <美國>環境質量處","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

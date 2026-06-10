@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xda",{"xda":{"word":"xda","translation":"abbr. 擴展設計架構（Xtended Design Architecture）；多普達","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

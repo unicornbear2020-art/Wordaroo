@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sqm",{"sqm":{"word":"sqm","translation":"abbr. 平方米","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

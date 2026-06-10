@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("njp",{"njp":{"word":"NJP","translation":"[計] 網絡作業處理","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

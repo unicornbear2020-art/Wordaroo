@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("0th",{"0th":{"word":"0th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"0th is an abbreviation of zeroth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

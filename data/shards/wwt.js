@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wwt",{"wwtp":{"word":"wwtp","translation":"[醫][=wastewater treatment plant]廢水治理工廠（站）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

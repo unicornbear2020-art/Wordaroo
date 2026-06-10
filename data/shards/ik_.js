@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ik_",{"ik":{"word":"ik","translation":"abbr. 鉀電流；反向動力學（Inverse Kinematics）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"pron. I.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

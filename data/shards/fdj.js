@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fdj",{"fdj":{"word":"fdj","translation":"abbr. Freie Deutsche Jugend (German=Free German Youth) （德語）自由德國青年聯盟","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

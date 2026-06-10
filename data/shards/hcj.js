@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hcj",{"hcj":{"word":"hcj","translation":"abbr. High Court of Justice <英國>高等法院","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

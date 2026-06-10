@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("flt",{"flt":{"word":"FLT","translation":"[計] 故障定位測試法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

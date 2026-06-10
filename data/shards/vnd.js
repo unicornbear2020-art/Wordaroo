@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vnd",{"vnd":{"word":"vnd","translation":"abbr. ventral nervous system defective 腹側神經系統缺損基因","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

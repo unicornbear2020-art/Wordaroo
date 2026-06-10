@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tkd",{"tkd":{"word":"TKD","translation":"[醫] 分娩力計","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

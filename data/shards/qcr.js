@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qcr",{"qcr":{"word":"QCR","translation":"[計] 隊列控制記錄","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("crh",{"crh":{"word":"crh","translation":"abbr. 促腎上腺皮質激素釋放激素（Corticotropin-Releasing Hormone）；中國高速鐵路（China Railway High-Speed）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jrl",{"jrl":{"word":"jrl","translation":"abbr. journal 雜誌","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒeɪ'ɑ:r'el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

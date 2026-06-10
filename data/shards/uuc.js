@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uuc",{"uucp":{"word":"UUCP","translation":"[計] Unix到Unix複製程序, UNIX到UNIX之間的拷貝程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("k_p",{"k-pax":{"word":"k-pax","translation":"[電影]K星異客","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

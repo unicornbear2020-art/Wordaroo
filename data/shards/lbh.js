@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lbh",{"lbhs":{"word":"lbhs","translation":"abbr. Luther Burbank High School 盧瑟·伯班克高等學校","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

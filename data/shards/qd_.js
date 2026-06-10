@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qd_",{"qd":{"word":"qd","translation":"abbr. 俯角（Quadrant Depression）；軍需申請（Quartermaster Demand）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

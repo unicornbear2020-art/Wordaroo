@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("umk",{"umklapp process":{"word":"umklapp process","translation":"[電] 倒逆過程","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

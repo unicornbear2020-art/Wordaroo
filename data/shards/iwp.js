@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iwp",{"iwpr":{"word":"iwpr","translation":"abbr. input FIFO write pointer 輸入高級先出（存儲器）寫指針","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

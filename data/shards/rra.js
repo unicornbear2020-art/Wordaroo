@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rra",{"rra":{"word":"rra","translation":"abbr. 迴歸再時效；餘熱排出系統；輻射研究協會（Radiation Research Association）；橡膠再生劑（Rubber Reclaiming Agent）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ps2",{"ps2":{"word":"ps2","translation":"abbr. 索尼出品的一款家用型遊戲主機（Play Station 2）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

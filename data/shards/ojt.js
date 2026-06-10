@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ojt",{"ojt":{"word":"ojt","translation":"abbr. on-the-job training 在職訓練","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

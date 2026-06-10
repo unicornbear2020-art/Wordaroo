@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ug_",{"ug":{"word":"ug","translation":"abbr. 地下（underground）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

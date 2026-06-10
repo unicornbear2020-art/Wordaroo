@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gmd",{"gmdss":{"word":"gmdss","translation":"全球海上遇險安全系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

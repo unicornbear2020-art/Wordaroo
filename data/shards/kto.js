@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kto",{"kto":{"word":"kto","translation":"abbr. Kato, Guyana 圭亞那，加藤機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

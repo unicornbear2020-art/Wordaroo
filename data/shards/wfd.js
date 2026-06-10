@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wfd",{"wfd":{"word":"wfd","translation":"abbr. wool forward (knitting) 前向毛線（針織）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

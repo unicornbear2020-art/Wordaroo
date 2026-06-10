@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aql",{"aql":{"word":"AQL","translation":"[計] 可接受的質量標準","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

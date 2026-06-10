@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jlp",{"jlp":{"word":"jlp","translation":"[醫][=juvenile laryngeal papillomatosis]青少年喉乳頭狀瘤病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

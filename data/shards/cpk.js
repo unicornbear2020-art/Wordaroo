@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cpk",{"cpk":{"word":"cpk","translation":"abbr. congenital polycystic kidney 先天性多囊腎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

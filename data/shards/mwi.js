@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mwi",{"mwinilunga":{"word":"mwinilunga","translation":"[地名] [贊比亞] 姆維尼倫加","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

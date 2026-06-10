@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("q_l",{"q.l.":{"word":"q.l.","translation":"[醫] 任意量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

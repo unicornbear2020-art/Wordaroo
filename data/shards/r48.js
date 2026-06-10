@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("r48",{"r48":{"word":"R48","translation":"[醫] 雙-2-氯乙基-β-萘胺","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

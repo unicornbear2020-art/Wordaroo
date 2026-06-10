@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nxt",{"nxt":{"word":"nxt","translation":"abbr. next 接下去的; 其次的; 下一個的; 下一次的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("r_h",{"r.h.d.":{"word":"R.H.D.","translation":"[醫] 肝相對濁音","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

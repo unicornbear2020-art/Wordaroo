@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("itf",{"itf":{"word":"itf","translation":"abbr. in trust for 代某人託管; inland transit floater (insurance) 內地運輸籌資人（保險）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

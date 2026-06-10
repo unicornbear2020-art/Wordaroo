@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("egh",{"egholm":{"word":"egholm","translation":"[地名] [丹麥] 艾島","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vyr",{"vyrus":{"word":"vyrus","translation":"n. 病毒（華語樂隊）；病毒（意大利摩托車製造商）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

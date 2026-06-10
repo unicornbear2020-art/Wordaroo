@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nhb",{"nhb":{"word":"nhb","translation":"abbr. National Harbours Board <加>國家港務局","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

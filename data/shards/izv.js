@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("izv",{"izvestia":{"word":"Izvestia","translation":"n. 消息報","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/iz'vestjә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

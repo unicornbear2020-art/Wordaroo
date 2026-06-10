@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ffm",{"ffm":{"word":"ffm","translation":"[醫][=fat-free mass]脱脂物質，無脂肪物質","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ef'ef'em/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gg_",{"gg":{"word":"gg","translation":"abbr. 地面制導（Ground Guidance）；煤氣發生器（Gas Generator）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

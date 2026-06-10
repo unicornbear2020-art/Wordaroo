@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qfs",{"qfs":{"word":"qfs","translation":"abbr. Queensland Fire Service 昆士蘭州供暖設施; Queensland Fisheries Service 昆士蘭州水產部","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

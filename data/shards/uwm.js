@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uwm",{"uwm":{"word":"uwm","translation":"[計]= universal window manager,[X]通用窗口管理程序[子系統]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

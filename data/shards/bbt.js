@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bbt",{"bbt":{"word":"BBT","translation":"[醫] 基礎體温","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

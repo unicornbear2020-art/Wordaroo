@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iy_",{"iy":{"word":"iy","translation":"n. [五筆]濟；注；泳；遊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

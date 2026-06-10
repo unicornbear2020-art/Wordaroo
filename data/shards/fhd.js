@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fhd",{"fhd":{"word":"FHD","translation":"[計] 固定頭磁盤","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

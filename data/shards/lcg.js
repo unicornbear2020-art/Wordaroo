@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lcg",{"lcgn":{"word":"LCGN","translation":"邏輯信道組號","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qll",{"qllc":{"word":"QLLC","translation":"限定邏輯鏈路控制","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

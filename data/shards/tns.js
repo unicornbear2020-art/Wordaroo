@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tns",{"tns":{"word":"tns","translation":"abbr. 特恩斯（市場諮詢公司Taylor Nelson Sofres）；交易網絡服務（Transparent Network Substrate）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a state in east central United States","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("grs",{"grs":{"word":"GRS","translation":"[計] 通用檢索系統, 通用寄存器堆棧, 通用報表系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

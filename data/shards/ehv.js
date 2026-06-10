@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ehv",{"ehv":{"word":"EHV","translation":"abbr. 超高壓, 極高壓（Extra High Voltage）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sdc",{"sdc":{"word":"SDC","translation":"系統開發公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

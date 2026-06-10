@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nni",{"nni":{"word":"nni","translation":"abbr. noise and number index 噪聲和數值指數（噪聲污染）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

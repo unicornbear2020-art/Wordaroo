@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xz_",{"xz":{"word":"xz","translation":"abbr. 行政類；旋轉字註解（排版用詞）；緬甸（航空器國籍標誌）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

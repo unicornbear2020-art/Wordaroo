@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xht",{"xhtml":{"word":"xhtml","translation":"abbr. 擴展超文本標識語言（The Extensible HyperText Markup Language）；結構層代碼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

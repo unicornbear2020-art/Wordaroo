@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tln",{"tln":{"word":"tln","translation":"abbr. Toulon/Hyeres; France 法國; 土倫/耶荷機場（代碼）; trunk line network 中繼線網絡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

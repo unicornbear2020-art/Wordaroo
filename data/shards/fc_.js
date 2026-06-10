@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fc_",{"fc":{"word":"FC","translation":"消防, 火力控制, 足球俱樂部\n[計] 信息流控制, 字形改變, 操作碼, 功能碼\nDOS外部命令:比較兩個文件的內容","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

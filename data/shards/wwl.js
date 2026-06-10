@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wwl",{"wwl":{"word":"wwl","translation":"佈線或佈線與邏輯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'dəbəlju:d'əbəlju:'el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

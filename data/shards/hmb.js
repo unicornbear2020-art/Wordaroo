@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hmb",{"hmb":{"word":"hmb","translation":"[醫][=homatropine methylbromide]溴甲基後馬託品","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'etʃ'emb'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

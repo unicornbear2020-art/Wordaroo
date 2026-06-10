@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ehh",{"ehh":{"word":"ehh","translation":"abbr. 食管裂孔疝（esophageal hiatal hernia）；高壓對光柵行幅（場幅）的影響","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

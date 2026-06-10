@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("irn",{"irna":{"word":"irna","translation":"abbr. immune ribonucleic acid 免疫核糖核酸（抗癌，乙肝之輔助治療藥）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

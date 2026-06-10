@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wnv",{"wnv":{"word":"wnv","translation":"[醫][=West Nile virus]西尼羅河病毒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

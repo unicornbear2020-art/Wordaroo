@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dsk",{"dsk":{"word":"DSK","translation":"[計] 磁盤","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

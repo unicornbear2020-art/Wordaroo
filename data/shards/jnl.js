@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jnl",{"jnl":{"word":"jnl","translation":"abbr. Japanese National Laboratory 日本國家實驗所; joint network library 聯合網絡庫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

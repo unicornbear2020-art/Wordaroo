@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vly",{"vly":{"word":"vly","translation":"n. <美>沼澤, 池塘小河","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/vlai, flai/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

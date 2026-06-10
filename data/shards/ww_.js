@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ww_",{"ww":{"word":"ww","translation":"abbr. 棧單（Warehouse Warrant）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

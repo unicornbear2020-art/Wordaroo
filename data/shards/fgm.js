@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fgm",{"fgm":{"word":"FGM","translation":"abbr. 野戰制導導彈（Field Guided Missile）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

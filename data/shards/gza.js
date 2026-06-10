@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gza",{"gza":{"word":"gza","translation":"[人名]Wu-Tang Clan（一支成名比較長時間的HIP-HOP樂隊組合）的成員","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

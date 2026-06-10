@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lfu",{"lfu":{"word":"LFU","translation":"最少使用算法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

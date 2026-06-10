@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ewy",{"ewy":{"word":"ewy","translation":"[人名] 尤伊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

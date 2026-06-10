@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ek_",{"ek":{"word":"EK","translation":"柯達公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

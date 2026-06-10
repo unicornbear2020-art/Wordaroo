@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ngf",{"ngf":{"word":"NGF","translation":"abbr. 神經生長因子（Nerve Growth Factor）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. a protein that is involved in the growth of peripheral nerve cells","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

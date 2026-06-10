@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tcx",{"tcxture":{"word":"tcxture","translation":"[醫] 結構, 構造, 質地; 組織","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

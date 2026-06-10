@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c10",{"c10":{"word":"C10","translation":"[醫] 碘化十烴雙胺, 碘化十碳銨","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

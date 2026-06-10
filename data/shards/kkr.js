@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kkr",{"kkr":{"word":"kkr","translation":"abbr. Korringa-Kohn-Rostoker method 科林加-科恩-羅斯托克法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

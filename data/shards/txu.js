@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("txu",{"txu":{"word":"txu","translation":"德州公用公司總部所在地：美國主要業務：電力煤氣","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

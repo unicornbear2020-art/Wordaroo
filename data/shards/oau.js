@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oau",{"oau":{"word":"oau","translation":"abbr. 非統; 非洲統一組織","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

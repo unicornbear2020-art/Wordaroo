@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rdm",{"rdm":{"word":"rdm","translation":"abbr. random 隨意的; 任意的; 不規則的; root drum 根鼓膜","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

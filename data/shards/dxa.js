@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dxa",{"dxa":{"word":"dxa","translation":"[醫]Dual Energy X-ray Absorptiometry","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

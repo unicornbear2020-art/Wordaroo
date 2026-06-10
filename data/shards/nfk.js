@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nfk",{"nfk":{"word":"nfk","translation":"abbr. nothing further known 無進一步消息","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wyz",{"wyzanski":{"word":"wyzanski","translation":"[人名] 懷贊斯基","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

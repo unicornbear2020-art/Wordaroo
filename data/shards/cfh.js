@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cfh",{"cfht":{"word":"cfht","translation":"abbr. Canada-France-Hawaii Telescope 加拿大—法國—夏威夷望遠鏡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

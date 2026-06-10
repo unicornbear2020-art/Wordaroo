@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dxc",{"dxc":{"word":"dxc","translation":"abbr. data exchange control 數據交換控制","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

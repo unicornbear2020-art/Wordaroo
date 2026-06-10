@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ixu",{"ixus":{"word":"ixus","translation":"n. 伊克薩斯（數碼相機品牌佳能的一個系列）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

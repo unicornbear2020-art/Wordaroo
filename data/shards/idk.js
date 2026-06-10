@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("idk",{"idk":{"word":"IDK","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"IDK is an initialism of I don't know.","glossZh":"","labels":["Internet slang"],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"abbr. 我不知道（I don not know）；影像開發套件"}});

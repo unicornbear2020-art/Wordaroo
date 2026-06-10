@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zij",{"zij":{"word":"zij","translation":"歷表","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

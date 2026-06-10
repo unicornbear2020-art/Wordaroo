@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nll",{"nll":{"word":"nll","translation":"[醫][=nodular lepromatous leprosy]結節性瘤型麻風","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'en'el'el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

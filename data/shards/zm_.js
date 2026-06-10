@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zm_",{"zm":{"word":"ZM","translation":"[計] 調零; 零調製","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

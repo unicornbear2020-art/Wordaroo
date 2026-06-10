@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("g13",{"g13871":{"word":"G13871","translation":"[醫] 苯丁唑酮, 保泰松(退熱止痛藥)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

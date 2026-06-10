@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mhi",{"mhi":{"word":"mhi","translation":"[醫][=malignant histiocytosis of the intestine]惡性腸道組織細胞增多症","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/m'hɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wmx",{"wmx":{"word":"wmx","translation":"[醫][=whirlpool,massage,exercise]旋渦，旋流，按摩，推拿，練習，運動","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cuj",{"cujo":{"word":"cujo","translation":"[電影]狂犬驚魂; 厄兆","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

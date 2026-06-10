@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rsq",{"rsq":{"word":"rsq","translation":"abbr. rescure 救援，營救","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:r'eskj'u:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

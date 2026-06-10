@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fce",{"fce":{"word":"FCE","translation":"abbr. 飛行控制電子設備（Flight Control Electronics）；火控設備（Fire Equipment Control）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

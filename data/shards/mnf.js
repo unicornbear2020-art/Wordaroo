@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mnf",{"mnf":{"word":"mnf","translation":"[計]= Multisystem Networking Facility,多系統連網設備","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

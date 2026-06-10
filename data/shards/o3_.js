@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("o3_",{"o3":{"word":"O3","translation":"[醫] 臭氧","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

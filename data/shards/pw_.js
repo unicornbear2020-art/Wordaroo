@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pw_",{"pw":{"word":"pw","translation":"abbr. 女警（policewoman）；現在價值（present worth）；電動窗（power window）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

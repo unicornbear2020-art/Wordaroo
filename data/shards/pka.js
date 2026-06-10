@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pka",{"pka":{"word":"pka","translation":"[醫][=prekallikrein activator]前激肽釋放酶激活劑","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/p'kə/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

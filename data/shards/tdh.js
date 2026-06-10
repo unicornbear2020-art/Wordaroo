@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tdh",{"tdh":{"word":"tdh","translation":"abbr. threonine dehydrogenase 蘇氨酸脱氫酶; total dynamic head 總動壓頭","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

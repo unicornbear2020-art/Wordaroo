@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wsi",{"wsi":{"word":"wsi","translation":"圓片規模集成化","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/w'zɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dcl",{"dcl":{"word":"DCL","translation":"民法學博士\n[計] 説明, 數字命令語言","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

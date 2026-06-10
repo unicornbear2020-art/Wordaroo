@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fmo",{"fmo":{"word":"fmo","translation":"abbr. Frequency Modulated Oscillator 調頻振盪器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

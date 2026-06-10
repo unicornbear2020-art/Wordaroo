@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gj_",{"gj":{"word":"gj","translation":"abbr. 縫隙連接（Gap Junction）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

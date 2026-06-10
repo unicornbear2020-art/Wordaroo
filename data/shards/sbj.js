@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sbj",{"sbj":{"word":"sbj","translation":"abbr. subjunctive 虛擬語氣（的）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

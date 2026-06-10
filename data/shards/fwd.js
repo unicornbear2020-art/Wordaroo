@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fwd",{"fwd":{"word":"fwd","translation":"abbr. forward 向前; front-wheel drive 前輪驅動（裝置）; four-wheel drive 四輪驅動; freshwater damage 淡水破壞","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

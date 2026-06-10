@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("grz",{"grzybowski":{"word":"grzybowski","translation":"[人名] 格日博夫斯基","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

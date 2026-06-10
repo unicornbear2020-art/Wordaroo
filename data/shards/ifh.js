@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ifh",{"ifhe":{"word":"ifhe","translation":"abbr. International Federation of Home Economics 國際家政學聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rfb",{"rfb":{"word":"rfb","translation":"[醫][=retained foreign body]殘留異物","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

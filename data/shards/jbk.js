@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jbk",{"jbk":{"word":"jbk","translation":"abbr. Berkeley; California 美國; 加利福尼亞州; 伯克利機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qls",{"qls":{"word":"QLS","translation":"快速法律系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

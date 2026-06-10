@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("igy",{"igy":{"word":"IGY","translation":"abbr. 國際地球物理年（International Geophysical Year）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

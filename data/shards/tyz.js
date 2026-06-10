@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tyz",{"tyzzer's disease":{"word":"Tyzzer's disease","translation":"[醫] 日本小鼠肝炎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

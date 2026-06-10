@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gnj",{"gnjilane":{"word":"gnjilane","translation":"[地名] [塞爾維亞] 格尼拉內","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("szc",{"szczecin":{"word":"Szczecin","translation":"什切青(波蘭港市)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ʃtʃe'tsin/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

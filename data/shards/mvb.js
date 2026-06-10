@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mvb",{"mvb":{"word":"mvb","translation":"[醫][=microvascular bleeding]微血管出血","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

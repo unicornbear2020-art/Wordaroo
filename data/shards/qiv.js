@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qiv",{"qiviut":{"word":"qiviut","translation":"n. <美> 北極麝牛身上的絨毛","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ki:vi,u:t/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pme",{"pme":{"word":"pme","translation":"abbr. performance-measuring equipment 性能測定設備; planning;  management;  evaluation 計劃","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

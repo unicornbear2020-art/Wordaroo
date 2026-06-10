@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("w_v",{"w va":{"word":"W Va","translation":"美國西弗吉尼亞州（West Virginia）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

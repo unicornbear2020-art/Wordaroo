@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vrp",{"vrp":{"word":"vrp","translation":"[醫][=ventral root potential]前根電位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'vi:'ɑ:rp'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

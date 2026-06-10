@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wcn",{"wcn":{"word":"wcn","translation":"[醫][=Walthard's cell nests]瓦耳塔德（氏）細胞巢","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hch",{"hch":{"word":"hch","translation":"[醫][=hemochromatosis]血色素沉着（症），血色病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

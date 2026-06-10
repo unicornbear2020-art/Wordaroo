@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dpe",{"dpe":{"word":"DPE","translation":"abbr. 數字處理效果（digital processing effects）；資料處理設備（data processing equipment）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

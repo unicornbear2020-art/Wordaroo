@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hgp",{"hgp":{"word":"hgp","translation":"[醫][=hepatic glucose production]肝葡萄糖生成","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'etʃdʒ'i:p'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

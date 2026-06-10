@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rks",{"rks":{"word":"rks","translation":"[醫][=retrograde kidney study]逆行性腎臟研究","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

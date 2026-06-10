@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("p_2",{"p.270":{"word":"P.270","translation":"[醫] 福諾二七零, 錐蟲胂胺","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

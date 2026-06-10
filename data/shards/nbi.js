@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nbi",{"nbi":{"word":"nbi","translation":"[醫][=neutrophil bactericidal index]中性白細胞殺菌指數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/n'bɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

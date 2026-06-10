@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uz_",{"uz":{"word":"uz","translation":"abbr. 烏茲別克斯坦（Uzbekistan）；烏茲別克","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

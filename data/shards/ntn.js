@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ntn",{"ntn":{"word":"ntn","translation":"[醫][=nephrotoxic nephritis]腎毒性腎炎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

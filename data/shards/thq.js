@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("thq",{"thq":{"word":"thq","translation":"abbr. Theatre Headquarters <美>戰區司令部","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

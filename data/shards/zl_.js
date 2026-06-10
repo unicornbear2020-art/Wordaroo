@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zl_",{"zl":{"word":"zl","translation":"abbr. 零位線, 基準線（zero line）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

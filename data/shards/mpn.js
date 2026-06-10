@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mpn",{"mpn":{"word":"mpn","translation":"abbr. Microwave Product News <微波產品新聞>（期刊）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

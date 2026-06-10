@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ulb",{"ulbricht":{"word":"Ulbricht","translation":"n. (Ulbricht)人名；(德)烏布利希","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kvu",{"kvutza":{"word":"kvutza","translation":"n. 小型集體農場","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/kәvuːˊtsɒ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

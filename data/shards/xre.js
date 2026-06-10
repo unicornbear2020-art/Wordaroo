@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xre",{"xrep":{"word":"xrep","translation":"abbr. auxiliary report 輔助報告（代號）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qrf",{"qrf":{"word":"qrf","translation":"[醫][=Quaranfil virus]卡蘭非爾病毒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

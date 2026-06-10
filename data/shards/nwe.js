@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nwe",{"nwextract":{"word":"NWEXTRACT","translation":"[計] 系統恢復實用程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

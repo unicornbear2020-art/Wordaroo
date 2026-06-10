@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ng_",{"ng":{"word":"NG","translation":"[化] 硝化甘油","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n one billionth (1/1,000,000,000) gram","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

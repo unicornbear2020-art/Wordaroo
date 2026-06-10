@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jsz",{"jsz":{"word":"jsz","translation":"abbr. St. Tropez, France 法國，聖託培機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

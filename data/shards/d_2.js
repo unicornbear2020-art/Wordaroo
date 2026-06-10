@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("d_2",{"d-2-desoxyribose":{"word":"d-2-desoxyribose","translation":"[醫] d-2-脱氧核糖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

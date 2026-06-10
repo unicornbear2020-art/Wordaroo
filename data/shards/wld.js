@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wld",{"wld":{"word":"wld","translation":"abbr. west longitude date 西經日（期）; would 將要","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

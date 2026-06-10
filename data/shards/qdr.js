@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qdr",{"qdr":{"word":"qdr","translation":"數碼定量放射照相","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

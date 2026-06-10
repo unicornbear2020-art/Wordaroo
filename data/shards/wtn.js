@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wtn",{"wtn":{"word":"wtn","translation":"abbr. world television news （英國）世界電視新聞","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

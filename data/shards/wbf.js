@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wbf",{"wbf":{"word":"wbf","translation":"abbr. World Badminton Federation 世界羽毛球聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

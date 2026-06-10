@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lfl",{"lfl":{"word":"lfl","translation":"abbr. 線性熒光燈；下燃燒限度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

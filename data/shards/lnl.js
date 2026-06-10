@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lnl",{"lnl":{"word":"lnl","translation":"abbr. lower normal limit 正常下限; lymph node lymphocytes 淋巴結淋巴細胞; lysinonorleucine 賴氨酸正亮氨酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

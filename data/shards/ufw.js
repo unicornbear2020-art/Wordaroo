@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ufw",{"ufw":{"word":"ufw","translation":"abbr. United Farm Workers 聯合農場工人; United Furniture Workers <美國>傢俱工人聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

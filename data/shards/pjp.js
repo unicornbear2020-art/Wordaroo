@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pjp",{"pjp":{"word":"pjp","translation":"abbr. probate judge of the peace 和平遺囑鑑定","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

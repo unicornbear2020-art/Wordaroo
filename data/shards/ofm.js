@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ofm",{"ofm":{"word":"ofm","translation":"abbr. Order of Friars Minor （天主教）小兄弟會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

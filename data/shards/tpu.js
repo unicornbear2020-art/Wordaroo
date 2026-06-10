@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tpu",{"tpu":{"word":"tpu","translation":"abbr. [軍]熱接收器裝置（Thermal Receiver Unit）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

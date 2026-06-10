@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nsv",{"nsv":{"word":"nsv","translation":"abbr. negative sequence voltage 負序列電壓; nuclear service vessel 核能船","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

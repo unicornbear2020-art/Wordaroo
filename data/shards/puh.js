@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("puh",{"puh":{"word":"puh","translation":"孕尿激素(pregnancy urine hormone)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"interj. The same as Pugh.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

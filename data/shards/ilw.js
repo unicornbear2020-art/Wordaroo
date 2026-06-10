@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ilw",{"ilwaco":{"word":"ilwaco","translation":"[地名] [美國] 伊爾沃科","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

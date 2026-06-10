@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("otz",{"otz":{"word":"otz","translation":"n. 失意體前屈（網絡心情圖示）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

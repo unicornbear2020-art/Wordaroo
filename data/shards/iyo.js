@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iyo",{"iyomycin":{"word":"iyomycin","translation":"異樣黴素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/i:әu'maisin/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

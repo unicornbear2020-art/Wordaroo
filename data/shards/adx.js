@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("adx",{"adx":{"word":"ADX","translation":"[計] 自動數據交換","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

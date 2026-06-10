@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qrb",{"qrb":{"word":"qrb","translation":"abbr. Quarterly Review of Biology <生物學評論季刊>（雜誌）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

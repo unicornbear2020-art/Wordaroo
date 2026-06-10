@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sfg",{"sfg":{"word":"sfg","translation":"[醫][=spotted fever group]斑疹熱型","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

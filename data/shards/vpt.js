@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vpt",{"vpt":{"word":"vpt","translation":"[計]= Video Pulse Termination,視頻脈衝終接","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

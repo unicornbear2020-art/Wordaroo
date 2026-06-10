@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dvb",{"dvb":{"word":"dvb","translation":"abbr. 數字視頻廣播（Digital Video Broadcasting）；二乙烯基苯（Divinylbenzene）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

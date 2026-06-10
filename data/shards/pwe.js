@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pwe",{"pwe":{"word":"pwe","translation":"abbr. pulse-width encoder 脈寬編碼器; 脈寬譯碼器; pulse-width encoding 脈寬編碼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rsk",{"rsk":{"word":"RSK","translation":"[計] 收發鍵盤裝置","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

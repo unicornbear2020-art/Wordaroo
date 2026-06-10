@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("o2_",{"o2":{"word":"O2","translation":"[醫] 氧(8號元素); 兩眼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

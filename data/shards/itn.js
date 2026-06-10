@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("itn",{"itn":{"word":"ITN","translation":"abbr. 獨立電視新聞公司（Independent Television News）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

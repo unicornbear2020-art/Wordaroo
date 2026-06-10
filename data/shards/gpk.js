@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gpk",{"gpk":{"word":"gpk","translation":"[醫][=guinea pig kidney antigen]豚鼠腎抗原","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒi:p'i:k'eɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

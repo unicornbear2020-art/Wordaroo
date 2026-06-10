@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rtz",{"rtz":{"word":"RTZ","translation":"歸零制（return-to-zero ）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

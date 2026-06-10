@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lgl",{"lgl":{"word":"lgl","translation":"abbr. legal 合法的; 法律的; lethal giant larvae 致命的大幼蟲; 致命巨蚴","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'eldʒ'i:'el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

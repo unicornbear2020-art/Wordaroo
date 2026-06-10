@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bcf",{"bcf":{"word":"bcf","translation":"[醫][=bacterial chemotactic factor]細菌趨化性因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

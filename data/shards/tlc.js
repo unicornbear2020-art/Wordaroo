@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tlc",{"tlc":{"word":"TLC","translation":"[計] 閾值邏輯電路\n[化] 薄層色譜法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n considerate and solicitous care","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

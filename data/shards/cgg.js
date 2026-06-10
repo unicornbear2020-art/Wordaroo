@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cgg",{"cgg":{"word":"cgg","translation":"abbr. continuous grinding gage 持續摩擦的保證","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("m2_",{"m2":{"word":"m2","translation":"[經] 貨幣供應量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. a measure of the money supply; M1 plus net time deposits (other than large certificates of deposit)","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

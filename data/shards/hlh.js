@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hlh",{"hlhs":{"word":"hlhs","translation":"[醫][=hypoplastic left heart syndrome]左心發育不全綜合徵","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

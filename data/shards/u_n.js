@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("u_n",{"u.n.":{"word":"U.N.","translation":"聯合國","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

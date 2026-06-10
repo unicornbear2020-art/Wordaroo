@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jds",{"jds":{"word":"jds","translation":"abbr. job data sheet 作業數據（記錄）表","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒeɪd'i:'es/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ncq",{"ncqa":{"word":"ncqa","translation":"abbr. National Committee on Quality Assurance 全國質量保證委員會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

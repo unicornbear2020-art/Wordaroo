@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("foj",{"fojnica":{"word":"fojnica","translation":"[地名] [波斯尼亞和黑塞哥維那] 福伊尼察","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

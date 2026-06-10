@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("luu",{"luu":{"word":"luu","translation":"abbr. lunar 月的; 月亮的; lunette 眼鏡堡; 弦月窗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/l'ju:ʌ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vcf",{"vcf":{"word":"vcf","translation":"abbr. vaginal contraceptive film 陰道避孕劑膜; voltage-controlled filter 電壓控制的過濾器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

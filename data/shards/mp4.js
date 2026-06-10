@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mp4",{"mp4":{"word":"mp4","translation":"abbr. 視頻播放器（Mobile Pentium 4）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

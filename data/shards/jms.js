@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jms",{"jms":{"word":"jms","translation":"abbr. Java消息服務（Java Message Service）；日本測量標準（Japanese Measuring Standard）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

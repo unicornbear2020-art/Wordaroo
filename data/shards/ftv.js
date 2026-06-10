@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ftv",{"ftv":{"word":"ftv","translation":"abbr. Federation of Trade Unions 工會聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

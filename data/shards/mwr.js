@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mwr",{"mwr":{"word":"mwr","translation":"abbr. mean width ratio 平均寬度比","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'emd'əbəlju:'ɑ:r/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

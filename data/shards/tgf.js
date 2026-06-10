@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tgf",{"tgf":{"word":"tgf","translation":"abbr. 轉化生長因子（transforming growth factor）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

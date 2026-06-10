@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wrx",{"wrx":{"word":"wrx","translation":"abbr. Western Refrigerator Express (railroad code) 西部冰箱快遞（鐵路代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

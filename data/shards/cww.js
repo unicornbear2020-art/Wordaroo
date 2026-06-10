@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cww",{"cww":{"word":"cww","translation":"abbr. China wide web 國中網; cruciform wing weapon 十字尾翼武器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

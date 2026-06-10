@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tz_",{"tz":{"word":"tz","translation":"abbr. 坦桑尼亞（Tanzania）；時區（time zone）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

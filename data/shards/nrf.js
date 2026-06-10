@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nrf",{"nrf":{"word":"nrf","translation":"abbr. net resultant fault 淨總差數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

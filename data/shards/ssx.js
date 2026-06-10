@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ssx",{"ssx":{"word":"ssx","translation":"[醫][=sulfisoxazole]磺胺異？唑","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

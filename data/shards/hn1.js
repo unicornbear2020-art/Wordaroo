@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hn1",{"hn1":{"word":"HN1","translation":"[化] 2,2'-二氯三乙胺","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

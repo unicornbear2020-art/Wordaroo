@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("phx",{"phx":{"word":"phx","translation":"[醫][=pulmonary histiocytosis X]肺組織細胞增多病X","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

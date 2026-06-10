@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ewd",{"ewder":{"word":"ewder","translation":"n. [蘇格蘭英語]煙，氣，汽","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'juːdə/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

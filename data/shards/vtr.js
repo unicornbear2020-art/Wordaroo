@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vtr",{"vtr":{"word":"vtr","translation":"n. video-tape recording的簡寫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

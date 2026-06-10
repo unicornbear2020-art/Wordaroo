@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("huw",{"huw":{"word":"Huw","translation":"n. (Huw)人名；(英)休","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

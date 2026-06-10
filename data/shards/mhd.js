@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mhd",{"mhd":{"word":"mhd","translation":"n. magnetohydrodynamics的簡寫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

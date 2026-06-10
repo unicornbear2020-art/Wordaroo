@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ldf",{"ldf":{"word":"ldf","translation":"局域密度泛函","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sfi",{"sfi":{"word":"sfi","translation":"[醫][=sexual functioning index]性功能指數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

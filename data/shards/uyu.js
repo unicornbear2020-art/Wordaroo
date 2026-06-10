@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uyu",{"uyuni":{"word":"uyuni","translation":"[地名] [玻利維亞] 烏尤尼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

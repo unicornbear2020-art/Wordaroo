@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xlp",{"xlphisternum":{"word":"xlphisternum","translation":"[醫] 劍突","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

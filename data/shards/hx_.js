@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hx_",{"hx":{"word":"HX","translation":"abbr. 鹵化氫；香港航空（Hong Kong Airlines）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

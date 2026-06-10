@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dvn",{"dvn":{"word":"dvn","translation":"[醫][=descending vestibular nuclei]前庭神經降核","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'di:v'i:'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

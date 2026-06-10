@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ehp",{"ehp":{"word":"EHP","translation":"abbr. 有效馬力（effective horsepower）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

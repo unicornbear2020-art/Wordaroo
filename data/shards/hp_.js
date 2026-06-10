@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hp_",{"hp":{"word":"HP","translation":"n. 馬力, 分期付款購買法\n[計] 惠普公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a unit of power equal to 746 watts","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

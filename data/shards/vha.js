@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vha",{"vha":{"word":"vha","translation":"[醫][=vaccinia hemagglutinin]牛痘血凝素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

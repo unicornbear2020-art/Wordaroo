@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("idv",{"idvd":{"word":"idvd","translation":"abbr. interactive digital versatile disc 交互式數字多功能光盤","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

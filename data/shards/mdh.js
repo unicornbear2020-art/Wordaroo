@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mdh",{"mdh":{"word":"mdh","translation":"[醫][=malate dehydrogenase(malic acid dehydrogenase)]蘋果酸脱氫酶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'emd'i:'etʃ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

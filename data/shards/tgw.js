@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tgw",{"tgwu":{"word":"TGWU","translation":"abbr. （英）運輸與普通工人工會（Transport and General Workers' Union）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pnv",{"pnv":{"word":"pnv","translation":"abbr. postinfusion nausea and vomiting 輸液後噁心和嘔吐","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

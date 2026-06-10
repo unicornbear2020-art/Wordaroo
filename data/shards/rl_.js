@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rl_",{"rl":{"word":"RL","translation":"[計] 現實社會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

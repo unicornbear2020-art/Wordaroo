@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vx_",{"vx":{"word":"VX","translation":"[化] 甲硫膦酸丙胺乙酯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

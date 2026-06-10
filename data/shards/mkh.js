@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mkh",{"mkh":{"word":"mkh","translation":"[醫][=mean keratinocyte height]平均角質細胞高度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

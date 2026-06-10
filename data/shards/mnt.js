@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mnt",{"mnt":{"word":"mnt","translation":"abbr. 醫學營養治療（medical nutrition therapy）；一硝基甲苯（mononitrotoluene）；蒙古圖格里克","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

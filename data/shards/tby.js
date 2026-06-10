@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tby",{"tbyroid rad line":{"word":"tbyroid rad line","translation":"[醫] 甲狀腺紅線","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

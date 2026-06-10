@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("smn",{"smn":{"word":"smn","translation":"[醫][=second malignant neoplasm]繼發性惡性腫瘤，第二位惡性腫瘤","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'es'em'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

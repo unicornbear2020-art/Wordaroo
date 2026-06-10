@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("t1d",{"t1d50":{"word":"T1D50","translation":"[醫] 半數組織感染量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

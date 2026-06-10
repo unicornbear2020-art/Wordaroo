@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pwc",{"pwc":{"word":"PWC","translation":"abbr. 印刷線路卡（Printed Wiring Card）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

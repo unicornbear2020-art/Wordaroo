@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qaa",{"qaa":{"word":"qaa","translation":"[醫]喹胺酸，螯核羧酚[抗輻射藥]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

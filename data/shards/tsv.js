@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tsv",{"tsv":{"word":"tsv","translation":"abbr. Temperature Safety Valve 温度安全閥","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

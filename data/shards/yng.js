@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yng",{"yngve":{"word":"yngve","translation":"n. (Yngve)人名；(芬、瑞典)英韋","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

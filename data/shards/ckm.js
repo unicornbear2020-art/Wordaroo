@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ckm",{"ckm":{"word":"ckm","translation":"abbr. cents per kilometer 分/千米","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'si:k'eɪ'em/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

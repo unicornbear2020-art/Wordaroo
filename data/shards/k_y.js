@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("k_y",{"k-y jelly":{"word":"K-Y jelly","translation":"[醫] K-Y凝膠(一種滑潤劑,含硼酸、甘油、西黃蓍膠等)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

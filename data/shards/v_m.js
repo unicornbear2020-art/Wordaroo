@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("v_m",{"v-mail":{"word":"v-mail","translation":"n. [計] 語音郵件","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'vi:meil/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

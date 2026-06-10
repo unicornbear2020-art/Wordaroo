@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hgs",{"hgs":{"word":"hgs","translation":"abbr. hangars 飛機庫; 棚廠; hangers 吊架; 吊鈎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

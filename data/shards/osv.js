@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("osv",{"osvaldo":{"word":"Osvaldo","translation":"奧斯瓦爾多（人名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

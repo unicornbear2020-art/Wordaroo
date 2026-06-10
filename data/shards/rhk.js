@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rhk",{"rhk":{"word":"rhk","translation":"abbr. Radio Hong Kong 香港無線電","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

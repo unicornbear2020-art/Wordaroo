@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qee",{"qeeg":{"word":"qeeg","translation":"[醫]Quantitative EEG","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

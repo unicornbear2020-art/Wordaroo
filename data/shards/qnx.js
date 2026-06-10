@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qnx",{"qnx":{"word":"qnx","translation":"abbr. Quick Unix [計算機]嵌入式實時操作系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

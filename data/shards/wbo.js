@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wbo",{"wbo":{"word":"WBO","translation":"abbr. 世界拳擊組織（World Boxing Organization）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

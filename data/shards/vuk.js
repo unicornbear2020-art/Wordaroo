@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vuk",{"vukovar":{"word":"vukovar","translation":"[地名] [克羅地亞] 武科瓦爾","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

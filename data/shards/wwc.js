@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wwc",{"wwc":{"word":"wwc","translation":"abbr. Wall-to-wall carpeting 滿鋪地毯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

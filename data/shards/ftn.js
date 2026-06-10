@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ftn",{"ftn":{"word":"ftn","translation":"abbr. fortification 防禦工事，要塞，築城術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

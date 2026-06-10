@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vsm",{"vsm":{"word":"vsm","translation":"abbr. vibrating sample magnetometer 振動採樣磁力[強]計","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

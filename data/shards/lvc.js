@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lvc",{"lvc":{"word":"lvc","translation":"[醫][=isovolumetric contraction]等容收縮","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hv_",{"hv":{"word":"hv","translation":"[電] 高壓","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

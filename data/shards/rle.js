@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rle",{"rle":{"word":"rle","translation":"abbr. relative luminous efficiency 相對發光功率; right lower extremity 右下肢","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

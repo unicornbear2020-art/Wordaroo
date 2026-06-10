@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bfr",{"bfrs":{"word":"bfrs","translation":"abbr. belgisk(e) franc(s) （丹麥-挪威語）比利時法朗（貨幣單位）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

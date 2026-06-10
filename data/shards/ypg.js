@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ypg",{"ypg":{"word":"ypg","translation":"abbr. Yuma Proving Ground 尤馬試驗場","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

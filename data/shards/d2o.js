@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("d2o",{"d2o":{"word":"D2O","translation":"[醫] 氧化氘, 重水","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

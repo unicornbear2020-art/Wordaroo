@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lcb",{"lcb":{"word":"LCB","translation":"[計] 線路控制塊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

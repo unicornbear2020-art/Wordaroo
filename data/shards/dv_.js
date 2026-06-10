@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dv_",{"dv":{"word":"dv","translation":"abbr. 煤油機船（Diesel Vessel）；稀釋容積（Dilute Volume）；數碼攝像機（Digital Video）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

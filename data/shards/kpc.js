@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kpc",{"kpc":{"word":"kpc","translation":"abbr. keypunch cabinet 打孔廚櫃; kiloparsec(s) 千秒差距(=3262光年)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

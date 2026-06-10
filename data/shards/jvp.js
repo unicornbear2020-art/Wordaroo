@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jvp",{"jvp":{"word":"jvp","translation":"[醫][=jugular venous pressure]頸靜脈壓","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒeɪv'i:p'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

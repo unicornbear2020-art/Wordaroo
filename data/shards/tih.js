@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tih",{"tihany":{"word":"tihany","translation":"[地名] [匈牙利] 蒂豪尼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

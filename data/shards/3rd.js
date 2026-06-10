@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("3rd",{"3rd":{"word":"3rd","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"3rd is an abbreviation of third.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"第三(third)"}});

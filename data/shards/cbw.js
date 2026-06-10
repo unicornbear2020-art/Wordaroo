@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cbw",{"cbw":{"word":"CBW","translation":"abbr. 化學生物戰（Chemical and Biological Warfare）；化學生物武器（Chemical and Biological Weapons）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

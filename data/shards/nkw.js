@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nkw",{"nkwanta":{"word":"nkwanta","translation":"[地名] [加納] 恩寬塔","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

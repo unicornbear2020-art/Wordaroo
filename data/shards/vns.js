@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vns",{"vns":{"word":"vns","translation":"自主神經系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aii",{"aii":{"word":"aii","translation":"abbr. 國際指導者聯盟（Agence de l'innovation industrielle）；圖像平均強度（Average Image Intensity）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

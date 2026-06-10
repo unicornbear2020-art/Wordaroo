@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rtx",{"rtx":{"word":"rtx","translation":"abbr. rapid-transit experimental (bus) 快速運輸試驗（公共汽車）; report time crossing 時間交叉口報告","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

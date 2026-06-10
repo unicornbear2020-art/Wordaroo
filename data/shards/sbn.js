@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sbn",{"sbn":{"word":"sbn","translation":"[經] 黃豆, 大豆","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bth",{"bth":{"word":"bth","translation":"abbr. bathroom 浴室; bath 沐浴; berth 泊位; beat the hell （俚）起勁地","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

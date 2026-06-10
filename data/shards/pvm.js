@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pvm",{"pvm":{"word":"PVM","translation":"[醫] 鼠肺炎病毒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

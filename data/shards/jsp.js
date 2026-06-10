@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jsp",{"jsp":{"word":"jsp","translation":"abbr. Java服務端網頁（一種建立動態網頁的技術, Java Server Page）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

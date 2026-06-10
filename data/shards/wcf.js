@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wcf",{"wcf":{"word":"wcf","translation":"abbr. white cathode follower 白陰極跟隨器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

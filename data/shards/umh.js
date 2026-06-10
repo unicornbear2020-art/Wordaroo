@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("umh",{"umhk":{"word":"umhk","translation":"abbr. Union Miniere du Hast Katanga （法語）<扎伊爾>上加丹加礦產聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ntp",{"ntp":{"word":"NTP","translation":"[計] 一種使網絡上的電腦時間能夠同步的協議","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

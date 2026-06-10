@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ftx",{"ftx":{"word":"ftx","translation":"abbr. Field Training Exercise 野戰訓練演習","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

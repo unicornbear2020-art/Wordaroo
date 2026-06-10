@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sbu",{"sbu":{"word":"sbu","translation":"[計]= Station Buffer Unit,站緩衝器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

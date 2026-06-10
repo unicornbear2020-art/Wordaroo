@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nyy",{"nyy":{"word":"nyy","translation":"abbr. New York Yankees 紐約佬","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

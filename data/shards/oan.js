@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oan",{"oan":{"word":"oan","translation":"光纖接入網","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wiw",{"wiwaxia":{"word":"wiwaxia","translation":"n. 威瓦西蟲（寒武紀時的一種軟體生物）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

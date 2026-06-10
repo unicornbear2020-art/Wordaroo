@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("flw",{"flw":{"word":"flw","translation":"abbr. flow 流量; 流動; follow 隨後; 跟隨","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

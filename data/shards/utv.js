@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("utv",{"utv":{"word":"utv","translation":"abbr. underwater television 水下電視","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

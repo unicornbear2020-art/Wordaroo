@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ctq",{"ctq":{"word":"ctq","translation":"abbr. 關鍵質量特性（Critical to Quality）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

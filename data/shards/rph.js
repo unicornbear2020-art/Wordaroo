@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rph",{"rph":{"word":"RPh","translation":"abbr. 轉小時（evolutions per hour的縮寫）；預熱頻率電阻","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hdz",{"hdz":{"word":"hdz","translation":"abbr. hydralazine 肼苯噠嗪，肼酞嗪（降壓藥）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

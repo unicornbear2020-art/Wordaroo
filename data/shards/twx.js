@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("twx",{"twx":{"word":"TWX","translation":"電傳交換業務","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

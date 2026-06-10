@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vb_",{"vb":{"word":"vb","translation":"abbr. 可視化基礎（Visual Basic）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rpk",{"rpk":{"word":"rpk","translation":"abbr. Regiment President Kruger 管轄主席克留格爾","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

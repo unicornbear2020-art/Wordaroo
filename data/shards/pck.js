@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pck",{"pck":{"word":"PCK","translation":"[計] 處理機控制鍵","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

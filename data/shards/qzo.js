@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qzo",{"qzone":{"word":"qzone","translation":"n. QQ空間","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

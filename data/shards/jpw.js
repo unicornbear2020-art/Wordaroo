@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jpw",{"jpw":{"word":"JPW","translation":"[計] 作業處理字","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

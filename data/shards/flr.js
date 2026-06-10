@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("flr",{"flr":{"word":"FLR","translation":"abbr. 流率（flow rate）；反向極限（Final Limit Reverse）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

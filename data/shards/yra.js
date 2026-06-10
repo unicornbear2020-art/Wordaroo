@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yra",{"yrast":{"word":"yrast","translation":"state[核]暈轉態","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'iræst/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

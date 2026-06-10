@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mtx",{"mtx":{"word":"mtx","translation":"abbr. methotrexate 氨甲蝶呤（抗腫瘤藥）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

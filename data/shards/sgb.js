@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sgb",{"sgb":{"word":"sgb","translation":"abbr. saussuritized gabbro 槽化輝化巖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

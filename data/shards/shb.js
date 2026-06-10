@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("shb",{"shbg":{"word":"shbg","translation":"abbr. sex hormone-binding globulin 性激素結合球蛋白","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

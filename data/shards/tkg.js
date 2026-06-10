@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tkg",{"tkg":{"word":"TKG","translation":"[醫] 分娩力圖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

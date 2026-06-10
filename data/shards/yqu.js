@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yqu",{"yquem":{"word":"Yquem","translation":"n. 依奎姆(依坤)葡萄酒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/i:'kem/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n a sweet white French wine","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

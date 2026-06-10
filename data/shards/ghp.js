@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ghp",{"ghp":{"word":"ghp","translation":"abbr. graphite 石墨","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

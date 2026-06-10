@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yl_",{"yl":{"word":"yl","translation":"abbr. 年輕女士（young lady）；屈服極限（yield limit）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

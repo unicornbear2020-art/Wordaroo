@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bwc",{"bwc":{"word":"bwc","translation":"abbr. basic weight calculator 基本重量計算器; broadband waveguide oscillator 寬帶波導振盪器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

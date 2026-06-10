@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("st5",{"st506 interface":{"word":"ST506 Interface","translation":"[計] ST506接口","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

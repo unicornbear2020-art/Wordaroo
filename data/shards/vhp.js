@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vhp",{"vhp":{"word":"vhp","translation":"abbr. very high performance 非常高的性能","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

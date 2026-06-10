@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aqd",{"aqdas":{"word":"aqdas","translation":"n. 亞格達斯經（巴哈伊信仰的最高經典）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

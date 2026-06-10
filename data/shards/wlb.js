@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wlb",{"wlb":{"word":"wlb","translation":"abbr. wallboard 牆板","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

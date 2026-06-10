@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("evz",{"evzone":{"word":"evzone","translation":"n. 希臘精鋭部隊的步兵(士兵)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'evzәun/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

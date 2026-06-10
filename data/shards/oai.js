@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oai",{"oai":{"word":"oai","translation":"[計]= On-line Analog Input,聯機模擬輸入","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

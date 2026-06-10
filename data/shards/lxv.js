@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lxv",{"lxv":{"word":"lxv","translation":"num. 羅馬數字 65","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"s being five more than sixty","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

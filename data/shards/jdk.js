@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jdk",{"jdk":{"word":"jdk","translation":"abbr. Java開發工具包（Java Developer's Kit）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

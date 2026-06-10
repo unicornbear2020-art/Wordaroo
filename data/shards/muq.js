@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("muq",{"muqtada":{"word":"muqtada","translation":"n. (Muqtada)人名；(阿拉伯)穆克塔達","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

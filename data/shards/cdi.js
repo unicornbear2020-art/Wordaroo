@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cdi",{"cdi":{"word":"cdi","translation":"abbr. 航向偏差指示器（Course Deviation Indicator）；綜合報告索引（Comprehensive Dissertation Index）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

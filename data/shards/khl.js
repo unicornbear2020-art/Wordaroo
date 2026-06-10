@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("khl",{"khlopinite":{"word":"khlopinite","translation":"鈦鈮鐵釔礦","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'klɔpi,nait/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

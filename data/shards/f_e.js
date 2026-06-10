@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("f_e",{"f-ed":{"word":"F-ed","translation":"(F- 的過去分詞) [電] F負","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"past participle of F-","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

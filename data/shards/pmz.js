@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pmz",{"pmz":{"word":"pmz","translation":"[醫][=promethazine]普魯米近，異丙嗪","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

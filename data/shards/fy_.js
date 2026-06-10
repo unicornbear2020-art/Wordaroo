@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fy_",{"fy":{"word":"Fy","translation":"[經] 會計年度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"interj. A word which expresses blame, dislike, disapprobation,\n   abhorrence, or contempt. See Fie.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

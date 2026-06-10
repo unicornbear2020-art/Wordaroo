@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oyo",{"oyo":{"word":"oyo","translation":"abbr. own your own (apartment, house, yacht) 擁有自己的（公寓，住宅，遊艇等）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

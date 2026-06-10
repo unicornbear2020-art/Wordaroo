@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fw_",{"fw":{"word":"fw","translation":"abbr. 給水（Feed Water）；磁場減弱；淡水；隔火牆","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

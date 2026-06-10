@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("msq",{"msq":{"word":"msq","translation":"[醫][=mental status questionaire]精神狀態問卷","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

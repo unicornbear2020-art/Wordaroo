@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pdq",{"pdq":{"word":"PDQ","translation":"馬上, 很快, 立刻\n[計] 預測差分量化器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cmx",{"cmx":{"word":"cmx","translation":"[醫][=cefmenoxime]頭孢甲肟，頭孢氨噻肟唑","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

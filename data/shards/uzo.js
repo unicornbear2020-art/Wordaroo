@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uzo",{"uzon":{"word":"uzon","translation":"[地名] [俄羅斯] 烏宗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

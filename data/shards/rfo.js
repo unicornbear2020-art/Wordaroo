@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rfo",{"rfo":{"word":"rfo","translation":"abbr. radio frequency oscillator 無線電頻率振盪器; request for factory order 要求工廠定購","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/r'fəʊ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

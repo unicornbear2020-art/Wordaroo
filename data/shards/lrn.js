@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lrn",{"lrn":{"word":"lrn","translation":"abbr. learn 得知，獲悉，瞭解","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

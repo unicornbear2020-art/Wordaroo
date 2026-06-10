@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uai",{"uai":{"word":"uai","translation":"abbr. universal azimuth indicator 通用方位指示器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

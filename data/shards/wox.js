@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wox",{"wox":{"word":"wox","translation":"[醫][=wound of exit]出口（創）傷","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"imp. of Wax.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

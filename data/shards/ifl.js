@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ifl",{"ifl":{"word":"ifl","translation":"abbr. 國際格鬥聯盟（International Fight League）；感應場測定器（Induction Field Locator）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

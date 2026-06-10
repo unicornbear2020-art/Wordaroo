@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fbk",{"fbk":{"word":"fbk","translation":"abbr. fast buck 投機所賺的錢，輕易得來的錢; flat back (lumber) 平板龍骨","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'efb'i:k'eɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

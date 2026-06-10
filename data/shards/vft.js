@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vft",{"vft":{"word":"vft","translation":"abbr. Voice-Frequency Telegraph 音頻電報","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

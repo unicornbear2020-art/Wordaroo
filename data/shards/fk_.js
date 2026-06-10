@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fk_",{"fk":{"word":"fk","translation":"abbr. 外鍵（foreign key）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

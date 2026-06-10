@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vus",{"vus":{"word":"vus","translation":"[醫][=venous ultrasound catheter]靜脈超聲導管","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

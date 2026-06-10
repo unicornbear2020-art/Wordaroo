@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tqm",{"tqm":{"word":"tqm","translation":"abbr. 全面質量管理total quality management","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

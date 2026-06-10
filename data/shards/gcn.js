@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gcn",{"gcn":{"word":"gcn","translation":"[醫][=giant cerebral neuron]巨大腦神經元","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

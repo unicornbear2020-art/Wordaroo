@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("okw",{"okw":{"word":"okw","translation":"abbr. Oberkommando der Wehrmacht (German=Armed Forces High Command) （德語）武裝部隊高級司令部","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ctw",{"ctw":{"word":"ctw","translation":"[醫][=combined testicular weight]合併睾丸量，雙睾丸重量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dbj",{"dbj":{"word":"dbj","translation":"[電] 用以表示相對於射頻訊號基準的單位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

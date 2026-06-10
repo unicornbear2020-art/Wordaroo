@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xp_",{"xp":{"word":"XP","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"\"XP\" is short for experience.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"abbr. 加快費已付（Express Paid）；運用優先權（Exercise Priority）"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kmh",{"kmh":{"word":"kmh","translation":"abbr. Kleinhans Music Hall (Buffalo) 克雷漢斯音樂大廳（布法羅）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

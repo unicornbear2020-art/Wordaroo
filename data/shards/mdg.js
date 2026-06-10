@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mdg",{"mdg":{"word":"mdg","translation":"abbr. mobile dispersed genes 移動分散基因; muscular dysgenesis 肌發育不全","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

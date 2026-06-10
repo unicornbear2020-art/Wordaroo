@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zeg",{"zeg":{"word":"zeg","translation":"abbr. 原點經濟增長（Zero Economic Growth）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

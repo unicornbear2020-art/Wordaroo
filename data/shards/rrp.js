@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rrp",{"rrp":{"word":"RRP","translation":"abbr. 建議零售價格（recommended retail price）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,a:(r) a: 'pi:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

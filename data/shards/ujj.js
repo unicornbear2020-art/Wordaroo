@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ujj",{"ujjain":{"word":"Ujjain","translation":"烏賈因[印度中西部城市]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/u:'dʒein/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

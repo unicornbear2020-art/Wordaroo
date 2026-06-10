@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bdn",{"bdnf":{"word":"bdnf","translation":"abbr. 腦源性神經營養因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vnc",{"vnc":{"word":"vnc","translation":"abbr. 虛擬網絡計算機（Virtual Network Computer）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

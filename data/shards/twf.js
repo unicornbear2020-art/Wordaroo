@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("twf",{"twf":{"word":"twf","translation":"abbr. tritiated water flux 氚化水流; Twin Falls airport 雙子秋天航空港","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

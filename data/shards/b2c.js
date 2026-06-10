@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("b2c",{"b2c":{"word":"b2c","translation":"abbr. 企業對消費者的電子商務模式（Business to Customer）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

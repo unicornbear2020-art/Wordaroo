@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ezz",{"ezzell":{"word":"ezzell","translation":"[人名] 埃澤爾; [地名] [美國] 埃澤爾","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

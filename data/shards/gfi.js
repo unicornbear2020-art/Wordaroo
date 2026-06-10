@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gfi",{"gfi":{"word":"gfi","translation":"[醫][=glucagon-free insulin]無胰高血糖素的胰島素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

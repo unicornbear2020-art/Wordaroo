@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cka",{"cka":{"word":"cka","translation":"abbr. conventional Kalman algorithm 常規卡爾曼算法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

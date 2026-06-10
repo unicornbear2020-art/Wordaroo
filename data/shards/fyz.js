@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fyz",{"fyzabad":{"word":"Fyzabad","translation":"法扎巴德(印度-城市亦作Faizabad)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,faizɑ:'bɑ:d/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

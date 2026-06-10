@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jlg",{"jlg":{"word":"jlg","translation":"abbr. Joint Liaison Group (Hong Kong) 聯絡組（香港）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

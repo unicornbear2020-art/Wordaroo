@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yrn",{"yrneh":{"word":"yrneh","translation":"[電]利亨(電感倒數的單位)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ә:ni/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

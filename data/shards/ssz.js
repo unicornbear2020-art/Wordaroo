@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ssz",{"ssz":{"word":"ssz","translation":"abbr. pocket submarine 袖珍潛艇（代號）; specified strike zone 特別罷工區","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

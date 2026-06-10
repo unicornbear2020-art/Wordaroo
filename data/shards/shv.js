@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("shv",{"shvartze":{"word":"shvartze","translation":"<意第緒>n.<貶>黑人,黑人姑娘","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ʃvɑ:tsә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("llb",{"llb":{"word":"LLB","translation":"法學士","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a three-year law degree","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("20t",{"20th":{"word":"20th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"20th is an abbreviation of twentieth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

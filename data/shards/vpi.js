@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vpi",{"vpi":{"word":"vpi","translation":"[醫][=velopharyngeal insufficiency]咽（齶）帆功能不全","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

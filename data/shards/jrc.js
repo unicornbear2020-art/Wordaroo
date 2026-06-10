@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jrc",{"jrc":{"word":"jrc","translation":"abbr. Junior Red Cross 少年紅十字會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

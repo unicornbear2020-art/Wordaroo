@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vmn",{"vmn":{"word":"vmn","translation":"[醫][=valinomycin]纈氨黴素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'vi:'em'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

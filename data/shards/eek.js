@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eek",{"eek":{"word":"eek","translation":"int. 呀；唷（表突然的驚恐）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/i:k/"]},"meanings":[{"pos":"word","senses":[{"gloss":"v. t. Alt. of Eeke","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

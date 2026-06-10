@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("w_t",{"w-type engine":{"word":"w-type engine","translation":"[機] W形發動機, 扇形發動機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

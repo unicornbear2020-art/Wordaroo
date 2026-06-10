@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zg_",{"zg":{"word":"zg","translation":"abbr. 動物園（zoological garden）；零重量（zero gravity）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

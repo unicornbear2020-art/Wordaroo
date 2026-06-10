@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lbc",{"lbc":{"word":"LBC","translation":"abbr. 倫敦廣播公司（London Broadcasting Company）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

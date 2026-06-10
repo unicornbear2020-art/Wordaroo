@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zdp",{"zdpr":{"word":"zdpr","translation":"abbr. zero defects program responsibility 零差錯計劃責任","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'zi:d'i:p'i:'ɑ:r/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

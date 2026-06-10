@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rgc",{"rgc":{"word":"rgc","translation":"[醫][=radio gas chromatography]放射氣相色譜（法）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:rdʒ'i:s'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

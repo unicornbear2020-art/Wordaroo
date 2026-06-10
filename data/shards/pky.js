@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pky",{"pky":{"word":"pky","translation":"abbr. pecky （木材）有蛀孔的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

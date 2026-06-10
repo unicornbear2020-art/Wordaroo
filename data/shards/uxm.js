@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uxm",{"uxmal":{"word":"uxmal","translation":"[地名] [墨西哥] 烏斯馬爾","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

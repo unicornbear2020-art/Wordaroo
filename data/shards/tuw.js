@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tuw",{"tuwr":{"word":"tuwr","translation":"abbr. turning wrench 旋轉扳手","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'tʌwr/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

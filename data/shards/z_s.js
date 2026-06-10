@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("z_s",{"z-select input":{"word":"Z-select input","translation":"[計] Z選擇輸入","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

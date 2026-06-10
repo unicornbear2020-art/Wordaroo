@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bgn",{"bgn":{"word":"bgn","translation":"abbr. 地名委員會（board on geographic names）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

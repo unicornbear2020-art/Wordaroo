@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pks",{"pks":{"word":"pks","translation":"abbr. packs 包裹; pecks 啄壞; 鑿; 急吻","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tfm",{"tfm":{"word":"TFM","translation":"[化] 三氟甲硝酚","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lgg",{"lgg":{"word":"lgg","translation":"abbr. Liege; Belgium 比利時; 列日機場（代碼）; light gun pulse generator 光電槍脈衝發生器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

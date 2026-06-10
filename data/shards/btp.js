@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("btp",{"btp":{"word":"btp","translation":"abbr. body temperature and pressure 體温與壓力","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

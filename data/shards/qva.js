@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qva",{"qvalue":{"word":"Qvalue","translation":"核反應能量值","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

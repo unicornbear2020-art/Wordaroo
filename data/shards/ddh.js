@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ddh",{"ddh":{"word":"ddh","translation":"abbr. diamond-drill-hole 金剛石鑽鑽孔; dichlorodimethylhydantoin 二氯二甲海因，二氯二甲基乙內酰胺","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

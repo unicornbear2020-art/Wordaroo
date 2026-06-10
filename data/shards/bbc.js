@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bbc",{"bbc":{"word":"BBC","translation":"英國廣播公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

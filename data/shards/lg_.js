@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lg_",{"lg":{"word":"lg","translation":"abbr. 水平規, 水準儀（Level Gauge ）；直線發生器, 矢量發生器（Line Generator）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

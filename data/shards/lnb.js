@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lnb",{"lnb":{"word":"lnb","translation":"[醫][=large-needle aspiration biopsy]大針抽吸活組織檢查","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

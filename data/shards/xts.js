@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xts",{"xts":{"word":"xts","translation":"[計]= CrossTell Simulator,對話模擬器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

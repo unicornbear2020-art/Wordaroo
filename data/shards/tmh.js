@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tmh",{"tmh":{"word":"tmh","translation":"thermomechanical hydraulic 熱機水壓的；tons per manhour 噸/人-小時","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

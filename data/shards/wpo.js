@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wpo",{"wpo":{"word":"wpo","translation":"abbr. without purchase order 沒有認購訂單; world public opinion 世界公眾意見","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

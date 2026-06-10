@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bbi",{"bbi":{"word":"bbi","translation":"abbr. 燒傷殺菌指數（burn bactericidal index）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

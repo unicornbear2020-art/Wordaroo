@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rni",{"rni":{"word":"rni","translation":"abbr. recommended nutrient intake 推薦營養素攝取","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/r'ni:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

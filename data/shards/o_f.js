@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("o_f",{"o'flaherty":{"word":"O'Flaherty","translation":"n. 奧弗萊厄蒂","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

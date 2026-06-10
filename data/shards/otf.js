@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("otf",{"otf":{"word":"otf","translation":"光學傳遞函數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

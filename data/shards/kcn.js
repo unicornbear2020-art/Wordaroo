@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kcn",{"kcna":{"word":"kcna","translation":"abbr. Korean Central News Agency 朝鮮中央新聞社","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

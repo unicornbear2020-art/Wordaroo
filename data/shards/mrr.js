@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mrr",{"mrr":{"word":"mrr","translation":"abbr. medical research reactor 醫學研究用反應堆","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'em'ɑ:r'ɑ:r/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

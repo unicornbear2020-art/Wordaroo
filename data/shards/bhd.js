@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bhd",{"bhd":{"word":"bhd","translation":"abbr. 黑鷹墜落（遊戲名）；巴林第納爾；艙壁（等於bulkhead）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tzu",{"tzu":{"word":"tzu","translation":"n. (Tzu)人名；(東南亞國家華語)滋","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

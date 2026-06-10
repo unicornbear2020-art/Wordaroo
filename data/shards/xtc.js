@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xtc",{"xtc":{"word":"xtc","translation":"[醫][=xylene trichloride]三氯代二甲苯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

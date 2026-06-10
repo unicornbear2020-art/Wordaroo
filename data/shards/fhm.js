@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fhm",{"fhm":{"word":"fhm","translation":"n. 男人幫雜誌","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

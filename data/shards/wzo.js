@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wzo",{"wzo":{"word":"wzo","translation":"abbr. World Zionist Organization 世界猶太復國主義者組織","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

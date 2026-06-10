@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ngm",{"ngmc":{"word":"ngmc","translation":"abbr. nonlinear grating acts as a power controlled mode converter 用作功率控制模變換器的非線性光柵","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

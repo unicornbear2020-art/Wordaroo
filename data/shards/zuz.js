@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zuz",{"zuzu":{"word":"zuzu","translation":"n. (Zuzu)人名；(羅)祖祖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

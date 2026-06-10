@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fsp",{"fsp":{"word":"FSP","translation":"文件服務處理","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ydd",{"ydder":{"word":"ydder","translation":"abbr. [複數] yd, yds yard, yards","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fgb",{"fgb":{"word":"fgb","translation":"[醫][=fully granulated basophil]全粒狀嗜鹼細胞","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

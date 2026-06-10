@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mkm",{"mkm":{"word":"MKM","translation":"abbr. 三菱化學記錄媒體株式會社（Mitsubishi Kagaku Media）；德國都依斯堡博物館；保温便當盒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("quf",{"quf":{"word":"quf","translation":"[醫][=Queensland fever]昆士蘭州熱","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

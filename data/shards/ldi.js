@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ldi",{"ldi":{"word":"ldi","translation":"[醫][=low density lipoprotein distribution index]低密度脂蛋白分佈指數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

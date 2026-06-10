@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("osx",{"osx":{"word":"osx","translation":"abbr. Kosciusko; Mississippi 美國; 密西西比州; 科修斯科機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

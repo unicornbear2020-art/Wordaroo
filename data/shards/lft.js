@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lft",{"lft":{"word":"LFT","translation":"[計] 左","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

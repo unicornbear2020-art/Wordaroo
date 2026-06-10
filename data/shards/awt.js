@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("awt",{"awt":{"word":"awt","translation":"abbr. 實際工作時間（Actual Work Time）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xl_",{"xl":{"word":"xl","translation":"abbr. 特大號（extra large）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n the cardinal number that is the product of ten and four\ns being ten more than thirty","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

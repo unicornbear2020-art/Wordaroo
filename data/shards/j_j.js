@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("j_j",{"j-j coupling":{"word":"j-j coupling","translation":"[化] j-j偶合","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

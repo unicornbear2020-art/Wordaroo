@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("l_m",{"l-methyl-2-mercaptoimidazole":{"word":"l-methyl-2-mercaptoimidazole","translation":"[醫] 1-甲[基]-2-巰基咪唑","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

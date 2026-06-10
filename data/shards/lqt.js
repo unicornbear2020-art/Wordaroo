@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lqt",{"lqts":{"word":"lqts","translation":"[醫][=long QT syndrome]QT間期延長綜合徵，長QT綜合徵","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

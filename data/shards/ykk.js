@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ykk",{"ykk":{"word":"ykk","translation":"abbr. Tajiri Kikai Kogyo Co; Ltd. <日本>田尻機械工業公司（代號）; Yamada Chemical Co.; Ltd. <日本>山田化學公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

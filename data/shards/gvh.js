@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gvh",{"gvhd":{"word":"GVHD","translation":"abbr. 移植物抗宿主病（graft-versus-host disease）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

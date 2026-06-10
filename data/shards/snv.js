@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("snv",{"snv":{"word":"snv","translation":"[醫][=spleen necrosis virus]脾臟壞死病毒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'es'env'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

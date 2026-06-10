@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uae",{"uae":{"word":"UAE","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"UAE is a short way of saying \"United Arab Emirates\".","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"阿拉伯聯合酋長國"}});

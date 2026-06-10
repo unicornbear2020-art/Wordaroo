@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rfq",{"rfq":{"word":"rfq","translation":"abbr. request for quotation 請求報價","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dww",{"dww":{"word":"dww","translation":"abbr. downward 向下的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'di:d'əbəlju:d'əbəlju:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

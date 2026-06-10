@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lsn",{"lsn":{"word":"lsn","translation":"abbr. 行穩定網絡（Line Stabilization Network）；長源距中子測井","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

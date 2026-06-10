@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("grt",{"grt":{"word":"grt","translation":"abbr. guarantee 保證; gross register tonnage 總註冊噸位; great 數量大的; grout 拔泥漿","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

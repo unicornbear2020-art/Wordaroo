@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ekc",{"ekco":{"word":"ekco","translation":"abbr. EK Cole (Limited) <英國>埃裏克·科克漢姆·柯爾有限公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

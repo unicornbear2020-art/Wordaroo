@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("13t",{"13th":{"word":"13th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"13th is an abbreviation of thirteenth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

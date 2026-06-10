@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tuj",{"tuj":{"word":"tuj","translation":"[醫][=tubouterine junction]輸卵管子宮（接）界","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

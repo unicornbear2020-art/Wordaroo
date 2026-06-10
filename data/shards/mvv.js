@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mvv",{"mvv":{"word":"mvv","translation":"abbr. maximum vacation value 最大假期價值; maximum voluntary ventilation 最大隨意通風","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

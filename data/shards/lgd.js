@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lgd",{"lgd":{"word":"lgd","translation":"abbr. leaderless group discussion 自由集體討論","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'eldʒ'i:d'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

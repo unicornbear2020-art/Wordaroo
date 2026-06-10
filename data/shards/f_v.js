@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("f_v",{"f-value":{"word":"f-value","translation":"焦距值","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'efv'ælju:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

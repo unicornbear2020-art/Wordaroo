@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yy_",{"yy":{"word":"yy","translation":"n. 尤尼克斯（羽毛球品牌）；多玩歪歪（軟件名）；影牙城堡（遊戲名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

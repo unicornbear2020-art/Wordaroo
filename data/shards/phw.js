@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("phw",{"phwoah":{"word":"phwoah","translation":"（對某事物或某人的性感魅力等表示讚歎）哇噻","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("esz",{"esztergom":{"word":"esztergom","translation":"[地名] [匈牙利] 埃斯泰爾戈姆","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

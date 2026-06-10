@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("btv",{"btv":{"word":"btv","translation":"abbr. 北京電視台；藍舌病毒（Bluetongue Virus）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

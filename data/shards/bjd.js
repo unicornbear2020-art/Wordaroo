@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bjd",{"bjd":{"word":"bjd","translation":"abbr. 球形關節人偶（ball joint doll）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cbi",{"cbi":{"word":"CBI","translation":"n. 英國工業聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

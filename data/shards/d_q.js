@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("d_q",{"d-quercitol":{"word":"d-quercitol","translation":"[化] 櫟醇; 槲皮醇; 環己五醇","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nvp",{"nvp":{"word":"nvp","translation":"[醫][=4-(1-naphthylvinyl)pyridine]4-(1-萘乙烯基)吡啶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'env'i:p'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

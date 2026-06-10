@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nvs",{"nvs":{"word":"nvs","translation":"[醫][=neurological vital signs]神經病學的生命體徵","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'env'i:'es/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

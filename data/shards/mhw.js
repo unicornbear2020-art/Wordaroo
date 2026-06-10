@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mhw",{"mhw":{"word":"MHW","translation":"abbr. 平均高水位；平均高潮（mean high water）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

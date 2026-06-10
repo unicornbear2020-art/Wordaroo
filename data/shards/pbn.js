@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pbn",{"pbn":{"word":"pbn","translation":"[醫][=paralytic brachial neuritis]麻痹性臂叢神經炎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

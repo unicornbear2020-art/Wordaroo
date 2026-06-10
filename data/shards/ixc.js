@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ixc",{"ixc":{"word":"ixc","translation":"abbr. interexchange 互相交流","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"s being nine more than eighty","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

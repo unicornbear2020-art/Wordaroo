@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wll",{"wll":{"word":"wll","translation":"abbr. wireless local loop 無線本地環路","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

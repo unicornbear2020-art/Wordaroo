@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qts",{"qts":{"word":"qts","translation":"abbr. quarts 夸脱（英美容量單位，等於1/4加侖）; quick turn stock 換手率高的股票","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

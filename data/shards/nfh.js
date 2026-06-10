@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nfh",{"nfhs":{"word":"nfhs","translation":"abbr. National Federation of Housing Societies 全國住宅業聯盟","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jsf",{"jsf":{"word":"jsf","translation":"abbr. 聯合攻擊戰鬥機（joint strike fighter）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mfw",{"mfw":{"word":"mfw","translation":"[醫][=multiple fragment wounds]多彈片傷","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

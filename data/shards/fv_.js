@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fv_",{"fv":{"word":"fv","translation":"abbr. [軍]戰鬥車輛（Fighting Vehicle）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

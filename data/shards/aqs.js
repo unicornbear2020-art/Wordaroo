@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aqs",{"aqs":{"word":"aqs","translation":"abbr. 空氣質量控制系統（Air Quality System）；網文快存（Article Quick Save）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

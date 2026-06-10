@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nmi",{"nmi":{"word":"nmi","translation":"n. 不可屏敝中斷","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("krf",{"krf":{"word":"krf","translation":"abbr. Kentucky Research Foundation 肯塔基州研究基金","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

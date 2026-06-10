@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("z_8",{"z-80 microprocessor":{"word":"Z-80 microprocessor","translation":"[計] Z-80微處理機, Z-80微處理器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

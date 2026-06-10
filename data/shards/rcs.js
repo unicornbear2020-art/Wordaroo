@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rcs",{"rcs":{"word":"rcs","translation":"abbr. 雷達橫截面（Radar Cross-Section）；皇家外科醫生協會（Royal College of Surgeons）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

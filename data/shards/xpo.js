@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xpo",{"xpo":{"word":"xpo","translation":"abbr. Cristo (Spanish=Christ) （西班牙語）救世主","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

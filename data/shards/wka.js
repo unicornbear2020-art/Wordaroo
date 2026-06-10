@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wka",{"wka":{"word":"wka","translation":"abbr. Wanaka, New Zealand 新西蘭，瓦納卡機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

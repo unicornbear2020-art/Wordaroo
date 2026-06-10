@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("p2_",{"p2":{"word":"P2","translation":"[醫] 肺動脈第二音","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

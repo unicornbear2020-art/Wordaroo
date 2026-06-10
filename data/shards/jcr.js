@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jcr",{"jcr":{"word":"JCR","translation":"abbr.Junior Common (或Combination)Room <英>(大學)學生公用室","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/dʒei si: 'ɑ:(r)/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

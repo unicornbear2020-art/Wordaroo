@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uhr",{"uhr":{"word":"uhr","translation":"abbr. ultra-high resistance 超高電阻抗; ultrahigh resolution 超高清晰度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

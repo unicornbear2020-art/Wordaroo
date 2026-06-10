@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tlx",{"tlx":{"word":"tlx","translation":"abbr. telex 電傳，用户電報","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

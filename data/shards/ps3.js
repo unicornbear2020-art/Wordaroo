@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ps3",{"ps3":{"word":"ps3","translation":"abbr. 索尼公司的PlayStation3遊戲主機（PlayStation3）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

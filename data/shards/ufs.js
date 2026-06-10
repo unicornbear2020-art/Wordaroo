@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ufs",{"ufs":{"word":"ufs","translation":"(uf 的第三人稱 -s形式) abbr. 脲甲醛樹脂；超聲頻率（Ultrasonic Frequency）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"-s form of uf","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uil",{"uil":{"word":"uil","translation":"abbr. until 直到…為止","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

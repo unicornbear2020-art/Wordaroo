@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xmt",{"xmtr":{"word":"xmtr","translation":"n.  xmitter發射機的縮寫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

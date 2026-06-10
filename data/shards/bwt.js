@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bwt",{"bwt":{"word":"bwt","translation":"abbr. bothway trunk 雙向中繼線","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

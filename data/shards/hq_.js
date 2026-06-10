@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hq_",{"hq":{"word":"hq","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"Short for headquarters.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"司令部, 指揮部, 總部, 總店"}});

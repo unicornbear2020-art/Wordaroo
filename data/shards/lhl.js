@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lhl",{"lhl":{"word":"lhl","translation":"[醫][=left hepatic lobe]肝左葉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'el'etʃ'el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

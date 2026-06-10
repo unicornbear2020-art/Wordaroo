@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qbe",{"qbe":{"word":"QBE","translation":"舉例詢問語言","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

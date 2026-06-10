@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rjr",{"rjr":{"word":"rjr","translation":"abbr. Radio Jamaica Ltd. 牙買加廣播公司; RJ Reynolds RJ 雷諾茲","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

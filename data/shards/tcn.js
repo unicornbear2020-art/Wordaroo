@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tcn",{"tcnb":{"word":"Tcnb","translation":"[建] 四氧硝基苯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

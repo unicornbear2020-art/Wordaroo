@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("voh",{"vohra":{"word":"vohra","translation":"n. (Vohra)人名；(印)沃赫拉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

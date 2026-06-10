@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fmf",{"fmf":{"word":"fmf","translation":"abbr. fetal movement felt 感覺胎動; field maintenance factor 現場維護係數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

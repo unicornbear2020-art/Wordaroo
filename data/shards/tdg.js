@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tdg",{"tdg":{"word":"tdg","translation":"abbr. test data generator 測試數據生成程序; trading 貿易; 交易; twist drill gauge 麻花鑽規格","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

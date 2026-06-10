@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nkp",{"nkpa":{"word":"nkpa","translation":"abbr. National Kraut Packers Association 全國泡菜打包機協會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

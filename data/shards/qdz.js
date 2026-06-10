@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qdz",{"qdz":{"word":"QDZ","translation":"[化] 氣動單元組合儀表","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

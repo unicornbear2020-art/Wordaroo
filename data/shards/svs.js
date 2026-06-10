@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("svs",{"svs":{"word":"svs","translation":"abbr. games entered in save situation 遊戲進入救球階段（網球）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

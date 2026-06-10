@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("agt",{"agt":{"word":"agt","translation":"[醫][=abnormal glucose tolerance]異常葡萄糖耐量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'æɡt/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

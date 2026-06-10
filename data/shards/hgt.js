@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hgt",{"hgt":{"word":"hgt","translation":"abbr. height 高; 高度; hogget 一歲以上的羊; 二歲的公豬","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

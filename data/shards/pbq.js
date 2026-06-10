@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pbq",{"pbq":{"word":"pbq","translation":"abbr. parabenzoquinone 對苯醌","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

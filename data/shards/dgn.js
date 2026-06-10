@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dgn",{"dgnamo-electric":{"word":"dgnamo-electric","translation":"[醫] 電動力的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

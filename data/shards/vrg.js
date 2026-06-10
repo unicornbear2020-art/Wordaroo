@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vrg",{"vrg":{"word":"vrg","translation":"abbr. veering 變向，順風轉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

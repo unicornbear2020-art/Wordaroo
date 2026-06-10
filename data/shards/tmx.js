@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tmx",{"tmx":{"word":"tmx","translation":"[醫][=caffeine]咖啡因，咖啡鹼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

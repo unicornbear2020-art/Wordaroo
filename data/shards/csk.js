@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("csk",{"csk":{"word":"csk","translation":"abbr. cask （裝啤酒用的）木桶; countersink 鑽孔裝埋; 打埋頭孔; 埋頭孔","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

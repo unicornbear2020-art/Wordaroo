@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cty",{"cty":{"word":"cty","translation":"abbr. capacity 容量; 負載量; 電容（量）; 能力","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/k'taɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

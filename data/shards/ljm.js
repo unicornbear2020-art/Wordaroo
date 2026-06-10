@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ljm",{"ljm":{"word":"ljm","translation":"液體噴射加工","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'eldʒ'eɪ'em/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

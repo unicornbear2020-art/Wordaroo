@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qud",{"qudsi":{"word":"Qudsi","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"name","senses":[{"gloss":"Qudsi is the old name for a Palestinian from 1516 until 1917.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

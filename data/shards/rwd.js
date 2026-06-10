@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rwd",{"rwd":{"word":"rwd","translation":"abbr. rear wheel drive 後輪驅動; rearward 在後方（的）; reply when done 辦理後請回復; rewinding 倒卷（影片，磁帶）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

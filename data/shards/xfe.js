@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xfe",{"xfer":{"word":"XFER","translation":"[計] 傳輸, 傳遞, 轉移","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

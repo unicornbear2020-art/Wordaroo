@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bju",{"bju":{"word":"bju","translation":"abbr. Bob Jones University 鮑勃·瓊斯大學; British Journal of Urology <英國泌尿學雜誌>","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

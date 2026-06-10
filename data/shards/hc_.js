@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hc_",{"hc":{"word":"HC","translation":"[計] 處理能力, 大容量, 主機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

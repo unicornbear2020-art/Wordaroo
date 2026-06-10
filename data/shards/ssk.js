@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ssk",{"ssk":{"word":"ssk","translation":"abbr. set storage key 設置存儲鍵; soil stack 土堆; solid-state keyboard 使用電晶體的鍵盤","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

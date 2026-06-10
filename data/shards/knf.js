@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("knf",{"knf":{"word":"knf","translation":"abbr. Key Notarization Facility 重要公證設備","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dtp",{"dtp":{"word":"dtp","translation":"abbr. 桌上出版業（desktop publishing）；詳細的試驗計劃（Detailed Test Plan）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

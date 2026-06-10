@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uid",{"uid":{"word":"uid","translation":"abbr. 用户名（User Identifier）；用户界面設計（User Interface Design）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

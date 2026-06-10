@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("z_l",{"z line":{"word":"Z line","translation":"n. [生物] 間線","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

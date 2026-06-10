@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nyo",{"nyon":{"word":"Nyon","translation":"n. (瑞士市鎮尼翁製造的)尼翁陶器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ni:ɔn/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

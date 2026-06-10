@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mhc",{"mhc":{"word":"mhc","translation":"abbr. 主要組織相容性複合體（major histocompatibility complex）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wr_",{"wr":{"word":"WR","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"WR is an initialism of world record.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"[計] 寫入"}});

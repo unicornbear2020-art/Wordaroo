@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ndg",{"ndg":{"word":"ndg","translation":"abbr. nedenfor (Dano-Norwegian=beneath) （丹麥-挪威語）在…之下","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

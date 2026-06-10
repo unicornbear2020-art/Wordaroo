@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dvx",{"dvx":{"word":"DVX","translation":"數字化聲音交換設備","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

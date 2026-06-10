@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cvf",{"cvf":{"word":"cvf","translation":"[醫][=cardiovascular failure]心血管衰竭","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

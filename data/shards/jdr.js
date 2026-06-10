@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jdr",{"jdr":{"word":"jdr","translation":"[財]日本預託證券","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cg_",{"cg":{"word":"CG","translation":"重心\n[醫] 光氣","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

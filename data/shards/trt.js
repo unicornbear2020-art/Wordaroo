@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("trt",{"trt":{"word":"trt","translation":"abbr. heat treated 熱處理的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:'ɑ:rt'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

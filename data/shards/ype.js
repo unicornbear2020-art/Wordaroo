@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ype",{"yperite":{"word":"yperite","translation":"n. [化]芥子氣(毒氣的一種)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'i: pәrait/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

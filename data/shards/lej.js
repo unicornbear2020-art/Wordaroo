@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lej",{"lejeune":{"word":"lejeune","translation":"[人名] 勒瓊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

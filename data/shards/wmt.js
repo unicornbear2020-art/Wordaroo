@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wmt",{"wmt":{"word":"wmt","translation":"abbr. weighing more than 重量大於…; wet metric ton 濕公噸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

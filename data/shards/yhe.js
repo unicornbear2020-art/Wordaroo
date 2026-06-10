@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yhe",{"yhe":{"word":"yhe","translation":"abbr. Hope;  British Columbia;  Canada 加拿大; 不列顛哥倫比亞省","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

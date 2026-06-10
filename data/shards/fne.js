@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fne",{"fne":{"word":"fne","translation":"abbr. fine 美好的，優良的，傑出的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dwg",{"dwg":{"word":"dwg","translation":"abbr. 草圖；工程圖, 結構圖（drawing）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("w_l",{"w-l":{"word":"w-l","translation":"abbr. wins-losses 勝-負","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ˈdʌbljuː el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

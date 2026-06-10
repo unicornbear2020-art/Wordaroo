@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nf_",{"nf":{"word":"nf","translation":"[電] 千億分之一法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

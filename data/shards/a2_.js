@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("a2_",{"a2":{"word":"A2","translation":"[醫] 主動脈第二聲","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

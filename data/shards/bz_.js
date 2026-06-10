@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bz_",{"bz":{"word":"BZ","translation":"[機] 苯酰, 苯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ohu",{"ohu":{"word":"ohu","translation":"[醫][=hydroxyurea]羥基脲","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zaq",{"zaqaziq":{"word":"Zaqaziq","translation":"扎加齊格[埃及東北部城市]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'zækәzik,,zɑ:kɑ:'zi:k/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

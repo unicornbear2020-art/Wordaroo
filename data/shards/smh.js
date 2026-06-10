@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("smh",{"smh":{"word":"smh","translation":"[醫][=state mental hospital]州立精神病院，國立精神病院","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'es'em'etʃ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

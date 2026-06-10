@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("grf",{"grf":{"word":"grf","translation":"[醫]general regulatory factor","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

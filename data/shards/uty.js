@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uty",{"utyl chlorocarbonate":{"word":"utyl chlorocarbonate","translation":"[建] 氯甲酸丁酯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

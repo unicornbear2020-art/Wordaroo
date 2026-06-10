@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("egs",{"egs":{"word":"egs","translation":"(eg 的複數) abbr. [拉]例如（exempli gratia）；[網絡用語]邪惡的笑（Evil Grin）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"plural of eg","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

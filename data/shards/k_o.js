@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("k_o",{"k-out-of-n code":{"word":"k-out-of-n code","translation":"[計] n中取k碼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

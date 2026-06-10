@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ufp",{"ufp":{"word":"UFP","translation":"[計] 實用服務設施程序, 實用軟件程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

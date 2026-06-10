@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hrz",{"hrzn":{"word":"hrzn","translation":"abbr. horizon 地平線, 水平線","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

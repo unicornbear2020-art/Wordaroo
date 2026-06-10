@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ckg",{"ckg":{"word":"ckg","translation":"abbr. 心動描記法（cardiokymography）；心動描記器（cardiokymograph）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("itm",{"itm":{"word":"itm","translation":"abbr. 信息傳遞模數（Information Transfer Module）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

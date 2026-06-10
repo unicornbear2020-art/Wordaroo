@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xf_",{"xf":{"word":"xf","translation":"abbr. 特優（形容白蘭地酒的規格）（Extra Fine）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

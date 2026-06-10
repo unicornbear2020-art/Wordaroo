@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lch",{"lch":{"word":"LCH","translation":"abbr. 小扁豆血凝素（lens culinaris hemagglutinin）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

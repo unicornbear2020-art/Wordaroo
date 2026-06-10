@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hrb",{"hrb":{"word":"hrb","translation":"abbr. 危險性評審委員會（Hazardous Review Board）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

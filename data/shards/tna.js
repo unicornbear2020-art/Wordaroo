@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tna",{"tna":{"word":"tna","translation":"abbr. 四硝基苯胺（Tetranitro-Aniline）；瞬態網絡分析器（Transient Network Analyzer）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

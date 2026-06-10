@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nhg",{"nhg":{"word":"nhg","translation":"[醫][=normal human globulin]正常人球蛋白","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

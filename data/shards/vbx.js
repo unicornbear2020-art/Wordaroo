@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vbx",{"vbx":{"word":"VBX","translation":"n. 可視化BASIC的擴展庫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

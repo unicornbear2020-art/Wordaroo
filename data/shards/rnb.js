@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rnb",{"rnb":{"word":"rnb","translation":"abbr. 節奏布魯斯（Rhythm and Blues）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rpl",{"rpl":{"word":"rpl","translation":"[計] 無盤工作站啓動程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

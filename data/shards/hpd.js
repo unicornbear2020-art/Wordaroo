@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hpd",{"hpd":{"word":"hpd","translation":"abbr. high-performance diesel 高性能柴油機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

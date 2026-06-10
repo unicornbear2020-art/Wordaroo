@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nzo",{"nzo":{"word":"nzo","translation":"abbr. Nzoia, Kenya 肯尼亞，恩佐亞機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

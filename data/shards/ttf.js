@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ttf",{"ttf":{"word":"ttf","translation":"abbr. TrueType字型文件","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

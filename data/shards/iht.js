@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iht",{"iht":{"word":"IHT","translation":"abbr. 《國際先驅論壇報》（International Herald Tribune）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

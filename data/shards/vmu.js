@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vmu",{"vmu":{"word":"vmu","translation":"abbr. Variable Match Unit 變量匹配部件","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

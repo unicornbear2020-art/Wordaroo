@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fy9",{"fy91 deficit":{"word":"fy91 deficit","translation":"[經] 1991年預算赤字","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

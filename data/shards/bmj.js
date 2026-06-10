@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bmj",{"bmj":{"word":"BMJ","translation":"abbr. 英國醫學雜誌（British Medical Journal）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

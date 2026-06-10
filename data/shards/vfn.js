@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vfn",{"vfn":{"word":"vfn","translation":"abbr. very-flowery no 非常委婉的否定","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

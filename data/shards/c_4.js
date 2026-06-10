@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c_4",{"c-4-fraction":{"word":"C-4-fraction","translation":"[化] 碳四餾分","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

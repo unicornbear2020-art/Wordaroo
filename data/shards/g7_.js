@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("g7_",{"g7":{"word":"g7","translation":"abbr. 七國集團（Group of Seven）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

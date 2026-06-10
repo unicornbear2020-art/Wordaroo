@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jfc",{"jfc":{"word":"jfc","translation":"abbr. Japan Food Company 日本食品公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

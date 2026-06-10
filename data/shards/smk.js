@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("smk",{"smk":{"word":"smk","translation":"abbr. smoke 煙（霧）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wrv",{"wrvs":{"word":"WRVS","translation":"abbr. （英）皇家女子志願服務隊（Women's Royal Voluntary Service）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

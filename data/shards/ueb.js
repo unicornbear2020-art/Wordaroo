@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ueb",{"ueberroth":{"word":"ueberroth","translation":"[人名] 尤伯羅思","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

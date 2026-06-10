@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dbr",{"dbr":{"word":"dbr","translation":"abbr. double book rack 雙層書架","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

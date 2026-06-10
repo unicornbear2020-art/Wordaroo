@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mjb",{"mjb":{"word":"mjb","translation":"[計]= Management JoB description,管理作業描述","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

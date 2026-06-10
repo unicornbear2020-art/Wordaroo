@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cix",{"cix":{"word":"cix","translation":"英國最大的資訊交流系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

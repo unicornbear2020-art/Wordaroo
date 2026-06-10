@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lmw",{"lmw":{"word":"lmw","translation":"[醫][=low molecular weight]低分子量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tmj",{"tmj":{"word":"TMJ","translation":"abbr. 顳下頜關節（temporomandibular joint）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

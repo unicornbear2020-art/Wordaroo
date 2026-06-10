@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wbl",{"wbl":{"word":"wbl","translation":"abbr. wideband laser 寬帶激光器; wood blocking 木塊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("k_m",{"k-meson":{"word":"K-meson","translation":"[化] K介子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n an unstable meson produced as the result of a high-energy particle collision","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

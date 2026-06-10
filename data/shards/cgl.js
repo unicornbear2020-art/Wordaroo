@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cgl",{"cgl":{"word":"cgl","translation":"abbr. 昌吉諾拉病毒（changuinola virus）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

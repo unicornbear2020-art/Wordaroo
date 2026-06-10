@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ogt",{"ogtt":{"word":"ogtt","translation":"口服葡萄糖耐量試驗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

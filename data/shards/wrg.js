@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wrg",{"wrg":{"word":"wrg","translation":"abbr. wire routing guide 線路佈線指南; Wrangell;  Alaska 美國; 阿拉斯加州","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

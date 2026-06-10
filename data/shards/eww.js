@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eww",{"eww":{"word":"eww","translation":"abbr. 墨西哥指數基金","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

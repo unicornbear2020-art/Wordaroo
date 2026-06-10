@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c14",{"c14":{"word":"C14","translation":"[醫] 碳14, 放射性同位素碳(原子量14)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

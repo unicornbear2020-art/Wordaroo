@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("knr",{"knrunegala ulcer":{"word":"Knrunegala ulcer","translation":"[醫] 庫魯涅加拉潰瘍, 熱帶化膿性病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

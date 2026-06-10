@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cns",{"cns":{"word":"CNS","translation":"[醫] 硫氰酸鹽","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n the portion of the vertebrate nervous system consisting of the brain and spinal cord","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

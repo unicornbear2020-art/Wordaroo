@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cpj",{"cpj":{"word":"cpj","translation":"[醫][=caudal pancreaticojejunostomy]胰腺空腸端端吻合術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

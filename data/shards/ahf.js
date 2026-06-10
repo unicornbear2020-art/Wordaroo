@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ahf",{"ahf":{"word":"AHF","translation":"[醫] 抗血友病因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

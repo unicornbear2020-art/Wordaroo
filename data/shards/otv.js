@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("otv",{"otv":{"word":"otv","translation":"abbr. outer television 外部電視","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dy_",{"dy":{"word":"Dy","translation":"[醫] 鏑(656號元素)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/dai/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n a trivalent metallic element of the rare earth group; forms compounds that are highly magnetic","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

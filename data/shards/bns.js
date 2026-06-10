@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bns",{"bns":{"word":"bns","translation":"(bn 的複數) abbr. 護理學士（Bachelor of Nursing）；平衡網絡（Balancing Network）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"plural of bn","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

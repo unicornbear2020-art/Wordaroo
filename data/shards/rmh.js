@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rmh",{"rmhs":{"word":"RMHS","translation":"遠程報文處理服務","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

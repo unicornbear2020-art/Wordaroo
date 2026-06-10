@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wmg",{"wmg":{"word":"wmg","translation":"abbr. Welsh Medical Gazette <威爾士醫學報導>（雜誌名）; wireless messaging gateway 無線信息傳送網關，無線通信網關","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

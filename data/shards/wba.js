@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wba",{"wba":{"word":"WBA","translation":"abbr. 世界拳擊聯合會（World Boxing Association）；寬頻帶放大器（Wide Band Amplifier）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mvr",{"mvr":{"word":"mvr","translation":"[醫][=maximum voiding rate]最高排尿率","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'emv'i:'ɑ:r/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

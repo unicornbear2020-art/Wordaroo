@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aaw",{"aawb":{"word":"aawb","translation":"abbr. 亞非作家常設局（Afro-Asian Writers' Bureau）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

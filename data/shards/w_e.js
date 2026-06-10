@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("w_e",{"w.e.f.":{"word":"W.E.F.","translation":"[醫] 戰時急用處方","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

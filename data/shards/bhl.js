@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bhl",{"bhl":{"word":"BHL","translation":"abbr. 希伯來文學學士（Bachelor of Hebrew Letters）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

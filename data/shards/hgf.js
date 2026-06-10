@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hgf",{"hgf":{"word":"HGF","translation":"[醫] 高血糖素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

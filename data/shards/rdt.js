@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rdt",{"rdt":{"word":"rdt","translation":"[醫][=regular dialysis treatment]定期透析治療","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:rd'i:t'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

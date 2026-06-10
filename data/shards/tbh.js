@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tbh",{"tbh":{"word":"tbh","translation":"老實説，是 to be honest 的縮寫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

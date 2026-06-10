@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tpb",{"tpb":{"word":"tpb","translation":"[醫][=tetraphenylbacteriochlorin]四苯基菌綠素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:p'i:b'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

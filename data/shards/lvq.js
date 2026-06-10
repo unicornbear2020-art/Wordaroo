@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lvq",{"lvq":{"word":"LVQ","translation":"學習矢量量化","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

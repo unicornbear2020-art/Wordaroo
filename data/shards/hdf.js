@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hdf",{"hdf":{"word":"hdf","translation":"abbr. high-frequency direction finder 高頻測向器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

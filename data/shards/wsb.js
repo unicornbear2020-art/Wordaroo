@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wsb",{"wsb":{"word":"wsb","translation":"abbr. water-soluble base 水溶性鹽基; 可溶性鹼基; wheatsoy blend 小麥大豆混合; will send boat 將會派船","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

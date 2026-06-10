@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vo_",{"vo":{"word":"vo","translation":"abbr. 口頭命令（Verbal Order）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

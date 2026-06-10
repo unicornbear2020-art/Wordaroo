@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("l_u",{"l-undecyne":{"word":"l-undecyne","translation":"[化] 1-十一炔; 1-十一碳炔","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

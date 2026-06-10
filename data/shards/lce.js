@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lce",{"lce":{"word":"lce","translation":"abbr. 發射控制設備（Launch Control Equipment）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

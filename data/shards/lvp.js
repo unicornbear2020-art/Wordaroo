@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lvp",{"lvp":{"word":"lvp","translation":"abbr. 低壓防護（low-voltage protection）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

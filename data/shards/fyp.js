@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fyp",{"fypro":{"word":"Fypro","translation":"聚酰胺纖維","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'faiprәu/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

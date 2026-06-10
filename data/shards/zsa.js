@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zsa",{"zsa":{"word":"zsa","translation":"abbr. zero-set amplifier 零位調整放大器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'zə/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

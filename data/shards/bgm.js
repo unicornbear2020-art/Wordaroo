@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bgm",{"bgm":{"word":"bgm","translation":"abbr. 背景音樂（Background Music）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

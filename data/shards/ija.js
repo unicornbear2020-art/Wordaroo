@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ija",{"ija":{"word":"ija","translation":"同側全髖全膝關節置換術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

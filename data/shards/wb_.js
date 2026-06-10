@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wb_",{"wb":{"word":"WB","translation":"世界銀行","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a unit of magnetic flux equal to 100,000,000 maxwells","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

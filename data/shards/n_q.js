@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("n_q",{"n quadrant":{"word":"n quadrant","translation":"[電] N像限","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

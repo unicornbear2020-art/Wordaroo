@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tnk",{"tnk":{"word":"tnk","translation":"[計]= TaNK,槽路，儲能電路，振盪迴路","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

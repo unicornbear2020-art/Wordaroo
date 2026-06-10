@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vf_",{"vf":{"word":"vf","translation":"abbr. 很好（very fine）；可變頻率（variable frequency）；視頻（vision frequency）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rpd",{"rpd":{"word":"rpd","translation":"abbr. radar planning device 雷達規劃裝置; rapid 迅速的; 快速的; rapid parcel delivery 快速打包遞送","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

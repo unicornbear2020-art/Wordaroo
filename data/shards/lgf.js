@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lgf",{"lgf":{"word":"LGF","translation":"abbr. 肝生長因子（lacrimal gland fluid）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

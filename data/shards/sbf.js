@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sbf",{"sbf":{"word":"sbf","translation":"[醫][=serologic-blocking factor]血清封閉因子，血清阻斷因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'esb'i:'ef/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

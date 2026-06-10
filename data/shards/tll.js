@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tll",{"tll":{"word":"TLL","translation":"只讀存儲器總線接口","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

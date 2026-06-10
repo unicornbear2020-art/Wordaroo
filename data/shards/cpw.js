@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cpw",{"cpw":{"word":"cpw","translation":"abbr. commercial projected window 商業設計的窗口","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

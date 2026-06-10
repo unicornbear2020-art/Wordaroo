@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mqo",{"mqorality":{"word":"mqorality","translation":"道德, 道義","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/mә'ræliti/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

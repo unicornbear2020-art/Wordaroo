@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("thk",{"thk":{"word":"thk","translation":"[醫][=thick]厚的，濃的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

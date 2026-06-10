@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pdb",{"pdb":{"word":"pdb","translation":"abbr. 臨時區議會；物理數據庫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jtb",{"jtb":{"word":"jtb","translation":"abbr. joint bar 聯合酒吧","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

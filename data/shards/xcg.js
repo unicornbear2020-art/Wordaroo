@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xcg",{"xcg":{"word":"xcg","translation":"abbr. experimental cargo glider (naval symbol) 實驗運載滑翔機（海軍符號）（代號）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

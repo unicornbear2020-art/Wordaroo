@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cth",{"cth":{"word":"cth","translation":"[醫][=ceramide trihexoside]三己糖酰基鞘氨醇","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

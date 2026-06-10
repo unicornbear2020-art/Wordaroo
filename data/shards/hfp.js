@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hfp",{"hfp":{"word":"hfp","translation":"abbr. hostile fire pay 火線執勤津貼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

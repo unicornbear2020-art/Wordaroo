@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hwp",{"hwp":{"word":"hwp","translation":"[醫][=hot wet pack]熱濕裹法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'etʃd'əbəlju:p'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

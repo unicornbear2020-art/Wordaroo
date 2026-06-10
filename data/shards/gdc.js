@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gdc",{"gdc":{"word":"gdc","translation":"abbr. 圖形顯示控制器（Graphic Display Controller）；遊戲開發者大會（Game Developers Conference）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

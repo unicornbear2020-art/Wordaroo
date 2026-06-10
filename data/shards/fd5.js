@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fd5",{"fd50":{"word":"FD50","translation":"[醫] 半數致死量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

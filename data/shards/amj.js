@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("amj",{"amjad":{"word":"amjad","translation":"n. (Amjad)人名；(阿拉伯、孟、巴基)阿姆賈德","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uvs",{"uvsc":{"word":"uvsc","translation":"abbr. ultraviolet solar constant 紫外線太陽常數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ʌvsk/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

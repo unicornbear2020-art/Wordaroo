@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rtu",{"rtu":{"word":"rtu","translation":"abbr. remote terminal unit 遠程終端裝置，遙控終端單元; returned to unit 返回單位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

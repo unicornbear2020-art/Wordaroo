@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mp5",{"mp5":{"word":"mp5","translation":"abbr. 媒體播放器（Machine Pistol 5）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

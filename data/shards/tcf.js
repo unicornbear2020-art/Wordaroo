@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tcf",{"tcf":{"word":"tcf","translation":"[醫][=thymus crude factor]胸腺粗提因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

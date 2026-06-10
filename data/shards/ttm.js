@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ttm",{"ttm":{"word":"ttm","translation":"abbr. [金融] Tailing Twelve Months; [醫][=tensor tympani muscle]鼓膜張肌","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

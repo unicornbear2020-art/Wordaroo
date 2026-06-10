@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hle",{"hleg":{"word":"hleg","translation":"[醫][=hydrolysate lactalbumin Earle's glucose]水解乳清蛋白厄爾（氏）葡萄糖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

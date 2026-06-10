@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jcg",{"jcg":{"word":"jcg","translation":"n. 日本海上保安廳","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

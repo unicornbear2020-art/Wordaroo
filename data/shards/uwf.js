@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uwf",{"uwf":{"word":"uwf","translation":"abbr. United World Federalists <美國>世界聯邦主義者聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

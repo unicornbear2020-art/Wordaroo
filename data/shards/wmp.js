@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wmp",{"wmp":{"word":"wmp","translation":"abbr. 微軟操作系統自帶的播放器（Windows Media Player）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

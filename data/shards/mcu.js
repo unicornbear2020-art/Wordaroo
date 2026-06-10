@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mcu",{"mcu":{"word":"MCU","translation":"[計] 主控制器, 模塊控制器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

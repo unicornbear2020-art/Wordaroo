@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uvf",{"uvf":{"word":"UVF","translation":"abbr. 紫外熒光（Ultraviolet Fluorescence）；（愛爾蘭）阿爾斯特志願者武裝（Ulster Volunteer Force）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

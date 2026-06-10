@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gtz",{"gtz":{"word":"gtz","translation":"abbr. Galatz 加拉茨（羅馬尼亞）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

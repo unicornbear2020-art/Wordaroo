@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yft",{"yft":{"word":"yft","translation":"abbr. torpedo transportation lighter 魚雷運輸駁（美國海軍艦船符號）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

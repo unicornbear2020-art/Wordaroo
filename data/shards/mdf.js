@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mdf",{"mdf":{"word":"MDF","translation":"[計] 主配線板","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dbb",{"dbbplanthanide-actinide process":{"word":"DBBPLanthanide-Actinide Process","translation":"[化] 丁基膦酸二丁酯萃取分離鑭系-錒系元素過程","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

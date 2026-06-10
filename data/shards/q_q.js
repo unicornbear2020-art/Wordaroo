@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("q_q",{"q.q.h.":{"word":"q.q.h.","translation":"[醫] 每四小時","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

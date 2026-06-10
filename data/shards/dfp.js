@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dfp",{"dfp":{"word":"DFP","translation":"[化] 異丙氟磷\n[醫] 氟磷酸二異丙酯, 異丙氟酯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

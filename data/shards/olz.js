@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("olz",{"olza":{"word":"olza","translation":"奧爾扎河（奧爾謝河）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hhr",{"hhr":{"word":"hhr","translation":"abbr. High Hysteresis Rubber 高磁滯橡膠","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rmt",{"rmt":{"word":"rmt","translation":"abbr. 新馬（remount）；真實貨幣交易（Real Money Trade）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

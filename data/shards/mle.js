@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mle",{"mle":{"word":"mle","translation":"abbr. maximum loss expectancy 估計最大損失","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

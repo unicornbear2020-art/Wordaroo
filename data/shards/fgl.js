@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fgl",{"fgl":{"word":"fgl","translation":"[醫][=full grown larva]完全成長的幼蟲","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

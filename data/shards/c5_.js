@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c5_",{"c5":{"word":"C5","translation":"[醫] 溴化五烴季胺, 溴化次戊基三甲季銨","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

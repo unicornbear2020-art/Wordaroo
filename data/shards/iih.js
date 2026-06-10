@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iih",{"iihs":{"word":"iihs","translation":"abbr. Insurance Institute for Highway Safety <美國>公路安全保險協會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

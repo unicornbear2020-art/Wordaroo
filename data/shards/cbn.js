@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cbn",{"cbn":{"word":"cbn","translation":"abbr. 中國博客網（China Blogger Network）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

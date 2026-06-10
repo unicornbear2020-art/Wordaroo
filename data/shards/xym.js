@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xym",{"xymalos":{"word":"xymalos","translation":"野檸檬","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'zaimәlәs/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("byu",{"byu":{"word":"byu","translation":"abbr. Bayou 支流; 小海灣; 河口（街道標誌縮寫）; Brigham Young University 楊百翰大學","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

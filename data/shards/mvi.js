@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mvi",{"mvic":{"word":"mvic","translation":"[醫][=maximum voluntary isometric contraction]最大隨意等長收縮","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

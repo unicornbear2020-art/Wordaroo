@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xv_",{"xv":{"word":"xv","translation":"n. 羅馬數字之十五；十五人組成的球隊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n the cardinal number that is the sum of fourteen and one\ns being one more than fourteen","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

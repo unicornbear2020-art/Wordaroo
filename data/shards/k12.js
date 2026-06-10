@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("k12",{"k12":{"word":"K12","translation":"[計] K12Net新聞組","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("snk",{"snk":{"word":"snk","translation":"abbr. 骷髏王（網絡遊戲DOTA裏的人物）；新日本工機株式會社（SHIN NIPPON KOKI）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

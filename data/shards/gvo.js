@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gvo",{"gvo":{"word":"gvo","translation":"abbr. gross value of output 總產值","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ɡ'vəʊ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

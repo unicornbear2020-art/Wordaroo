@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dnd",{"dnd":{"word":"dnd","translation":"abbr. died a natural death 自然死亡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

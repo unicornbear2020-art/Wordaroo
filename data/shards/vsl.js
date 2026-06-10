@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vsl",{"vsl":{"word":"vsl","translation":"abbr. variable safety level 可變的安全級別; vessel 船，船舶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

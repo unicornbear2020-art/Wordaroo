@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c_3",{"c-3-fraction":{"word":"C-3-fraction","translation":"[化] 碳三餾分","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

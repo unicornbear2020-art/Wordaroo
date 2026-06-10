@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mlg",{"mlg":{"word":"mlg","translation":"abbr. 主起落架（Main Landing Gear）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

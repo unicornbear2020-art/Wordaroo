@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cgd",{"cgd":{"word":"cgd","translation":"[醫][=chromosomal gonadal dysgenesis]性腺染色體發育不全，染色體型性腺發育不全","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'si:dʒ'i:d'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

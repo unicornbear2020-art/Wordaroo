@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tlo",{"tlo":{"word":"TLO","translation":"僅負完全損失之責","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

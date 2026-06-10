@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sqp",{"sqp":{"word":"sqp","translation":"逐次二次規劃","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

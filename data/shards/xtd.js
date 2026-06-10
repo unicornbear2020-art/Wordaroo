@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xtd",{"xtd":{"word":"xtd","translation":"abbr. extend 伸長，延長，擴大（代號）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

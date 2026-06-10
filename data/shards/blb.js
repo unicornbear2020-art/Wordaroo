@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("blb",{"blb mask":{"word":"BLB mask","translation":"[醫] BLB面具(飛行員用的供氧面具)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

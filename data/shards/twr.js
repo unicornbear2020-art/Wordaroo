@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("twr",{"twr":{"word":"twr","translation":"abbr. tower 塔，塔台，塔狀建築","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

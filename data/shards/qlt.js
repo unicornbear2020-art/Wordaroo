@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qlt",{"qlt":{"word":"qlt","translation":"abbr. quilt 棉被","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/k'ju:'elt'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

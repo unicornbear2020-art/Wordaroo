@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pxe",{"pxe":{"word":"pxe","translation":"[醫][=pseudoxanthoma elasticum]彈性（纖維）假黃瘤，彈性痣","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

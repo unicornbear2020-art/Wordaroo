@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vdl",{"vdl":{"word":"VDL","translation":"[計] 維也納定義語言","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

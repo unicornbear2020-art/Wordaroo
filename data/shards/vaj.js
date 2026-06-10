@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vaj",{"vajrayana":{"word":"vajrayana","translation":"n. 瓦伊拉亞納（音），也稱為金剛乘，或稱藏傳佛教","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

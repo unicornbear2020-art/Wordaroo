@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zra",{"zranklinization":{"word":"Zranklinization","translation":"[醫] 靜電療法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

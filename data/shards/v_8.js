@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("v_8",{"v-8":{"word":"V-8","translation":"n. V型8缸汽車(或內燃機)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'vi:'eit/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

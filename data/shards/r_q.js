@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("r_q",{"r.q.":{"word":"R.Q.","translation":"[醫] 呼吸商","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

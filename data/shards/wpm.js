@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wpm",{"wpm":{"word":"WPM","translation":"[計] 字/分","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n the rate at which words are produced (as in speaking or typing)","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

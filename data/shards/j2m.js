@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("j2m",{"j2me":{"word":"j2me","translation":"abbr. Java語言2精簡版（Java 2 Micro Edition）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

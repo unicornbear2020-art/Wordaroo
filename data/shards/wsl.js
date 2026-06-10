@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wsl",{"wsl":{"word":"wsl","translation":"[醫][=wesselsbron virus]威塞爾斯布隆病毒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'dəbəlju:'es'el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

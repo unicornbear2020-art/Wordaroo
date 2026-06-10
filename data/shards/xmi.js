@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xmi",{"xmitter":{"word":"xmitter","translation":"[電] 發射機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("8th",{"8th":{"word":"8th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"8th is an abbreviation of eighth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

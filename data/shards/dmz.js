@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dmz",{"dmz":{"word":"dmz","translation":"abbr. 非軍事區（Demilitarized Zone）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a zone from which military forces or operations or installations are prohibited","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

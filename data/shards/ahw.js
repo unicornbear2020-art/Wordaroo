@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ahw",{"ahwaz":{"word":"Ahwaz","translation":"阿瓦士[伊朗西南部城市](胡齊斯坦省省會)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ɑ:'wɑ:z/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

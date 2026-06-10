@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fz_",{"fz":{"word":"fz","translation":"abbr. 自由貿易區（Free Zone）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

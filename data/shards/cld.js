@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cld",{"cld":{"word":"cld","translation":"abbr. 中央生活區","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

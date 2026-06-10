@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nhf",{"nhf":{"word":"nhf","translation":"[醫][=national health federation]全國衞生聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'en'etʃ'ef/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

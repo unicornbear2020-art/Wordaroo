@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("okm",{"okmulgee":{"word":"okmulgee","translation":"[地名] [美國] 奧克馬爾吉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mbg",{"mbg":{"word":"mbg","translation":"n. Medal for Bravery (Gold) [MBG] 金英勇勳章; [醫][=mean blood glucose]血糖均值，血糖均數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

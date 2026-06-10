@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lcn",{"lcn":{"word":"LCN","translation":"鬆散耦合網絡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tml",{"tml":{"word":"tml","translation":"abbr. 電視微波鏈路（Television Microwave Link）；四甲基鉛（Tetramethyllead ）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

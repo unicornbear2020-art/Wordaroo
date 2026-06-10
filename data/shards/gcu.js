@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gcu",{"gcushuwa":{"word":"gcushuwa","translation":"[醫] 雅司樣性病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

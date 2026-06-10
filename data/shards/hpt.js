@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hpt",{"hpt":{"word":"hpt","translation":"abbr. high point 頂點，最佳狀態; high-pressure test 高壓試驗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

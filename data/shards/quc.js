@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("quc",{"qucstioning":{"word":"qucstioning","translation":"v. 詢問, 審問, 質問\na. 詢問的, 追問的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'kwestʃ(ә)niŋ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

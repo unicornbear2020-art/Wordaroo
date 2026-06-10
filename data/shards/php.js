@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("php",{"php":{"word":"php","translation":"abbr. 個人網頁（Personal Home Page）；服務器端編程語言（Professional Hypertext Preprocessor）；菲律賓比索；水解聚丙烯酸胺","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

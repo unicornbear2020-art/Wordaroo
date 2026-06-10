@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bdu",{"bdu":{"word":"bdu","translation":"abbr. 基本顯示單元（basic device unit）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

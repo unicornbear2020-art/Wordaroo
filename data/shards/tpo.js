@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tpo",{"tpo":{"word":"TPO","translation":"[化] 程序升温氧化","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

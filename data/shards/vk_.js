@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vk_",{"vk":{"word":"vk","translation":"abbr. 維生素k（vitamin k）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wmc",{"wmc":{"word":"WMC","translation":"abbr. （美國）戰時人力委員會（War Manpower Commission）；世界氣象中心（World Meteorological Centre）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ldw",{"ldw":{"word":"ldw","translation":"abbr. left defense wing (lacrosse) 左側防禦（長曲棍球）; loss damage waiver 損毀免責險","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("trk",{"trk":{"word":"trk","translation":"abbr. trunk 幹線; truck 卡車; track 軌跡; tropomycin-related kinase 原肌球蛋白相關的激酶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

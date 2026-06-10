@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tb1",{"tb1":{"word":"TB1","translation":"[醫] 結核安, 替比昂","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lfn",{"lfn":{"word":"lfn","translation":"[醫][=lactoferrin]乳鐵蛋白","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

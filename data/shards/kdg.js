@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kdg",{"kdg":{"word":"kdg","translation":"King's Dragoon Guards 國王的騎兵護衞隊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

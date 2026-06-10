@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dvf",{"dvf":{"word":"dvf","translation":"[醫]Digital Video Fluorography","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

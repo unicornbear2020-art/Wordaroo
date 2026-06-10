@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vpp",{"vpp":{"word":"vpp","translation":"abbr. Value Page Program; [醫][=viral porcine pneumonia]豬病毒性肺炎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'vi:p'i:p'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fih",{"fih":{"word":"fih","translation":"abbr. fat-induced hyperglycemia 脂肪引起的高血糖症; free in harbour 海港免費","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

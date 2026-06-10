@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("khz",{"khz":{"word":"Khz","translation":"[電] 千赫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n one thousand periods per second","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gng",{"gng":{"word":"gng","translation":"abbr. grading （商品等的）分級，分等","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

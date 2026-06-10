@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("17t",{"17th":{"word":"17th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"17th is an abbreviation of seventeenth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

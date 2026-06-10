@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("klc",{"klc":{"word":"klc","translation":"abbr. Kaingaroa Logging Company 凱英厄羅阿伐木公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

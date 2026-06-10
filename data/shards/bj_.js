@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bj_",{"bj":{"word":"bj","translation":"n. 新聞學士（Bachelor of Journalism）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

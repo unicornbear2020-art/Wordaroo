@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("prm",{"prm":{"word":"prm","translation":"abbr. parameter 參數; prime 原始的; 首要的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

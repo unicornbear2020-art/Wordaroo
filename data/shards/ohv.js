@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ohv",{"ohv":{"word":"ohv","translation":"abbr. overhead valve 高架閥","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

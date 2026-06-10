@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dpu",{"dpu":{"word":"DPU","translation":"顯示處理器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

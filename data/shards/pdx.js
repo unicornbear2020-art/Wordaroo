@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pdx",{"pdx":{"word":"pdx","translation":"[醫][=polidexide]降膽葡胺，降脂樹脂3號","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

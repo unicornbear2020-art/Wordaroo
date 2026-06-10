@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cqi",{"cqi":{"word":"cqi","translation":"[醫]continous quality improvement 持續質量改進","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xta",{"xtal":{"word":"xtal","translation":"[電] 晶體","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

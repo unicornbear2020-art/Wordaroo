@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iiw",{"iiwi":{"word":"iiwi","translation":"猩紅蜜鳥","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/i'i:wi/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

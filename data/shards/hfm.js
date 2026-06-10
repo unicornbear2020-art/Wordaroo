@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hfm",{"hfmd":{"word":"hfmd","translation":"abbr. hand-foot-and-mouth disease 手口蹄疫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cjt",{"cjtf":{"word":"cjtf","translation":"abbr. Commander, Joint Task Force 聯合特混部隊司令（美軍）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

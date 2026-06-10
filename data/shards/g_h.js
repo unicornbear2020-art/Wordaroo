@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("g_h",{"g-h solvents":{"word":"G-H solvents","translation":"[化] G-H(混合)溶劑(G代表乙二醇,H代表烴溶劑,如烴、醇、氯代烴等)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

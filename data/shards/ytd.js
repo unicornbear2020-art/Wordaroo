@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ytd",{"ytd":{"word":"YTD","translation":"[計] 年月日","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("v_l",{"v leg of fixture":{"word":"v leg of fixture","translation":"[機] 夾具腳","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

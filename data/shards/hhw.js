@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hhw",{"hhw":{"word":"hhw","translation":"abbr. Higher High Water 高高潮","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

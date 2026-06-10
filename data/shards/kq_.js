@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kq_",{"kq":{"word":"kq","translation":"abbr. Kenya Airways 肯尼亞航空公司（基什航空公司）（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mdc",{"mdc":{"word":"mdc","translation":"abbr. maintenance data collection 維護數據收集; more developed country 更多發達國家","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

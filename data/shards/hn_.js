@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hn_",{"hn":{"word":"hn","translation":"n. 血凝素神經氨酸酶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a colorless explosive liquid that is volatile and poisonous and foul-smelling","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

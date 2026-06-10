@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rkr",{"rkr":{"word":"rkr","translation":"abbr. rocker 振動機; 搖軸; 搖桿; 搖椅","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

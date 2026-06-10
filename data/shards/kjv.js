@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kjv",{"kjv":{"word":"KJV","translation":"abbr. （聖經）欽定本（King James Version）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xrd",{"xrd":{"word":"xrd","translation":"abbr. X-ray diffraction X射線衍射","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mvl",{"mvl":{"word":"mvl","translation":"[醫][=mitral valve leaflet]二尖瓣葉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yld",{"yld":{"word":"yld","translation":"abbr. yield 收益，收益率，產量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("f2_",{"f2":{"word":"F2","translation":"[醫] 第二子代","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

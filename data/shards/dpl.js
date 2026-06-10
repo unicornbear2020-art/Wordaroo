@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dpl",{"dpl":{"word":"DPL","translation":"[計] 數據處理語言","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

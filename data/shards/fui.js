@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fui",{"fui":{"word":"fui","translation":"優質黃麻","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'fu:i/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

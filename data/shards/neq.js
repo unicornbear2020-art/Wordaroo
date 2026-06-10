@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("neq",{"nequinate":{"word":"nequinate","translation":"[化] 奈喹酯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

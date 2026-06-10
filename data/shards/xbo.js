@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xbo",{"xbox":{"word":"xbox","translation":"n. 微軟遊戲機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

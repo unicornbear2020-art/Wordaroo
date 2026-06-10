@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("d_e",{"d'espine's sign":{"word":"D'Espine's sign","translation":"[醫] 德斯平氏徵(支氣管淋巴結結核體徵)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

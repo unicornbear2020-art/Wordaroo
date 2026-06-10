@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jj_",{"jj":{"word":"JJ","translation":"n. 林俊杰；約瑟夫遜結","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

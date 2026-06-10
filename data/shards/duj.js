@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("duj",{"dujarier's clasp":{"word":"Dujarier's clasp","translation":"[醫] 跟骨鈎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

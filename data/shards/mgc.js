@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mgc",{"mgc":{"word":"mgc","translation":"[醫][=microgranulocytotoxicity]小粒細胞毒性","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'emdʒ'i:s'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

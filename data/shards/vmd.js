@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vmd",{"vmd":{"word":"VMD","translation":"獸醫學博士","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

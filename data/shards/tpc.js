@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tpc",{"tpc":{"word":"tpc","translation":"abbr. treated-paper copier （使用）經處理紙張的複印機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

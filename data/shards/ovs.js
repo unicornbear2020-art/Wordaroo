@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ovs",{"ovshinsky effect":{"word":"Ovshinsky effect","translation":"[計] 奧氏效應","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

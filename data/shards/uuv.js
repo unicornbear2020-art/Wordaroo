@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uuv",{"uuv":{"word":"uuv","translation":"abbr. underwater unmanned vehicle 水下無人駕駛運載器，無人駕駛潛水艇","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

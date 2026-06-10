@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dpd",{"dpd":{"word":"dpd","translation":"[醫][=deisoxypyridoxine hydrochloride]脱氧鹽酸吡哆醇","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

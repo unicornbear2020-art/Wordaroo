@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vtg",{"vtg":{"word":"vtg","translation":"abbr. 胸腔氣體量（thoracic gas volume）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

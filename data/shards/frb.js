@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("frb",{"frb":{"word":"frb","translation":"abbr. 美國聯邦制度理事會（Federal Reserve Board）；美國聯邦儲備銀行（Federal Reserve Bank）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("acx",{"acx":{"word":"acx","translation":"[醫]氧甲吡嗪酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

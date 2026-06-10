@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("llw",{"llws":{"word":"llws","translation":"abbr. low level wind shear 低空風切變","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

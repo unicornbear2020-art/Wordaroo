@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fux",{"fuxin":{"word":"Fuxin","translation":"阜新市\n阜新","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

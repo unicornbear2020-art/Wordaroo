@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mwb",{"mwb":{"word":"mwb","translation":"abbr. motor whale boat 機動捕鯨船，摩托捕鯨船","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

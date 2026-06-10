@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wwi",{"wwi":{"word":"wwi","translation":"abbr. whirlwind computer 旋風式計算機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

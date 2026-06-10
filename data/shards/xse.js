@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xse",{"xse":{"word":"xse","translation":"abbr. Sebba, Burkina Faso 布基納法索，塞巴機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

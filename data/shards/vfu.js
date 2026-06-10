@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vfu",{"vfu":{"word":"VFU","translation":"[計] 垂直輸紙格式控制器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

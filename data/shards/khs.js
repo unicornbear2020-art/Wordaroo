@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("khs",{"khs":{"word":"khs","translation":"[醫][=king's honorary surgeon]（國王的）宮庭外科御醫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'keɪ'etʃ'es/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

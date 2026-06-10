@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gtp",{"gtp":{"word":"GTP","translation":"[化] 鳥苷三磷酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,dʒi:ti:'pi:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pwm",{"pwm":{"word":"pwm","translation":"abbr. 脈寬調變（Pulse-Width Modulation）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ugc",{"ugc":{"word":"ugc","translation":"abbr. ultrasonic grating constant 超聲光柵常數; unity grain crossover 統一糧食切割","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

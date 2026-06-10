@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mlw",{"mlw":{"word":"MLW","translation":"abbr. 平均低水位（mean low water）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

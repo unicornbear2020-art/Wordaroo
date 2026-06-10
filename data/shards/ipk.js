@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ipk",{"ipk":{"word":"ipk","translation":"基質內光性屈光性角膜切除術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

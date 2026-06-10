@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dcu",{"dcu":{"word":"DCU","translation":"n. DELPHI的單元目標文件","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

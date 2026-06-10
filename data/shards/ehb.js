@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ehb",{"ehb":{"word":"ehb","translation":"abbr. Environmental Hearing Board 環境聽覺部; European homograft bank 歐洲同種移植庫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lmp",{"lmp":{"word":"lmp","translation":"abbr. 鏈路管理協議（Link Manager Protocol）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

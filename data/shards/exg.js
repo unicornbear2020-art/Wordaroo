@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("exg",{"exgratia":{"word":"exgratia","translation":"<拉>作為優惠的(地),免費的(地)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/eks'^reiʃiә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

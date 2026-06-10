@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("trx",{"trx":{"word":"trx","translation":"[醫][=treatment]醫療，治療，處理","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:'ɑ:r'eks/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

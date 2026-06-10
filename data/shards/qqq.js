@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qqq",{"qqq":{"word":"qqq","translation":"abbr. 一種美國指數交易基金（為與納斯達克100指數的價格與收益表現普遍對應而設計的指數交易基金）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

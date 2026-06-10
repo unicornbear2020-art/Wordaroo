@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aaz",{"aazpa":{"word":"aazpa","translation":"abbr. American Association of Zoological Parks and Aquariums 美國動物園和水族館協會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

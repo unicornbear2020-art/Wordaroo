@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hfu",{"hfu":{"word":"hfu","translation":"熱流單位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

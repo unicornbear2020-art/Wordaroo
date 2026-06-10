@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wft",{"wftu":{"word":"WFTU","translation":"abbr. 世界工會聯合會（World Federation of Trade Unions）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

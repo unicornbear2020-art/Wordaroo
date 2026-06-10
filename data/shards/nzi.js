@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nzi",{"nzima":{"word":"Nzima","translation":"n. 恩濟馬語(西非國家加納的一種語言)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/n'zi:mә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

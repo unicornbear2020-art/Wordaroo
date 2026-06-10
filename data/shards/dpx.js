@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dpx",{"dpx":{"word":"dpx","translation":"abbr. duplex 雙向的，雙工的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pql",{"pqli":{"word":"pqli","translation":"abbr. Physical Quality of Life Index 身體素質標準索引","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xu_",{"xu":{"word":"xu","translation":"n. 北越貨幣單位；許（姓氏）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/su:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

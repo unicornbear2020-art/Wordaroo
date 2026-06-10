@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fr_",{"fr":{"word":"Fr","translation":"[醫] 鈁(87號元素)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a radioactive element of the alkali-metal group discovered as a disintegration product of actinium","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

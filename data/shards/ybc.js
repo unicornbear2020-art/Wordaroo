@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ybc",{"ybco":{"word":"ybco","translation":"abbr. yttrium barium copper oxide 釔鋇銅氧化物","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

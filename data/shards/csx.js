@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("csx",{"csx":{"word":"csx","translation":"abbr. Chessie and Seaboard (railroads consolidated) 奇思沿海地區（統一鐵路公司）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

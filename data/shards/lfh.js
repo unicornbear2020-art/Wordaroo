@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lfh",{"lfh":{"word":"lfh","translation":"[醫][=left femoral hernia]左股疝","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

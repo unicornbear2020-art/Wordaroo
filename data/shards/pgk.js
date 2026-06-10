@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pgk",{"pgknolepsy":{"word":"pgknolepsy","translation":"[醫] 癲癇小發作","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

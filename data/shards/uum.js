@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uum",{"uumc":{"word":"uumc","translation":"abbr. University of Utah Medical Center 猶他大學醫學中心","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

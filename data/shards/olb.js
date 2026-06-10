@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("olb",{"olb":{"word":"olb","translation":"abbr. 帶有類型庫資源的一種特殊的動態鏈接庫，也叫對象庫文件。","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

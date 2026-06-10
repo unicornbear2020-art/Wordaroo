@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nje",{"nje":{"word":"nje","translation":"[計]= Network Job Entry,網絡作業輸入（系統）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

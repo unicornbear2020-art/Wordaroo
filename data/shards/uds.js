@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uds",{"uds":{"word":"uds","translation":"(ud 的第三人稱 -s形式) abbr. 水下爆破（Underwater Demolition）；聯合乳品公司（United Dairies）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"-s form of ud","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

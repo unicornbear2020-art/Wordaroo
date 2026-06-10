@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rm_",{"rm":{"word":"RM","translation":"[計] 識別方式, 資源管理程序, 刪除\n[化] 標準物質","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wsw",{"wsw":{"word":"WSW","translation":"abbr. 西南偏西（West-South West）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. the compass point midway between west and southwest","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

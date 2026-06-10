@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mw_",{"mw":{"word":"mw","translation":"[計] 毫瓦","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

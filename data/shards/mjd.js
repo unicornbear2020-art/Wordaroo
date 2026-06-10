@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mjd",{"mjd":{"word":"mjd","translation":"abbr. management job description 管理工作描述","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'emdʒ'eɪd'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

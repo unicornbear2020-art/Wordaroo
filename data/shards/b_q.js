@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("b_q",{"b-quad":{"word":"b-quad","translation":"[電] B線組","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

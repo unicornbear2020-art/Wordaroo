@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hjo",{"hjort":{"word":"hjort","translation":"[人名] 約爾特","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

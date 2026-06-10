@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vfm",{"vfm":{"word":"vfm","translation":"n. （網絡用語）Value For Money （錢的價值）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

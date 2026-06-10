@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hrp",{"hrp":{"word":"hrp","translation":"abbr. 下丘腦調節性多肽（hypothalamic regulatory peptides）；人力資源規劃（Human Resource Planning）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

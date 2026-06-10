@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mft",{"mft":{"word":"MFT","translation":"[計] 任務數固定的多道系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

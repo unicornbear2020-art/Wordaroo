@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("krl",{"krl":{"word":"KRL","translation":"知識表示語言","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ibf",{"ibf":{"word":"IBF","translation":"[機] 英國鑄造工程師學會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

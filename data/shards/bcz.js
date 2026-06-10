@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bcz",{"bcz":{"word":"bcz","translation":"abbr. because 因為","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'bi:s'i:z'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

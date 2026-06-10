@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jdl",{"jdl":{"word":"jdl","translation":"abbr. job description language 作業描述語言","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒeɪd'i:'el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

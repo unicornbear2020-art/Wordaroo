@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xbr",{"xbr":{"word":"xbr","translation":"abbr. experimental breeder reactor 實驗性增殖反應堆（代號）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

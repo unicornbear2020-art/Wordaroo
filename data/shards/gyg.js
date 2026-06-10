@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gyg",{"gyges":{"word":"Gyges","translation":"n. [希神]古阿斯(百手三巨人之一, 亦作Gyes)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'dʒaidʒi:z/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

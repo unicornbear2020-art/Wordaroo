@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dn_",{"dn":{"word":"dn","translation":"[醫] 分能母, 十分之一能母\n[經] 下跌","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

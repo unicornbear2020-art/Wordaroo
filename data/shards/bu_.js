@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bu_",{"bu":{"word":"bu","translation":"[經] 英鬥","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

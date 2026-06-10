@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mdu",{"mdu":{"word":"mdu","translation":"abbr. 信息譯碼器（Message Decode Unit）；管理數據單元（Management Data Unit）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

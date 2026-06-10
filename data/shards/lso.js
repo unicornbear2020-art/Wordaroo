@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lso",{"lso":{"word":"lso","translation":"abbr. London Symphony Orchestra 倫敦交響樂團","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

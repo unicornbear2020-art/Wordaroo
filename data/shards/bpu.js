@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bpu",{"bpu":{"word":"bpu","translation":"abbr. base production unit 基礎生產單位; bus protection unit 公共汽車保護單位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/b'pʌ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

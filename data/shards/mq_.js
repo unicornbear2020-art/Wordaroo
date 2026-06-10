@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mq_",{"mq":{"word":"mq","translation":"abbr. 乘數-商寄存器（Memory Quotient）；[域]馬提尼克島（法屬）（Martinique）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

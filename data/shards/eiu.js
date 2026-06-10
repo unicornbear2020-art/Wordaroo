@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eiu",{"eiu":{"word":"eiu","translation":"[計]= Electronic Interface Unit,電子接口設備","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

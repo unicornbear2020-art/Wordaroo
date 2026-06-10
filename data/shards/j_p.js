@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("j_p",{"j particle":{"word":"J particle","translation":"【物理學】 J 粒子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

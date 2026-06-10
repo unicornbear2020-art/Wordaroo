@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dkl",{"dkl":{"word":"dkl","translation":"abbr. decalitre 十升; dekaliter 十升","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'di:k'eɪ'el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

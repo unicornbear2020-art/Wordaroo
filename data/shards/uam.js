@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uam",{"uam":{"word":"UAM","translation":"水下對空導彈","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

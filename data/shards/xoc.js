@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xoc",{"xochimilco":{"word":"xochimilco","translation":"[地名] [墨西哥] 霍奇米爾科","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

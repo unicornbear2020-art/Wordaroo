@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hz_",{"hz":{"word":"Hz","translation":"[計] 赫茲","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n the unit of frequency; one hertz has a periodic interval of one second","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

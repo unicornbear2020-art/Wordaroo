@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gls",{"gls":{"word":"gls","translation":"abbr. 氣-液-固體色譜法（Gas-Liquid-Solid Chromatograph）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

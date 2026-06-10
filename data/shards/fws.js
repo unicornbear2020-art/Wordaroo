@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fws",{"fws":{"word":"fws","translation":"abbr. flight warning system 飛行警報系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

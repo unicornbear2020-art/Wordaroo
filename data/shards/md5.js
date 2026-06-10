@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("md5",{"md5":{"word":"md5","translation":"abbr. 訊息摘要 5（Message Digest 5）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

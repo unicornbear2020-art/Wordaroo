@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("loj",{"loja":{"word":"loja","translation":"[地名] [厄瓜多爾、西班牙] 洛哈","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

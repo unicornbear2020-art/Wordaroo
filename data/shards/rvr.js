@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rvr",{"rvr":{"word":"rvr","translation":"心室重複反應","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

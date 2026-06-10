@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nnn",{"nnn":{"word":"nnn","translation":"abbr. 日本新聞網（Nippon News Network）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

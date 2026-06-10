@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pkk",{"pkk":{"word":"PKK","translation":"abbr. 庫爾德工人黨；前激肽釋放酶（Prekallikrein）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

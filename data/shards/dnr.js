@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dnr",{"dnr":{"word":"DNR","translation":"abbr. 國家税務部（Department of National Revenue）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

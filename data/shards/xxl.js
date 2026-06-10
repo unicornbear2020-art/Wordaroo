@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xxl",{"xxl":{"word":"xxl","translation":"abbr. 特大號；超超大（Extra Extra Large）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

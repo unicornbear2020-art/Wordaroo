@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fbg",{"fbg":{"word":"fbg","translation":"[醫][=dextrose,barbital,gelatin]葡萄糖、巴比妥、明膠","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'efb'i:dʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

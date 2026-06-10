@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hbv",{"hbv":{"word":"hbv","translation":"abbr. 高碼率視頻（High Bit Rate Video）；乙型肝炎病毒（hepatitis B virus）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

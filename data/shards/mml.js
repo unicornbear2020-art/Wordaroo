@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mml",{"mml":{"word":"mml","translation":"[醫][=midline malignant lymphoma]中線惡性淋巴瘤","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'em'em'el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

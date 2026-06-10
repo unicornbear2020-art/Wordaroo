@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tmw",{"tmw":{"word":"tmw","translation":"abbr. thermal megawatts 熱學兆瓦特; tomorrow 明天","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:'emd'əbəlju:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

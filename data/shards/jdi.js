@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jdi",{"jdi":{"word":"jdi","translation":"職業詳目索引","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

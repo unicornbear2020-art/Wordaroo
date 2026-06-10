@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qtl",{"qtl":{"word":"qtl","translation":"[醫]數量性狀遺傳位點","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

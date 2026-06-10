@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mrj",{"mrj":{"word":"mrj","translation":"abbr. materials requistion journal 領料日記賬","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

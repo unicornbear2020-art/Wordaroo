@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("he1",{"he1oderma-venom antitoxin":{"word":"he1oderma-venom antitoxin","translation":"[醫] 抗蜥蜴毒素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

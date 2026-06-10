@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("agw",{"agw":{"word":"agw","translation":"abbr. 實際總重量（actual gross weight）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

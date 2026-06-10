@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uag",{"uag":{"word":"uag","translation":"abbr. Upper Atmosphere Geophysics 高層大氣地球物理學","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

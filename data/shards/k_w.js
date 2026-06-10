@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("k_w",{"k.w.h.":{"word":"k.w.h.","translation":"[計] 千瓦小時, 度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

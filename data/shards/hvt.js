@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hvt",{"hvt":{"word":"hvt","translation":"半值厚度輻射屏蔽","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

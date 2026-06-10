@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kj_",{"kj":{"word":"kj","translation":"abbr. [物]千焦耳（功的單位, kilojoule）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

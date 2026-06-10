@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bm_",{"bm":{"word":"BM","translation":"醫學士, 不列顛博物館\n[計] 主機, 基準, 標準檢查程序, 商用機器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n solid excretory product evacuated from the bowels\nn a euphemism for defecation","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

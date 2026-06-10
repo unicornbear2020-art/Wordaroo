@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("omc",{"omc":{"word":"omc","translation":"abbr. 操作維護中心（Operation and Maintenance Center）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

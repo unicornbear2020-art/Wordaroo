@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pnx",{"pnxt":{"word":"pnxt","translation":"abbr. pinxit (Latin=he/she painted it) （拉丁語）此畫系某某畫（畫家署名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

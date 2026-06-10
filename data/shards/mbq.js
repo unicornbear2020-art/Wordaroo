@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mbq",{"mbq":{"word":"mbq","translation":"abbr. megabecquerels 兆貝可[勒爾]（放射性強度單位）; [醫]megabecquerel兆貝可〔勒爾〕","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

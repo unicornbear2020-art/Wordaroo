@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("r_1",{"r-11":{"word":"R-11","translation":"[化] 拒斥劑-11","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

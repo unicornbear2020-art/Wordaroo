@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rzh",{"rzhev":{"word":"rzhev","translation":"[地名] [俄羅斯] 勒熱夫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

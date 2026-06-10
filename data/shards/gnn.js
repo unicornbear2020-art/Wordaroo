@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gnn",{"gnn":{"word":"gnn","translation":"abbr. Global Network Navigator 全球網絡導航器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

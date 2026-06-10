@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mtk",{"mtk":{"word":"mtk","translation":"abbr. 台灣聯發科技（MediaTek）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

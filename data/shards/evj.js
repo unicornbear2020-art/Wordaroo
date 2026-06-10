@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("evj",{"evjite":{"word":"evjite","translation":"角閃石輝長岩","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ev,dʒait/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

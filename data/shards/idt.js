@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("idt",{"idt":{"word":"IDT","translation":"[計] 智能數據終端, 交互數據終端","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

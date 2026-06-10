@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pcq",{"pcq":{"word":"pcq","translation":"abbr. production control quantometer 生產控制衝擊電流計，生產控制光譜分析儀","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

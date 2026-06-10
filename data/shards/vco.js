@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vco",{"vco":{"word":"vco","translation":"abbr. variable crystal oscillator 可調晶體振盪器; voltage-controlled oscillator 電壓控制的振盪器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

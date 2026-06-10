@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ggn",{"ggnra":{"word":"ggnra","translation":"abbr. Golden Gate National Recreation Area (San Francisco) 金門國家消遣區（美國舊金山）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

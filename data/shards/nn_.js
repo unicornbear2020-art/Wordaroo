@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nn_",{"nn":{"word":"nn","translation":"abbr. neural network 神經網絡；Network Node 網絡結點","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

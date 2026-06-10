@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("drq",{"drq":{"word":"DRQ","translation":"[計] 數據請求, 數據就緒隊列","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

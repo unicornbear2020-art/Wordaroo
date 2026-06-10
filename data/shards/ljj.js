@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ljj",{"ljj":{"word":"LJJ","translation":"abbr. 林俊杰；羅家軍（拼音首字母縮寫）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

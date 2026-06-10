@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tnm",{"tnm":{"word":"tnm","translation":"abbr. tactical nuclear missile 戰術核導彈","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

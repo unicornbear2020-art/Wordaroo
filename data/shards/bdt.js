@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bdt",{"bdt":{"word":"bdt","translation":"嗜鹼粒細胞脱顆粒試驗(basophil degranulation test)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

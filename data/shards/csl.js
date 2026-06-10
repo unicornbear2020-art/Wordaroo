@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("csl",{"csl":{"word":"CSL","translation":"[計] 計算機結構語言","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

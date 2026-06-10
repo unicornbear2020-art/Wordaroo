@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fj_",{"fj":{"word":"fj","translation":"n. 斐濟","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qcb",{"qcb":{"word":"QCB","translation":"隊列控制塊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

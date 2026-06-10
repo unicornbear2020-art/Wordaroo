@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gv_",{"gv":{"word":"gv","translation":"abbr. 地面能見度（Ground Visibility）；胃容量（Ground Visibility）；督脈經（Governor Vessel）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

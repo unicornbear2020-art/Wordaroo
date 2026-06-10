@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rdd",{"rdd":{"word":"rdd","translation":"[計]= Read Disconnect Delay,讀斷開延遲","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

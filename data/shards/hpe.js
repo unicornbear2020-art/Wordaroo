@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hpe",{"hper":{"word":"hper","translation":"abbr. health;  physical education;  and recreation 健康; 體育教育和娛樂","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

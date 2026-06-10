@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pvt",{"pvt":{"word":"pvt","translation":"abbr. 私有的（private）；壓力、體積、温度（Pressure-Volume-Temperature）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

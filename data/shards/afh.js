@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("afh",{"afh":{"word":"afh","translation":"[醫][=air force hospital]空軍醫院","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'əfh/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

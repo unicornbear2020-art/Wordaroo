@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c13",{"c13":{"word":"C13","translation":"[醫] 碳13, 天然同位素碳(原子量13)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

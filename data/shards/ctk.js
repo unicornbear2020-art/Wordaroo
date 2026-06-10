@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ctk",{"ctk":{"word":"ctk","translation":"abbr. capacity-ton kilometer 容量-噸千米","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

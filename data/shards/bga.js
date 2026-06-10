@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bga",{"bga":{"word":"bga","translation":"abbr. 球狀矩陣排列（ball grid array）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

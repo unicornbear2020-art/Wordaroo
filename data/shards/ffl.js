@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ffl",{"ffl":{"word":"ffl","translation":"abbr. federal firearms license 聯邦輕武器許可證; fixed and flashing 固定並閃光","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

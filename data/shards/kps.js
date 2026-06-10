@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kps",{"kps":{"word":"kps","translation":"abbr. kilopoises 千泊（黏度單位）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

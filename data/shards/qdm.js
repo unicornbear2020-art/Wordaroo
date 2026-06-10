@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qdm",{"qdm":{"word":"qdm","translation":"[計]= Quality assurance, Documentation and Maintenance,質量保證、文件編制和維護","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

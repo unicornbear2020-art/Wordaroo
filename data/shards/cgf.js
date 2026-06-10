@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cgf",{"cgf":{"word":"cgf","translation":"[醫][=cartilage growth factor]軟骨生長因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'si:dʒ'i:'ef/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

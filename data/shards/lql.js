@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lql",{"lql":{"word":"lql","translation":"abbr. limiting quality level 極限質量水平","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

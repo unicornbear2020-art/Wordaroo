@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dbt",{"dbtg":{"word":"DBTG","translation":"美國數據庫工作組","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

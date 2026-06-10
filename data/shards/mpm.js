@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mpm",{"mpm":{"word":"mpm","translation":"abbr. meters per minute 米/分","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

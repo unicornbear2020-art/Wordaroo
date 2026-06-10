@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wlp",{"wlp":{"word":"wlp","translation":"abbr. Wide Line Profiles 寬線剖面","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

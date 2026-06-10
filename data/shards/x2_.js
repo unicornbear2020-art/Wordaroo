@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("x2_",{"x2 test":{"word":"x2 test","translation":"[醫] 卡方測驗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

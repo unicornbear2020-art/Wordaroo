@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sxg",{"sxga":{"word":"sxga","translation":"abbr. super extended (video) graphics array 高級擴展視頻圖形陣列","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

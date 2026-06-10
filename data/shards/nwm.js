@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nwm",{"nwmp":{"word":"nwmp","translation":"abbr. North-West Mounted Police <加拿大>西北騎警隊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dyh",{"dyhrkopp":{"word":"dyhrkopp","translation":"[人名] 迪爾科普","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

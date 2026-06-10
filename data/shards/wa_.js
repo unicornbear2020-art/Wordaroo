@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wa_",{"wa":{"word":"wa","translation":"abbr. 華盛頓州（Washington State）；擔保單獨海損（with average）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a state in northwestern United States on the Pacific","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

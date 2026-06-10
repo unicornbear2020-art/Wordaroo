@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rdi",{"rdi":{"word":"rdi","translation":"abbr. recommended daily intake 建議每日攝取量，推薦每日攝取; reference daily intake 日常參考攝入量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

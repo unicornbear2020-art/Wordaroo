@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dtn",{"dtn1m250":{"word":"DTN1M250","translation":"[醫] 標準白喉毒素單位(指對250克重的豚鼠)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

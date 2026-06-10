@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("epx",{"epxma":{"word":"EPXMA","translation":"[化] 電子探針X射線微量分析","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

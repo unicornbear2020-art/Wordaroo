@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jz_",{"jz":{"word":"jz","translation":"abbr. 南斯拉夫國家鐵路（塞爾維亞-克羅地亞語縮寫, Jugoslav State Railways）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hfa",{"hfa":{"word":"hfa","translation":"abbr. hard factory automation 工廠自動化","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

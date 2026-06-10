@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iwb",{"iwb":{"word":"iwb","translation":"[醫][=index of well-being]健康指數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ocm",{"ocm":{"word":"ocm","translation":"abbr. Oracle認證大師（Oracle Certified Master, Oracle為數據庫名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

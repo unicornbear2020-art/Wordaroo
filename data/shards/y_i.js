@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("y_i",{"y-intercept":{"word":"Y-intercept","translation":"[計] Y截距","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

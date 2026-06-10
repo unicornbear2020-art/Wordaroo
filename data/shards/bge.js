@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bge",{"bge":{"word":"bge","translation":"abbr. 丁基縮水甘油醚（butyl glycidyl ether）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

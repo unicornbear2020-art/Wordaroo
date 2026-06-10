@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hrr",{"hrr":{"word":"hrr","translation":"[醫][=head rotated right]頭向右轉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'etʃ'ɑ:r'ɑ:r/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

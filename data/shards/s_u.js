@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("s_u",{"s-unit meter":{"word":"s-unit meter","translation":"[電] 信號強度器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

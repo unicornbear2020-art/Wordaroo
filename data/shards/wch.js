@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wch",{"wch":{"word":"wch","translation":"abbr. Chaiten;  Chile 智利; west coast handling 西海岸裝卸; write command hold time 寫命令保持時間","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

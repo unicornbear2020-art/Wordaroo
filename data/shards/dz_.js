@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dz_",{"dz":{"word":"dz","translation":"n. 阿爾及利亞的域名","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

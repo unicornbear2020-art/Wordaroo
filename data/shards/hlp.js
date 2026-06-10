@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hlp",{"hlp":{"word":"hlp","translation":"abbr. 高層協議（Higher Layer Protocol）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

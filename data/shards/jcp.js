@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jcp",{"jcp":{"word":"jcp","translation":"abbr. jettison control panel 拋棄控制面板","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

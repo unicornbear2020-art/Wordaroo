@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kdc",{"kdc":{"word":"KDC","translation":"密鑰分配中心","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

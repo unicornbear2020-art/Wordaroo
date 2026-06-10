@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sxc",{"sxct":{"word":"sxct","translation":"abbr. spiral X-ray computed tomography 螺旋X線計算機體層攝影術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

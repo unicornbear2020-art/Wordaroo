@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qw_",{"qw":{"word":"qw","translation":"abbr. 量子阱（quantum well）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uvc",{"uvc":{"word":"UVC","translation":"abbr. 萬能接頭（Universal Contact）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

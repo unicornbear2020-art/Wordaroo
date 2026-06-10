@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lnu",{"lnu":{"word":"lnu","translation":"abbr. last name unknown 未知姓","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/l'nʌ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

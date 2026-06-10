@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("owh",{"owh":{"word":"owh","translation":"abbr. Office of the War on Hunger 賑災辦公室","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

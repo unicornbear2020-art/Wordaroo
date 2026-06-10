@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rk_",{"rk":{"word":"rk","translation":"abbr. [醫]放射狀角膜切開術（Radial Keratotomy）；可愛卡通（手機主題軟件, Rouroni Kenshin）；岩石（rock）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

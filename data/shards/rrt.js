@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rrt",{"rrt":{"word":"RRT","translation":"abbr. 快速軌道交通（Rail Rapid Transit）；會合雷達應答器（Rendezvous Radar Transponder）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fvr",{"fvr":{"word":"fvr","translation":"[醫][=fixed volume respiration]定容式呼吸法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'efv'i:'ɑ:r/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

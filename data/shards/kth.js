@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kth",{"kth":{"word":"kth","translation":"abbr. Kungliga Tekniska Hegskolan (Royal Institute of Technology, Stockholm) 斯德哥爾摩皇家工學院","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

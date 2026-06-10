@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ikw",{"ikwa fever":{"word":"Ikwa fever","translation":"[醫] 戰壕熱","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lrt",{"lrt":{"word":"LRT","translation":"abbr. 激光環形車削（laser ring turning）；長程輸送（Long Range Transportation）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

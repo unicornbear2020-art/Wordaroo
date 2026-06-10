@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fns",{"fns":{"word":"fns","translation":"abbr. flask-nitrogen supply 細頸瓶氮供應品","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

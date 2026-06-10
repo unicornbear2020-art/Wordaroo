@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xuz",{"xuzhou":{"word":"Xuzhou","translation":"n. 徐州（中國地名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

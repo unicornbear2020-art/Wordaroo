@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pbw",{"pbw":{"word":"pbw","translation":"abbr. particle-beam weapon 粒子束武器; parts by weight 重量份（數）; posterior bite wing 後頜翼片; 後咬合翼片","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

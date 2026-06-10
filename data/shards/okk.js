@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("okk",{"okka":{"word":"Okka","translation":"n. 奧克(土耳其和約旦的重量單位,約等於2.75磅)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɔkә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

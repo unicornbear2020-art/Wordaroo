@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xrs",{"xrs":{"word":"xrs","translation":"abbr. X-ray sensitive X-射線敏感的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

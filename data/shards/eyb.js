@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eyb",{"eyberg":{"word":"eyberg","translation":"[人名] 艾伯格","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

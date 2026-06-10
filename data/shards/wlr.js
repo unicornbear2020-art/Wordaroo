@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wlr",{"wlr":{"word":"wlr","translation":"abbr. wrong length record 錯誤長度記錄","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

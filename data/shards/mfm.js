@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mfm",{"mfm":{"word":"MFM","translation":"[計] 改進調頻制","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

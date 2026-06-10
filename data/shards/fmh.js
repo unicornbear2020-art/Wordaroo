@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fmh",{"fmha":{"word":"fmha","translation":"abbr. Farmers Home Administration 農場主家庭管理","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tgv",{"tgv":{"word":"TGV","translation":"abbr. 巴黎至里昂間高速火車（Train a Grande Vitesse）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

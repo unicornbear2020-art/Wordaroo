@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bf_",{"bf":{"word":"bf","translation":"黑體, 粗體\n[計] 塊因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

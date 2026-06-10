@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gbm",{"gbm":{"word":"gbm","translation":"[醫][=glioblastoma]成膠質細胞瘤，惡性膠質瘤","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒi:b'i:'em/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

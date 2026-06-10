@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sfl",{"sfl":{"word":"SFL","translation":"[計] 襯底饋電邏輯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qf_",{"qf":{"word":"qf","translation":"abbr. 速射的（Quick-Firing）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

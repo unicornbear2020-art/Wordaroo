@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tfl",{"tfl":{"word":"tfl","translation":"n. 電子競技國際性的聯賽; 叫做冰峯聯賽; 簡稱TFL.賽制運行的基礎是和WC3L一樣的; 常規賽季由12個隊伍組成","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

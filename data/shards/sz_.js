@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sz_",{"sz":{"word":"sz","translation":"abbr. 尺碼（size）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kbm",{"kbm":{"word":"KBM","translation":"知識庫管理","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

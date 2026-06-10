@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xad",{"xade":{"word":"xade","translation":"[地名] [博茨瓦納] 達代","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

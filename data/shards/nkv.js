@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nkv",{"nkvd":{"word":"NKVD","translation":"abbr. （俄）內務人民委員部（Narodnyi Komissariat Vnutrennikh Del）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

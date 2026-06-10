@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vfw",{"vfw":{"word":"VFW","translation":"abbr. 美國海外退伍軍人（Veterans of Foreign Wars）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. an organization of United States war veterans","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

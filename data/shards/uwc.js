@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uwc",{"uwc":{"word":"uwc","translation":"[醫][=ulcer whole cornea]（拉）全角膜潰瘍","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

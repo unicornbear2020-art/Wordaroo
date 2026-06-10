@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vmp",{"vmp":{"word":"vmp","translation":"abbr. value of the marginal product 邊緣產品的價值","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

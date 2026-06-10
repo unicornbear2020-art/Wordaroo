@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mfn",{"mfn":{"word":"MFN","translation":"最惠國","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

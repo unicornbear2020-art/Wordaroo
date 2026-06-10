@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("amz",{"amzn":{"word":"amzn","translation":"abbr. 亞馬遜（美國納斯達克的股票代碼，Amazon）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

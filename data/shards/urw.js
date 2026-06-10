@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("urw",{"urwin":{"word":"urwin","translation":"[人名] [英格蘭人姓氏] 厄温 Irvine的變體","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

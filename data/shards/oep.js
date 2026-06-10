@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oep",{"oepikellacea":{"word":"Oepikellacea","translation":"奧皮克介超科","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

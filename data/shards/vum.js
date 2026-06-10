@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vum",{"vum":{"word":"vum","translation":"vi. 發誓","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/vʌm/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

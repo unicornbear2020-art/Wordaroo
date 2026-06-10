@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("brk",{"brk":{"word":"brk","translation":"abbr. brick 磚","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

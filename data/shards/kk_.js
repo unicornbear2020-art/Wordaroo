@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kk_",{"kk":{"word":"kk","translation":"abbr. 千開（kilokelvin ）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

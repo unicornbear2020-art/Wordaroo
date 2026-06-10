@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dmx",{"dmx":{"word":"dmx","translation":"abbr. 迪美視（MP4生產商）；宏天德美數碼科技有限公司；資料採礦延伸模組","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

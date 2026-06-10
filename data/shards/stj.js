@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("stj",{"stj":{"word":"stj","translation":"abbr. Special Trial Judge 特別審訊法官; St. Joseph;  Missouri 美國; subtropical jet stream 副熱帶急流","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

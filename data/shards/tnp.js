@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tnp",{"tnpk":{"word":"tnpk","translation":"abbr. turnpike 徵收通行費的公路","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xcl",{"xcl":{"word":"xcl","translation":"abbr. excess current liabilities 短期債務逾額（代號）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"s being ten more than one hundred eighty","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

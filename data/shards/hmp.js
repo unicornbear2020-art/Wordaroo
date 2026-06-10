@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hmp",{"hmp":{"word":"HMP","translation":"主機監督協議","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("f_b",{"f-block element":{"word":"f-block element","translation":"[化] f區元素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

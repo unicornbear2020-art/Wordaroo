@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("olg",{"olga":{"word":"olga","translation":"n. 奧爾加（女子名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɔl^ә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

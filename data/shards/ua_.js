@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ua_",{"ua":{"word":"UA","translation":"[計] 一致陣列, 用户區, 用户代理程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

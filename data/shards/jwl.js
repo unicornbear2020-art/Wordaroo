@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jwl",{"jwl":{"word":"jwl","translation":"abbr. jewel 寶石; jeweler 寶石商","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

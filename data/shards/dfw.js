@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dfw",{"dfw":{"word":"dfw","translation":"abbr. 磁盤文件寫出（Disk File Write）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

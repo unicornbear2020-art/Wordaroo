@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zov",{"zovirax":{"word":"zovirax","translation":"[醫]阿昔洛韋，無環鳥苷，開糖環鳥苷製劑的商品名","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

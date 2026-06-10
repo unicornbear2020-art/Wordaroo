@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mtj",{"mtj":{"word":"mtj","translation":"abbr. missile track jamming 導彈跟蹤干擾; multiple-tunnel junction 多重隧道結","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

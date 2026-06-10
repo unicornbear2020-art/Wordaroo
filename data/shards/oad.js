@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oad",{"oad":{"word":"oad","translation":"n. (Oad)人名；(阿拉伯)瓦德\nabbr. 一種動漫發行方式（Original Animation Disc）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. See Woad.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

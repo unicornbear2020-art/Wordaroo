@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rmf",{"rmf":{"word":"RMF","translation":"遠程管理設施","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

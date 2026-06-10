@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jpc",{"jpc":{"word":"jpc","translation":"abbr. Japan Productivity Center 日本生產能力中心","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

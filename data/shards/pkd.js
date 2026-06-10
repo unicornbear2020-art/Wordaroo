@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pkd",{"pkd":{"word":"pkd","translation":"abbr. packed (flow chart) 充滿…的（流程圖）; partially knocked down 部分撞倒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

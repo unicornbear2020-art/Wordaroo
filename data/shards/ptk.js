@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ptk",{"ptk":{"word":"ptk","translation":"光性治療性角膜切除術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

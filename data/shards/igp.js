@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("igp",{"igp":{"word":"IGP","translation":"[計] 內部網間路由協議","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

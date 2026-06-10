@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wtw",{"wtw":{"word":"wtw","translation":"abbr. warehouse to warehouse 倉到倉; wet tissue weight 組織鮮重","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'dəbəlju:t'i:d'əbəlju:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rhm",{"rhm":{"word":"RHM","translation":"abbr. 人性化管理；距輻射源米處每小時的倫琴數（Roentgen per Hour at one Meter）；拉姆（roentgen-hour-meter）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

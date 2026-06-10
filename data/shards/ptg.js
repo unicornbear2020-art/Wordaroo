@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ptg",{"ptg":{"word":"ptg","translation":"[醫][=panoramic tomography]全景體層攝影術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'pi:t'i:dʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

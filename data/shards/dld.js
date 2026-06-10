@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dld",{"dld":{"word":"dld","translation":"abbr. 暗線缺陷（Dark Line Defect ）；數字光偏轉器（Digital Light Deflector ）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

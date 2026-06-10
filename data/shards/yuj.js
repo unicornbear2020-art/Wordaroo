@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yuj",{"yuji":{"word":"yuji","translation":"n. (Yuji)人名；(日)由地(姓)\n魚際","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wcd",{"wcdma":{"word":"wcdma","translation":"abbr. 寬帶碼分多址移動通信系統（Wideband Code Division Multiple Access）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

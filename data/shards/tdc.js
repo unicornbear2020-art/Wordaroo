@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tdc",{"tdc":{"word":"tdc","translation":"abbr. 上死點（Top Dead Center）；技術資料中心（Technical Data Centre）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

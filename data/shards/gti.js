@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gti",{"gti":{"word":"gti","translation":"abbr. （汽車的）燃氣輪機組合（gas turbine integration）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

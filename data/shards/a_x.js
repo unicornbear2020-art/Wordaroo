@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("a_x",{"a-x":{"word":"a-x","translation":"vt. 削減；用斧修整；解僱\nn. 斧頭\nn. (Ax)人名；(德、芬)阿克斯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/æks/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

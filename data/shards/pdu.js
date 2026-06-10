@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pdu",{"pdu":{"word":"PDU","translation":"[計] 協議數據單元","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

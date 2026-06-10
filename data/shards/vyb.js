@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vyb",{"vyborg":{"word":"Vyborg","translation":"維堡[蘇聯西北部港市](臨芬蘭灣,為一漁業中心)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'vi:bɔ:^/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tdi",{"tdi":{"word":"TDI","translation":"[計] 遠程通信數據接口, 雙向直接接口","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

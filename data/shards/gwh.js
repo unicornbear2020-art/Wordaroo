@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gwh",{"gwh":{"word":"gwh","translation":"abbr. gigawatt hour 十億瓦時","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

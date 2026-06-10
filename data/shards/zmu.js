@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zmu",{"zmud":{"word":"zmud","translation":"zMUD是互聯網上最好的 MUD 客户端程序之一。它除了一般的功能以外，還提供很多實用的功能，是 MUD 玩家的必備軟件。","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

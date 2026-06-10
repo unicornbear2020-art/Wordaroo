@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tlt",{"tlt":{"word":"tlt","translation":"[醫][=tryptophan load test]色氨酸負荷試驗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:'elt'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

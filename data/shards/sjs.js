@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sjs",{"sjsu":{"word":"sjsu","translation":"abbr. San Jose State University 州立聖何塞大學<美國加利福尼亞州>","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

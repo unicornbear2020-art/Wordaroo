@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kcs",{"kcs":{"word":"KCS","translation":"每秒千字符","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. one thousand periods per second","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

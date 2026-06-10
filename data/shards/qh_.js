@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qh_",{"qh":{"word":"qh","translation":"abbr. （拉）每小時（quaque hora）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

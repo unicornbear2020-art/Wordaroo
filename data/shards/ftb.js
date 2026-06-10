@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ftb",{"ftb":{"word":"ftb","translation":"abbr. fails to break 未能打破","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'eft'i:b'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

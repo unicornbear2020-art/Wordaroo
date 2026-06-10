@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qoh",{"qoh":{"word":"qoh","translation":"abbr. quantity on hand 現有數量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

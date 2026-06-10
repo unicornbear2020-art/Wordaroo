@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eky",{"eky":{"word":"EKY","translation":"[醫] 電記波照片, 心電記波圖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ccx",{"ccx":{"word":"ccx","translation":"abbr. cicloxolone sodium 環克索龍鈉，環胃酮鈉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

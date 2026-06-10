@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bfv",{"bfv":{"word":"bfv","translation":"abbr. bovine factor V 牛凝血因子V","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

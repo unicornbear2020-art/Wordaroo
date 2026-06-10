@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wwa",{"wwave mechanics":{"word":"wwave mechanics","translation":"[電] 波動力學","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

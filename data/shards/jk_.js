@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jk_",{"jk":{"word":"jk","translation":"n. 工作, 作業；傑克（等於jack）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

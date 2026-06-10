@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ztr",{"ztr":{"word":"ztr","translation":"abbr. zircon, tourmaline and rutile 鋯石，電氣石和金紅石","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

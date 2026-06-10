@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ue_",{"ue":{"word":"ue","translation":"abbr. 統一標準裝置（Unified Equipment）；用户體驗設計（Users Experience Design）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

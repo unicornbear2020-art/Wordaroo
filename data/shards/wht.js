@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wht",{"wht":{"word":"wht","translation":"abbr. whether 是否; white 白色（的）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

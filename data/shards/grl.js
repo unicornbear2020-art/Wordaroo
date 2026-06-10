@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("grl",{"grl":{"word":"grl","translation":"abbr. Grille 格柵","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ql_",{"ql":{"word":"ql","translation":"abbr. 查詢語言（query language）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

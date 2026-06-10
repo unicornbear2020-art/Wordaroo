@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ayk",{"aykroyd":{"word":"aykroyd","translation":"[人名] 艾克羅伊德","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

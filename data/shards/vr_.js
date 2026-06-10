@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vr_",{"vr":{"word":"vr","translation":"abbr. 虛擬現實（virtual reality）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pft",{"pft":{"word":"pft","translation":"abbr. Portable Flame Thrower 背囊式噴火器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

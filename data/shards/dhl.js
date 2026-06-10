@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dhl",{"dhl":{"word":"dhl","translation":"abbr. 敦豪速遞公司（Dalsey, Hillblom and Lynn是一家國際快遞公司）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

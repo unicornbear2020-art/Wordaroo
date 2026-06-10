@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ysp",{"ysp":{"word":"ysp","translation":"abbr. years service for severance pay purposes （離職）退役金的規定年限（美軍）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

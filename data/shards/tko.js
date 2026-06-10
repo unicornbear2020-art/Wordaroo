@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tko",{"tko":{"word":"TKO","translation":"abbr. 技術性擊倒, 技術得勝（Technical Knockout）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. a knockout declared by the referee who judges one boxer unable to continue","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

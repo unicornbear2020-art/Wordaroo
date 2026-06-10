@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kvg",{"kvg":{"word":"kvg","translation":"abbr. keyed video generator 鍵控視頻發生器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'keɪv'i:dʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

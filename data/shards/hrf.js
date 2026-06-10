@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hrf",{"hrf":{"word":"hrf","translation":"abbr. human rheumatoid factor 人類風濕因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

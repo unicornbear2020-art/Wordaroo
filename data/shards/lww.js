@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lww",{"lww":{"word":"lww","translation":"abbr. launch window width 發射窗口寬度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

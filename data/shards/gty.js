@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gty",{"gtycuronide":{"word":"gtycuronide","translation":"[醫] 葡萄糖醛酸化物","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

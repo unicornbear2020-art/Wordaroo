@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bmu",{"bmus":{"word":"BMus","translation":"abbr. Bachelor of Music 音樂學士；British Museum","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. a bachelor's degree in music","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

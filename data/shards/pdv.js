@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pdv",{"pdvsa":{"word":"pdvsa","translation":"委內瑞拉石油公司總部所在地：委內瑞拉主要業務：煉油","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

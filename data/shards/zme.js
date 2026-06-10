@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zme",{"zmeskal":{"word":"zmeskal","translation":"[人名] 茲梅斯卡爾","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

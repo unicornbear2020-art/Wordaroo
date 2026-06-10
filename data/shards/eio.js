@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eio",{"eio":{"word":"EIO","translation":"[計] 執行輸入輸出, 操作錯誤","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

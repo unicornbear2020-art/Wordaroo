@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rvp",{"rvp":{"word":"rvp","translation":"[醫][=rapid ventricular pacing]快速心室起搏","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wdc",{"wdc":{"word":"WDC","translation":"世界數據中心","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

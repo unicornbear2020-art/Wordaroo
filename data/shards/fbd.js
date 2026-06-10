@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fbd",{"fbd":{"word":"fbd","translation":"[醫][=fibrocystic breast disease]纖維囊性乳房疾病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'efb'i:d'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

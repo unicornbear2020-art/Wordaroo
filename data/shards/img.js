@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("img",{"img":{"word":"img","translation":"abbr. 美國國際管理集團（International Management Group）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

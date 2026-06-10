@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bfw",{"bfw":{"word":"bfw","translation":"abbr. 巴伐利亞飛機制造廠（Bayerische FlugZeug-Worke）；鍋爐給水（Boiler Feed Water）；地層水桶數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

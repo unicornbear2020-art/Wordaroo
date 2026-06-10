@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vsw",{"vswr":{"word":"vswr","translation":"n. voltage-requlator wave ratio","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

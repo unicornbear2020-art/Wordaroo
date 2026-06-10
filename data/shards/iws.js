@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iws",{"iws":{"word":"iws","translation":"abbr. Inland Waterway Service <美>內陸航道局","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

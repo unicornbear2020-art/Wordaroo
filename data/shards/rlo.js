@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rlo",{"rlogin":{"word":"rlogin","translation":"[計] 遠程登錄程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

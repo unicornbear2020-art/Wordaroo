@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zyr",{"zyrtec":{"word":"zyrtec","translation":"仙特敏","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

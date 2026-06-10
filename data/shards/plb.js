@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("plb",{"plb":{"word":"plb","translation":"abbr. personal locator beacon 人員失事示位信標; plumber 水管工人; plumbing 鉛工業; 鉛管品製造","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

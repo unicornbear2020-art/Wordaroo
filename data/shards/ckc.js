@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ckc",{"ckc":{"word":"ckc","translation":"[醫][=cold knife conization]冷凍（刀）錐形切除術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

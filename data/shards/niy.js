@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("niy",{"niyon":{"word":"niyon","translation":"一種馬六甲海峽雙浮體小艇","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'naijɔn/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

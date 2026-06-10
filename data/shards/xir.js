@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xir",{"xir":{"word":"xir","translation":"abbr. X-linked lymphocyte-regulated X-連鎖淋巴調節","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

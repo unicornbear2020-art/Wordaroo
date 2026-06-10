@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iky",{"iky":{"word":"iky","translation":"a. 狡猾的, 厚顏無恥的, 狂妄的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'aiki/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yil",{"yill":{"word":"yill","translation":"n. <蘇格蘭>麥芽酒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/jil/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

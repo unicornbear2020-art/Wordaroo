@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("txd",{"txd":{"word":"TXD","translation":"[計] 發送數據","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

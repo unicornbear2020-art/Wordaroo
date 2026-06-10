@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("puv",{"puva":{"word":"puva","translation":"abbr. psoralen (drug) + ultraviolet-A (fight) 補骨脂素（藥）+紫外線輻射（對抗）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

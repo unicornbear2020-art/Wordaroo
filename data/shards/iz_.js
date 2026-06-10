@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iz_",{"iz":{"word":"iz","translation":"n. (Iz)人名；(土)伊茲","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

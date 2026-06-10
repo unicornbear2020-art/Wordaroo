@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fsu",{"fsu":{"word":"fsu","translation":"abbr. freak student union 怪異學生聯盟","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

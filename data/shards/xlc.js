@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xlc",{"xlc":{"word":"xlc","translation":"abbr. xenon lamp collimator 氙燈平行光管，氙燈準直儀","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'eks'els'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

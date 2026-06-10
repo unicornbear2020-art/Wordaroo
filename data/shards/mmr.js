@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mmr",{"mmr":{"word":"MMR","translation":"abbr. 麻疹、腮腺炎和風疹的混合疫苗（measles, mumps, and rubella）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,em em 'a:(r)/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

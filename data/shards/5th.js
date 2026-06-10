@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("5th",{"5th":{"word":"5th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"5th is an abbreviation of fifth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"n. 第五（fifth）"}});

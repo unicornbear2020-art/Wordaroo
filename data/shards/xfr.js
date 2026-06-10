@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xfr",{"xfr":{"word":"xfr","translation":"[計]= Transfer,轉移，傳送，轉換","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

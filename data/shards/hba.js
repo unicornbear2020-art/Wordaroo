@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hba",{"hba":{"word":"hba","translation":"主機總線適配器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

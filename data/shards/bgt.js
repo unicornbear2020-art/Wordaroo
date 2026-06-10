@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bgt",{"bgt":{"word":"bgt","translation":"abbr. budget 預算","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

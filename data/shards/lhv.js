@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lhv",{"lhv":{"word":"lhv","translation":"abbr. liquid hydrogen vessel 液態氫容器; Low heat value 低熱值，低發熱量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

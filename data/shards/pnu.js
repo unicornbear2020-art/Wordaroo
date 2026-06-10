@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pnu",{"pnu":{"word":"pnu","translation":"[醫][=protein nitrogen unit]蛋白氮單位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

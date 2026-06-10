@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jf_",{"jf":{"word":"jf","translation":"abbr. 紀念郵資信封","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

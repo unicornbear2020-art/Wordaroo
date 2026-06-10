@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rdf",{"rdf":{"word":"RDF","translation":"無線電測向器, 無線電定向儀, 無線電探問, 無線電測向","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

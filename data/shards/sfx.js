@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sfx",{"sfx":{"word":"SFX","translation":"abbr. 特技效果（Special Effects Cinematography）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

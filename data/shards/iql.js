@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iql",{"iql":{"word":"IQL","translation":"[計] 交互詢問語言","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

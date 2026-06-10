@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ocb",{"ocb":{"word":"ocb","translation":"abbr. 油斷路器（oil circuit breaker）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

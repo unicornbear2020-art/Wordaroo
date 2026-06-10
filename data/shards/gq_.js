@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gq_",{"gq":{"word":"gq","translation":"abbr. 全船戰備部署（general quarters）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("s3_",{"s3 86c9xx":{"word":"S3 86C9xx","translation":"[計] 圖形加速芯片系列","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

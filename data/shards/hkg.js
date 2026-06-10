@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hkg",{"hkg":{"word":"hkg","translation":"abbr. 香港國際機場；中國香港（HongKong）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

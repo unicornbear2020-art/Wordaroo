@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pch",{"pch":{"word":"pch","translation":"預編譯頭文件; 由編譯器在建立工程時自動生成; 其中存放有工程中已經編譯的部分代碼; 在以後建立工程時不再重新編譯這些代碼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

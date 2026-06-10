@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ocs",{"ocs":{"word":"ocs","translation":"abbr. （美國）候補軍官學校（Officer Candidate School）；超速控制系統；振盪彩色順序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

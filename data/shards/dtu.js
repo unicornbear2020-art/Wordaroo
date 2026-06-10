@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dtu",{"dtu":{"word":"DTU","translation":"[計] 數據傳輸裝置, 數據轉換裝置","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

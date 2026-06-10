@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wnb",{"wnba":{"word":"WNBA","translation":"pref. 美國女子籃球聯盟","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

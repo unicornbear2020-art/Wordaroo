@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wn_",{"wn":{"word":"wn","translation":"abbr. 絞盤（winch）；營養良好的（well nourished）；西尼羅河（West Nile）；波數（wave number）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

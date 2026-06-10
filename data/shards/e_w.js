@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("e_w",{"e-wave":{"word":"e-wave","translation":"[電] E形波動","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

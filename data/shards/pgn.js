@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pgn",{"pgns":{"word":"pgns","translation":"abbr. Primary Guidance and Navigation System 初級制導與導航系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

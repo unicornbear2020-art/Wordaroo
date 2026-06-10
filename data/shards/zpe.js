@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zpe",{"zpe":{"word":"zpe","translation":"abbr. zero-point energy 初始能量起點能量，零點能量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/z'pe/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

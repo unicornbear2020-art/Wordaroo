@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fbr",{"fbr":{"word":"fbr","translation":"abbr. fast burst reactor 快速爆炸反應堆; fibre 纖維，纖維質","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pdo",{"pdo":{"word":"pdo","translation":"abbr. production design outline 產品設計草圖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/p'dəʊ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gct",{"gct":{"word":"GCT","translation":"格林威治民用時","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

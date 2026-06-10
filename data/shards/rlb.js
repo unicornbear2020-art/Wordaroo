@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rlb",{"rlb":{"word":"rlb","translation":"abbr. reliability 可靠性","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zh_",{"zh":{"word":"zh","translation":"abbr. 深圳航空公司；溶劑型氯化天然橡膠膠粘劑","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

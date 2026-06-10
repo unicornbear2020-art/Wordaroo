@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cb_",{"cb":{"word":"CB","translation":"n. 平民波段\n[醫] 鈳(41號元素鈮的舊名)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

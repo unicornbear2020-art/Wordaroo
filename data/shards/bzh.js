@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bzh",{"bzh":{"word":"BZH","translation":"[機] 苯醛","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

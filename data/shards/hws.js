@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hws",{"hws":{"word":"hws","translation":"abbr. hot-water soluble 熱水（可）溶解（的），熱水可溶性; hot-water system 熱水系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'etʃd'əbəlju:'es/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

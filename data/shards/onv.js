@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("onv",{"onventions-creations":{"word":"onventions-creations","translation":"[法] 發明創造","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zu_",{"zu":{"word":"zu","translation":"n. 巴比倫神話中的風雨神","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/zu:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n. evil storm god represented as a black bird","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

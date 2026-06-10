@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lsw",{"lsw":{"word":"lsw","translation":"abbr. limit switch(ing) 限位開關，極限開關","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

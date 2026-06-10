@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dbk",{"dbk":{"word":"dbk","translation":"[電] 相對於一仟瓦的分貝","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

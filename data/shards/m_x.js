@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("m_x",{"m-xylene":{"word":"m-xylene","translation":"[化] 間二甲苯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

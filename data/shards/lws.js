@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lws",{"lws":{"word":"lws","translation":"abbr. Late West Saxon 後期西撒克遜語","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

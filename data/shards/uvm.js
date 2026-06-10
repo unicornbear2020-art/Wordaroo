@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uvm",{"uvm":{"word":"uvm","translation":"[醫][=ultraviolet meter]紫外線計","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

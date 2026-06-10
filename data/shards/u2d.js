@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("u2d",{"u2d":{"word":"u2d","translation":"[計] UNIX到DOS的文本轉換實用程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

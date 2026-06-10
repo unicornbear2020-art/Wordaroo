@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yyy",{"yyy":{"word":"yyy","translation":"n. 代替具體的名稱、數據等","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

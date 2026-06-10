@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gpg",{"gpg":{"word":"gpg","translation":"abbr. grains per gallon 格令/加侖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

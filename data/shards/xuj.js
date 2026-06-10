@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xuj",{"xujiahui":{"word":"Xujiahui","translation":"n. (地名)徐家彙","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

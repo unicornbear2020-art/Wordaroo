@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("klh",{"klh":{"word":"klh","translation":"abbr. keyhole limpet hemoeyanin (KLH) 鑰孔血藍蛋白","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

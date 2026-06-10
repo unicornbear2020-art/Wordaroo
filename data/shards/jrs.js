@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jrs",{"jrs":{"word":"jrs","translation":"(jr 的複數) abbr. 初級, 小 Junior","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"plural of jr\nn a son who has the same first name as his father","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

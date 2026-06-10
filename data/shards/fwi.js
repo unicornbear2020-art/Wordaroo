@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fwi",{"fwiw":{"word":"FWIW","translation":"不管有用與否；無論價值如何（是 for what it's worth 的縮寫）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

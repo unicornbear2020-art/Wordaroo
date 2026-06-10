@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ltc",{"ltc":{"word":"LTC","translation":"abbr. 長期護理（Long Term Care）；有線線路分配器（Londline Trunk Coutroller）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

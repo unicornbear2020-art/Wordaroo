@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hhs",{"hhs":{"word":"hhs","translation":"abbr. (Department of)Health and Human Services <美>衞生和福利部","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ˌeɪtʃ eɪtʃ ˈes/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

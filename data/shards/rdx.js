@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rdx",{"rdx":{"word":"RDX","translation":"[化] 黑索今; 旋風炸藥","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:di:'eks/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ujb",{"ujb":{"word":"ujb","translation":"abbr. umbilical junction box 連接電纜接線盒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

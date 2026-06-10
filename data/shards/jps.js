@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jps",{"jps":{"word":"JPs","translation":"abbr. 猶太人出版學會（Jewish Publication Society）；少年教養所（Juvenile Probation Service）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

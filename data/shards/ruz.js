@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ruz",{"ruz":{"word":"ruz","translation":"abbr. random union of zygotes 受精卵隨機結合","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

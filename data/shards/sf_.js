@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sf_",{"sf":{"word":"SF","translation":"[計] 比例因子, 棧前, 棧滿","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

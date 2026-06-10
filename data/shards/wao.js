@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wao",{"wao":{"word":"wao","translation":"abbr. wet-air oxidation 濕氣氧化作用","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

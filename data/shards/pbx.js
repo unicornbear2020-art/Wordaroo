@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pbx",{"pbx":{"word":"PBX","translation":"[計] 專用小型交換機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

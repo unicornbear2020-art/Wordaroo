@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ayh",{"ayh":{"word":"AYH","translation":"abbr. 美國青年招待所聯合會（American Youth Hostels）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

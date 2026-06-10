@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rfg",{"rfg":{"word":"rfg","translation":"abbr. reformulated gasoline 重整汽油; refunding 歸還; 償還; roofing 蓋屋頂","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

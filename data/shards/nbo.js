@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nbo",{"nbo":{"word":"nbo","translation":"[醫][=nonbed occupancy]無牀被佔用，非佔用牀，空牀","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

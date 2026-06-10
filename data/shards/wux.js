@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wux",{"wuxi":{"word":"wuxi","translation":"n. 無錫（中國江蘇省城市）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'wu:'ʃi:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

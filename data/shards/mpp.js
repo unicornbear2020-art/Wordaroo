@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mpp",{"mpp":{"word":"MPP","translation":"[計] 大規模並行處理機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

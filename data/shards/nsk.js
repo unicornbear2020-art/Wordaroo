@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nsk",{"nsk":{"word":"nsk","translation":"abbr. 日本精工株式會社（Nippon Seikō Kabushiki Kaisha）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

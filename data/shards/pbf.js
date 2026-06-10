@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pbf",{"pbf":{"word":"pbf","translation":"[醫][=peripheral blood flow]外周血流（量），末梢血流量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'pi:b'i:'ef/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

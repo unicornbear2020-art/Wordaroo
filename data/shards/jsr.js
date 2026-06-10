@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jsr",{"jsr":{"word":"jsr","translation":"abbr. 日本合成橡膠公司（Japan Synthetic Rubber Co）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

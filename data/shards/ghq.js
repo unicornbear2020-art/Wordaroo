@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ghq",{"ghq":{"word":"GHQ","translation":"統帥部, 總司令部","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n military headquarters from which a military commander controls and organizes the forces","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

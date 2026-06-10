@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("icw",{"icw":{"word":"icw","translation":"abbr. in compliance with 按照; 依從; in connection with 與…有關; 與…相連","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

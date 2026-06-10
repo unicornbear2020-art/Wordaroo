@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ud_",{"ud":{"word":"ud","translation":"abbr. 水下爆破（Underwater Demolition）；聯合乳品公司（United Dairies）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sfq",{"sfq":{"word":"sfq","translation":"abbr. Sanliurfa; Turkey 土耳其; 尚利烏爾法機場（代碼）; single flux quantum 單磁通量子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

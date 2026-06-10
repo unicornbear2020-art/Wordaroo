@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("akw",{"akwa":{"word":"akwa","translation":"n. 印度木棉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'eɪkwə/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

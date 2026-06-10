@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dnh",{"dnhring's disease":{"word":"Dnhring's disease","translation":"[醫] 杜林氏病, 皰疹樣皮炎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

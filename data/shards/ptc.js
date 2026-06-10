@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ptc",{"ptc":{"word":"PTC","translation":"[醫] 苯硫脲, 血漿凝血致活酶成分, 凝血第九因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

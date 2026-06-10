@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kpn",{"kpno":{"word":"kpno","translation":"abbr. Kitt Peak National Observatory 基特峯國家天文台","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

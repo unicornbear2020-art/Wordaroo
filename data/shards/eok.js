@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eok",{"eoka":{"word":"EOKA","translation":"n. [史]埃奧卡( 希臘語\" 為塞浦路斯而鬥爭全國組織\")","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ei'әjkә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

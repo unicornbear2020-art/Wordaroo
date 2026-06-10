@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fdu",{"fdu":{"word":"fdu","translation":"Fairleigh Dickinson University; 美國菲林迪金森大學","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

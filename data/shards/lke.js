@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lke",{"lke":{"word":"lke","translation":"abbr. longitudinal Kerr effect 縱向克爾效應","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

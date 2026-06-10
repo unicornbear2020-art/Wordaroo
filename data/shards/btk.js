@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("btk",{"btk":{"word":"btk","translation":"abbr. buttock 船艄，（船體的）縱剖面","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'bi:t'i:k'eɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

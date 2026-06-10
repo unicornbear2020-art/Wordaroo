@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bfs",{"bfs":{"word":"BFS","translation":"abbr. 寬度優先搜索（breadth first search）；油壓緩衝器開關","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

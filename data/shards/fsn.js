@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fsn",{"fsn":{"word":"fsn","translation":"abbr. flaky skin 成片易剝落的皮膚","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

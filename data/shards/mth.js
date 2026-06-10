@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mth",{"mth":{"word":"mth","translation":"[經] 月","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pqe",{"pqe":{"word":"pqe","translation":"abbr. post-qualification education 合格後教育","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("phb",{"phb":{"word":"PhB","translation":"abbr. 聚羥基丁酸酯；豬頭老闆（Pig-Head Boss）；每跳行為（Per-Hop Behavior）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

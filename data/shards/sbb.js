@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sbb",{"sbb":{"word":"sbb","translation":"雙耳同時冷熱試驗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

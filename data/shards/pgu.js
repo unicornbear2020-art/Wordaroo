@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pgu",{"pgup":{"word":"pgup","translation":"n. 頁上移鍵(Page Up的縮寫)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

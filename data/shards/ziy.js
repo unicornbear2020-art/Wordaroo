@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ziy",{"ziyang":{"word":"Ziyang","translation":"資陽（地名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

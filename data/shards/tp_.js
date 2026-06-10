@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tp_",{"tp":{"word":"TP","translation":"[計] 磁帶, 終端打印機, 終端處理器, 終端協議, 測試程序, 事務處理","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

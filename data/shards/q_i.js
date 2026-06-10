@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("q_i",{"q.i.d.":{"word":"q.i.d.","translation":"[醫] 每日四次","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

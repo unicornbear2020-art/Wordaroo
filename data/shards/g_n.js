@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("g_n",{"g-n ratio":{"word":"G-N ratio","translation":"[醫] 糖氮比率, D-N比率","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

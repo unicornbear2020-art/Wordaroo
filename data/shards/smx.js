@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("smx",{"smx":{"word":"smx","translation":"abbr. serial microxerography 連續微靜電覆印; sulphamethoxazole 磺胺甲基異噁唑","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

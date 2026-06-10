@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xtp",{"xtp":{"word":"xtp","translation":"[計]= eXpress Transfer Protocol,快速傳送協議","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fga",{"fga":{"word":"FGA","translation":"國外一般代理人, 國外共同海損險, 共同海損不保在內","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wtb",{"wtb":{"word":"wtb","translation":"n. （遊戲用語） Wanting to buy,想要購買; [計]= Write Tape Binary,二進制寫帶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tsf",{"tsf":{"word":"tsf","translation":"[醫][=skin-fold thickness]皮褶厚度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:'es'ef/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

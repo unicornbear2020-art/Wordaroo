@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tnr",{"tnr":{"word":"tnr","translation":"[醫][=tonic neck reflex]緊張性頸反射，頸強直性反射","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

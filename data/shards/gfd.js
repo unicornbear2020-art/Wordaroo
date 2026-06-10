@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gfd",{"gfdl":{"word":"gfdl","translation":"abbr. Geophysical Fluid Dynamics Laboratory <美國>地球物理流體力學實驗室","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

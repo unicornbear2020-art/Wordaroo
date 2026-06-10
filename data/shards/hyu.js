@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hyu",{"hyundai":{"word":"Hyundai","translation":"n. 現代（公司名, 韓國最大汽車企業）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

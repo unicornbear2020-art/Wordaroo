@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("acv",{"acv":{"word":"ACV","translation":"abbr. 氣墊船（air-cushion vehicle）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

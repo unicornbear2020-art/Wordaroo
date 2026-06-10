@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("evp",{"evp":{"word":"evp","translation":"[醫][=episcleral venous pressure]淺層鞏膜靜脈壓","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'i:vp/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

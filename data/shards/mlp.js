@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mlp",{"mlp":{"word":"MLP","translation":"[計] 多鏈路規程, 元級程序設計","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

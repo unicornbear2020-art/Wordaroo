@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bdp",{"bdp":{"word":"bdp","translation":"abbr. 商業數據處理（Business Data Processing）；銀行人進修項目（Banker Development Program）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

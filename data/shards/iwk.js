@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iwk",{"iwk":{"word":"iwk","translation":"abbr. issuer working key 發行卡工作密鑰","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

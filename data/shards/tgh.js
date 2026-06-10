@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tgh",{"tgh":{"word":"tgh","translation":"abbr. tough 固執的，頑固的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

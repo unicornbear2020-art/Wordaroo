@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kv_",{"kv":{"word":"kv","translation":"[醫] 千伏[特]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a unit of potential equal to a thousand volts","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

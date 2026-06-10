@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("g20",{"g20":{"word":"g20","translation":"abbr. 20國集團（Group20）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

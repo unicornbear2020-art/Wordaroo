@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fmu",{"fmu":{"word":"fmu","translation":"abbr. force measurement unit 法定計量單位; freight multiple unit 貨物重置價值單位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/f'mʌ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

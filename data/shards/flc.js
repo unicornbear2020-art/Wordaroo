@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("flc",{"flc":{"word":"FLC","translation":"[計] 固定長度編碼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

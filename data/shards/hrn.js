@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hrn",{"hrn":{"word":"hrn","translation":"[計]= Highest Response-ratio Next,下一最高回答率","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

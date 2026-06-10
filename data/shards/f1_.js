@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("f1_",{"f1":{"word":"F1","translation":"[醫] 第一子代","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jct",{"jct":{"word":"jct","translation":"abbr. junction 接合, 匯接點, 中斷線","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒeɪs'i:t'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

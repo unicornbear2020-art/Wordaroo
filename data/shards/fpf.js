@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fpf",{"fpf":{"word":"fpf","translation":"[醫][=fetal pulmonary fluid]胎兒肺液","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'efp'i:'ef/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

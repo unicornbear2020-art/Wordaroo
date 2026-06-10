@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bck",{"bck":{"word":"bck","translation":"[計]= BaCKspace,退格，回退","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

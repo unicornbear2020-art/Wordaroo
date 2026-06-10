@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wjr",{"wjr":{"word":"wjr","translation":"abbr. Wajir, Kenya 肯尼亞，瓦衣爾機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

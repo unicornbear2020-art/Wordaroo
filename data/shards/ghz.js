@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ghz",{"ghz":{"word":"GHz","translation":"[計] 千兆赫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n 1,000,000,000 periods per second","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("srv",{"srv":{"word":"srv","translation":"abbr. 航天營救飛行器（Space Rescue Vehicle）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iu_",{"iu":{"word":"IU","translation":"國際單位\n[計] 信息單元, 輸入設備, 指令部件, 接口部件","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

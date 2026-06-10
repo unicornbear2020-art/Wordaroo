@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mj_",{"mj":{"word":"mj","translation":"abbr. 瑪帝脂接縫（Mastic Joint）；[物]兆焦耳（megajoule）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

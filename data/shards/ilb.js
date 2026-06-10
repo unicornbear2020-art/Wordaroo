@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ilb",{"ilb":{"word":"ilb","translation":"abbr. inshore lifeboat 海岸救生艇","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

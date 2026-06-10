@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qoe",{"qoeckenstedt's test":{"word":"Qoeckenstedt's test","translation":"[醫] 奎肯斯提特氏試驗, 奎肯斯提特氏徵(頸靜脈徵)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

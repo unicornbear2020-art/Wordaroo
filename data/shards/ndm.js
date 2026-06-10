@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ndm",{"ndm":{"word":"ndm","translation":"[醫][=nucleus dorsomedialis]（拉）背內側核","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

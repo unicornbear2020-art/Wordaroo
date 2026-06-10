@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ja_",{"ja":{"word":"JA","translation":"數人共有的銀行存款帳户, 聯合代理人, 軍法官, 軍法檢查官","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/jɑ:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jo_",{"jo":{"word":"jo","translation":"abbr. 喬（女子名, 等於Joseph, Josephine）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/dʒәu/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n. A sweetheart; a darling.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

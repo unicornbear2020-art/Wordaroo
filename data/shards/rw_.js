@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rw_",{"rw":{"word":"rw","translation":"abbr. 盧旺達（Rwanda）；輻射武器（radiation weapon）；輻射戰（radiological warfare）；閣下（Right worshipful）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hsm",{"hsm":{"word":"hsm","translation":"abbr. [計]高速存儲器（High-Speed Memory）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

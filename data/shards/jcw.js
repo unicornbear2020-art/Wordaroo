@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jcw",{"jcw":{"word":"jcw","translation":"abbr. job control word 作業控制字; justification control word 碼速調整控制字; J·C·Williamson J·C·威廉森","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

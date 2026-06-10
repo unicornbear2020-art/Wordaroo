@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("s_q",{"s-quad":{"word":"s-quad","translation":"[電] S-線組","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

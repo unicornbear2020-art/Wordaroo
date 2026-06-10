@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jbc",{"jbc":{"word":"jbc","translation":"[醫][=Jesness Behavior Checkist]傑斯內斯行為一覽表","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bjt",{"bjt":{"word":"bjt","translation":"abbr. 北京時間（BeiJing Time）；雙極結晶體管（Bipolar Junction Transistor）；商務日語能力考試","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

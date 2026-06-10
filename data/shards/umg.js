@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("umg",{"umg":{"word":"umg","translation":"abbr. upgraded metallurgical grade 高級冶金級; urinary milk of calcium 尿中鈣乳","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kpm",{"kpmg":{"word":"KPMG","translation":"abbr. 畢馬威會計事務所","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

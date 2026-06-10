@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("glt",{"glt":{"word":"glt","translation":"abbr. gilt 鍍金的; 燙金的; greeting letter telegram 書信賀電; 問候電報","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

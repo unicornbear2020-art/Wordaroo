@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zwo",{"zwolle":{"word":"Zwolle","translation":"n. 茲沃勒（荷蘭的城市）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'zvɔlə/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mgt",{"mgt":{"word":"mgt","translation":"abbr. management 經營, 管理, 資方","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'emdʒ'i:t'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rfu",{"rfu":{"word":"RFU","translation":"放射免疫聚焦裝置（radiommunofocus unit）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

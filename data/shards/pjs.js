@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pjs",{"pjs":{"word":"pjs","translation":"[醫][=peritoneojugular shunt]腹腔頸靜脈分流術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'pi:dʒ'eɪ'es/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

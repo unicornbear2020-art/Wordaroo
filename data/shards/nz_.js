@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nz_",{"nz":{"word":"NZ","translation":"[計] 非零\n[經] 新西蘭","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

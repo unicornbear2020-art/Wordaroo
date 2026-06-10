@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lk_",{"lk":{"word":"lk","translation":"abbr. 斯里蘭卡（Sri Lanka）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

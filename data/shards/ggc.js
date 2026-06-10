@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ggc",{"ggc":{"word":"ggc","translation":"abbr. ground guidance computer 地面制導計算機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

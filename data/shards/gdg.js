@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gdg",{"gdg":{"word":"GDG","translation":"[計] 數據組世代","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

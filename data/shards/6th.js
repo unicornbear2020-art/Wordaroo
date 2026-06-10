@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("6th",{"6th":{"word":"6th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"6th is an abbreviation of sixth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"第六(sixth)"}});

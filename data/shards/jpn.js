@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jpn",{"jpn":{"word":"Jpn","translation":"abbr. 日本；日本人","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

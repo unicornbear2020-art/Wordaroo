@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ssq",{"ssq":{"word":"ssq","translation":"abbr. simple sinusoidal quantity 簡單的正弦曲線數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

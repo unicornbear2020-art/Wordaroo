@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jcb",{"jcb":{"word":"JCB","translation":"abbr. 作業控制塊（Job Control Block）；日本國際信用卡公司（Japan Credit Bureau）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,dʒei si: 'bi:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

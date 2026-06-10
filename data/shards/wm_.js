@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wm_",{"wm":{"word":"wm","translation":"abbr. 水錶（water flowmeter）；威廉（William）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

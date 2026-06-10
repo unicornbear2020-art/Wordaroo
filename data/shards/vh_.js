@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vh_",{"vh":{"word":"vh","translation":"abbr. 場幅；重鏈可變區","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

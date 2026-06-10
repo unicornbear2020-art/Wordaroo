@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("v_j",{"v-j day":{"word":"V-J Day","translation":"抗日戰爭勝利日(指1945年8月15日日本在第二次世界大戰中宣佈無條件投降日或1945年9月2日日本正式簽字投降日)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'vi:'dʒei/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

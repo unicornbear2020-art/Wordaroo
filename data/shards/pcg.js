@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pcg",{"pcg":{"word":"pcg","translation":"abbr. Phonocardiogram 心音圖; （心臟）聲電圖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

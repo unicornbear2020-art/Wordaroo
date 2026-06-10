@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("npu",{"npu":{"word":"npu","translation":"[醫][=national pharmaceutical union]全國藥學聯合會，全國製藥聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

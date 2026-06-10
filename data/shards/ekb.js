@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ekb",{"ekberg":{"word":"ekberg","translation":"[人名] 埃克伯格","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

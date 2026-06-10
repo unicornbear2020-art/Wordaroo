@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hkt",{"hkt":{"word":"hkt","translation":"abbr. Phuket, Thailand 泰國，普吉機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

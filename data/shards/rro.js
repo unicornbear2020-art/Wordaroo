@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rro",{"rrom":{"word":"rrom","translation":"abbr. rewritable read-only memory 可重寫只讀存儲器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

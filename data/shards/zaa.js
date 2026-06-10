@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zaa",{"zaandam":{"word":"zaandam","translation":"[地名] [荷蘭] 贊丹","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

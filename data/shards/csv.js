@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("csv",{"csv":{"word":"csv","translation":"abbr. 戰鬥支援車（Combat Support Vehicle）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jss",{"jss":{"word":"jss","translation":"日本外科學會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

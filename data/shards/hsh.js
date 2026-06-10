@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hsh",{"hsh":{"word":"hsh","translation":"abbr. His （或 Her） Serene Highness 尊貴的殿下（間接提及時用）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

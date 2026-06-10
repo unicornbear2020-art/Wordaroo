@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rcf",{"rcf":{"word":"rcf","translation":"[醫][=red cell filterability]紅細胞可濾性","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:rs'i:'ef/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

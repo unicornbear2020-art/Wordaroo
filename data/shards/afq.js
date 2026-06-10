@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("afq",{"afqt":{"word":"afqt","translation":"[醫][=armed forces gualification test]武裝部隊鑑定試驗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

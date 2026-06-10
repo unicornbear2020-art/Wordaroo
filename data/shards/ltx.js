@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ltx",{"ltx":{"word":"ltx","translation":"abbr. labile toxin 不穩定性毒素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

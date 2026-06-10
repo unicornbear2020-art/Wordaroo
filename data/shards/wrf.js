@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wrf",{"wrfg":{"word":"wrfg","translation":"abbr. wharfage 碼頭（總稱）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'dəbəlju:'ɑ:r'efdʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wti",{"wti":{"word":"wti","translation":"n. 西得克薩斯輕油; West Texas Intermediate (WTI)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

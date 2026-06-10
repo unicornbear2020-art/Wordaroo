@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rke",{"rke":{"word":"rke","translation":"abbr. Copenhagen; Denmark 丹麥; 哥本哈根機場（代碼）; remote keyless entry 遠程無密鑰輸入","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

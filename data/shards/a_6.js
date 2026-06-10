@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("a_6",{"a-6s":{"word":"a-6s","translation":"＝intruder","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

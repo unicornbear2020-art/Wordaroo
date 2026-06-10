@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dgo",{"dgo":{"word":"dgo","translation":"[醫][=Diploma in Gynaecology and Obstetrics]婦產科學文憑","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

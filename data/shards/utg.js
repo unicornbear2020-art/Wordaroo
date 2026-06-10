@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("utg",{"utgard":{"word":"Utgard","translation":"n. (北歐神話)外宮(指Utgard-Loki 統治下約頓巨人之家位於仙宮與塵世之外的部分)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'u:t^ɑ:d,'jt-/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tci",{"tci":{"word":"tci","translation":"abbr. trip-cancellation insurance 取消旅行保險","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

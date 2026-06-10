@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("etp",{"etp":{"word":"etp","translation":"[醫][=electron transfer particle]電子傳遞粒子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

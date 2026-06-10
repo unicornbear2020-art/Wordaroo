@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ftr",{"ftra":{"word":"ftra","translation":"abbr. Freight Train Riders of America 美國貨運火車附加條款","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

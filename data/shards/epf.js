@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("epf",{"epf":{"word":"epf","translation":"abbr. electric and percussion fuze 電爆引信; electric and percussion fuze 電爆引信","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

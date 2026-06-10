@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nfu",{"nfu":{"word":"NFU","translation":"abbr. （英）全國農場主聯合會（National Farmers’ Union）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

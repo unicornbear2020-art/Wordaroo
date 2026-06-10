@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uhf",{"uhf":{"word":"UHF","translation":"n. 超高頻\n[電] 超高頻的簡寫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n 300 to 3000 megahertz","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

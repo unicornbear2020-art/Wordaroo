@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("r_l",{"r.l.l.":{"word":"R.L.L.","translation":"[醫] 右下葉(肺)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

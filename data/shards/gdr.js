@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gdr",{"gdr":{"word":"gdr","translation":"abbr. guard rail 保護欄杆, 護軌","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

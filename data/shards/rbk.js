@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rbk",{"rbk":{"word":"rbk","translation":"abbr. remote break 遠程中斷; right bank 右傾（角）; 右存儲體; Royal Borough of Kenington 肯尼頓自治區（倫敦地名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

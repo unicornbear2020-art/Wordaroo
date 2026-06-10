@@ -1,0 +1,36 @@
+[
+  {
+    "word": "Noiro",
+    "translation": "星辰之中；置身繁星之間",
+    "regions": [],
+    "pronunciations": {
+      "UK": [],
+      "US": [],
+      "AU": [],
+      "OTHER": []
+    },
+    "meanings": [
+      {
+        "pos": "proper noun · masculine given name",
+        "senses": [
+          {
+            "gloss": "A masculine given name meaning “among the stars”.",
+            "glossZh": "男性名字，意思是「星辰之中」或「置身繁星之間」。",
+            "labels": [
+              "male name",
+              "given name",
+              "proper noun"
+            ],
+            "examples": [
+              {
+                "en": "The name Noiro carries the meaning “among the stars”.",
+                "zh": "Noiro 這個名字帶有「置身繁星之間」的意思。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "forms": []
+  }
+]

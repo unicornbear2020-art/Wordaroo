@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yuq",{"yuquilla":{"word":"yuquilla","translation":"[委內瑞拉]尤奎拉(韌皮纖維)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,ju'kwilә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

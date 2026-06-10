@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rpp",{"rpp":{"word":"rpp","translation":"[醫][=rate-pressure product]心率血壓乘積","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:rp'i:p'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

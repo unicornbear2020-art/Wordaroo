@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hyx",{"hyxosephosphate dehydrogenase":{"word":"hyxosephosphate dehydrogenase","translation":"[醫] 磷酸己糖脱氫酶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

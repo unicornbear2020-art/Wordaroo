@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dfn",{"dfn":{"word":"dfn","translation":"abbr. distance from nose 離鼻子的距離","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'di:'ef'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

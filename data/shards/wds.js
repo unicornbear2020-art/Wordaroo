@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wds",{"wds":{"word":"wds","translation":"abbr. words 文字; wounds （複數）傷口; word discrimination score 字的辨別度; wood-dye stain 木染污跡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

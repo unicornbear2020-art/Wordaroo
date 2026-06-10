@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("idx",{"idx":{"word":"idx","translation":"abbr. 索引文件（Index file）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

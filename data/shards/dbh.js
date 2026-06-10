@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dbh",{"dbh":{"word":"DBH","translation":"abbr. 胸高直徑（diameter at breast height, 等於dbh, d.b.h.）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tvr",{"tvr":{"word":"tvr","translation":"abbr. 電視錄象（Television Recording）；電阻温度變化（temperature variation of resistance）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

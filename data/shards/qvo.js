@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qvo",{"qvod":{"word":"qvod","translation":"abbr. 準視頻點播（Quasi Video On Demand）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

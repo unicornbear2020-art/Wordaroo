@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mh_",{"mh":{"word":"mh","translation":"abbr. 報文處理程序（message handler）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

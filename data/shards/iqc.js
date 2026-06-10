@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iqc",{"iqc":{"word":"iqc","translation":"abbr. 進料檢驗（Input Quality Control）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

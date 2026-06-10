@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lny",{"lny":{"word":"lny","translation":"abbr. Lanai City, Lanai, Hawaii 夏威夷，拉奈島拉奈機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

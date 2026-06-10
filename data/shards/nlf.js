@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nlf",{"nlf":{"word":"NLF","translation":"abbr. 民族解放陣線（National Liberation Front）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

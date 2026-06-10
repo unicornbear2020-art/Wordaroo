@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ydc",{"ydc":{"word":"ydc","translation":"abbr. yaw-damping computer 偏航阻尼器計算機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'aɪdk/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

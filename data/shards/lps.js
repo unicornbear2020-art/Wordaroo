@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lps",{"lps":{"word":"lps","translation":"abbr. 升/秒（liters per second）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a long-playing phonograph record; designed to be played at 33.3 rpm","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

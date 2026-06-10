@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("u2_",{"u2":{"word":"u2","translation":"n. 英國著名樂隊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

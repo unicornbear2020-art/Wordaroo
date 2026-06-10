@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dkm",{"dkm":{"word":"dkm","translation":"abbr. decametre 十米; dekameter 十米","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'di:k'eɪ'em/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dnb",{"dnb":{"word":"DNB","translation":"abbr. 《英國人名詞典》（Dictionary of National Biography）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

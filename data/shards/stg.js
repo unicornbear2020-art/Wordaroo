@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("stg",{"stg":{"word":"STG","translation":"abbr. 射擊遊戲（Shooting Game）；系統與科技事業部（System & Technology Group）；空間特遣大隊（Space Task Group）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

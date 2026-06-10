@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kfc",{"kfc":{"word":"kfc","translation":"abbr. 肯德基（Kentucky Fried Chicken, 快餐連鎖店品牌）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

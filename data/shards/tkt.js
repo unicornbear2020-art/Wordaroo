@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tkt",{"tkts":{"word":"tkts","translation":"abbr. thermodynamic Kelvin temperature scale 熱力學凱氏温標","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bbl",{"bbl":{"word":"bbl","translation":"桶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. any of various units of capacity","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wto",{"wto":{"word":"WTO","translation":"[計] 給操作員送信息","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n an international organization based in Geneva that monitors and enforces rules governing global trade","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

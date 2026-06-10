@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jiz",{"jizz":{"word":"jizz","translation":"n. [俚]精力；[粗]精液","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/dʒiz/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

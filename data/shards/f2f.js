@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("f2f",{"f2f":{"word":"F2F","translation":"[計] 面對面","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

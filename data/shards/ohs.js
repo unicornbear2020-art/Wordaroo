@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ohs",{"ohs":{"word":"ohs","translation":"[=obesity hypoventilation syndrome]肥胖通氣不足綜合徵","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

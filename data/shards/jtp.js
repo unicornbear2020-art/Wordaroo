@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jtp",{"jtpa":{"word":"jtpa","translation":"abbr. Job Training Partnership Act 工作訓練合作條例","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

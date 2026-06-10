@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("clv",{"clv":{"word":"CLV","translation":"[計] 恆定線速度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"s being five more than one hundred fifty","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

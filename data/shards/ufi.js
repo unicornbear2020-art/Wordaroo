@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ufi",{"ufi":{"word":"UFI","translation":"[計] 用户方便接口","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

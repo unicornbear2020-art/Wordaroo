@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gl2",{"gl2":{"word":"Gl2","translation":"[醫] 氯化苯甲烴銨, 氯化苄烷銨(潔爾滅)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

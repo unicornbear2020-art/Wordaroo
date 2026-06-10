@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sdb",{"sdb":{"word":"sdb","translation":"abbr. 存儲數據緩衝器（Store Data Buffer）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

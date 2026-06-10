@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rlp",{"rlpa":{"word":"rlpa","translation":"abbr. rotating log periodic antenna 旋轉對數週期天線","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

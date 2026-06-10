@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sjb",{"sjb":{"word":"sjb","translation":"n. （網絡用語）神經病，髒話，慎用。","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

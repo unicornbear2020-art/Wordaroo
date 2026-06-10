@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cfg",{"cfg":{"word":"cfg","translation":"abbr. 上下文無關文法；控制流圖control flow graph","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

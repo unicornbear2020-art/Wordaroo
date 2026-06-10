@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lwm",{"lwm":{"word":"LWM","translation":"abbr. 低潮標誌（Low Water Mark）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

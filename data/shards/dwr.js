@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dwr",{"dwr":{"word":"dwr","translation":"abbr. drawer 開票人，製圖員","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dwn",{"dwn":{"word":"dwn","translation":"abbr. down 向下的，向下","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

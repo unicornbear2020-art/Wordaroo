@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lmb",{"lmb":{"word":"lmb","translation":"[醫][=laboratory of molecular biology]分子生物學實驗室","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'el'emb'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

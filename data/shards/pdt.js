@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pdt",{"pdt":{"word":"PDT","translation":"太平洋夏季時間","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

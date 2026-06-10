@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rlc",{"rlc":{"word":"RLC","translation":"一維行程編碼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

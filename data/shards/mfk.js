@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mfk",{"mfk":{"word":"mfk","translation":"abbr. multifunction keyboard 多功能鍵盤","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

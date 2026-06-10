@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("plj",{"pljcotomy":{"word":"pljcotomy","translation":"[醫] 鼓膜襞切斷術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

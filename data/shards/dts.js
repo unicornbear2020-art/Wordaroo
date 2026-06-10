@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dts",{"dts":{"word":"DTS","translation":"[計] 數據傳輸系統, 對話終端系統, 數字終端系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n acute delirium caused by alcohol poisoning","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

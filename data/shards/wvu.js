@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wvu",{"wvu":{"word":"wvu","translation":"abbr. West Virginia University 西弗吉尼亞州立大學","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

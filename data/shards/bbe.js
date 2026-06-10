@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bbe",{"bbe":{"word":"bbe","translation":"abbr. 商務教育學士（Bachelor of Business Education）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

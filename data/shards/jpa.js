@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jpa",{"jpa":{"word":"JPA","translation":"[計] 作業裝配區","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

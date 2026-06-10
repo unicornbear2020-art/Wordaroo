@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lrf",{"lrf":{"word":"lrf","translation":"abbr. liver residue factor 肝臟殘餘因素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

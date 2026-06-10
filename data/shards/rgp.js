@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rgp",{"rgp":{"word":"rgp","translation":"[醫][=retrograde pyelogram]逆行腎盂x線照片","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:rdʒ'i:p'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

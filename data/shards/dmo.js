@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dmo",{"dmo":{"word":"dmo","translation":"傾角時差校正","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tiu",{"tiu":{"word":"Tiu","translation":"n. 蒂烏(日耳曼神話中的戰爭和天空之神)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:u:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n god of war and sky; counterpart of Norse Tyr","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

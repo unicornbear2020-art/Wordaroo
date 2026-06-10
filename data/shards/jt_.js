@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jt_",{"jt":{"word":"jt","translation":"abbr. 連接（joint）；接合（joint）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

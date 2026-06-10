@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("clx",{"clx":{"word":"clx","translation":"最高潮","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'si:'el'eks/"]},"meanings":[{"pos":"word","senses":[{"gloss":"s being ten more than one hundred fifty","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ibl",{"iblis":{"word":"iblis","translation":"n. 惡魔","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'aiblis/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

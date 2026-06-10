@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ekg",{"ekg":{"word":"EKG","translation":"[醫] 心[動]電[流]圖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a graphical recording of the cardiac cycle produced by an electrocardiograph","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

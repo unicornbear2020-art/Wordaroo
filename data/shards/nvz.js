@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nvz",{"nvz":{"word":"nvz","translation":"abbr. non-vaccinated zone 非[預防]接種區","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

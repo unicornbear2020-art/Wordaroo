@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("crx",{"crx":{"word":"crx","translation":"abbr. cefroxadine 頭孢沙定（抗生素）; cone-rod homeobox 錐杆同源框","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

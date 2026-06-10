@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xem",{"xeme":{"word":"xeme","translation":"n. [鳥]北極鷗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/zi:m/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n. An Arctic fork-tailed gull (Xema Sabinii).","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

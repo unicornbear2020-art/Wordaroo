@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mz_",{"mz":{"word":"mz","translation":"abbr. 平均粒度（Mean Grain Size）；地中海區域（Mediterranean Zone）；中帶（Middle Zone）；莫桑比克（Mozambique）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

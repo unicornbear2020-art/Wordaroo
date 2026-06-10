@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rbg",{"rbg":{"word":"rbg","translation":"[醫][=reverse brdu giemsa band]brdu吉姆薩反轉帶，5-溴脱氧尿苷吉姆薩反轉帶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:rb'i:dʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

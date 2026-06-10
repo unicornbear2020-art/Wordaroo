@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wih",{"wih":{"word":"wih","translation":"abbr. went in hole 進洞","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'wɪh/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

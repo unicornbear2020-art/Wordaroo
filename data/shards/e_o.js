@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("e_o",{"e-o":{"word":"e-o","translation":"abbr. electro-optical 電光的; even-odd 成效或反正機會均等","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'i:'əʊ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

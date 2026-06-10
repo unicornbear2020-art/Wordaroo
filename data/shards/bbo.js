@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bbo",{"bbo":{"word":"bbo","translation":"偏硼酸鋇（晶體）；助推器燒燬（Booster Burnout）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

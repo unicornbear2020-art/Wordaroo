@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zyp",{"zyprexa":{"word":"zyprexa","translation":"[醫]再普樂（含olanzapine）<抗精神病藥>","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

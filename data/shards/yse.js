@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yse",{"yser":{"word":"Yser","translation":"伊瑟河(源於法國北部, 流經比利時西北部, 入北海)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/i:'zer/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

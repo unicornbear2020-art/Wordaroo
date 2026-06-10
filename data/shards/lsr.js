@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lsr",{"lsr":{"word":"lsr","translation":"abbr. lens shutter reflex 阻擋反射透鏡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

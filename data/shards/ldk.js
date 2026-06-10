@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ldk",{"ldk":{"word":"ldk","translation":"abbr. lower deck 下甲板","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'eld'i:k'eɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

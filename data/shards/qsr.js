@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qsr",{"qsr":{"word":"qsr","translation":"abbr. quick-strike reconnaissance 快速攻擊偵察","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

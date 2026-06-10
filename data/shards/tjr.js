@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tjr",{"tjr":{"word":"tjr","translation":"[醫][=total joint replacements]全關節置換術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wsn",{"wsna":{"word":"wsna","translation":"abbr. Washington State Nurses Association 華盛頓州護士協會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

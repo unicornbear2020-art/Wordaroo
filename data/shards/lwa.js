@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lwa",{"lwa":{"word":"lwa","translation":"[計]= Last Word Address,末字地址","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

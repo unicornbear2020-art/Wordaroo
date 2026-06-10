@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xn_",{"xn":{"word":"xn","translation":"abbr. 無新股票權（ex new）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

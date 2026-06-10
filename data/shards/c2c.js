@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c2c",{"c2c":{"word":"c2c","translation":"abbr. 消費者對消費者的電子商務模式（Consumer To Consumer）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

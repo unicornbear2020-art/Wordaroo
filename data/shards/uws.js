@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uws",{"uws":{"word":"uws","translation":"(uw 的第三人稱 -s形式) abbr. 華盛頓大學（University of Washington）；水下的（Underwater）；超聲波（Ultrasonic Wave）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"-s form of uw","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

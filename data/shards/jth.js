@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jth",{"jth":{"word":"jth","translation":"abbr. journal tape handler 日誌磁帶處理裝置","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

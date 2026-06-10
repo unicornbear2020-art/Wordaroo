@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iiz",{"iizuka":{"word":"iizuka","translation":"[地名] [日本] 飯冢","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

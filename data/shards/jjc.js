@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jjc",{"jjc":{"word":"jjc","translation":"n. [魔獸世界]競技場。","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

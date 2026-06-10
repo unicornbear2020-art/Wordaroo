@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yha",{"yha":{"word":"YHA","translation":"abbr. 青年招待所協會（Youth Hostels Association）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,wai eitʃ 'ei/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

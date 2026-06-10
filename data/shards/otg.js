@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("otg",{"otg":{"word":"otg","translation":"[計]= Option Table Generator,任選表生成程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

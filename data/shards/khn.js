@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("khn",{"khn":{"word":"khn","translation":"[醫][=Knoop hardness number]努普（氏）硬度值","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

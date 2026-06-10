@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("otb",{"otb":{"word":"OTB","translation":"abbr. 場外賽馬賭博（offtrack betting）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

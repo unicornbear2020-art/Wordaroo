@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eoq",{"eoq":{"word":"eoq","translation":"abbr. economical ordering quantity 經濟訂購量，經濟批量; end of quarter 季度末","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

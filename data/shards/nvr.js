@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nvr",{"nvr":{"word":"nvr","translation":"abbr. never 決不; 永不; 從不; no voltage release 無電壓釋放","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tcb",{"tcb":{"word":"TCB","translation":"[計] 任務控制塊, 傳送控制塊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

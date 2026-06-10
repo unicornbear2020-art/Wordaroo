@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oax",{"oaxaca":{"word":"oaxaca","translation":"[地名] [墨西哥] 瓦哈卡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

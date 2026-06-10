@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ffi",{"ffi":{"word":"ffi","translation":"abbr. fuel-flow indicator 燃料流程監視器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

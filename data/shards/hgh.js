@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hgh",{"hgh":{"word":"HGH","translation":"abbr. 人體生長激素（Human Growth Hormone）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

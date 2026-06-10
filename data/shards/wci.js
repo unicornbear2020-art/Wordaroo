@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wci",{"wci":{"word":"wci","translation":"abbr. white cast iron 白口鐵; wind chill index 風冷指數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

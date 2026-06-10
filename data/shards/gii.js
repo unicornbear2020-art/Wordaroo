@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gii",{"giibert's sign":{"word":"Giibert's sign","translation":"[醫] 吉耳伯氏徵(肝硬變時,飢餓時的尿量較飯後為多)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

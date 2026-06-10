@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lmc",{"lmc":{"word":"lmc","translation":"[醫][=large motile cells]大的能運動細胞","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'el'ems'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

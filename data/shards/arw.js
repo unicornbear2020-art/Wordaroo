@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("arw",{"arwen":{"word":"arwen","translation":"abbr. Anti-Riot Weapon (shoots rubber bullets) 防暴武器（橡皮子彈）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

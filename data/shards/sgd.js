@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sgd",{"sgd":{"word":"sgd","translation":"[醫][=sebaceous gland duct]皮脂腺管","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'esdʒ'i:d'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

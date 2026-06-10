@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("epm",{"epm":{"word":"EPM","translation":"[化] 二元乙丙橡膠; 乙丙二元橡膠","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

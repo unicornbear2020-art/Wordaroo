@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eof",{"eof":{"word":"EOF","translation":"[計] 文件結束","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

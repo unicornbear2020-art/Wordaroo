@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ivv",{"ivv":{"word":"ivv","translation":"[醫][=influenza virus vaccine]流感病毒疫苗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɪv/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

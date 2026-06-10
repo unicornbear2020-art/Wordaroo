@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("evc",{"evc":{"word":"evc","translation":"[醫][=ellis-van creveld syndrome]埃-範二氏綜合徵：先天性軟骨鈣化障礙心臟病綜合徵","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'i:vk/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

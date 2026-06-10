@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jx_",{"jx":{"word":"jx","translation":"abbr. juxtaglomerular radius 腎小球旁的半徑","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

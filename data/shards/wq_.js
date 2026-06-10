@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wq_",{"wq":{"word":"wq","translation":"abbr. 一系列污水污物潛水泵型號；志商（Will Intelligence Quotient）；無功電量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

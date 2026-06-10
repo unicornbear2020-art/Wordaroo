@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gsl",{"gsl":{"word":"GSL","translation":"abbr. 有擔保學生貸款（Guaranteed Student Loan）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

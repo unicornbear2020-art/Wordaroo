@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bt_",{"bt":{"word":"bt","translation":"abbr. 英國電信（British Telecom）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

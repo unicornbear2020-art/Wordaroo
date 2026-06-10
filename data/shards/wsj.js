@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wsj",{"wsj":{"word":"wsj","translation":"abbr. （美）華爾街日報（Wall Street Journal）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

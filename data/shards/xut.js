@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xut",{"xuthus":{"word":"Xuthus","translation":"n. [希神]蘇託斯(傳説中雅典的愛奧尼亞的始祖)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'zu:θәs/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

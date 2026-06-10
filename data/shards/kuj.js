@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kuj",{"kujimycin":{"word":"kujimycin","translation":"久慈黴素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,kudʒi'maisin/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

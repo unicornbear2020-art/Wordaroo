@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wcw",{"wcw":{"word":"wcw","translation":"abbr. watt continuous wave 瓦特連續波，功率連續波; William Carlos Williams 威廉姆·卡洛斯·威廉姆斯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

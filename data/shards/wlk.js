@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wlk",{"wlk":{"word":"wlk","translation":"abbr. 巫妖王之怒（遊戲）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("crk",{"crkc":{"word":"crkc","translation":"abbr. crankcase 曲柄箱，曲軸箱","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'si:'ɑ:rk'eɪs'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

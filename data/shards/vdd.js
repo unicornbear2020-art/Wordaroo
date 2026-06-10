@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vdd",{"vdd":{"word":"VDD","translation":"[計] 版本説明文檔","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

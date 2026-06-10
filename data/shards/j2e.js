@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("j2e",{"j2ee":{"word":"j2ee","translation":"abbr. JAVA平台環境（Java 2 Platform Enterprise Edition）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

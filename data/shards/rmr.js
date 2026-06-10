@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rmr",{"rmr":{"word":"rmr","translation":"abbr. resting metabolic rate 休眠期的新陳代謝率","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

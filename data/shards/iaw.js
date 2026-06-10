@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iaw",{"iaw":{"word":"iaw","translation":"abbr. 根據（in accordance with）；國際婦女同盟（International Alliance of Women）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

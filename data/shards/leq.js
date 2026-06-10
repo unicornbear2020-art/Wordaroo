@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("leq",{"lequear":{"word":"lequear","translation":"n. [建]花格平頂","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/lә'kwiә(r)/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

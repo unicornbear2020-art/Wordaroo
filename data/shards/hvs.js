@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hvs",{"hvs":{"word":"HVs","translation":"abbr. 高壓電火花（High-Voltage Spark）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("thn",{"thn":{"word":"thn","translation":"abbr. Teheran 德黑蘭（伊朗首都）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uzu",{"uzun":{"word":"uzun","translation":"[地名] [烏茲別克斯坦] 烏尊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

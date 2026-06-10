@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("afk",{"afk":{"word":"afk","translation":"abbr. 暫離；稍後回來（Away From the Keyboard）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

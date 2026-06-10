@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mhz",{"mhz":{"word":"MHz","translation":"[計] 兆赫茲","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n one million periods per second","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

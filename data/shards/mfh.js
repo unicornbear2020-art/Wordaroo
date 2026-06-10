@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mfh",{"mfh":{"word":"MFH","translation":"abbr. 惡性纖維組織細胞瘤（Malignant Fibrous Histiocytoma）；磁流體熱療（Magnetic Fluid Hyperthermia）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

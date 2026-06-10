@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ltg",{"ltg":{"word":"LTG","translation":"abbr. 拉莫三嗪；線路中繼組（Line Terminator Group）；地區戰術方格","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mhq",{"mhq":{"word":"mhq","translation":"abbr. Maritime Headquarters 海上司令部; Mediterranean Headquarters 地中海司令部","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

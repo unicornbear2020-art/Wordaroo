@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iib",{"iib":{"word":"iib","translation":"[財]國際投資銀行","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

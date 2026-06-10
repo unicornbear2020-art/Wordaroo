@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vpl",{"vpl":{"word":"vpl","translation":"[醫][=(nucleus)ventralis posterolateral]腹後外側核（丘腦）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

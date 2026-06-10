@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("buj",{"bujumbura":{"word":"Bujumbura","translation":"布瓊布拉[布隆迪首都](舊稱烏松布拉)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,bu:dʒәm'burә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n the capital and largest city of Burundi","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

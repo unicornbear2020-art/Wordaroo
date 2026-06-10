@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mhe",{"mheg":{"word":"MHEG","translation":"多媒質和超媒質信息編碼專家小組規範","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

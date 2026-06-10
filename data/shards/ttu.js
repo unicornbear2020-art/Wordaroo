@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ttu",{"ttu":{"word":"ttu","translation":"abbr. tape transport unit 磁帶輸送，走帶設備; timing terminal unit 定時終端設備","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

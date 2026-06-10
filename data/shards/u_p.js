@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("u_p",{"u-packing":{"word":"u-packing","translation":"[機] U形皮填科","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

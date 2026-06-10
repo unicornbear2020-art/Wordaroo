@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("psv",{"psv":{"word":"psv","translation":"abbr. （英）公共汽車（public service vehicle）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

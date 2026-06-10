@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wk_",{"wk":{"word":"wk","translation":"abbr. 星期（week）；工作（work）；弱點（weak）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

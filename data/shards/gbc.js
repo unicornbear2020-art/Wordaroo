@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gbc",{"gbc":{"word":"gbc","translation":"（遊戲用語）Game Boy Color,任天堂手提16色遊戲機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

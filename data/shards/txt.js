@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("txt",{"txt":{"word":"TXT","translation":"[計] 文本","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

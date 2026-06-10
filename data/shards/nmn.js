@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nmn",{"nmnh":{"word":"nmnh","translation":"abbr. National Museum of Natural History <美>國家自然歷史博物館","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xox",{"xoxo":{"word":"xoxo","translation":"親親抱抱（網絡用語, 等於kisses and hugs）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

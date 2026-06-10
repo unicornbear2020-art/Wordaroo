@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fxr",{"fxr":{"word":"fxr","translation":"abbr. fixer 固定器，定色劑，毒販子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ef'eks'ɑ:r/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

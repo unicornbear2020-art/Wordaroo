@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rbt",{"rbt":{"word":"rbt","translation":"abbr. rabbit 兔; rabbet （木板的）槽口; resistance bulb thermometer 電阻測温器; roundabout 迂迴的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

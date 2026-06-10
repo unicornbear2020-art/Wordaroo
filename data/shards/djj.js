@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("djj",{"djj":{"word":"djj","translation":"查亞普拉機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

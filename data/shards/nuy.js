@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nuy",{"nuyorican":{"word":"Nuyorican","translation":"n. 新波多黎各人(指生活在美國或從美國返回的波多黎各人)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,nu:jɔ'ri:kәn/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

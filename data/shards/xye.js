@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xye",{"xyelidae":{"word":"Xyelidae","translation":"長節鋸蜂科","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ffo",{"ffo":{"word":"ffo","translation":"abbr. funds from operations 運轉資金; furnace fuel oil 鍋爐燃料油，爐用燃油","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

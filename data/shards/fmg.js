@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fmg",{"fmg":{"word":"fmg","translation":"abbr. foreign medical graduate 國外醫學大學畢業生","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

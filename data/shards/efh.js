@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("efh",{"efhyleneimine":{"word":"efhyleneimine","translation":"[機] 次乙基亞氨","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

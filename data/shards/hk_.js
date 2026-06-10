@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hk_",{"hk":{"word":"hk","translation":"abbr. 加熱器箱（Heater Kit）；香港（Hong Kong）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("v_a",{"v antenna":{"word":"v antenna","translation":"[電] V型天線","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

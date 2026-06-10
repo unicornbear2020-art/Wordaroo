@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sqt",{"sqt":{"word":"sqt","translation":"abbr. square-rooter 平方根求解器[電路]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

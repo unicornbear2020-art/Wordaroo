@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nvh",{"nvh":{"word":"nvh","translation":"abbr. noise; vibration; hardness (problems) 噪聲; 震動","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'env'i:'etʃ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

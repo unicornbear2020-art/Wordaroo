@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fwr",{"fwrite":{"word":"fwrite","translation":"往文件中寫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

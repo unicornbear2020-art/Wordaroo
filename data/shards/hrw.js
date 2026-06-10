@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hrw",{"hrw":{"word":"hrw","translation":"abbr. hard red winter (wheat) 硬質紅色冬小麥","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

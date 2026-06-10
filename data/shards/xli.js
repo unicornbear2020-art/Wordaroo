@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xli",{"xli":{"word":"xli","translation":"abbr. extra-low interstitial 特低空隙","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"s being one more than forty","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

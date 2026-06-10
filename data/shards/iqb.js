@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iqb",{"iqbal":{"word":"Iqbal","translation":"n. 伊克巴爾（姓氏）；孩子的天空（電影名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("a3_",{"a3":{"word":"a3","translation":"n. A3號紙（尺寸為420×297mm的）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

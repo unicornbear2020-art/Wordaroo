@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ebp",{"ebp":{"word":"EBP","translation":"[化] 稻瘟淨","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

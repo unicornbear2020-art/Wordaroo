@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("etw",{"etwee":{"word":"etwee","translation":"n. 小匣, 小箱","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/e'twi:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n. See Etui.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cq_",{"cq":{"word":"cq","translation":"abbr. 內務值班（charge of quarters）；廣播開始信號（Call to Quarters）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ghd",{"ghd":{"word":"ghd","translation":"[醫][=growth hormone deficiency]生長激素缺乏","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

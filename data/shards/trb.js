@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("trb",{"trb":{"word":"trb","translation":"[醫][=terbutaline]叔丁喘寧，間羥叔丁腎止腺素，間羥嗽必妥","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:'ɑ:rb'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hnc",{"hnc":{"word":"HNC","translation":"abbr. 國家高級合格證書（Higher National Certificate）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,eitʃ en 'si:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

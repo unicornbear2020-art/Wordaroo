@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("s_o",{"s-o":{"word":"s-o","translation":"abbr. spin-orbit split(ting) 自旋軌道分裂","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

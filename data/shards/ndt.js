@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ndt",{"ndt":{"word":"NDT","translation":"[計] 網絡描述表, 網絡診斷工具, 非破壞性測試","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

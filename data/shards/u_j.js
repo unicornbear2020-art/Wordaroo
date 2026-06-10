@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("u_j",{"u-joint":{"word":"u-joint","translation":"abbr. U-shaped joint(s) U 型接縫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/juː dʒɔint/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

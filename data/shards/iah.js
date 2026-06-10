@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iah",{"iah":{"word":"iah","translation":"[醫][=idiopathic adrenal hyperplasia]特發性腎上腺增生（症）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'aɪə/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

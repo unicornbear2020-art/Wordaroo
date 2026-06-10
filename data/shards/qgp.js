@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qgp",{"qgp":{"word":"qgp","translation":"abbr. quark gluon plasma 夸克膠子電漿態","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/k'ju:dʒ'i:p'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

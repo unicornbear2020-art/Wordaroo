@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kgc",{"kgc":{"word":"kgc","translation":"abbr. kilogram-calorie 千克-卡路里","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

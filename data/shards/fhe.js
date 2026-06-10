@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fhe",{"fhe":{"word":"fhe","translation":"abbr. Division of Family Health 家庭衞生司; fused-head-end 熔凝前端，端頭熔接","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

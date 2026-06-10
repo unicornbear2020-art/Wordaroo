@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nrp",{"nrp":{"word":"nrp","translation":"abbr. net rating points 淨額定點; no replacement part 無替換角色","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hrc",{"hrc":{"word":"hrc","translation":"abbr. 人權委員會（Human Rights Commission）；人力資源中心（Human Resources Center）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

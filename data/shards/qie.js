@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qie",{"qie":{"word":"qie","translation":"n. 郄（姓氏）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

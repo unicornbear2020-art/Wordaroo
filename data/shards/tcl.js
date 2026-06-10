@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tcl",{"tcl":{"word":"TCL","translation":"[計] 終端命令語言, 終端控制語言","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

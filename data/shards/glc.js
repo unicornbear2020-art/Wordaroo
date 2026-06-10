@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("glc",{"glc":{"word":"GLC","translation":"[化] 氣液色譜法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

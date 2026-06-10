@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wbz",{"wbzx":{"word":"wbzx","translation":"n. 五筆字型的英文縮寫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

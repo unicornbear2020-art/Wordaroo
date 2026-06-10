@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kyy",{"kyyiv":{"word":"Kyyiv","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"name","senses":[{"gloss":"Kyyiv is another way of spelling Kiev.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

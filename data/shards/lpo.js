@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lpo",{"lpo":{"word":"LPO","translation":"abbr. 倫敦愛樂樂團（London Philharmonic Orchestra）；過氧化脂質（Lipid Peroxidation）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

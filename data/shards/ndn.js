@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ndn",{"ndn":{"word":"ndn","translation":"[計]= New Data Network,新數據網絡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

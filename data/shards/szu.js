@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("szu",{"szulc":{"word":"szulc","translation":"[人名] 肖爾茨","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

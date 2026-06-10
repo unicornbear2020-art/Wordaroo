@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lpl",{"lpl":{"word":"LPL","translation":"[計] 通用表加工語言","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

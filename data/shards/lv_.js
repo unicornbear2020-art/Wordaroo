@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lv_",{"lv":{"word":"lv","translation":"abbr. 低壓（low voltage）；激光視盤（Laser Vision）；登陸車輛（Landing Vehicle）；活動發射裝置（Lanuch Vehicle）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"s being five more than fifty","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

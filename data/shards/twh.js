@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("twh",{"twh":{"word":"twh","translation":"abbr. typically wavy hair 特色波浪發","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:d'əbəlju:'etʃ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yoz",{"yozell":{"word":"yozell","translation":"[人名] 約澤爾","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

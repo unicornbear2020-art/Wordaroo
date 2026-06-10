@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yiw",{"yiwu":{"word":"yiwu","translation":"義烏","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

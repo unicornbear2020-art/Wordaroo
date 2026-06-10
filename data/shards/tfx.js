@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tfx",{"tfx":{"word":"tfx","translation":"[醫][=thymic factor x]胸腺因子x","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

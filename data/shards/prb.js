@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("prb",{"prb":{"word":"prb","translation":"abbr. principal borehole 主鑽井","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

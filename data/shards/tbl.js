@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tbl",{"tbl":{"word":"tbl","translation":"abbr. table 表; trouble 麻煩; tablet 書寫板; through back of loops (knitting) 通過環後的（編織）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ltp",{"ltp":{"word":"LTP","translation":"abbr. 長時程增強（Long-term potentiation）；總壓力損失；線性程序升温器；低温鈍化","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

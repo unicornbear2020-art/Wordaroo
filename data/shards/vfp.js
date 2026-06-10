@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vfp",{"vfp":{"word":"vfp","translation":"abbr. 可變因素編程（ Variable Factor Programming）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

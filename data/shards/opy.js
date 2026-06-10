@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("opy",{"opy":{"word":"opy","translation":"[醫]眼, 視力","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ɒ'paɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

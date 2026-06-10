@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cmw",{"cmw":{"word":"cmw","translation":"abbr. critical minimum weight 臨界最小重力","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

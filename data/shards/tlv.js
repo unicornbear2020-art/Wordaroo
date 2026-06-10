@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tlv",{"tlv":{"word":"tlv","translation":"abbr. tracked levitated vehicle 軌行浮力車","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

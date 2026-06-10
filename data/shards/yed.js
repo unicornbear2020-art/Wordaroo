@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yed",{"yedda":{"word":"yedda","translation":"(=yeddo)[植](產於日本和意大利)一種天然的不裂的秸杆, 可做帽子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'jedә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

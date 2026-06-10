@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mna",{"mna":{"word":"MNA","translation":"abbr. 甲基壬基乙醛（Methyl Nonyl Acetaldehyde）；護理管理學碩士（Master of Nursing Administration）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

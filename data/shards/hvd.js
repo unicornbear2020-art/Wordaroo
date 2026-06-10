@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hvd",{"hvd":{"word":"hvd","translation":"abbr. high-velocity detonation 高速爆炸; hypertensive vascular disease 高血壓性血管疾病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'etʃv'i:d'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dpa",{"dpa":{"word":"dpa","translation":"abbr. diagnostic prescriptive arithmetic 診斷説明算術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

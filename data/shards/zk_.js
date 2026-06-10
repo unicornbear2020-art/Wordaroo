@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zk_",{"zk":{"word":"zk","translation":"[醫][=z line]z線（即間板）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'zi:k'eɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

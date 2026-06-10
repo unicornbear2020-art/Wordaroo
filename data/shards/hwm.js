@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hwm",{"hwm":{"word":"HWM","translation":"高水位線","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

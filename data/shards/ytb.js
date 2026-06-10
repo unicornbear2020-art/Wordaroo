@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ytb",{"ytb":{"word":"ytb","translation":"abbr. yarn to back 編織到背面; yield to broker 經紀商收益","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

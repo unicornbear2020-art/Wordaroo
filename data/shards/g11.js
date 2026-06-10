@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("g11",{"g11":{"word":"G11","translation":"[醫] 六氯[雙]酚","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

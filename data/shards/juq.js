@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("juq",{"juquan":{"word":"Juquan","translation":"聚泉; 聚泉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jao",{"jao":{"word":"jao","translation":"abbr. Atlanta; Georgia 美國; 喬治亞州; 亞特蘭大機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

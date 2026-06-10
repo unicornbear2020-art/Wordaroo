@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ejv",{"ejv":{"word":"ejv","translation":"abbr. external jugular vein 頸外靜脈","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

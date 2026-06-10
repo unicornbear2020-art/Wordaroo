@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wfw",{"wfw":{"word":"WFW","translation":"[計] 工作網絡操作系統Windows","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

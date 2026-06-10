@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wbt",{"wbtv":{"word":"wbtv","translation":"abbr. weather briefing television 氣象簡報電視","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'dəbəlju:b'i:t'i:v'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pld",{"pld":{"word":"pld","translation":"abbr. [計]可編程邏輯電路（Programable Logic Device）；同相檢波器（Phase Locked Detector）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

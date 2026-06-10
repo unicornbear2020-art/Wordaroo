@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tgr",{"tgr":{"word":"tgr","translation":"高爐煤氣回收","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

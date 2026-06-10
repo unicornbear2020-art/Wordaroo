@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ajp",{"ajph":{"word":"ajph","translation":"abbr. American Journal of Physics <美國物理學雜誌>; Australian Journal of Physics <澳大利亞物理學雜誌>","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

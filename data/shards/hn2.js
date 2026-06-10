@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hn2",{"hn2":{"word":"HN2","translation":"[化] 氮芥; 二·甲基胺; 二氯乙基·甲基胺","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

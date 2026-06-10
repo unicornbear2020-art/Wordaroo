@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gtx",{"gtx":{"word":"gtx","translation":"abbr. Gentex 歐洲電報交換網絡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

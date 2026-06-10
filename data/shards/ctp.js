@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ctp",{"ctp":{"word":"CTP","translation":"[化] 胞苷三磷酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bzo",{"bzoh":{"word":"BZOH","translation":"[機] 苯酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gsb",{"gsb":{"word":"gsb","translation":"abbr. gypsum sheathing board 石膏（夾）襯板","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

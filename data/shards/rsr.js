@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rsr",{"rsr":{"word":"rsr","translation":"abbr. regular sinus rhythm （心臟）正常竇性節律，規則的低節律; required supply rate 所需補給率","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

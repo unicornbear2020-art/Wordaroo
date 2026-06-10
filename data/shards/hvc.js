@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hvc",{"hvc":{"word":"hvc","translation":"abbr. high vocal center （高級發聲中樞）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

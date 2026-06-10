@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("etm",{"etm":{"word":"etm","translation":"[醫][=epithienamycin]表硫黴素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

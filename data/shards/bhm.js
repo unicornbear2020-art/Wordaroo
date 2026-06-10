@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bhm",{"bhm":{"word":"bhm","translation":"abbr. black homosexual male(s) 黑人同性戀男子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

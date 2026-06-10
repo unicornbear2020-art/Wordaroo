@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hco",{"hco":{"word":"HCO","translation":"abbr. 重循環油（heavy cycle oil）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

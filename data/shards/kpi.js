@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kpi",{"kpi":{"word":"kpi","translation":"abbr. 關鍵業績指標（Key Performance Indicator）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pzi",{"pzi.":{"word":"PZI.","translation":"[醫] 精蛋白鋅胰島素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

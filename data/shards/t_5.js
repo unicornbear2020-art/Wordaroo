@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("t_5",{"t-50 test":{"word":"T-50 test","translation":"[化] T-50試驗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

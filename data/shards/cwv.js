@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cwv",{"cwv":{"word":"cwv","translation":"[醫]continuous-wave video","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

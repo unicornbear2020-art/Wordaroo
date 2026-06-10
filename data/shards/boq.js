@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("boq",{"boq":{"word":"BOQ","translation":"abbr. 單身軍官宿舍（bachelor officers' quarters）；工程量清單（Bill of Quantity）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

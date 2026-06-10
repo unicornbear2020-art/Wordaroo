@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wlu",{"wlu":{"word":"wlu","translation":"abbr. Wilfrid Laurier University 維爾弗裏德·勞裏大學; World Liberal Union 世界自由聯盟","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

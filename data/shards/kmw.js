@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kmw",{"kmw":{"word":"kmw","translation":"abbr. kilomegawatt 千兆瓦特","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'keɪ'emd'əbəlju:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

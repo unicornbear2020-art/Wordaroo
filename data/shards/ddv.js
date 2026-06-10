@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ddv",{"ddvp":{"word":"Ddvp","translation":"[機] 磷酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,di:,di:vi:'pi:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

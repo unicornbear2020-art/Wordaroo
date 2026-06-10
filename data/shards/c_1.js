@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c_1",{"c-1 chemistry":{"word":"C-1 chemistry","translation":"[化] 碳一化學","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

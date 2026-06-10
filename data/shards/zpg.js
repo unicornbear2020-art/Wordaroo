@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zpg",{"zpg":{"word":"ZPG","translation":"[縮] zero population  growth","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

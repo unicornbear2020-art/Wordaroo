@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("skb",{"skb":{"word":"skb","translation":"abbr. skindbind (Dano-Norwegian=leatherbound) （丹麥-挪威語）皮面精裝的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

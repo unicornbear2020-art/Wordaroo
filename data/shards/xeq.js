@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xeq",{"xeq":{"word":"xeq","translation":"[醫][=execute]執行（計算機）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

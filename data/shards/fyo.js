@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fyo",{"fyodor":{"word":"fyodor","translation":"費奧多（男子名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ˈfi:əˌdə/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

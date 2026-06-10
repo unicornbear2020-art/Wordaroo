@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xls",{"xls":{"word":"xls","translation":"n. [計]Microsoft Excel工作簿格式","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n the cardinal number that is the product of ten and four","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

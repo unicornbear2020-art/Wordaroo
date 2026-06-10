@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gvw",{"gvw":{"word":"gvw","translation":"abbr. gross vehicle weight 飛行器總重，導彈總重，全車總重","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

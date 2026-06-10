@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jn_",{"jn":{"word":"jn","translation":"abbr. 扭振減震器總成；供應臭氧設備；約翰（John）；珍妮（June）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

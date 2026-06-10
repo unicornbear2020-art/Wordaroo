@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tvf",{"tvf":{"word":"tvf","translation":"[醫][=tactile vocal fremitus]觸覺的語音震顫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:v'i:'ef/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

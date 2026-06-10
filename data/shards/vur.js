@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vur",{"vur":{"word":"vur","translation":"[醫][=vesicoureteral reflux]膀胱輸尿管返流","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

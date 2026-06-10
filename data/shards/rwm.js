@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rwm",{"rwm":{"word":"rwm","translation":"[醫][=regional wall motion]局部室壁活動","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:rd'əbəlju:'em/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

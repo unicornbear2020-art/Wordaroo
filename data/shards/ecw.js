@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ecw",{"ecw":{"word":"ecw","translation":"abbr. 極限冠軍摔跤（Extreme Championship Wreisting）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

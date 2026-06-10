@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bsb",{"bsb":{"word":"BSB","translation":"abbr. 商學士（Bachelor of Science in Business）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("15t",{"15th":{"word":"15th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"15th is an abbreviation of fifteenth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

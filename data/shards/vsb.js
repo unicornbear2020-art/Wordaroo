@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vsb",{"vsb":{"word":"vsb","translation":"殘餘邊帶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'vi:'esb'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

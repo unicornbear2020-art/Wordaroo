@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qcs",{"qcs":{"word":"QCs","translation":"abbr. 質量控制系統（Quality Control System）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("7th",{"7th":{"word":"7th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"7th is an abbreviation of seventh.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

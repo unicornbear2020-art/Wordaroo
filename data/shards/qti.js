@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qti",{"qtip":{"word":"qtip","translation":"abbr. Qualified Terminable Interest Property (trust) 合格的可終止的利益所有權（信任）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

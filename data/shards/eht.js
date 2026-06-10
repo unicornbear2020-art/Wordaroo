@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eht",{"ehtylene acetate":{"word":"ehtylene acetate","translation":"[化] 乙二醇二乙酸酯; 醋酸乙二酯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

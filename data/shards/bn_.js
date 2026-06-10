@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bn_",{"bn":{"word":"bn","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"A shortened form of billion.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"abbr. 護理學士（Bachelor of Nursing）；平衡網絡（Balancing Network）"}});

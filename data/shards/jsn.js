@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jsn",{"jsn":{"word":"jsn","translation":"abbr. job sequence name 作業序列名; job sequence number 作業序號","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fsk",{"fsk":{"word":"FSK","translation":"[計] 頻移調製, 移頻鍵控法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

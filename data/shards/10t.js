@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("10t",{"10th":{"word":"10th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"10th is an abbreviation of tenth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

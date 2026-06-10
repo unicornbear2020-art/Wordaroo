@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bbq",{"bbq":{"word":"bbq","translation":"abbr. 野外燒烤（barbecue）；燒烤爐","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cwl",{"cwla":{"word":"cwla","translation":"[醫][=Child Welfare League of America]美國兒童福利聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

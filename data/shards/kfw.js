@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kfw",{"kfw":{"word":"kfw","translation":"abbr. Kreditanstalt fur Wiederaufbau （德語）復興信貸銀行","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

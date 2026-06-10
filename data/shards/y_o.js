@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("y_o",{"y operator":{"word":"Y operator","translation":"[計] Y算子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

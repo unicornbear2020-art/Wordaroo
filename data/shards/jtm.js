@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jtm",{"jtm":{"word":"JTM","translation":"作業傳送與操縱","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

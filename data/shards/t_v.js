@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("t_v",{"t-value":{"word":"t-value","translation":"t 值","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

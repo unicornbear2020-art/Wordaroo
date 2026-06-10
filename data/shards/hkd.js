@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hkd",{"hkd":{"word":"hkd","translation":"abbr. 港幣（Hong Kong Dollar）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

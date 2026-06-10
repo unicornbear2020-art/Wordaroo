@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bbn",{"bbn":{"word":"bbn","translation":"寬頻帶噪聲（broad band noise）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

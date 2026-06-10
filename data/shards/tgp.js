@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tgp",{"tgp":{"word":"tgp","translation":"abbr. 三峽工程（Three Gorges Project）；白芍總苷（total glycosides of paeony）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

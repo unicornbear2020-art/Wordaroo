@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("d_j",{"d-j":{"word":"d-j","translation":"abbr. Dow Jones & Co <美國>道·瓊斯公司; Dow-Jones (average) 道·瓊斯股票平均價格指數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

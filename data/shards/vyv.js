@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vyv",{"vyvyan":{"word":"vyvyan","translation":"[人名] 維維安，薇薇安（女名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'vivjən/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

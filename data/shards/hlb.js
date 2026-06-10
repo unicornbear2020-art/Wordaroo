@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hlb",{"hlb":{"word":"HLB","translation":"[化] 親水-親油平衡\n[醫] 親水親油平衡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

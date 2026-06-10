@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("akp",{"akp":{"word":"akp","translation":"abbr. 鹼性磷酸酶（alkline phosphatase）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

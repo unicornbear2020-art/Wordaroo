@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("11t",{"11th":{"word":"11th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"11th is an abbreviation of eleventh.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

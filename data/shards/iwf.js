@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iwf",{"iwf":{"word":"iwf","translation":"n. International Weightlifting Federation 國際舉重聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

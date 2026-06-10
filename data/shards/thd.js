@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("thd",{"thd":{"word":"thd","translation":"abbr. 雙頭龍（Two Heads Dragon）；總諧波失真（Total Harmonic Distortion）；螺紋（thread）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a doctor's degree in theology","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

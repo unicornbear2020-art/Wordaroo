@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("prg",{"prg":{"word":"prg","translation":"abbr. dBASE系統產生的程序文件擴展名；偽隨機碼發生器（Pseudo Random Generator）；布拉格（捷克城市, Prague）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

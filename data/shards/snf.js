@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("snf",{"snf":{"word":"SNF","translation":"abbr. 特殊護理設備（skilled nursing facility）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

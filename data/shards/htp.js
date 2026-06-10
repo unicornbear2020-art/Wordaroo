@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("htp",{"htp":{"word":"htp","translation":"abbr. 房樹人（發明人巴克, 也稱繪畫投射測驗）；高温聚合物（High -Temperature Polymer）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

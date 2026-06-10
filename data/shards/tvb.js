@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tvb",{"tvb":{"word":"tvb","translation":"abbr. 香港無線電視台（Television Broadcasts Limited, 又稱香港電視廣播公司）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

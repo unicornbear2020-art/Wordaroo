@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("o_2",{"o-2 poisoning":{"word":"O-2 poisoning","translation":"[醫] 氧中毒, 換氣過度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

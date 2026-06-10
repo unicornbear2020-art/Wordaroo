@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("djn",{"djnr":{"word":"DJNR","translation":"DowJones新聞檢索","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

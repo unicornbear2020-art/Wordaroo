@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mhr",{"mhr":{"word":"mhr","translation":"abbr. manhour 工時; maximum heart rate 最快心率; microwave hologram radar 微波全息雷達","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cky",{"cky":{"word":"cky","translation":"n. 科納克里（城市機場代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

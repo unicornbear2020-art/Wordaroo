@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mdq",{"mdq":{"word":"mdq","translation":"abbr. Minimum Detectable Quantity 最小檢測量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

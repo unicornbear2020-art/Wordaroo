@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ysi",{"ysidro":{"word":"ysidro","translation":"[人名] 伊西德羅","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

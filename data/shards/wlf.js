@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wlf",{"wlf equation":{"word":"WLF equation","translation":"[化] WLF公式","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

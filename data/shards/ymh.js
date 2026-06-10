@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ymh",{"ymha":{"word":"YMHA","translation":"abbr. 青年友誼會（Young Men ' s Hebrew Association）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nvf",{"nvf":{"word":"NVF","translation":"網絡虛文件","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

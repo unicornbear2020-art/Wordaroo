@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xiz",{"xizang":{"word":"Xizang","translation":"西藏(位於中國西南部)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ʃi:'zɑ:ŋ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n an autonomous region of the Peoples Republic of China; located in the Himalayas","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

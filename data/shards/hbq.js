@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hbq",{"hbq":{"word":"hbq","translation":"[醫][=hemoglobin Q]血紅蛋白Q","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

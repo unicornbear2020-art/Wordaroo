@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("plt",{"plt":{"word":"plt","translation":"n. 血小板; [醫][=pancreolauryl test]胰十二酯試驗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'pi:'elt'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

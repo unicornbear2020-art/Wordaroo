@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lmt",{"lmt":{"word":"LMT","translation":"abbr. 地方平均時（local mean time）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

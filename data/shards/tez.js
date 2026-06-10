@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tez",{"tezel":{"word":"Tezel","translation":"n. (Tezel)人名；(土)泰澤爾；(德)特策爾","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wkl",{"wkly":{"word":"wkly","translation":"abbr. weekly 每星期的; 一週的; 週刊; 週報","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

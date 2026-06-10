@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("msy",{"msy":{"word":"msy","translation":"abbr. maximum sustainable yield （自然資源的） 可以長期保持的最大年開發量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

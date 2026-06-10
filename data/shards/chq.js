@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("chq",{"chq":{"word":"chq","translation":"abbr. cheque 支票","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

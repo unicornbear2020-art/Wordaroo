@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("g4_",{"g4":{"word":"G4","translation":"[醫] 二氯芬(2,2-二羥-5,5'-二氯聯苯甲烷)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

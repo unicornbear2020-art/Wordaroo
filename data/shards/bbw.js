@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bbw",{"bbw":{"word":"bbw","translation":"abbr. 線控制動","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

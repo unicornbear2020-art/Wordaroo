@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mqr",{"mqr":{"word":"mqr","translation":"[計]= Multiplier-Quotient Register,乘商寄存器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

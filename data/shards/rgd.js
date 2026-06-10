@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rgd",{"rgd":{"word":"rgd","translation":"abbr. registered 登記的; 註冊的; reigned 統治; 支配","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

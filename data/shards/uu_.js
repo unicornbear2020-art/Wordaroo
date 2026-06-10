@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uu_",{"uu":{"word":"uu","translation":"abbr. 從用户到用户（User to User）；最終用户（Ultimate Use）；解脲支原體","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

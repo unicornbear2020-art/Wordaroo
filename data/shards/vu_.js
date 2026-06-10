@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vu_",{"vu":{"word":"vu","translation":"abbr. 瓦努阿圖（Vanuatu）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

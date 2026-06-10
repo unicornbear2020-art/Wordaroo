@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("klg",{"klg":{"word":"klg","translation":"abbr. Keelung 基隆（中國台灣北部一海港）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

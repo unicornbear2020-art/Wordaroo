@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vts",{"vts":{"word":"vts","translation":"abbr. 虛擬終端業務（Virtual Terminal Services）；虛擬磁帶服務器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a state in New England","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

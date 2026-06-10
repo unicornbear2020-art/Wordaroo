@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pvn",{"pvn":{"word":"pvn","translation":"[醫][=paraventricular nucleus]室旁核","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'pi:v'i:'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

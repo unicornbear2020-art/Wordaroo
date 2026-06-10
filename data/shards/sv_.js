@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sv_",{"sv":{"word":"SV","translation":"[計] 單值, 狀態有效","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

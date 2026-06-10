@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oeb",{"oeb":{"word":"oeb","translation":"abbr. Oregon Educational Broadcasting 俄勒岡州教育廣播; organic electrolyte battery 有機電解質蓄電池","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vct",{"vct":{"word":"vct","translation":"abbr. victor 得勝者; vinyl-composition tile 乙烯成分的瓷磚","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

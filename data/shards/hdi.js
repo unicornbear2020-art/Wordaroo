@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hdi",{"hdi":{"word":"hdi","translation":"[醫][=hemadsorption inhibition]血細胞吸附抑制","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

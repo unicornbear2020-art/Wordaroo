@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wgu",{"wgu":{"word":"wgu","translation":"abbr. Welsh Golfing Union <英國>威爾士高爾夫球聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

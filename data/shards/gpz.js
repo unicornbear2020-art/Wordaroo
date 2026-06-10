@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gpz",{"gpz":{"word":"gpz","translation":"abbr. Grand Rapids; Minnesota 美國; 明尼蘇達州; 大瀑布城機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

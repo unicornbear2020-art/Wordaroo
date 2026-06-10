@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gdt",{"gdt":{"word":"gdt","translation":"氣體放電管（gas discharge tube）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

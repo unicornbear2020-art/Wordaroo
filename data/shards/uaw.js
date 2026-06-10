@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uaw",{"uaw":{"word":"UAW","translation":"abbr. （美國）聯合汽車工會（United Automobile Workers）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

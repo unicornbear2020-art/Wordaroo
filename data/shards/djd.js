@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("djd",{"djd":{"word":"djd","translation":"abbr. degenerative joint disease 關節變性病，退行性關節疾病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

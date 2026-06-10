@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xte",{"xte":{"word":"xte","translation":"[醫][=xeroderma,talipes,enamel(defect)]幹皮病、畸形足、釉質（缺損）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

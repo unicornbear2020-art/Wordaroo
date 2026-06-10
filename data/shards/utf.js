@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("utf",{"utf":{"word":"utf","translation":"abbr. Unicode轉換格式（UCS Transformation Format）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

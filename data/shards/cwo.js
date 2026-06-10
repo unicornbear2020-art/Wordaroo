@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cwo",{"cwo":{"word":"CWO","translation":"abbr. 定貨付款（Cash With Order）；一級准尉（Chief Warrant Officer）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

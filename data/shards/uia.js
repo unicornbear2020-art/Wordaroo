@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uia",{"uia":{"word":"uia","translation":"abbr. Union of International Associations; Brussels <比>國際協會聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

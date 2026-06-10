@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kmo",{"kmo":{"word":"kmo","translation":"abbr. Kobe Marine Observatory <日本>神户海洋氣象台","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

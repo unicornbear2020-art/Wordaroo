@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bfo",{"bfoq":{"word":"bfoq","translation":"abbr. bona-fide occupational qualification （法律上承認的）真正職業合格證明","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/b'fək/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

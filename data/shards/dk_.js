@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dk_",{"dk":{"word":"dk","translation":"abbr. 丹麥（Denmark）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

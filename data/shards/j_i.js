@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("j_i",{"j-instance":{"word":"J-instance","translation":"[計] J例示","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

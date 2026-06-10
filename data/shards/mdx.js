@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mdx",{"mdx":{"word":"mdx","translation":"abbr. multiplexer/demultiplexer 多路復接/分接器，複用/解複用器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

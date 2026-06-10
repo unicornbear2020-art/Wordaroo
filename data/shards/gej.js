@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gej",{"gejdenson":{"word":"gejdenson","translation":"[人名] 蓋登森","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

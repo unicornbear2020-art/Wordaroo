@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("flx",{"flx":{"word":"flx","translation":"abbr. flexible 靈活的，柔韌的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ef'el'eks/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

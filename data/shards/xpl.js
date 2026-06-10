@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xpl",{"xpl":{"word":"XPL","translation":"[計] XPL語言","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

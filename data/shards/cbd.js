@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cbd",{"cbd":{"word":"cbd","translation":"abbr. 交貨前付款（Cash Before Delivery）；業務中心地區（Central Business District）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

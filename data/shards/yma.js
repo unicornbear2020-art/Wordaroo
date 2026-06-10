@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yma",{"yma":{"word":"yma","translation":"[醫][=yeast morphology agar]酵母菌形態瓊脂（培養基）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

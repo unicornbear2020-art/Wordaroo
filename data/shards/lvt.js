@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lvt",{"lvt":{"word":"lvt","translation":"abbr. Landing Vehicle,Trackecd 履帶式登陸車","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sbp",{"sbp":{"word":"sbp","translation":"[醫][=scleral buckling procedure]鞏膜扣帶術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

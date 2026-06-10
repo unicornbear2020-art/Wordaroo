@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gtr",{"gtr":{"word":"gtr","translation":"abbr. 高性能賽車（Grand Turismo Racing）；地面試驗性反應堆（Ground Test Reactor）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

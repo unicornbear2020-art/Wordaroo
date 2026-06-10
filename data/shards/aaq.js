@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aaq",{"aaqib":{"word":"Aaqib","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"name","senses":[{"gloss":"Aaqib is a male given name.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("d_v",{"d-vhs":{"word":"d-vhs","translation":"abbr. digital video home system 數字家用視頻系統，數字式家用錄放像機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/diː ˌvi:eɪtʃˈes/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

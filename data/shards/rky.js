@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rky",{"rky":{"word":"RKY","translation":"[醫] X線記波照相術, X線記波[紋]法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

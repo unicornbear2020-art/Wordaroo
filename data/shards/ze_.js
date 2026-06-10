@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ze_",{"ze":{"word":"ze","translation":"abbr. 玉米纖維；區帶電泳（zone electrophoresis）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

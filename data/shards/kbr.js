@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kbr",{"kbr":{"word":"kbr","translation":"abbr. Patassium Bromide 溴化鉀","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

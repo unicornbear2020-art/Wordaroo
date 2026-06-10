@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cmf",{"cmf":{"word":"cmf","translation":"abbr. 相干存貯濾波器（Coherent Memory Filter）；交叉調製因子（Cross Modulation Factor）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

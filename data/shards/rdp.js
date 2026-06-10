@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rdp",{"rdp":{"word":"RDP","translation":"可靠數據報協議","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

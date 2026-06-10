@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ldv",{"ldv":{"word":"ldv","translation":"[醫][=lactic dehydrogenase virus]乳酸脱氫酶病毒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zhr",{"zhr":{"word":"zhr","translation":"abbr. zenith hourly rate 天頂每時出現率; zirconium hydride reactor 氫化鋯反應堆","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'zi:'etʃ'ɑ:r/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

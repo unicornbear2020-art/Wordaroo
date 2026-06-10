@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ivp",{"ivp":{"word":"ivp","translation":"[醫][=idioventricular pacemaker]心室內自主起搏點","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɪvp/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

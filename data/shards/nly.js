@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nly",{"nly":{"word":"nly","translation":"abbr. 北的；偏北的（northerly）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

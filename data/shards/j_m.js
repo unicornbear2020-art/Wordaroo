@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("j_m",{"j-m":{"word":"j-m","translation":"abbr. Jiyu-Minshuto (Japanese Liberal Democratic Party) 日本自由民主黨; Johns-Manville 約翰-曼維爾","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

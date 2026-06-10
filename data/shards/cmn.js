@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cmn",{"cmn":{"word":"cmn","translation":"abbr. column 柱; （報刊）欄; 縱隊; commission 委任","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'si:'em'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

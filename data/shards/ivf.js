@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ivf",{"ivf":{"word":"ivf","translation":"abbr. 試管受精（in-vitro fertilization）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

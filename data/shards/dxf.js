@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dxf",{"dxf":{"word":"dxf","translation":"abbr. diagram interchange file 圖形交換文件; digital exchange format 數字交換格式","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

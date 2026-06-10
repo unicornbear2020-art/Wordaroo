@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tck",{"tck":{"word":"tck","translation":"abbr. 小麥矮腥黑穗病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

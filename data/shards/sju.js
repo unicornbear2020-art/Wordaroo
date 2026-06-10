@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sju",{"sju":{"word":"sju","translation":"abbr. San Juan 聖胡安（波多黎各首都）; San Juan, Puerto Rico (airport) 波多黎各聖胡安（機場）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

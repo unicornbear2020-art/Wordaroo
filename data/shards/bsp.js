@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bsp",{"bsp":{"word":"BSP","translation":"[醫] 四溴酞酚磺酸鈉, 磺溴酞鈉(試肝機能)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

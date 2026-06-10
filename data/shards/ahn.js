@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ahn",{"ahn":{"word":"ahn","translation":"n. (Ahn)人名；(德、瑞典)阿恩；(朝)安\nabbr. 助理護士長（acute hepatic necrosis）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

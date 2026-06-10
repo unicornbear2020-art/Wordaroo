@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vlm",{"vlm":{"word":"VLM","translation":"虛擬可裝載模塊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wrk",{"wrk":{"word":"wrk","translation":"abbr. work 工作; 著作; 功; work (flow chart) 工作（流程圖）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

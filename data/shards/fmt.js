@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fmt",{"fmt":{"word":"fmt","translation":"[醫][=fasiculus mammillothalamicus]（拉）乳頭丘腦束","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ef'emt'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

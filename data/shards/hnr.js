@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hnr",{"hnrna":{"word":"hnRNA","translation":"[化] 不均一核RNA","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

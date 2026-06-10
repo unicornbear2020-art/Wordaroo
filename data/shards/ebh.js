@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ebh",{"ebh":{"word":"ebh","translation":"[醫][=essential benign hypertension]原發性良性高血壓","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

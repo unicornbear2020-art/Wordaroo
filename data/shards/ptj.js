@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ptj",{"ptj":{"word":"ptj","translation":"abbr. pulse train jitter 脈衝串跳動","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

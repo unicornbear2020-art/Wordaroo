@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nfb",{"nfb":{"word":"nfb","translation":"負反饋","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

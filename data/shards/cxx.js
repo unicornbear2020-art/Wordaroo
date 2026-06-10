@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cxx",{"cxx":{"word":"cxx","translation":"用C++語言編寫的源代碼文件","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"s being ten more than one hundred ten","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

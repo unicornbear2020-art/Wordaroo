@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ycl",{"yclept":{"word":"yclept","translation":"a. 名叫...的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/i'klept/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

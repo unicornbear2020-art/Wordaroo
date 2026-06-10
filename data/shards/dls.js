@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dls",{"dls":{"word":"DLS","translation":"[計] 數據鏈路支持系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a metric unit of volume equal to one tenth of a liter","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

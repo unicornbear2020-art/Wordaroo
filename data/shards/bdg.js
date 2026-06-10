@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bdg",{"bdg":{"word":"bdg","translation":"abbr. 電橋（bridge）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

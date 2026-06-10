@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mp3",{"mp3":{"word":"mp3","translation":"abbr. 一種音頻壓縮格式（Moving Picture Experts Group Audio Layer-3）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

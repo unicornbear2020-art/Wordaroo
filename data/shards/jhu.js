@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jhu",{"jhu":{"word":"jhu","translation":"abbr. Johns Hopkins University <美國>約翰斯·霍普金斯大學","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

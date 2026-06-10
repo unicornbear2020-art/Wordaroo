@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sgp",{"sgp":{"word":"sgp","translation":"[醫][=serine glycerophosphatide]絲氨酸甘油磷酸脂","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("whr",{"whr":{"word":"whr","translation":"abbr. watt-hour 瓦特-小時; whether 是否","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'dəbəlju:'etʃ'ɑ:r/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

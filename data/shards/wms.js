@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wms",{"wms":{"word":"wms","translation":"[醫][=wechsler memory scale]韋克斯勒記憶量表","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hdv",{"hdv":{"word":"hdv","translation":"abbr. heavy-duty vehicle 重型車輛; high dollar value 美元高幣值","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

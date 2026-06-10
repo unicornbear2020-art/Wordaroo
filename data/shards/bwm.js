@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bwm",{"bwm":{"word":"bwm","translation":"abbr. barrels of water per minute 桶水/分鐘","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

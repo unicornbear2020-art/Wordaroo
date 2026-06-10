@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yts",{"yts":{"word":"YTS","translation":"青年訓練計劃（youth training scheme）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

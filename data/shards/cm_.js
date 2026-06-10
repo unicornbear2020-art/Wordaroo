@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cm_",{"cm":{"word":"cm","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"Short for centimeter or centimeters.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"[計] 釐米, 中央存儲器, 通信多路轉換器, 控制標誌, 磁心存儲器\n[醫] 鋦(96號元素)"}});

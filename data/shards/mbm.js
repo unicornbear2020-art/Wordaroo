@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mbm",{"mbm":{"word":"MBM","translation":"[計] 建模模塊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

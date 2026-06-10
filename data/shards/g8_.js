@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("g8_",{"g8":{"word":"g8","translation":"abbr. 八國集團（Group of Eight）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

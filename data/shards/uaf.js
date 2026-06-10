@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uaf",{"uaf":{"word":"UAF","translation":"用户授權文件","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

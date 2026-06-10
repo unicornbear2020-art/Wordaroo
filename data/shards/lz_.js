@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lz_",{"lz":{"word":"lz","translation":"abbr. 登陸區（Landing Zone）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

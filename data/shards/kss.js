@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kss",{"kss":{"word":"kss","translation":"[計]= Keying Switching Station,鍵控轉換站","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

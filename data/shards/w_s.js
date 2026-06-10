@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("w_s",{"w-s":{"word":"w-s","translation":"[醫][=watt-seconds]瓦秒（焦耳-熱量單位）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

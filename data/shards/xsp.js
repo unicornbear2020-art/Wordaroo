@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xsp",{"xsp":{"word":"xsp","translation":"[醫][=xanthoma striatum palmare]掌紋黃瘤","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

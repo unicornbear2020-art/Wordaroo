@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("p32",{"p32":{"word":"P32","translation":"[醫] 磷32, 放射性磷","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

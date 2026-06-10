@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hly",{"hly":{"word":"hly","translation":"abbr. hemolysin 溶血素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

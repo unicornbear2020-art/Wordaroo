@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("glp",{"glp":{"word":"glp","translation":"abbr. general layout plan(ning) 綜合佈局規劃，綜合佈局設計; general letter packet 通用字母處理程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mnn",{"mnng":{"word":"MNNG","translation":"N-甲基-N'-硝基-N'-亞硝基胍","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

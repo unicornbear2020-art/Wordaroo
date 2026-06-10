@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fuq",{"fuqua":{"word":"fuqua","translation":"[人名] 富卡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

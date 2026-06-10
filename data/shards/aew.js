@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aew",{"aews":{"word":"AEWS","translation":"[計] 高級預警系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

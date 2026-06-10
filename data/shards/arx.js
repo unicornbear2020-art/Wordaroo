@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("arx",{"arx":{"word":"arx","translation":"abbr. 美國紅十字會（american red cross）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

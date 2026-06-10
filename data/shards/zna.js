@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zna",{"zna":{"word":"zna","translation":"[醫][=mixture of dill weed and monosodium glutamate]蒔蘿草和穀氨酸鈉混合物","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

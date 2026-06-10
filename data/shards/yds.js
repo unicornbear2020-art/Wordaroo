@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yds",{"yds":{"word":"yds","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"Short for yards.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"abbr. yards 碼數"}});

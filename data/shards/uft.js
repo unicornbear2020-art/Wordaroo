@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uft",{"uft":{"word":"uft","translation":"abbr. United Federation of Teachers （美國紐約）教師聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

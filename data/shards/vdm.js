@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vdm",{"vdm":{"word":"VDM","translation":"[計] 虛擬DOS機\n[醫] 血管舒張物質","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yuh",{"yuh":{"word":"yuh","translation":"n. (Yuh)人名；(朝)輿","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

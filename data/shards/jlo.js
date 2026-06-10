@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jlo",{"jlo":{"word":"jlo","translation":"abbr. junction light output 結光輸出; 詹妮弗·洛佩茲(Jennifer Lopez)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

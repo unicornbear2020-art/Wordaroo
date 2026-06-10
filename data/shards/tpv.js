@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tpv",{"tpv":{"word":"tpv","translation":"[醫][=tetanus-pertussis vaccine]破傷風-百日咳菌苗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:p'i:v'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

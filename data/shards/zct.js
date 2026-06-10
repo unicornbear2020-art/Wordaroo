@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zct",{"zctu":{"word":"zctu","translation":"abbr. Zambia Congress of Trade Union 贊比亞工會聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

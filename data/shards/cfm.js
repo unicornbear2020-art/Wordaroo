@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cfm",{"cfm":{"word":"cfm","translation":"abbr. 陰極跟隨器混頻器（Cathode-Follower Mixer）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

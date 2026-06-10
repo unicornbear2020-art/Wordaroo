@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aij",{"aij":{"word":"aij","translation":"abbr. 壺腹峽部連接處（ampullary-isthmic junction）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

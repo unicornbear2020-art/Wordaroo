@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pb_",{"pb":{"word":"PB","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"Personal best.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"[計] 10的15次方字節\n[醫] 鉛(82號元素)"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qta",{"qtam":{"word":"QTAM","translation":"[計] 排隊式遠程通信存取法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

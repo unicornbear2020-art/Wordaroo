@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fdn",{"fdn":{"word":"fdn","translation":"abbr. foundation 基金，基金會，基礎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xco",{"xcopy":{"word":"XCOPY","translation":"[計] DOS外部命令:是對COPY命令的加強\n             如果需要拷貝包含所有子目錄在內的整個目錄, 使用該命令是很方便的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

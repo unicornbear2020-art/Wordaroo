@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nvd",{"nvd":{"word":"nvd","translation":"[醫][=nausea,vomiting,diarrhea]噁心、嘔吐、腹瀉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'env'i:d'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

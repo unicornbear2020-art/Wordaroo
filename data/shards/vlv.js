@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vlv",{"vlv":{"word":"vlv","translation":"abbr. valve 電子管; 閥門; valvular 有閥門的; 瓣膜的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

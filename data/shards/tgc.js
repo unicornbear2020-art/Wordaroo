@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tgc",{"tgc":{"word":"tgc","translation":"時間增益補償","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

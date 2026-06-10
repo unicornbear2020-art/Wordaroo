@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zyo",{"zyosingan":{"word":"zyosingan","translation":"大黃、牽牛子、甘遂複合煎劑","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,zaiә'siŋ^әn/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

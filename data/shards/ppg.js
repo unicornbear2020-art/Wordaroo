@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ppg",{"ppg":{"word":"ppg","translation":"abbr. 聚丙二醇；脈衝程序發生器（ programme pulse generator）；每加侖脈衝數（Pulses Per Gallon）；聚醚","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

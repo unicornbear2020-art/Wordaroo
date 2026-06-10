@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vn_",{"vn":{"word":"vn","translation":"abbr. 越南（Vietnam）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

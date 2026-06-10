@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uci",{"uci":{"word":"uci","translation":"abbr. unit construction index 獨立裝置（結構），部（組）件索引","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

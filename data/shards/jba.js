@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jba",{"jbail":{"word":"jbail","translation":"[地名] [黎巴嫩] 朱拜勒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

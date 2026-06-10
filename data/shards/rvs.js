@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rvs",{"rvs":{"word":"rvs","translation":"abbr. reported visual sensation 據報道的視覺","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

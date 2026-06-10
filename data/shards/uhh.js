@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uhh",{"uhhuh":{"word":"uhhuh","translation":"[美俚]求愛","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ʌhʌ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

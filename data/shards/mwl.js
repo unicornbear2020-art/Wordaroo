@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mwl",{"mwl":{"word":"mwl","translation":"abbr. Mean Water Level 平均水位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cnf",{"cnf":{"word":"cnf","translation":"abbr. 合取範式（conjunctive normal form）；成本加運費（cost and freight, 等於CFR）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

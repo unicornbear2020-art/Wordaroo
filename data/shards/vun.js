@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vun",{"vung":{"word":"vung","translation":"[地名] 灣（越南語）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

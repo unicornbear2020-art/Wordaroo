@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ln_",{"ln":{"word":"ln","translation":"abbr. 自然對數（Napierian Logarithm）；液態氮（Liquid Nitrogen）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

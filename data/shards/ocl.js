@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ocl",{"ocl":{"word":"ocl","translation":"[醫][=occupational check list]職業核對表，職業檢查表","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'əʊkl/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

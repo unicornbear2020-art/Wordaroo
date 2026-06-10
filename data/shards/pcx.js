@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pcx",{"pcx":{"word":"PCX","translation":"n. 圖形文件（DOS文件擴展名）\nabbr. 周視凸面（periscope convex）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

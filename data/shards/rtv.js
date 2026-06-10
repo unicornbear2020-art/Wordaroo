@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rtv",{"rtv":{"word":"rtv","translation":"abbr. 無線電電視（Radio Television）；室温硫化（Room Temperature Vulcaniza-tion）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

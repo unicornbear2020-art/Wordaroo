@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("p_f",{"p-fluorobromobenzene":{"word":"P-fluorobromobenzene","translation":"[化] 對氟溴苯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

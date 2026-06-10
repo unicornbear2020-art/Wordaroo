@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rfk",{"rfk":{"word":"rfk","translation":"abbr. Anguilla; Mississippi 美國; radio frequency keying 射頻鍵控; radio frequency kit 射頻（配套）元件","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

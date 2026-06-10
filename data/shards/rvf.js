@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rvf",{"rvf":{"word":"rvf","translation":"[醫][=renal vascular failure]腎血管性衰竭","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:rv'i:'ef/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

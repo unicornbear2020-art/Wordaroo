@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ifd",{"ifdef":{"word":"ifdef","translation":"n. 如果定義了","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

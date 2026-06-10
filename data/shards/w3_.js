@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("w3_",{"w3":{"word":"W3","translation":"[計] WWW瀏覽器(World Wide Web)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

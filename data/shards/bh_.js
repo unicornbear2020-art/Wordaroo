@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bh_",{"bh":{"word":"BH","translation":"abbr. 布氏硬度（Brinell hardness）；營業時間（Business Hours）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a transuranic element","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

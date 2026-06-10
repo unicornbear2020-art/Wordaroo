@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c1_",{"c1.":{"word":"C1.","translation":"[醫] 氯(17號元素); 電路閉合, 通電; 梭狀芽胞桿菌屬","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

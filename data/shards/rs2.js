@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rs2",{"rs232":{"word":"RS232","translation":"[計] 異步通信端口設置程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

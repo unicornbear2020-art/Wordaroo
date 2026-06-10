@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yzq",{"yzquierdo's bacillus":{"word":"Yzquierdo's bacillus","translation":"[醫] 伊斯傑爾多氏桿菌(大約即秘魯疣的病原菌)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

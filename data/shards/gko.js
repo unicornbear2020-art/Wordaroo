@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gko",{"gkos":{"word":"gkos","translation":"abbr. gene knockout system 基因敲除系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

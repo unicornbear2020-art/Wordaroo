@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("m_f",{"m-f":{"word":"m-f","translation":"[醫][=(male/female)ratio]男女比率，男女比例","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'em'ef/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

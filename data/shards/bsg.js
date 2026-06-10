@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bsg",{"bsg":{"word":"bsg","translation":"abbr. British Standards Gage 英國標準規","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

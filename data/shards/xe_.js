@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xe_",{"xe":{"word":"Xe","translation":"[醫] 氙(45號元素)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a colorless odorless inert gaseous element occurring in the earth's atmosphere in trace amounts","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

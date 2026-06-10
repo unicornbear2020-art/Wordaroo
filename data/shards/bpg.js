@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bpg",{"bpg":{"word":"bpg","translation":"abbr. break pulse generator 斷路脈衝發生器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'bi:p'i:dʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

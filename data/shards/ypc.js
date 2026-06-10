@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ypc",{"ypc":{"word":"ypc","translation":"abbr. Yangzi Petrochemical International Trading Company （中國南京）揚子石化國際貿易公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

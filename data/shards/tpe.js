@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tpe",{"tpe":{"word":"tpe","translation":"abbr. 測試模型, 求解程序（Test Pattern Evaluator）；熱塑性彈性體；[化]磷酸三苯酯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

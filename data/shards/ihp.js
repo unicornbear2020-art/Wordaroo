@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ihp",{"ihp":{"word":"ihp","translation":"abbr. indicated horsepower 指示馬力; ischemic heart disease 缺血性心臟病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uyo",{"uyo":{"word":"uyo","translation":"[地名] [尼日利亞] 烏約","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nbl",{"nbl":{"word":"nbl","translation":"abbr. not bloody likely （英俚）沒門兒，不可能，不見得","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gys",{"gysbers":{"word":"gysbers","translation":"[人名] 吉斯伯斯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

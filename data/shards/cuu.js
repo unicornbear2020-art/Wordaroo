@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cuu",{"cuurent directory":{"word":"cuurent directory","translation":"[計] 當前目錄","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

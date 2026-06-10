@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kex",{"kex":{"word":"kex","translation":"n. （具有傘形花序的）空心莖植物；（空心莖植物的）幹莖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/keks/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n. A weed; a kecksy.\nn. A dry husk or covering.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

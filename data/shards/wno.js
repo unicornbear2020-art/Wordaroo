@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wno",{"wno":{"word":"wno","translation":"abbr. Welsh National Opera 威爾士國家歌劇院; Wharton and Northern Railroad <美國>沃頓北方鐵路公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

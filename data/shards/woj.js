@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("woj",{"wojciech":{"word":"Wojciech","translation":"n. (Wojciech)人名；(波、葡)沃伊切赫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

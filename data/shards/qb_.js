@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qb_",{"qb":{"word":"qb","translation":"abbr. 定量（電生理）電池（quantitative（electrophysiological）battery）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

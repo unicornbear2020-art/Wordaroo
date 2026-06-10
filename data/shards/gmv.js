@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gmv",{"gmv":{"word":"gmv","translation":"abbr. gram-molecular volume 克分子體積","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

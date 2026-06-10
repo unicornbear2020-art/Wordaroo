@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jio",{"jioa":{"word":"jioa","translation":"abbr. Joint Intelligence Objectives Agency 聯合情報調查局","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

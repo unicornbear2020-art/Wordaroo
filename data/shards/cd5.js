@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cd5",{"cd50":{"word":"CD50","translation":"[醫] 半數治癒量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("shg",{"shg":{"word":"shg","translation":"abbr. shipping 裝運，海運","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'es'etʃdʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

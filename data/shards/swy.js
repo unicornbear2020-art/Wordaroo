@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("swy",{"swygert":{"word":"swygert","translation":"[人名] 斯威格特","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

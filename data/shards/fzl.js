@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fzl",{"fzl":{"word":"fzl","translation":"abbr. [網絡用語]非主流（fei zhu liu）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("myv",{"myvaseal":{"word":"myvaseal","translation":"邁瓦西爾高真空絕緣材料","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

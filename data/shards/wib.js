@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wib",{"wiborgite":{"word":"wiborgite","translation":"奧環斑花崗岩","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'wibɔ:^ait/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wdr",{"wdr":{"word":"wdr","translation":"abbr. white drum 白鼓; wider 較寬的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

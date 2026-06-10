@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jm_",{"jm":{"word":"jm","translation":"abbr. 牙買加（Jamaica）；法律碩士（Master of Law）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

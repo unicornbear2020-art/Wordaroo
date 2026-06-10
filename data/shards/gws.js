@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gws",{"gws":{"word":"gws","translation":"abbr. 成衣洗水樣板（Garment Wash Sample）；圖形氣象服務（Graphic Weather Service）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

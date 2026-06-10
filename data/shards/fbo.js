@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fbo",{"fbo":{"word":"fbo","translation":"abbr. for benefit of 有利於…","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

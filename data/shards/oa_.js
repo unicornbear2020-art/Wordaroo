@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oa_",{"oa":{"word":"OA","translation":"辦公自動化\n[計] 辦公自動化, 運算分析","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

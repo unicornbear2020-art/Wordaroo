@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vqr",{"vqr":{"word":"vqr","translation":"abbr. vendor qualification report 供應商質量認證報告","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

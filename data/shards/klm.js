@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("klm",{"klm":{"word":"KLM","translation":"(=kilolumen)千流明","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/kim/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

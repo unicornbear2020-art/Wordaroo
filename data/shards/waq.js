@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("waq",{"waqooyibari":{"word":"Waqooyibari","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"name","senses":[{"gloss":"Waqooyibari is a regional state in northern Somalia, the successor of Khatumo state.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

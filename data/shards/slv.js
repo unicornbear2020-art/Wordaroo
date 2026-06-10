@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("slv",{"slv":{"word":"slv","translation":"abbr. space launch vehicle 空間運載火箭; standard launch vehicle 標準運載火箭","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

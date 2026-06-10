@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dwc",{"dwc":{"word":"DWC","translation":"(總)載重噸位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

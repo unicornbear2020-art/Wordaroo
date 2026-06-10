@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cko",{"cko":{"word":"cko","translation":"abbr. 首席知識官（Chief Knowledge Officer）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

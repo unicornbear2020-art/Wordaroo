@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hih",{"hih":{"word":"hih","translation":"abbr. His（或Her）Imperial Highness 殿下（間接提及時用）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

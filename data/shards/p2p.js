@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("p2p",{"p2p":{"word":"p2p","translation":"abbr. 點對點技術（peer-to-peer）；通向利潤之路（path to profitability）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

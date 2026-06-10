@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hmv",{"hmv":{"word":"hmv","translation":"abbr. 英國\"主人之聲\"牌唱片（His Master's Voice）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

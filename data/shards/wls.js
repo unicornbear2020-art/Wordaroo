@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wls",{"wls":{"word":"wls","translation":"[醫][=whip-lash syndrome]頸椎挫傷綜合徵，鞭擊綜合徵","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'dəbəlju:'el'es/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

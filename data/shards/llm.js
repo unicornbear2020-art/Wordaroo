@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("llm",{"llm":{"word":"llm","translation":"abbr. 法學碩士；法律碩士","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n an advanced law degree","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

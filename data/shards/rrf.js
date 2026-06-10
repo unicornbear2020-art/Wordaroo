@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rrf",{"rrf":{"word":"rrf","translation":"abbr. Referigeration Research Foundation <美>製冷研究基金會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dw_",{"dw":{"word":"dw","translation":"abbr. 發展的寬度（Developed Width）；蒸餾水（Distilled Water）；雙重牆（Double Wall）；雙重載（Double Weight）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

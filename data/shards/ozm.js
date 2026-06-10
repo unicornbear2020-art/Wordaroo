@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ozm",{"ozment":{"word":"ozment","translation":"[人名] 奧茲門特","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

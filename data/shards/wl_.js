@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wl_",{"wl":{"word":"wl","translation":"abbr. 水位（waterline或water line）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

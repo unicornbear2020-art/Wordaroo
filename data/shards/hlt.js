@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hlt",{"hlt":{"word":"hlt","translation":"abbr. 停止（halt）；停機, 停機指令（halt）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

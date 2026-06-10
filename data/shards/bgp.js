@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bgp",{"bgp":{"word":"BGP","translation":"[計] 邊界網有關協議","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cih",{"cih":{"word":"cih","translation":"abbr. carbohydrate-induced hyperglyceridemia 糖類誘發性高甘油脂血癥","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'sɪh/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

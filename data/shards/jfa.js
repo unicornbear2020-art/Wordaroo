@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jfa",{"jfa":{"word":"jfa","translation":"abbr. Japan Fluorocarbon Association 日本氟碳化合物協會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

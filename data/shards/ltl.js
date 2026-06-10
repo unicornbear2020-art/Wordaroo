@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ltl",{"ltl":{"word":"LTL","translation":"abbr. 立陶宛立特（立陶宛的貨幣名稱縮寫）；零擔（less than truckload）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

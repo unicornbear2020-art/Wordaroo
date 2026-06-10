@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ycp",{"ycp":{"word":"ycp","translation":"abbr. yaw-coupling parameter 偏航耦合參數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

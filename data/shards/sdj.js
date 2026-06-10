@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sdj",{"sdj":{"word":"sdj","translation":"[醫][=sigmoid-descending colon junction]乙狀結腸降結腸交接處","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

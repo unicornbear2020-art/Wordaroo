@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lq_",{"lq":{"word":"lq","translation":"abbr. 液體（liquid）；最下弦（lowest quartile）；線性計量器（linear quantifier）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tj_",{"tj":{"word":"tj","translation":"渦輪噴氣發動機（Turbo-Jet）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

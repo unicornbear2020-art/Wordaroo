@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("usx",{"usx":{"word":"usx","translation":"美國鋼鐵馬拉松公司總部所在地：美國主要業務：煉油","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

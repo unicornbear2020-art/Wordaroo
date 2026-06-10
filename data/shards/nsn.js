@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nsn",{"nsn":{"word":"nsn","translation":"[醫][=nephrotoxic serum nephritis]腎中毒血清腎炎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'en'es'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

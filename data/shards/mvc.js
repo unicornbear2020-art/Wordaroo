@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mvc",{"mvc":{"word":"mvc","translation":"abbr. 手動音量調節（Manual Volume Control）；多元計算器（Multiple Variate Counter）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

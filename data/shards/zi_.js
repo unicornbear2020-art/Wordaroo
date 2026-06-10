@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zi_",{"zi":{"word":"zi","translation":"abbr. 美國本土, 後方地帶（等於zone of interior）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

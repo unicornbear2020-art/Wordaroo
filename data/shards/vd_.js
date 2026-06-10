@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vd_",{"vd":{"word":"VD","translation":"性病, 花柳病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a communicable infection transmitted by sexual intercourse or genital contact","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

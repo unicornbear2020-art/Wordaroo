@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bxa",{"bxa":{"word":"bxa","translation":"[計]（美國）商務部出口管理局","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

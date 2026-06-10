@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("trc",{"trc":{"word":"trc","translation":"abbr. 頂部紅色礫岩；牽引力控制系統；温度記錄控制器（Temperature Recording Controller）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c_j",{"c.j.":{"word":"C.J.","translation":"審判長, 法院院長, 首席法官","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tmv",{"tmv":{"word":"TMV","translation":"[醫] 煙草花葉病病毒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n the widely studied plant virus that causes tobacco mosaic; it was the first virus discovered (1892)","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kct",{"kct":{"word":"KCT","translation":"[醫] 陰極通電強直","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

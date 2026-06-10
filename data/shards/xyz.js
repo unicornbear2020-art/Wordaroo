@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xyz",{"xyz":{"word":"xyz","translation":"n. 座標軸；未知數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

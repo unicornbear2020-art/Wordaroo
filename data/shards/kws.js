@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kws",{"kws":{"word":"kws","translation":"(kw 的複數) [醫] 千瓦[特]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"plural of kw\nn a unit of power equal to 1000 watts","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

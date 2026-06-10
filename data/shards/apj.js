@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("apj",{"apjohnite":{"word":"apjohnite","translation":"錳鋁礬; 錳明礬","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ffp",{"ffps":{"word":"ffps","translation":"[醫][=Fellow of the Faculty of Physicians and Surgeons]內外科醫師學會會員","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

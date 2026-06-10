@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xlt",{"xlt":{"word":"xlt","translation":"abbr. excellent 卓越的; 極好的; 優秀的（代號）; xenon laser tube 氙激光管","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

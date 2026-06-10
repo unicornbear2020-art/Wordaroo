@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ssw",{"ssw":{"word":"SSW","translation":"abbr. 南-西南（south - southwest）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. the compass point midway between south and southwest","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

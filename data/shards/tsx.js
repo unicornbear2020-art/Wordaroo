@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tsx",{"tsx":{"word":"tsx","translation":"abbr. Telecommunications Satellite; Experimental 試驗用電信衞星","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

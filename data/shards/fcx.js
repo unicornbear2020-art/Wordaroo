@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fcx",{"fcx":{"word":"fcx","translation":"[醫][=frontal cortex]額皮質","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

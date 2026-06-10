@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("v_i",{"v.i.p.":{"word":"V.I.P.","translation":"n. 要人, 大人物","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

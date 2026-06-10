@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hmx",{"hmx":{"word":"hmx","translation":"[醫][=heat-massage-exercise]熱按摩運動","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

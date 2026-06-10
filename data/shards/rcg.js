@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rcg",{"rcgm":{"word":"rcgm","translation":"abbr. reactor cover gas monitor 反應堆覆蓋氣體監測器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

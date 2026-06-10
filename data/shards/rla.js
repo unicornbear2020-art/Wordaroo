@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rla",{"rla":{"word":"rla","translation":"[醫][=radiographic lung area]肺部放射照相，放射照相的肺區","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/r'lə/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

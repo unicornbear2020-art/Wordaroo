@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iui",{"iui":{"word":"iui","translation":"宮內人工授精","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

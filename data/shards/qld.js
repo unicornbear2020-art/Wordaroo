@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qld",{"qld":{"word":"qld","translation":"abbr. 昆士蘭州（Queensland, 澳大利亞的第二大州）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

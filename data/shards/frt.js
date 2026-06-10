@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("frt",{"frt":{"word":"frt","translation":"abbr. fruit 水果; freight 貨物; fortnight 兩週; free return trajectory 自由返回軌道","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pki",{"pki":{"word":"pki","translation":"abbr. Public Key Infrastructure 公鑰基礎設施","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

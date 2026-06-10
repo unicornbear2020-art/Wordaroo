@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wfl",{"wfl":{"word":"wfl","translation":"abbr. worshipful 崇拜的; 可貴的; 可敬的; 值得尊敬的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

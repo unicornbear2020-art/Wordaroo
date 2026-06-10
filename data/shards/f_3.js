@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("f_3",{"f.309":{"word":"F.309","translation":"[醫] 福諾三零九, 蘇拉明鈉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

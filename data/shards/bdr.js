@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bdr",{"bdrm":{"word":"bdrm","translation":"abbr. bedroom 卧室, 寢室","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

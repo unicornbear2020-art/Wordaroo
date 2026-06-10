@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ibt",{"ibt":{"word":"IBT","translation":"abbr. 新托福考試（Internet-based Testing）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fh_",{"fh":{"word":"FH","translation":"消防栓, 滅火龍頭, 消防龍頭\n[計] 文件處理器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

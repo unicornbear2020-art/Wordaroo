@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wsa",{"wsa":{"word":"wsa","translation":"abbr. weapons system analysis 武器系統分析","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

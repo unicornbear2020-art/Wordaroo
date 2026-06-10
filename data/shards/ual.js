@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ual",{"ual":{"word":"ual","translation":"abbr. upper acceptance limit 驗收上限","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

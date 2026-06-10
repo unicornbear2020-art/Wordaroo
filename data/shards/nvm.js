@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nvm",{"nvm":{"word":"nvm","translation":"abbr. 非易失性存儲器（Non-Volatile Memory）；非揮發性物質（non-volatile matter）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

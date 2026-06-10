@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ysf",{"ysf":{"word":"ysf","translation":"abbr. Stony Rapids;  Sask;  Canada 加拿大; yield safety factor 屈服安全係數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

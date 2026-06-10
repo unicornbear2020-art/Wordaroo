@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("siu",{"siu":{"word":"siu","translation":"abbr. 國際海員工會（Seafarers' International Union）；系統接口單元（System Interface Unit）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uxb",{"uxbridge":{"word":"Uxbridge","translation":"阿克斯布里奇（美國、加拿大、英國地名）\n烏克斯橋（英國地名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

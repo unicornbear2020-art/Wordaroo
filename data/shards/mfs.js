@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mfs",{"mfs":{"word":"MFS","translation":"[計] Mac文件系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n 300 to 3000 kilohertz","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

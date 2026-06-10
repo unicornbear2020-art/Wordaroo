@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("avx",{"avx":{"word":"avx","translation":"abbr. Avalon Bay, Catalina Island, California (airport) 阿瓦隆灣凱特林納島加州機場","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

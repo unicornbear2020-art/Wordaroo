@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lsb",{"lsb":{"word":"lsb","translation":"abbr. 最低有效位（Least Significant Bit）；Linux標準基礎（Linux Standards Base）；下邊帶（Lower Side Band）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

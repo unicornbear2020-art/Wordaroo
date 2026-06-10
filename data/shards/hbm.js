@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hbm",{"hbm":{"word":"HBM","translation":"abbr. 暫停成組傳輸方式（）Halt Burst Mode；英王（或英女王）陛下 （His/Her Britannic Majesty）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

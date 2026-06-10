@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("x_g",{"x-gram":{"word":"x-gram","translation":"[醫] X線[照]片","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

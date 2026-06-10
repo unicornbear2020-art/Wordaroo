@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rft",{"rft":{"word":"rft","translation":"[醫][=rapid filling time]快速充盈時間","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

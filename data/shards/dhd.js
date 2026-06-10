@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dhd",{"dhd process":{"word":"DHD process","translation":"[化] DHD法(高壓脱氫過程)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bfa",{"bfa":{"word":"BFA","translation":"abbr. 美術學士（Bachelor of Fine Arts）；博鰲亞洲論壇（Boao Forum for Asia）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

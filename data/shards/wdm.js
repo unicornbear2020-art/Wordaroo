@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wdm",{"wdm":{"word":"wdm","translation":"abbr. 波分多路複用（Wavelength Division Multiplex）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

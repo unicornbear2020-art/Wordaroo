@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ufr",{"ufr":{"word":"UFR","translation":"[化] 全混釜","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

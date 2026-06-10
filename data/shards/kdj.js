@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kdj",{"kdj":{"word":"kdj","translation":"abbr. 隨機指標","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

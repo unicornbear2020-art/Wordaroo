@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("x_k",{"x-knee":{"word":"x-knee","translation":"[醫] 叉形膝, 膝外翻","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

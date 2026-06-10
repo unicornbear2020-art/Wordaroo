@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ugv",{"ugv":{"word":"ugv","translation":"abbr. unmanned ground vehicle 無人駕駛地面車輛","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

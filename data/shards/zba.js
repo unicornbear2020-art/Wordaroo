@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zba",{"zbarsky":{"word":"zbarsky","translation":"[人名] 茲巴爾斯基","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wtp",{"wtp":{"word":"wtp","translation":"[計]= Write-To-Programmer,寫給程序員（的信息）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vvv",{"vvv":{"word":"vvv","translation":"abbr. Vasili Vasilievich Vereschagin 瓦西里·瓦西列維奇·維熱斯查金","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

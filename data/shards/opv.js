@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("opv",{"opv":{"word":"opv","translation":"[醫][=oral polio vaccine]口服脊髓灰質炎疫苗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɒpv/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

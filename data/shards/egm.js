@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("egm",{"egmont":{"word":"Egmont","translation":"埃格蒙特（男子名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

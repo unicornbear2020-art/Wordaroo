@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("efu",{"efuniculate":{"word":"efuniculate","translation":"[醫] 無臍帶的, 無索的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

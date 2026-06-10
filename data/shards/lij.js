@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lij",{"lijie":{"word":"lijie","translation":"n. （漢語）力傑；（漢語）李潔","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rge",{"rge":{"word":"rge","translation":"[醫][=relative gas expansion]相對氣體膨脹","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/rd'ʒe/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("stx",{"stx":{"word":"STX","translation":"[計] 正文開始符","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

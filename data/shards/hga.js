@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hga",{"hga":{"word":"hga","translation":"[醫][=homogentisate]尿黑酸鹽","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

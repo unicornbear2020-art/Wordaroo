@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lnr",{"lnr":{"word":"lnr","translation":"abbr. liner 畫線者; 襯墊; 航線客機; 定期航班","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'el'en'ɑ:r/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

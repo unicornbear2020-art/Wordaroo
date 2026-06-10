@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sld",{"sld":{"word":"sld","translation":"abbr. 血清乳酸脱氫酶；雙倍左移；螺線管","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

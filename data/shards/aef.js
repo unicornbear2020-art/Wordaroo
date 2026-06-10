@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aef",{"aef":{"word":"AEF","translation":"abbr. 機載設備事故（Airborne Equipment Failure）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

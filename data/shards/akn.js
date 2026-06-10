@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("akn",{"aknephascopia":{"word":"aknephascopia","translation":"[醫] 黃昏盲","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vdo",{"vdo":{"word":"vdo","translation":"abbr. video 視頻，電視，錄像","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/v'dəʊ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

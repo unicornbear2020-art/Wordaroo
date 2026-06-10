@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("umc",{"umc":{"word":"umc","translation":"台灣聯華電子公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

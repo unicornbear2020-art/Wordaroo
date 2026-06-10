@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tsm",{"tsm":{"word":"tsm","translation":"abbr. Tape Supply Motor 磁[紙]帶供送馬達，送帶電動機; Tape Supply Motor 磁[紙]帶供送馬達，送帶電動機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

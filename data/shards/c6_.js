@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c6_",{"c6":{"word":"C6","translation":"[醫] 溴化六烴季胺","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

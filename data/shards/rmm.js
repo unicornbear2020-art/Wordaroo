@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rmm",{"rmm":{"word":"RMM","translation":"[計] 可改寫的只讀存儲器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

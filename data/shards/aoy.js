@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aoy",{"aoyama":{"word":"aoyama","translation":"[地名] [日本] 青山","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ubc",{"ubc":{"word":"ubc","translation":"abbr. 英屬哥倫比亞大學（University of British Columbia）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

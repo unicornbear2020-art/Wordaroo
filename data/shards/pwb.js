@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pwb",{"pwb":{"word":"pwb","translation":"abbr. printed wiring board 印刷線路板，印製佈線板，印製電路板","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

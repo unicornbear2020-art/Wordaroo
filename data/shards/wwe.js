@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wwe",{"wwe":{"word":"wwe","translation":"abbr. 美國職業摔角（World Wrestling Entertainment）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hcv",{"hcv":{"word":"hcv","translation":"[醫][=hepatitis C virus]丙型肝炎病毒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

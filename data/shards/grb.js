@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("grb",{"grb":{"word":"grb","translation":"abbr. gamma-ray burst 射線脈衝; granolithic base 人造石鋪面基礎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

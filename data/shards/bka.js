@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bka",{"bka":{"word":"bka","translation":"abbr. 膝下截肢（below the knee amputation）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

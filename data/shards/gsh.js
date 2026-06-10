@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gsh",{"gsh":{"word":"GSH","translation":"[化] 谷胱甘肽; 促性腺素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

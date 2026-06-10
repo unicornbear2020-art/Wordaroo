@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gx_",{"gx":{"word":"gx","translation":"abbr. 鄰二甲苯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

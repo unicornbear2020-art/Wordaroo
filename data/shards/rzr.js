@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rzr",{"rzr":{"word":"rzr","translation":"abbr. Ramsar; Iran 伊朗; 拉姆薩爾機場（代碼）; return-to-zero record 歸零制記錄","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

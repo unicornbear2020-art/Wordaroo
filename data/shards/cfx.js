@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cfx",{"cfx":{"word":"cfx","translation":"[醫][=cefoxitin]頭黴噻吩，噻吩甲氧頭孢菌素，頭孢甲氧黴素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'si:'ef'eks/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

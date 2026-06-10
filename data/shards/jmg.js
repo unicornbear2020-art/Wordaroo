@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jmg",{"jmg":{"word":"jmg","translation":"abbr. Jewelry Manufacturers Guild 珠寶製造商協會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

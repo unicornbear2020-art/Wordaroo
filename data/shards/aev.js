@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aev",{"aeva":{"word":"aeva","translation":"abbr. Australian Equine Veterinary Association 澳大利亞馬醫聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

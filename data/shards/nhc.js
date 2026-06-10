@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nhc",{"nhc":{"word":"nhc","translation":"[醫][=national health council]全國衞生理事會，全國衞生協會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'en'etʃs'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

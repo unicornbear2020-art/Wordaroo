@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qy_",{"qy":{"word":"qy","translation":"abbr. 量子產額（Quantum Yield）；千葉（Qian Ye）；奇巖鎮（網絡遊戲劍斗轉職中的地名, Qi Yan）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

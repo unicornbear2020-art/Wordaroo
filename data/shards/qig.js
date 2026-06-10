@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qig",{"qigong":{"word":"qigong","translation":"氣功","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/kɪ'ɡɒŋ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("geq",{"geq":{"word":"geq","translation":"abbr. gain equalization 增益均衡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

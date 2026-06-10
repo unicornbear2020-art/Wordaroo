@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xos",{"xos":{"word":"xos","translation":"abbr. extra outside clothing 多餘的户外衣服（代號）; extra outsize (clothing) 超特大號（衣服）（代號）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

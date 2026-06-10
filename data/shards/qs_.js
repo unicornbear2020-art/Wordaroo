@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qs_",{"qs":{"word":"qs","translation":"abbr. 質量標準（Quality Standard）；質量規範（Quality Specification）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n the 17th letter of the Roman alphabet","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

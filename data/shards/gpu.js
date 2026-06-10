@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gpu",{"gpu":{"word":"gpu","translation":"abbr. 地面動力裝置（ground power unit）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

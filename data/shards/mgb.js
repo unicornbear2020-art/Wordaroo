@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mgb",{"mgb":{"word":"mgb","translation":"abbr. Medium Girder Bridge 中型橋樑","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

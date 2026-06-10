@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("upi",{"upi":{"word":"UPI","translation":"合眾國際社(美國)\n[計] 通用外部設備接口, 用户程序設計語言","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

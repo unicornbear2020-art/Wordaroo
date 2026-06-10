@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("g_a",{"g acid":{"word":"G acid","translation":"[化] G酸; 2-萘酚-6,8-二磺酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

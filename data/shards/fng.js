@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fng",{"fng":{"word":"fng","translation":"[醫]Fast Neutron Generator","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

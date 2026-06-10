@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sfb",{"sfb":{"word":"sfb","translation":"abbr. submarine fog bell 潛水霧鍾","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

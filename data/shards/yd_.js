@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yd_",{"yd":{"word":"yd","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"Short for yard or yards.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"abbr. 碼（yard）"}});

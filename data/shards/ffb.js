@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ffb",{"ffb":{"word":"ffb","translation":"abbr. fat-free body 脱脂體，無脂肪體","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

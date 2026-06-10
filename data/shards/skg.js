@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("skg",{"skg":{"word":"skg","translation":"abbr. safe keeping 保管; 保護; 保管業; sinking （船舶）沉沒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

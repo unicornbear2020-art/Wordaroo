@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("4th",{"4th":{"word":"4th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"4th is an abbreviation of fourth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"第四(fourth)"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mzu",{"mzungu":{"word":"mzungu","translation":"n. <東非英語>白人","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/әm'zjŋ^u:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

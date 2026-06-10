@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ptd",{"ptd":{"word":"ptd","translation":"[醫][=percutaneous transhepatic drainage]經皮經肝膽系引流術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

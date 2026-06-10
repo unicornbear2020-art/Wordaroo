@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pdn",{"pdn":{"word":"PDN","translation":"[計] 公共數據網絡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

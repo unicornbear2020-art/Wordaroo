@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("grh",{"grh":{"word":"grh","translation":"[醫][=gas recycle hydrogenator]氣體再循環氫化器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒi:'ɑ:r'etʃ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

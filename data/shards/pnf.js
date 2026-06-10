@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pnf",{"pnf":{"word":"pnf","translation":"本體感神經肌肉易化法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

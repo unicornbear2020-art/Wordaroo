@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nbw",{"nbw":{"word":"NbW","translation":"北偏西","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n the compass point that is one point west of due north","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bni",{"bni":{"word":"bni","translation":"印度尼西亞國家銀行（Bank Negara Indonesia）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

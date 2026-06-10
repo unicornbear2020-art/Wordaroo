@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gtm",{"gtmo":{"word":"gtmo","translation":"abbr. Guantanamo <古>關塔那摩（城市）; Guantanamo Bay 關塔那摩海灣（古巴）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

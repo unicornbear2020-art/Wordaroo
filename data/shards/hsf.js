@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hsf",{"hsf":{"word":"hsf","translation":"abbr. High Speed Flight 高速飛行","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

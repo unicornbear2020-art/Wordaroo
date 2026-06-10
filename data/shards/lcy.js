@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lcy",{"lcy":{"word":"LCY","translation":"abbr. 倫敦城市機場（London City Airport）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

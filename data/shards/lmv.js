@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lmv",{"lmv":{"word":"lmv","translation":"[醫][=live,attenuated measles virus vaccine]減毒活麻疹病毒疫苗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iyi",{"iying":{"word":"iying","translation":"(iie 的現在分詞) n. (Iie)人名；(日)飯衞 (姓)\nabbr. 特發性無效性紅細胞生成（idiopathic ineffective erythropoiesis）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"-ing form of iie","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

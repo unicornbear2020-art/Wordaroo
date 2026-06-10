@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jcc",{"jcc":{"word":"jcc","translation":"abbr. job corps centre 職業團中心","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

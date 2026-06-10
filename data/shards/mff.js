@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mff",{"mff":{"word":"mff","translation":"abbr. mighty fine fuckin 去他媽的強權","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

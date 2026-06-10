@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vlg",{"vlg":{"word":"vlg","translation":"[醫][=ventral nucleus of the lateral geniculate body]外側膝狀體的腹側核","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

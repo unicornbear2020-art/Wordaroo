@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("opz",{"opzyme":{"word":"opzyme","translation":"[醫] 器官提取物","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

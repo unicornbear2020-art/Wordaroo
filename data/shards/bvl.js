@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bvl",{"bvlgari":{"word":"bvlgari","translation":"意大利的寶格麗，是繼法國卡地亞和美國蒂芙尼之後的世界第三大珠寶品牌","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

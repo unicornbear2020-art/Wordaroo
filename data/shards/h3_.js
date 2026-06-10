@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("h3_",{"h3":{"word":"H3","translation":"[醫] 氚(音川)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

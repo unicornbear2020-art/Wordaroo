@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("agq",{"agq":{"word":"agq","translation":"abbr. Agrinion, Greece 希臘，艾格瑞尼昂機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

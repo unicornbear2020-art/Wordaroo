@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bbm",{"bbm":{"word":"bbm","translation":"abbr. 工商管理學士（Bachelor of Business Management）；先開後合（Break-Before-Make）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

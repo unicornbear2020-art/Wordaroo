@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nnl",{"nnlc":{"word":"nnlc","translation":"abbr. National Negro Labor Council 全國黑人勞工委員會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

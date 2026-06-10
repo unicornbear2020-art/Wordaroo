@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ez_",{"ez":{"word":"ez","translation":"abbr. 電零點（electrical zero）；東區（eastern zone）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

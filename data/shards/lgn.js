@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lgn",{"lgn":{"word":"lgn","translation":"[醫][=lateral geniculate nucleus]外側膝狀體核","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

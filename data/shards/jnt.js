@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jnt",{"jnt":{"word":"jnt","translation":"[醫][=joint]關節","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒeɪ'ent'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

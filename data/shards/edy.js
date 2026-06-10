@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("edy",{"edy":{"word":"edy","translation":"[女子名] 伊迪 Edith的暱稱","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

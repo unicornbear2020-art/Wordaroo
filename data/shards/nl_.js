@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nl_",{"nl":{"word":"NL","translation":"[計] 換行, 無標號","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

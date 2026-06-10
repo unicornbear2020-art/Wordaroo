@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tk_",{"tk":{"word":"tk","translation":"abbr. 菊池武夫（品牌名, TAKEO KIKUCHI的縮寫）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

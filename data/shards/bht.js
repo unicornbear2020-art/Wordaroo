@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bht",{"bht":{"word":"BHT","translation":"[化] 丁基羥基甲苯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

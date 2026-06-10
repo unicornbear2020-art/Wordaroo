@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vga",{"vga":{"word":"vga","translation":"abbr. [計]視頻圖形陣列（Video Graphics Array）；可變增益放大器（Variable-Gain Amplifier）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

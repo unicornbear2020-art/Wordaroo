@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("npy",{"npy":{"word":"npy","translation":"abbr. neuropeptide Y (substance in brain) （存在於大腦中）Y神經肽","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

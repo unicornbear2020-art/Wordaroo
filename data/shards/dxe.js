@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dxe",{"dxe":{"word":"dxe","translation":"abbr. digital cross-connect equipment 數字交叉連接設備","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

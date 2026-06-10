@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hph",{"hph":{"word":"hph","translation":"abbr. horse power-hour 馬力-小時; hygromycin phosphotransferase 潮黴素磷酸轉移酶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

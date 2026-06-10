@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ehs",{"ehs":{"word":"ehs","translation":"abbr. 環境、健康和安全（Environment Health Safety）；環境衞生局（Environmental Health Services）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

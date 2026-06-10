@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sx_",{"sx":{"word":"sx","translation":"abbr. 山西（中國省名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

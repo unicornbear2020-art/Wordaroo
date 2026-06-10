@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xh_",{"xh":{"word":"xh","translation":"abbr. extra hard 特硬的（代號）; extra heavy 特重的（代號）; extra high 特高的（代號）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

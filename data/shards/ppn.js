@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ppn",{"ppn":{"word":"ppn","translation":"abbr. precipitation 降水; 沉澱; 雨量; proportion 比例","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'pi:p'i:'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

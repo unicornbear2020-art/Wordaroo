@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("udl",{"udl":{"word":"udl","translation":"[計]= Up Data Link,上行數據鏈路","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("omf",{"omfg":{"word":"omfg","translation":"abbr. 我的老天（Oh My Fucking God）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

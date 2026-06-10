@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fpd",{"fpd":{"word":"FPD","translation":"[化] 火焰光度檢測器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a type of video display that is thin and flat; commonly used in laptop computers","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fiy",{"fiying fatigue":{"word":"fiying fatigue","translation":"[醫] 飛行疲勞","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

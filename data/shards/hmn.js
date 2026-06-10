@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hmn",{"hmn":{"word":"hmn","translation":"[醫][=human milk neutrophils]人乳中性白細胞","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

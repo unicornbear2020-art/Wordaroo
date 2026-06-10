@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sjt",{"sjtu":{"word":"sjtu","translation":"abbr. 上海交通大學（Shanghai Jiao Tong University）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

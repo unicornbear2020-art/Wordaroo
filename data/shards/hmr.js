@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hmr",{"hmr":{"word":"hmr","translation":"abbr. human mineralocorticoid receptor 人鹽皮質激素受體","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

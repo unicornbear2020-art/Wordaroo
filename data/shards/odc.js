@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("odc",{"odc":{"word":"odc","translation":"[醫][=ornithine decarboxylase]鳥氨酸脱羧酶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

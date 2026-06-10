@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hhb",{"hhb.":{"word":"HHb.","translation":"[醫] 還原血紅蛋白","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

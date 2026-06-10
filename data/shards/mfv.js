@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mfv",{"mfvl":{"word":"mfvl","translation":"abbr. maximal flow-volume loop 最大呼氣流速-容積曲線","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

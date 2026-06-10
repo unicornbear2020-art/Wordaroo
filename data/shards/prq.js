@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("prq",{"prq":{"word":"prq","translation":"abbr. personal resource questionnaire 個人資源問卷調查表","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

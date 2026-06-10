@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vsp",{"vsp":{"word":"VSP","translation":"[化] 維卡耐熱度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

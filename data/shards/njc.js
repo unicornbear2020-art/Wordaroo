@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("njc",{"njcaa":{"word":"njcaa","translation":"[體]全國初級大學體育協會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

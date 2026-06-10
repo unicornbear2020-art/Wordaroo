@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wpl",{"wpl":{"word":"wpl","translation":"abbr. warning point level 警告點級別","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'dəbəlju:p'i:'el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

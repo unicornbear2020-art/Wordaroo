@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sdf",{"sdf":{"word":"SDF","translation":"[計] 標準數據格式, 標準分配格式","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

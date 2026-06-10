@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nkt",{"nkt":{"word":"nkt","translation":"abbr. Nihon Kai Telecasting 日本電視節目","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

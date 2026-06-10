@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ixt",{"ixtle":{"word":"ixtle","translation":"n. 中、南美洲產的各種熱帶植物纖維","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ikstli, 'is-/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n. Alt. of Ixtli","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

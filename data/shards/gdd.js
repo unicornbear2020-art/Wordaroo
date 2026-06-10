@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gdd",{"gddm":{"word":"GDDM","translation":"圖形數據顯示管理器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

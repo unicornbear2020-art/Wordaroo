@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ght",{"ght":{"word":"ght","translation":"abbr. 青光眼半視野檢測（Glaucoma Hemifield Test）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

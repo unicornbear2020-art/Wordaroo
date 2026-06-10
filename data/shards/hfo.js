@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hfo",{"hfo":{"word":"hfo","translation":"abbr. heavy fuel oil 重（燃）油; high-frequency oscillator 高頻振盪器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

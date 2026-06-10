@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("m_i",{"m-inositol":{"word":"m-inositol","translation":"[醫] m-肌醇","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

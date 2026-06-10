@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ezc",{"ezcurrite":{"word":"ezcurrite","translation":"七水硼砂","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ezkәrait/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

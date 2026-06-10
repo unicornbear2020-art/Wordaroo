@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bpv",{"bpv":{"word":"bpv","translation":"[醫][=benign paroxysmal vertigo]良性陣發性眩暈","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'bi:p'i:v'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

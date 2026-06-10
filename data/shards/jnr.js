@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jnr",{"jnr":{"word":"Jnr","translation":"abbr. 日本國有鐵路（Japanese National Railways）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a son who has the same first name as his father","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

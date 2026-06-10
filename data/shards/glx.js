@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("glx",{"glx":{"word":"glx","translation":"[醫][=glutamine and/or glutamic acid]谷氨醯胺和/或穀氨酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒi:'el'eks/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

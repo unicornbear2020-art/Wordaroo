@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ojj",{"ojjdp":{"word":"ojjdp","translation":"abbr. Office of Juvenile Justice and Delinquency Prevention 青少年審判及不良行為預防辦公室","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tzo",{"tzolkin":{"word":"Tzolkin","translation":"卓爾金歷日","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

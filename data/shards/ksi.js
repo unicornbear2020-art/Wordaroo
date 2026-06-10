@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ksi",{"ksi":{"word":"ksi","translation":"abbr. kips (1000pounds) per square inch 千磅/平方英寸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

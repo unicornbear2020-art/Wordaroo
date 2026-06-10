@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tfc",{"tfc":{"word":"tfc","translation":"薄膜電路","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:'efs'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

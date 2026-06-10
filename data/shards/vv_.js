@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vv_",{"vv":{"word":"vv","translation":"abbr. 詩（verses）；卷（volumes ）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

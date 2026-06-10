@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cfb",{"cfb":{"word":"cfb","translation":"[醫][=central fibrous body]中心纖維體","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'si:'efb'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

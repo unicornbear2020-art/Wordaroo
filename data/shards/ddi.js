@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ddi",{"ddi":{"word":"ddi","translation":"abbr. 深度偏差指示器（Depth Deviation Indicator）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n an antiviral drug used to combat HIV infection","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

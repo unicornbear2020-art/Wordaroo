@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ncg",{"ncga":{"word":"ncga","translation":"[醫]Neutron Capture Gamma-ray Analysis","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

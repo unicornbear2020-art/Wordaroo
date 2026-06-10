@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gwm",{"gwm":{"word":"gwm","translation":"abbr. generalized wave matrix 廣義波矩陣","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

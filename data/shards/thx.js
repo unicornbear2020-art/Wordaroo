@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("thx",{"thx":{"word":"thx","translation":"abbr. 湯·霍爾曼實驗（tom holmans expriment的縮寫）；謝謝（thanks的縮寫）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

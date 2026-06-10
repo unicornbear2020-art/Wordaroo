@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mha",{"mha":{"word":"mha","translation":"[醫][=2-hydroxy-4-(methylthio)butyric acid]2-羥-4-（甲硫基）丁酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ˌemeɪtʃ'eɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

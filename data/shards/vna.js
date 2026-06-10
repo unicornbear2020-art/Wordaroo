@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vna",{"vna":{"word":"VNA","translation":"矢量網絡分析儀（Vector Network Analyzer）\n越南通訊社（Vietnam News Agency）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

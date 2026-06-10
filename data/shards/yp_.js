@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yp_",{"yp":{"word":"yp","translation":"abbr. 黃頁（yellow pages）；風光郵資明信片；屈服點（yield point）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

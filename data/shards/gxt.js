@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gxt",{"gxt":{"word":"gxt","translation":"abbr. graded exercise test 等級運動試驗; 分級訓練測驗; graded exercise testing 等級運動試驗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

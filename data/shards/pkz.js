@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pkz",{"pkzip":{"word":"pkzip","translation":"n. 一種着名軟件壓縮工具","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

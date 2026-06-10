@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("l_0",{"l-0":{"word":"L-0","translation":"[醫] 無毒界量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

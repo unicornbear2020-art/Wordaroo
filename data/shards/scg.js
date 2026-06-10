@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("scg",{"scg":{"word":"scg","translation":"[醫][=serum chemistry graph]血清化學記錄器，血清化學圖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ess'i:dʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

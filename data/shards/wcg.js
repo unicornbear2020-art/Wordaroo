@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wcg",{"wcg":{"word":"wcg","translation":"abbr. 世界電子競技大賽（World Cyber Games）；廣色域（Wide Color Gamut）；全球聯眾網（World Community Grid）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

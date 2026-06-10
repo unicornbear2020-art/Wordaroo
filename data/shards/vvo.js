@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vvo",{"vvocally":{"word":"vvocally","translation":"用聲音,用語言","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uef",{"uefa":{"word":"uefa","translation":"abbr. 歐洲足球協會聯盟（Union of European Football Association）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

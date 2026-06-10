@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("okc",{"okc":{"word":"okc","translation":"[醫][=odontogenic keratocyst]牙源性角化囊腫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

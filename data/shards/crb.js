@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("crb",{"crb":{"word":"crb","translation":"abbr. crumbs 碎屑; 麪包心; curb 路邊; curbing 邊石","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

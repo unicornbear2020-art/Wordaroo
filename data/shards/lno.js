@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lno",{"lno":{"word":"lno","translation":"abbr. low noise oscillator 低噪聲振盪器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

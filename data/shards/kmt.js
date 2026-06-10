@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kmt",{"kmt":{"word":"kmt","translation":"abbr. 中國國民黨（Kuo Min Tang）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ehf",{"ehf":{"word":"EHF","translation":"極高頻","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n 30 to 300 gigahertz","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

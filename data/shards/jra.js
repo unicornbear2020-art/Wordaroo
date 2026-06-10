@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jra",{"jra":{"word":"jra","translation":"abbr. junior rheumatoid arthritis 輕型風濕性關節炎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

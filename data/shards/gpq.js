@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gpq",{"gpq":{"word":"gpq","translation":"n. [冒險島]GuildPartyQuest,家族任務。","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

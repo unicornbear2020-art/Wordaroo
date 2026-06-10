@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bcw",{"bcw":{"word":"bcw","translation":"abbr. bare copper wire 裸銅線; Bureau of Child Welfare <美國>兒童福利局","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bvh",{"bvh":{"word":"bvh","translation":"abbr. biventricular hypertrophy 雙側心室肥大","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

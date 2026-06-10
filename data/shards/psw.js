@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("psw",{"psw":{"word":"PSW","translation":"[計] 程序狀態字","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

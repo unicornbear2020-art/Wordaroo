@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zd_",{"zd":{"word":"zd","translation":"n. 天頂距（zenith distance）；零色散（Zero Dispersion）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ttw",{"ttw":{"word":"ttw","translation":"abbr. time of tension to war 戰爭迫在眉睫; total temperature and weight 總温度及總重量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

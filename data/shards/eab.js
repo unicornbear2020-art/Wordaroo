@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eab",{"eab":{"word":"eab","translation":"[醫][=elective abortion]選擇性流產","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'əb/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

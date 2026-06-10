@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cbx",{"cbx":{"word":"CBX","translation":"計算機化交換機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

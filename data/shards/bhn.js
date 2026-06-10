@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bhn",{"bhn":{"word":"BHN","translation":"abbr. 布氏硬度值（Brinell hardness number）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rpw",{"rpw":{"word":"rpw","translation":"abbr. ranked positional weight 重力的定位分類","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:rp'i:d'əbəlju:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

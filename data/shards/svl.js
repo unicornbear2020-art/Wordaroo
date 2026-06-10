@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("svl",{"svl":{"word":"svl","translation":"[醫][=superficial region of the vastus lateralis]股外肌淺區","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

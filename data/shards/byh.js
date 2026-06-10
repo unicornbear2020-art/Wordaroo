@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("byh",{"byham":{"word":"byham","translation":"[人名] 拜厄姆","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

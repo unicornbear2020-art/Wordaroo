@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nwn",{"nwn":{"word":"nwn","translation":"abbr. nationwide wireless network 全國無線網; non-white noise 非白噪聲","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

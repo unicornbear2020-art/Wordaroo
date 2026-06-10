@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tlr",{"tlr":{"word":"TLR","translation":"abbr. 長途電話斷路（Toll Line Release）；輸電負荷切除（Transmission Loading Relief）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

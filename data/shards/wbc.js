@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wbc",{"wbc":{"word":"WBC","translation":"白血球, 白細胞","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n blood cells that engulf and digest bacteria and fungi; an important part of the body's defense system","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("a5_",{"a5":{"word":"a5","translation":"n. A5型紙（標準的紙張尺寸）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

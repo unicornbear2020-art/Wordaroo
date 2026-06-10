@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mi5",{"mi5":{"word":"MI5","translation":"abbr. 軍情五處（Military Intelligence Security Service, 英國負責國內反間諜、反恐怖的情報部門）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

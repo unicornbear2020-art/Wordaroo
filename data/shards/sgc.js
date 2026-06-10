@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sgc",{"sgc":{"word":"sgc","translation":"[醫][=salivary-gland carcinoma]唾液腺癌","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'esdʒ'i:s'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

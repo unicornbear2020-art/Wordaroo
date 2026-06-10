@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dmv",{"dmv":{"word":"dmv","translation":"abbr. 公鐵兩用車（dual mode vehicle）；機動車駕駛管理處（Department of Motor Vehicle）；差模電壓","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

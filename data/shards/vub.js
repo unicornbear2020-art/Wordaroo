@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vub",{"vub":{"word":"vub","translation":"abbr. variable upper bound 可變上限，可變上界","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

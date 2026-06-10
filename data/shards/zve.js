@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zve",{"zveno":{"word":"zveno","translation":"<俄>n.(蘇聯集體農莊或國營農場的)作業組","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/zve'nәu/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("x_y",{"x-y switch":{"word":"x-y switch","translation":"[電] XY開關","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

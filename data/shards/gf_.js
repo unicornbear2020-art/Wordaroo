@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gf_",{"gf":{"word":"GF","translation":"[化] 凝膠過濾法; 凝膠過濾色譜法; 生長因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

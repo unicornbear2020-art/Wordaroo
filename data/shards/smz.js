@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("smz",{"smz":{"word":"SMZ","translation":"[化] 磺胺甲基┭唑; 磺胺甲基異┭唑; 新諾明","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rlg",{"rlg":{"word":"rlg","translation":"[醫](research library group)研究圖書館組織","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

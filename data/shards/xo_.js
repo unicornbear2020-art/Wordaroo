@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xo_",{"xo":{"word":"xo","translation":"abbr. 藏窖年份40-75年的白蘭地規格（extra old）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

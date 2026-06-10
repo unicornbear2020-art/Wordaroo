@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("r_e",{"r.e.":{"word":"R.E.","translation":"[醫] 鐳射氣, 右眼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

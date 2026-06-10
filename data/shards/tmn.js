@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tmn",{"tmnt":{"word":"tmnt","translation":"abbr. Teenage Mutant Ninja Turtle 忍者龜","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("v_2",{"v-2":{"word":"V-2","translation":"n. -2's V-2 導彈(第二次世界大戰時德國使用的 V-1 改進型地對地導彈) [亦作 V-two]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'vi:'tu:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pnb",{"pnb":{"word":"pnb","translation":"[醫][=perineal needle biopsy]會陰針吸活檢","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'pi:'enb'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

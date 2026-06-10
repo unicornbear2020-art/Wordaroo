@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kx_",{"kx":{"word":"kx","translation":"abbr. Buckinghamshire 白金漢郡（不列顛羣島車輛登記符號）; Cayman Airways 英國開曼航空公司（代碼）; coaxial cable 同軸電纜（代號）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

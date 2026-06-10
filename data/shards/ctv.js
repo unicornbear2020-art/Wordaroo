@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ctv",{"ctv":{"word":"ctv","translation":"abbr. commercial television 商業電視","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eew",{"eew":{"word":"eew","translation":"[醫][=epoxide equivalent weight]環氧化物當量重量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

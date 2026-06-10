@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vhd",{"vhdl":{"word":"vhdl","translation":"[醫][=very high density lipoprotein]極高密度脂蛋白","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

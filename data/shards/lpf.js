@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lpf",{"lpf":{"word":"LPF","translation":"[計] 程序設計自由同盟\n[醫] 低倍視野","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

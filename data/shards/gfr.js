@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gfr",{"gfr":{"word":"gfr","translation":"abbr. gap-filled radar 死區填補雷達; glomerular filtration rate 腎小球過濾率","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

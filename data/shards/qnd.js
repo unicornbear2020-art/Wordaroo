@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qnd",{"qnd":{"word":"qnd","translation":"abbr. quantum nondemolition (measurement) 量子非破壞性（測量）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

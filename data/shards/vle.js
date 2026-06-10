@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vle",{"vleminckx's soiutions":{"word":"Vleminckx's soiutions","translation":"[醫] 弗累明克斯氏溶液(含硫石灰液)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

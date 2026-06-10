@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sdu",{"sdu":{"word":"sdu","translation":"n. 香港特別任務連（通稱飛虎隊, Special Duties Unit）；[電視]信號分配裝置（Signal Distribution Unit）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

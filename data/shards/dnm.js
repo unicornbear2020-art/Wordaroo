@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dnm",{"dnm":{"word":"dnm","translation":"[醫][=daunomycin,daunorubicin]紅比黴素，柔紅黴素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'di:'en'em/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

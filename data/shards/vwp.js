@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vwp",{"vwp":{"word":"vwp","translation":"abbr. variable width pulse 可變寬度脈衝","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'vi:d'əbəlju:p'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

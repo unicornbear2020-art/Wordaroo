@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xr_",{"xr":{"word":"XR","translation":"[計] 外部復位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

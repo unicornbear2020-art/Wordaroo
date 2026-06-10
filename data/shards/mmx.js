@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mmx",{"mmx":{"word":"mmx","translation":"abbr. 多媒體增強指令集（Multi Media Extension）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aof",{"aof":{"word":"aof","translation":"[醫][=acridine orange fluorescence]（癌細胞的）吖啶橙熒光檢查法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

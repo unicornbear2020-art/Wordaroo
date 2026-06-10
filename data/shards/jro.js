@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jro",{"jrom":{"word":"jrom","translation":"abbr. Josephson read-only memory 約瑟夫遜只讀存儲器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

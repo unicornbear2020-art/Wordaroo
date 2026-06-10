@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rtt",{"rtt":{"word":"RTT","translation":"[計] 循環時間","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

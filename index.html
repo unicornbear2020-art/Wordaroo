@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta
+      name="description"
+      content="Wordaroo 完整離線英語字典，支援英式、美式及澳洲英語詞彙、音標與裝置發音。"
+    />
+    <title>Wordaroo 離線英語字典</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="Wordaroo 字典首頁">
+        <span class="brand-mark" aria-hidden="true"><span></span></span>
+        <span>WORDAROO</span>
+      </a>
+      <div class="database-status" id="databaseStatus">
+        <span class="status-dot" aria-hidden="true"></span>
+        <span>載入離線資料庫</span>
+      </div>
+    </header>
+
+    <main>
+      <section class="search-section" aria-labelledby="pageTitle">
+        <p class="eyebrow">OFFLINE ENGLISH DICTIONARY</p>
+        <h1 id="pageTitle"><em>一查即明</em></h1>
+        <p class="intro">詞義、詞性、地域用法、例句、音標及裝置發音，全程離線。</p>
+
+        <form class="search-form" id="searchForm" role="search">
+          <label class="sr-only" for="wordInput">輸入英文單詞或詞組</label>
+          <div class="search-box">
+            <svg aria-hidden="true" viewBox="0 0 24 24">
+              <path
+                d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"
+                fill="none"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-width="2"
+              />
+            </svg>
+            <input
+              id="wordInput"
+              type="search"
+              autocomplete="off"
+              autocapitalize="none"
+              spellcheck="false"
+              placeholder="輸入 colour、color、arvo..."
+              maxlength="100"
+            />
+            <button type="submit">查字</button>
+          </div>
+          <div class="suggestions" id="suggestions" hidden></div>
+        </form>
+
+        <div class="quick-links" aria-label="快速例子">
+          <span>試吓：</span>
+          <button type="button" data-word="dictionary">dictionary</button>
+          <button type="button" data-word="colour">colour</button>
+          <button type="button" data-word="sidewalk">sidewalk</button>
+          <button type="button" data-word="arvo">arvo</button>
+        </div>
+      </section>
+
+      <section class="result-shell" id="resultShell" aria-live="polite">
+        <div class="welcome-card" id="welcomeCard">
+          <p class="mini-label">READY OFFLINE</p>
+          <h2>字典已準備好</h2>
+          <p>輸入兩個或以上英文字母即可搜尋。資料會按字首分段載入，適合大型離線詞庫。</p>
+        </div>
+
+        <article class="entry-card" id="entryCard" hidden>
+          <div class="entry-header">
+            <div>
+              <div class="region-badges" id="regionBadges"></div>
+              <div class="word-line">
+                <h2 id="resultWord"></h2>
+                <button class="sound-button" id="soundButton" type="button" aria-label="讀出單詞">
+                  <svg aria-hidden="true" viewBox="0 0 24 24">
+                    <path
+                      d="M11 5 6.5 9H3v6h3.5L11 19V5Zm4.5 3.5c1.35 1.2 1.35 5.8 0 7m2.75-9.5c3.15 3.15 3.15 8.85 0 12"
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-width="1.8"
+                    />
+                  </svg>
+                </button>
+              </div>
+              <p class="translation" id="resultTranslation" hidden></p>
+            </div>
+            <div class="pronunciations" id="pronunciations"></div>
+          </div>
+          <div class="meanings" id="meanings"></div>
+          <div class="forms-block" id="formsBlock" hidden>
+            <h3>詞形變化</h3>
+            <div class="forms-list" id="formsList"></div>
+          </div>
+          <p class="entry-source" id="entrySource"></p>
+        </article>
+
+        <div class="not-found" id="notFound" hidden>
+          <span aria-hidden="true">?</span>
+          <div>
+            <h2>搵唔到呢個詞</h2>
+            <p id="notFoundText"></p>
+          </div>
+        </div>
+      </section>
+
+      <section class="settings-panel" aria-labelledby="speechTitle">
+        <div class="settings-heading">
+          <div>
+            <p class="mini-label">PRONUNCIATION</p>
+            <h2 id="speechTitle">發音設定</h2>
+          </div>
+          <button class="preview-button" id="voicePreviewButton" type="button">試聽 adventure</button>
+        </div>
+
+        <div class="settings-grid">
+          <label class="control">
+            <span>口音</span>
+            <select id="accentSelect">
+              <option value="en-GB">英式 English (UK)</option>
+              <option value="en-US" selected>美式 English (US)</option>
+              <option value="en-AU">澳洲 English (AU)</option>
+            </select>
+          </label>
+          <label class="control control-wide">
+            <span>裝置聲音</span>
+            <select id="voiceSelect">
+              <option value="">正在載入聲音...</option>
+            </select>
+          </label>
+          <label class="control">
+            <span>速度 <output id="rateValue">0.88</output></span>
+            <input id="rateInput" type="range" min="0.7" max="1.1" step="0.01" value="0.88" />
+          </label>
+          <label class="control">
+            <span>明亮度 <output id="pitchValue">1.12</output></span>
+            <input id="pitchInput" type="range" min="0.9" max="1.25" step="0.01" value="1.12" />
+          </label>
+        </div>
+        <p class="voice-name" id="voiceName">使用聲音：正在載入...</p>
+      </section>
+    </main>
+
+    <footer>
+      <span>WORDAROO OFFLINE</span>
+      <a href="DATA-LICENSE.html">資料來源及授權</a>
+    </footer>
+
+    <script src="data/manifest.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

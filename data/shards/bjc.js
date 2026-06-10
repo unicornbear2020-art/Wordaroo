@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bjc",{"bjc":{"word":"bjc","translation":"abbr. book jacket cover 書籍套紙封面","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

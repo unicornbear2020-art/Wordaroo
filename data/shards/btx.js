@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("btx",{"btx":{"word":"BTX","translation":"[化] 苯-甲苯-二甲苯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

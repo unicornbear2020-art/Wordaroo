@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vbf",{"vbf":{"word":"vbf","translation":"abbr. variable-length bit field 可變長度位字段; vernier beam former 遊標波束形成器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

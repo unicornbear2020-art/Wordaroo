@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mpb",{"mpb":{"word":"mpb","translation":"[醫][=male pattern baldness]男性型禿（發）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'emp'i:b'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

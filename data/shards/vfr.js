@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vfr",{"vfr":{"word":"vfr","translation":"abbr. [航]目視飛行規則（visual flight rules）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

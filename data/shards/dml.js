@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dml",{"dml":{"word":"DML","translation":"[計] 數據操縱語言","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

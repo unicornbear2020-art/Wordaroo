@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qso",{"qso":{"word":"qso","translation":"abbr. quasibiennial stratospheric oscillation 同温層雙手振動","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

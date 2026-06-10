@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ywh",{"ywha":{"word":"YWHA","translation":"abbr. 希伯來教女青年會（Young Women's Hebrew Association）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

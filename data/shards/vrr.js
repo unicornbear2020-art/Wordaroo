@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vrr",{"vrr":{"word":"vrr","translation":"n. visual radio range","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

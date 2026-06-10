@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dbf",{"dbf":{"word":"dbf","translation":"abbr. 數據表文件","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

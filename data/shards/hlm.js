@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hlm",{"hlm":{"word":"hlm","translation":"[醫][=heart-lung machine]心肺機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

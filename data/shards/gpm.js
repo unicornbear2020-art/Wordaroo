@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gpm",{"gpm":{"word":"GPM","translation":"abbr. 每分鐘加侖數（gallons per minute）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

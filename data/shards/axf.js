@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("axf",{"axford":{"word":"axford","translation":"[人名] 阿克斯福德","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bmg",{"bmg":{"word":"bmg","translation":"abbr. 血魔法師（blood magician）；貝塔斯曼音樂集團（Bertelsmann Music Group）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wsv",{"wsver-bray phenomenon":{"word":"Wsver-Bray phenomenon","translation":"[醫] 威-布二氏現象(耳蝸的微音器現象)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

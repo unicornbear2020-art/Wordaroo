@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cfw",{"cfw":{"word":"cfw","translation":"[醫][=cold fresh water]冷淡水","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

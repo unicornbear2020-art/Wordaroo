@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ffc",{"ffc":{"word":"ffc","translation":"abbr. 柔性扁平電纜（flexible flat cable, 等於軟性排線）；外資管理（Foreign Finances Control）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

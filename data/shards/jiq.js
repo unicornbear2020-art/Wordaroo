@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jiq",{"jiquan":{"word":"Jiquan","translation":"極泉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

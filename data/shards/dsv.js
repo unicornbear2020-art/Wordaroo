@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dsv",{"dsv":{"word":"dsv","translation":"abbr. double silk varnish 雙層絲光澤面","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

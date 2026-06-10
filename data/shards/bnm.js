@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bnm",{"bnms's glucose medium":{"word":"Bnms's glucose medium","translation":"[醫] 布倫斯氏葡萄糖媒質","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

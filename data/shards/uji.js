@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uji",{"ujiji":{"word":"ujiji","translation":"[地名] [坦桑尼亞] 烏吉吉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

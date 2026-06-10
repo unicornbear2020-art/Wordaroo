@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bym",{"bymotive":{"word":"bymotive","translation":"n. 暗中的打算","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'bai,mәjtiv/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

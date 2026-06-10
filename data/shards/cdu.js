@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cdu",{"cdu":{"word":"CDU","translation":"abbr. 中央顯示器（Central Display Unit）；海防搜索潛艇雷達（Coast Defense radar for detecting U-boats）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

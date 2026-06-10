@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("i_j",{"i just glanced at the headlines":{"word":"I just glanced at the headlines","translation":"我只是看了看標題而已","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

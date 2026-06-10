@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kfd",{"kfd":{"word":"kfd","translation":"[醫][=Kyasanur Forest disease]基亞薩努森林病（南印度）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iqr",{"iqr":{"word":"iqr","translation":"abbr. interquartile range 四分位數的間距","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɪkr/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

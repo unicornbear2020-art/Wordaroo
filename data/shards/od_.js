@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("od_",{"od":{"word":"OD","translation":"n. 自然力\n[醫] 動物磁力(舊名)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ɒd/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n a doctor's degree in optometry\nn the right eye","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

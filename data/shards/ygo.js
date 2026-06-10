@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ygo",{"ygomelus":{"word":"ygomelus","translation":"臀肢畸胎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

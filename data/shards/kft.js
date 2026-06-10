@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kft",{"kft":{"word":"kft","translation":"n. [冒險島]KoreanFolkTown","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

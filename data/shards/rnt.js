@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rnt",{"rnt":{"word":"rnt","translation":"abbr. residual nitrogern time 氮停留時間; roentgenologist 德國物理學家; roentgenology X光線學; X光科","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

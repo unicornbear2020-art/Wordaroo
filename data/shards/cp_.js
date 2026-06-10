@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cp_",{"cp":{"word":"CP","translation":"[計] 調用處理程序, 字符打印機, 通信處理器, 編譯程序包, 控制部件\n[經] 商業本票","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

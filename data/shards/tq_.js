@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tq_",{"tq":{"word":"tq","translation":"abbr. 洽談通（網上溝通軟件）；關斷時間；全人智商（Triune Intelligence）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hiy",{"hiya":{"word":"hiya","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"intj","senses":[{"gloss":"You say \"hiya\" when you greet somebody in an informal situation.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"int. 你好!"}});

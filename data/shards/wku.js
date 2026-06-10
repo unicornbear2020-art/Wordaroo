@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wku",{"wku":{"word":"wku","translation":"abbr. wake-up (clock) 喚醒（時鐘），定時信號（鍾）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

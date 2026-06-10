@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cxr",{"cxr":{"word":"cxr","translation":"[醫][=chest x-ray film]胸部x線片，x線胸片","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'si:'eks'ɑ:r/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

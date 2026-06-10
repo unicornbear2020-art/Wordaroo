@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("y_j",{"y-junction":{"word":"y-junction","translation":"[電] Y形接頭","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

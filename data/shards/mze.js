@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mze",{"mzee":{"word":"mzee","translation":"<東非英語>n.老人","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/әmzei/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

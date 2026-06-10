@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tfn",{"tfn":{"word":"tfn","translation":"[醫][=total fecal nitrogen]總糞氮（量），糞內總氮量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:'ef'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

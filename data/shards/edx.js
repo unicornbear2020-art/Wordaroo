@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("edx",{"edx":{"word":"edx","translation":"abbr. 能量彌散 X 射線探測器（Energy Dispersive X-ray Detector）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

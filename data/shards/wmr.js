@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wmr",{"wmr":{"word":"wmr","translation":"[醫][=work metabolic rate]勞動代謝率","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

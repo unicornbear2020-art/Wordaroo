@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fyi",{"fyi":{"word":"FYI","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ɛf-waɪ-aɪ/"]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"A short way of saying \"for your information\".","glossZh":"","labels":["slang"],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"供參考\n[計] 為你所用之信息"}});

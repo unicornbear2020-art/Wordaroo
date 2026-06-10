@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wgc",{"wgc":{"word":"wgc","translation":"abbr. 世界黃金協會（ \tThe World Gold Council）；加拿大編劇協會（Writers Guild of Canada）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

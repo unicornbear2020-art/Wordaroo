@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pcf",{"pcf":{"word":"PCF","translation":"[計] 程序控制設備","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

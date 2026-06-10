@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yrs",{"yrs":{"word":"yrs","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"Yrs is short for years.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"abbr. 年（years）；你們的（yours）"}});

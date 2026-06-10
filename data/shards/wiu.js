@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wiu",{"wiu":{"word":"wiu","translation":"abbr. Western International University 西部國際大學","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

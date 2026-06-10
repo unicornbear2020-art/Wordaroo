@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oxu",{"oxus":{"word":"oxus","translation":"[地名] [土庫曼斯坦·阿富汗] 奧克蘇斯（烏滸）河（阿姆河的舊稱）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

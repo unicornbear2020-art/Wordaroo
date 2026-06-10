@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tb4",{"tb4":{"word":"TB4","translation":"[醫] 磺胺噻二唑","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

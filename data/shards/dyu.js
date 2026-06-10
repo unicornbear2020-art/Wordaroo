@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dyu",{"dyushambe":{"word":"Dyushambe","translation":"Dushanbe 的舊稱","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/dju:'ʃɑ:mbi/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

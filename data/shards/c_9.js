@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c_9",{"c-9140":{"word":"C-9140","translation":"[化] 螟蛉畏","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

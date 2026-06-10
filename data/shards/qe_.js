@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qe_",{"qe":{"word":"qe","translation":"abbr. 量子電子學（Quantum Electronics）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

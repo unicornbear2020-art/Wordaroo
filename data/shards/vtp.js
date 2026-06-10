@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vtp",{"vtp":{"word":"VTP","translation":"[計] 虛擬終端協議","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

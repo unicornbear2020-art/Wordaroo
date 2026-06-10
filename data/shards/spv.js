@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("spv",{"spv":{"word":"spv","translation":"abbr. 特別目的載體(special purpose vehicle )","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eh_",{"eh":{"word":"eh","translation":"interj. 啊!嗯!是嗎?好嗎?\n[醫] 氧化還原電位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ei/"]},"meanings":[{"pos":"word","senses":[{"gloss":"interj. An expression of inquiry or slight surprise.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

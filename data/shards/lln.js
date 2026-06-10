@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lln",{"llnl":{"word":"llnl","translation":"abbr. Lawrence Livermore National Laboratory <美國>勞倫斯利弗莫爾國家實驗室","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

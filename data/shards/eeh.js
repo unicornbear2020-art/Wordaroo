@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eeh",{"eeh":{"word":"eeh","translation":"abbr. energy hypothesis 能量假設; experimental endolymphatic hydrops 實驗性內淋巴積液","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

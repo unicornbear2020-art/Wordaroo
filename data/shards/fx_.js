@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fx_",{"fx":{"word":"fx","translation":"abbr. 外匯（Foreign Exchange）；固定電台（Fixed Station）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

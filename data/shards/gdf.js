@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gdf",{"gdf":{"word":"gdf","translation":"n. 氣體動力設備（Gas Dynamic Facility）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

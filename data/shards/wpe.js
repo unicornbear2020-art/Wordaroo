@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wpe",{"wpe":{"word":"wpe","translation":"abbr. white porcelain enamel 白搪瓷","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/w'pe/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

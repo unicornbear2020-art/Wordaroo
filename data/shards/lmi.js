@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lmi",{"lmi":{"word":"lmi","translation":"[醫][=labeling mitotic index]標記有絲分裂指數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

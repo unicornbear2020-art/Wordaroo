@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pkw",{"pkwy":{"word":"pkwy","translation":"林蔭道\n公園道路","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

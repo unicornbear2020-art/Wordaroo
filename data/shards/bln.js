@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bln",{"bln":{"word":"bln","translation":"[經] 十億","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

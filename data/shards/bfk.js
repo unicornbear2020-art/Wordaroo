@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bfk",{"bfk":{"word":"bfk","translation":"abbr. Becker-Fulde-Keller theory 貝克爾-富爾德-凱勒理論; bovine fetal kidney 牛胎腎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

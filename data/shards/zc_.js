@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zc_",{"zc":{"word":"zc","translation":"abbr. 澤迦利亞（Zechariah, 希伯來先知）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

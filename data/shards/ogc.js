@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ogc",{"ogcoite":{"word":"ogcoite","translation":"蠕綠泥石","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

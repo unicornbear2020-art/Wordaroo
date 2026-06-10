@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("evt",{"evt":{"word":"evt","translation":"abbr. 等粘温度（equiviscous temperature）；極端值理論（Extreme Value Theory）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

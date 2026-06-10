@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ttr",{"ttr":{"word":"TTR","translation":"目標跟蹤雷達","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

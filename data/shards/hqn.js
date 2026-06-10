@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hqn",{"hqno":{"word":"HQNO","translation":"[化] 氧化2-己基-4-羥基喹啉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

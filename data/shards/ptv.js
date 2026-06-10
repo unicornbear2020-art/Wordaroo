@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ptv",{"ptv":{"word":"PTV","translation":"abbr. 公共電視（public television）；付費電視（pay television）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

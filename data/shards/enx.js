@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("enx",{"enxashment":{"word":"enxashment","translation":"n. 兑付現款","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

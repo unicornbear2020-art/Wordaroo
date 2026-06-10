@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lfs",{"lfs":{"word":"LFS","translation":"[計] 邏輯文件結構, 邏輯文件系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n 30 to 300 kilohertz","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

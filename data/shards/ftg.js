@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ftg",{"ftg":{"word":"ftg","translation":"abbr. fitting 試穿; 試衣; footing 立足處; （社會）地位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aiu",{"aiu":{"word":"AIU","translation":"[計] 抽象信息單元","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

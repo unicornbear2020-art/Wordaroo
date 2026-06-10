@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dga",{"dga":{"word":"dga","translation":"[醫][=diglycol amine]二甘醇胺","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɡə/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yu_",{"yu":{"word":"yu","translation":"n. 禹（傳説的中國古代聖君）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ju/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n. Jade.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("q_w",{"q wave":{"word":"Q wave","translation":"[醫] Q波(心電圖)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

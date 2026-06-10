@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kmd",{"kmd":{"word":"kmd","translation":"abbr. Kentucky Manpower Development 肯塔基州人力發展（項目）; key management device 密鑰管理設備","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

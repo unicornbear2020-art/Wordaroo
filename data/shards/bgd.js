@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bgd",{"bgd":{"word":"bgd","translation":"abbr. 鍺酸鉍探測器（bismuth germanate detector）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

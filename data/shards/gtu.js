@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gtu",{"gtu":{"word":"gtu","translation":"abbr. guidance test unit 制導試驗設備","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

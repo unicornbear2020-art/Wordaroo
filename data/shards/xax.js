@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xax",{"xaxa":{"word":"xaxa","translation":"[醫]阿司匹林，乙酰水楊酸，醋柳酸，醋酰基水楊酸[解熱鎮痛藥，抗凝血藥]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

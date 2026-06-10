@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tcc",{"tcc":{"word":"TCC","translation":"[計] 技術控制中心, 傳輸控制字符","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

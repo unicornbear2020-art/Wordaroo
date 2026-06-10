@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xrn",{"xrn":{"word":"xrn","translation":"abbr. X-linked recessive nephrolithiasis X-連鎖隱性腎石病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

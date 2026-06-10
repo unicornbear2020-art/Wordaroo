@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mjt",{"mjt":{"word":"mjt","translation":"abbr. metal jet technology 金屬噴塗技術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

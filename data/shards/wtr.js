@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wtr",{"wtr":{"word":"wtr","translation":"abbr. winter 冬季; water 水; whether 是否; waiter 侍者","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

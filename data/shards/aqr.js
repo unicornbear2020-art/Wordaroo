@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aqr",{"aqr":{"word":"Aqr","translation":"n. 寶瓶座；安易電子報表系統\nvi. 自動請求重發","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

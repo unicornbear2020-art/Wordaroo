@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gbi",{"gbi":{"word":"gbi","translation":"abbr. great bodily injury 重大肉體創傷，重大軀體創傷","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ɡ'bɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

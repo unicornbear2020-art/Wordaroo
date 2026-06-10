@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cxs",{"cxs":{"word":"cxs","translation":"abbr. consort parallax servo 配對視差配合系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'si:'eks'es/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

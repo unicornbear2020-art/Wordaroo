@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pgr",{"pgrrolidin carboxylic acid":{"word":"pgrrolidin carboxylic acid","translation":"[醫] 吡咯烷羧酸, 脯氨酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

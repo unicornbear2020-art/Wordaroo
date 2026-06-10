@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gcb",{"gcb":{"word":"GCB","translation":"abbr. （英）巴思大十字勳章（Grand Cross of the Bath）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

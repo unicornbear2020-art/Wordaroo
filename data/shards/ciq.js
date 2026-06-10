@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ciq",{"ciq":{"word":"ciq","translation":"abbr. custom,immigration,quarantine 海關","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,siaɪ'kju/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wlt",{"wlt":{"word":"wlt","translation":"[醫][=whole lung tomography]全肺X線斷層照像術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

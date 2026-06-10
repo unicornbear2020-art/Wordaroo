@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nbt",{"nbt":{"word":"NBT","translation":"[化] 二硝散","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

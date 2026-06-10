@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bw_",{"bw":{"word":"BW","translation":"細菌戰","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n the use of bacteria or viruses or toxins to destroy men and animals or food","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

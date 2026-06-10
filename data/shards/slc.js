@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("slc",{"slc":{"word":"SLC","translation":"[計] 選擇通道, 系統生命週期","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

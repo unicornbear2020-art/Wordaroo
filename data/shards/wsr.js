@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wsr",{"wsro":{"word":"wsro","translation":"abbr. World Sugar Research Organization 世界糖業研究組織","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nuq",{"nuque":{"word":"nuque","translation":"n. 項, 頸背","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/nu:k, nju:k/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

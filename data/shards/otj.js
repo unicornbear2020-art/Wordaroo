@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("otj",{"otjimbingwe":{"word":"otjimbingwe","translation":"[地名] [納米比亞] 奧欽賓圭","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

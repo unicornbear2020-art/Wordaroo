@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xyy",{"xyy":{"word":"xyy","translation":"[醫][=an abnormal sex chromosome type]一種異常性染色體組型","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pfm",{"pfm":{"word":"pfm","translation":"abbr. power factor meter 功率因數計","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

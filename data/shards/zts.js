@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zts",{"zts":{"word":"zts","translation":"[醫][=zymosan-treated serum]酵母多糖處理血清","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

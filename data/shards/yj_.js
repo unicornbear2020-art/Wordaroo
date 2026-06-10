@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yj_",{"yj":{"word":"yj","translation":"abbr. radar homing beacon 歸航雷達信標（代號）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ədʒ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

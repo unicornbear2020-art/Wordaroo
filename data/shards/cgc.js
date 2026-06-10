@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cgc",{"cgc":{"word":"cgc","translation":"abbr. ceramic gold coating 陶器的金敷層; critical grid current 臨界柵極電流","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

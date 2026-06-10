@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("euq",{"euquinine":{"word":"euquinine","translation":"碳酸乙酯奎寧, 無味奎寧","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'jukwinin/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

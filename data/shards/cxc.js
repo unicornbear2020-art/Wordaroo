@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cxc",{"cxc":{"word":"cxc","translation":"abbr. channel transfer control 通道傳送控制; controller extension connector 控制器擴充連接器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

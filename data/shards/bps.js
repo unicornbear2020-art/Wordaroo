@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bps",{"bps":{"word":"bps","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"Short for bit per second.","glossZh":"","labels":["computing"],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"[計] 每秒位數, 每秒比特數"}});

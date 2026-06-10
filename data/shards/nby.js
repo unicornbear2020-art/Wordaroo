@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nby",{"nby":{"word":"nby","translation":"abbr. Newbury <英國>紐伯瑞","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

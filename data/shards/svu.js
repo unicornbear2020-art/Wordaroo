@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("svu",{"svu":{"word":"svu","translation":"abbr. service unit 服務裝置，勤務單元","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

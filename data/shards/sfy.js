@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sfy",{"sfy":{"word":"sfy","translation":"abbr. standard facility years(s) 標準設備壽命","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/s'faɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

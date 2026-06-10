@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xto",{"xto":{"word":"xto","translation":"abbr. X-band triode oscillator X波段三級真空管振盪器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/z'təʊ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

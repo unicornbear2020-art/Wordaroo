@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dtd",{"dtd":{"word":"dtd","translation":"abbr. 文件類型定義（document type definition）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

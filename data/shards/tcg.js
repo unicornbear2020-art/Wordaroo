@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tcg",{"tcg":{"word":"tcg","translation":"abbr. Time Controlled Gain 時間受控增益額度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

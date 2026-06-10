@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gz_",{"gz":{"word":"gz","translation":"abbr. 地面零點；爆心投影點；地面爆炸點（ground zero）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

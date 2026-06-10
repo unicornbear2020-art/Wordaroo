@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("auw",{"auwers-skita rule":{"word":"Auwers-Skita rule","translation":"[化] 奧沃斯-斯其達規則","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

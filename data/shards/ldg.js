@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ldg",{"ldg":{"word":"ldg","translation":"abbr. loading 裝載; leading 主要的; lodging 住宿; landing 登陸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

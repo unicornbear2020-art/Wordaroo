@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wmv",{"wmv":{"word":"wmv","translation":"abbr. 微軟公司所創立的一種視頻壓縮格式（Windows Media Video）；野型腮腺炎病毒（Wild mumps virus）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

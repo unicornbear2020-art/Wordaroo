@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ncw",{"ncwc":{"word":"ncwc","translation":"abbr. National Catholic Welfare Conference <美國>全國天主教福利會議","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

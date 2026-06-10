@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fca",{"fca":{"word":"FCA","translation":"[計] 糾錯數組, 功能配置審查","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gnd",{"gnd":{"word":"GND","translation":"[計] 地, 接地","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

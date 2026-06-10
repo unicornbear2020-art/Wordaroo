@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("f_2",{"f.2559":{"word":"F.2559","translation":"[醫] 三乙碘化三(β-二乙氨乙氧基)苯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

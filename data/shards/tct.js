@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tct",{"tctrose":{"word":"tctrose","translation":"[醫] 丁糖, 赤蘚醛糖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

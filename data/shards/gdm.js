@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gdm",{"gdm":{"word":"gdm","translation":"abbr. 妊娠糖尿病（Gestational Diabetes Mellitus）；全局數據管理程序（Global Data Manager）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

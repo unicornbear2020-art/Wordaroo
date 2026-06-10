@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xa_",{"xa":{"word":"xa","translation":"abbr. 輔助放大器（Auxiliary Amplifier）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

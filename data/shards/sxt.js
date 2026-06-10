@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sxt",{"sxt":{"word":"sxt","translation":"[醫][=sulfamethoxazole]磺胺甲基異？唑，新明磺","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'es'ekst'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

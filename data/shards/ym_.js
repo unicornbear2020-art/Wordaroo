@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ym_",{"ym":{"word":"ym","translation":"abbr. 基督教青年會（Young Men's Christian Association）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

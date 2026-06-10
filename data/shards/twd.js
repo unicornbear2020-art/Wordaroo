@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("twd",{"twd":{"word":"twd","translation":"abbr. 新台幣（New TaiWan Dollar）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("smv",{"smv":{"word":"SMV","translation":"abbr. （防止車輛尾部與後車相撞的標誌）慢行車輛（slow-moving vehicle）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

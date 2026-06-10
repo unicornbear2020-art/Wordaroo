@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fye",{"fye":{"word":"fye","translation":"呸!咄![表示輕蔑.不高興等]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/fai/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tti",{"tti":{"word":"tti","translation":"abbr. time-temperature indicator 時間-温度指示器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'tɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

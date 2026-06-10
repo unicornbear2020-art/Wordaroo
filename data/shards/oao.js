@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oao",{"oao":{"word":"oao","translation":"abbr. off and on 斷斷續續地","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

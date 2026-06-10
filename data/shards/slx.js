@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("slx",{"slx":{"word":"slx","translation":"abbr. sound effects 音效","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'es'el'eks/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tga",{"tga":{"word":"TGA","translation":"[化] 熱重量法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

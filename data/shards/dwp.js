@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dwp",{"dwp":{"word":"DWP","translation":"abbr. deepwater port 深水港","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

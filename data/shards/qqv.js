@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qqv",{"qqv":{"word":"qqv","translation":"abbr. quae vide[拉丁語]參見;又見[參見q.v.]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

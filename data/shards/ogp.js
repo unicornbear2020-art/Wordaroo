@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ogp",{"ogpu":{"word":"Ogpu","translation":"n. 格伯鳥(1923-1934年間蘇聯政治保衞局的簡稱)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɒgpu:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

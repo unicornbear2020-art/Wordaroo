@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("u_l",{"u-law":{"word":"u-law","translation":"[電] U法則","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

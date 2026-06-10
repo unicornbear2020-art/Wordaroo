@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("auo",{"auo":{"word":"auo","translation":"abbr. 友達光電（公司名，AU Optronics）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

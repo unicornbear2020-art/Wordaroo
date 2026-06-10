@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nh_",{"nh":{"word":"nh","translation":"abbr. 不吸濕的（nonhygroscopic）；全日空航空公司；美國地名, 新罕布什爾（New Hampshire）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a state in New England; one of the original 13 colonies","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qtd",{"qtd":{"word":"qtd","translation":"abbr. quartered 四分的; 提供住所的; quoted 引用的; 援引的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/k'ju:t'i:d'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

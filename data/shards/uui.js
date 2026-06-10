@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uui",{"uuivertor":{"word":"uuivertor","translation":"變頻器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gh_",{"gh":{"word":"GH","translation":"[化] 促生長素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

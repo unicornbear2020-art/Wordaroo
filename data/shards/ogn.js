@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ogn",{"ogn":{"word":"ogn","translation":"abbr. origin 產地，原產地","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

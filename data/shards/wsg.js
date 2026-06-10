@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wsg",{"wsgen":{"word":"WSGEN","translation":"[計] NetWare工作站生成實用程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

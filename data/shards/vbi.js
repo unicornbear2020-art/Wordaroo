@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vbi",{"vbi":{"word":"vbi","translation":"[醫][=vertebrobasilar insufficiency]脊椎基底動脈機能不全","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

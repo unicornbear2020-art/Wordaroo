@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qn_",{"qn":{"word":"qn","translation":"abbr. 問題（question）；（國際象棋中的）後翼馬（queen's knight）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

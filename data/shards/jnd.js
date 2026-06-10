@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jnd",{"jnd":{"word":"jnd","translation":"abbr. joined 加入的，參加的，結合的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

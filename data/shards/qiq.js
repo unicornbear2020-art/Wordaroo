@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qiq",{"qiqihar":{"word":"Qiqihar","translation":"n. 齊齊哈爾（黑龍江省的地級市）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

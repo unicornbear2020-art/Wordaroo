@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oi_",{"oi":{"word":"oi","translation":"n. 操作説明","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

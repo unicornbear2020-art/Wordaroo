@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lpp",{"lpp":{"word":"lpp","translation":"abbr. lipoprotein 脂蛋白","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

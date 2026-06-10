@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nrg",{"nrg":{"word":"nrg","translation":"abbr. energy 能量; neuroglian 神經膠質蛋白","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

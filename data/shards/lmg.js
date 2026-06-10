@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lmg",{"lmg":{"word":"lmg","translation":"abbr. liquefied methane gas 液化沼氣","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lj_",{"lj":{"word":"lj","translation":"abbr. 救生短上衣（Life Jacket）；上訴法院法官（Lord Justice）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

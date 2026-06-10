@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qms",{"qms":{"word":"QMS","translation":"[化] 四極質譜儀","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

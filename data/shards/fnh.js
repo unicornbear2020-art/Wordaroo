@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fnh",{"fnh powder":{"word":"FNH powder","translation":"[化] FNH炸藥; 無光無濕炸藥","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

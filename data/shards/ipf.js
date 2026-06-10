@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ipf",{"ipf":{"word":"ipf","translation":"abbr. imperfect 不完全的; inches per foot 英寸/英尺; initial production facilities 原始生產工具","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

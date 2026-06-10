@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vst",{"vstol":{"word":"VSTOL","translation":"n. [空]垂直短距起落, 垂直短距起落飛機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'vi:stɔ:l/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

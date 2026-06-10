@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bsi",{"bsi":{"word":"bsi","translation":"abbr. 英國標準學會（British Standards Institution）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

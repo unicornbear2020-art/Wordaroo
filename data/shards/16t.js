@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("16t",{"16th":{"word":"16th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"16th is an abbreviation of sixteenth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

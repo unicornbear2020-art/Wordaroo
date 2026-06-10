@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("brp",{"brp":{"word":"brp","translation":"[醫][=bacterial receptor protein]細菌受體蛋白","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

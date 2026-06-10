@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dbx",{"dbx":{"word":"dbx","translation":"[電] 串音分貝","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

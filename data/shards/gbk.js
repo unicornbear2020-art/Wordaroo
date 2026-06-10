@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gbk",{"gbk":{"word":"gbk","translation":"abbr. 國家標準擴展碼（Guo-Biao Kuozhan）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

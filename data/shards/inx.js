@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("inx",{"inxs":{"word":"inxs","translation":"澳大利亞的新浪潮搖滾樂隊名","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

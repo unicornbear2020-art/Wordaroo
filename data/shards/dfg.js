@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dfg",{"dfg":{"word":"dfg","translation":"abbr. 德意志研究聯合會（Deutsche Forschungsgemeinschaft）；數字函數發生器（Digital Function Generator）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

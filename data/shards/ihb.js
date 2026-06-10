@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ihb",{"ihb":{"word":"ihb","translation":"abbr. International Hydrographic Bureau 國際航道局","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

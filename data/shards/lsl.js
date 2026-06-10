@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lsl",{"lsl":{"word":"LSL","translation":"[計] 鏈路支持層, 液晶顯示","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

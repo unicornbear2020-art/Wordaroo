@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dh_",{"dh":{"word":"DH","translation":"[計] 設計手冊, 設備處理程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

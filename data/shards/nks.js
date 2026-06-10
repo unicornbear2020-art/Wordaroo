@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nks",{"nks":{"word":"nks","translation":"abbr. necks (woolen) （毛紡的）脖套","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'enk'eɪ'es/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

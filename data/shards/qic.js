@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qic",{"qic":{"word":"QIC","translation":"[計] 1/4英寸微型磁帶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

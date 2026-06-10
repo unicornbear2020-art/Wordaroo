@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("j_g",{"j-groove":{"word":"j-groove","translation":"[機] J形槽","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

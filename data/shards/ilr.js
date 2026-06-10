@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ilr",{"ilr":{"word":"ilr","translation":"[醫][=right ilium]右髂骨","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ˌaɪ el ˈɑ:(r)/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

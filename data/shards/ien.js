@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ien",{"ien":{"word":"IEN","translation":"網際網工程備忘錄","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

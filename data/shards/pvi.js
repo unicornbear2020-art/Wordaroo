@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pvi",{"pvi":{"word":"pvi","translation":"abbr. point of vertical intersection 垂直交叉點; postal validation imprinter 郵局確認郵戳","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rxr",{"rxr":{"word":"rxr","translation":"[醫]維甲酸X受體","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

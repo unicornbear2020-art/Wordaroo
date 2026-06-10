@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bwl",{"bwl":{"word":"bwl","translation":"abbr. 黑翼之巢（Black Wing Lair, 網絡遊戲魔獸世界用語）；（德）企業經濟學（Betriebswirtschaftslehre）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

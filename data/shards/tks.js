@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tks",{"tks":{"word":"tks","translation":"abbr. 謝謝（thanks）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

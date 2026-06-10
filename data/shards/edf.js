@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("edf",{"edf":{"word":"edf","translation":"abbr. Economic Development Foundation <菲>經濟開發基金會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ppq",{"ppq":{"word":"ppq","translation":"abbr. polyphenylquinoxaline 聚苯基喹喔啉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

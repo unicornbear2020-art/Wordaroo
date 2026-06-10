@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lsm",{"lsm":{"word":"lsm","translation":"abbr. 激光切片機（LASER Slicing Machine）；線性選擇存貯器（Linear Select Memory）；最小平方法（LeastSquareMethod）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

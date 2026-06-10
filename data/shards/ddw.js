@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ddw",{"ddw":{"word":"ddw","translation":"[醫][=double distilled water]雙蒸餾水","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'di:d'i:d'əbəlju:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eax",{"eax":{"word":"EAX","translation":"[計] 電子自動交換機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

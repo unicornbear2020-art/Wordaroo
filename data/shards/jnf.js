@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jnf",{"jnf":{"word":"jnf","translation":"[計]= Job Networking Facility,作業網絡程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

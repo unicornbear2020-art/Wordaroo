@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pkc",{"pkc":{"word":"pkc","translation":"[醫][=paroxysmal kinesigenic choreoathetosis]陣發性運動性舞蹈手足徐動症","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

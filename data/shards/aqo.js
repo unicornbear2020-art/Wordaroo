@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aqo",{"aqoeous solution":{"word":"aqoeous solution","translation":"[醫] 水溶液","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

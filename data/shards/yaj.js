@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yaj",{"yajein":{"word":"yajein","translation":"(=yageine)駱駝蓬鹼, 南美卡皮根鹼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/jɑ:'dʒein/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

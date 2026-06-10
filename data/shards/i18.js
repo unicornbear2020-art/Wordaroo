@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("i18",{"i18n":{"word":"i18n","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"i18n is the abbreviation of internationalization/internationalisation.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

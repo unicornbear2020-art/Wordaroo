@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ttd",{"ttd":{"word":"TTD","translation":"[計] 文本暫時延時符\n[醫] 戒酒硫, 四乙秋蘭姆化二硫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

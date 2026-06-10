@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hqt",{"hqt":{"word":"hqt","translation":"[醫][=hemoquant hemoglobin quantitative test]血紅蛋白定量測定","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

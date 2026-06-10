@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cvn",{"cvn":{"word":"cvn","translation":"[醫][=central vein nutrition]中心靜脈營養","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

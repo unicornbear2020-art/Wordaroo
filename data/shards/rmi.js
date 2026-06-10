@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rmi",{"rmi":{"word":"rmi","translation":"abbr. 無線電磁方位指示器（Radio Magnetic Indicator）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

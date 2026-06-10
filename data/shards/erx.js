@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("erx",{"erxleben":{"word":"erxleben","translation":"[人名] 埃克斯萊本; [地名] [德國] 埃克斯萊本","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

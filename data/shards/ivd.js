@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ivd",{"ivdu":{"word":"ivdu","translation":"[醫][=E-5-(2-iodovinyl)-2'-deoxyuridine]E-5-(2-碘乙烯)-2'-脱氧尿苷","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

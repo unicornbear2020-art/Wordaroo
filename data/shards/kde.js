@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kde",{"kde":{"word":"kde","translation":"abbr. 桌面環境（Kool Desktop Environment）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

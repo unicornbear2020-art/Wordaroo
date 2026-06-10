@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ntu",{"ntu":{"word":"NTU","translation":"[計] 網絡端接裝置; 網絡終端部件\n[化] 傳質單元數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

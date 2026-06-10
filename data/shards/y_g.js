@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("y_g",{"y-gun":{"word":"Y-gun","translation":"n. 艦尾發射深水炸彈之裝置","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'wai^ʌn/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

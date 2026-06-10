@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ijt",{"ijt":{"word":"ijt","translation":"abbr. idiopathic juxtafoveolar telangiectasis 特發性近小凹毛細管擴張; ileo-jejunal transposition 回空腸移位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

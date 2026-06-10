@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bnt",{"bnt":{"word":"bnt","translation":"abbr. 百腦通；鈦酸鉍鈉；寬帶網絡終端設備（Broadband Network Termination）；腦神經遞質（brain neurotransmitter）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

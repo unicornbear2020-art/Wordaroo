@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qen",{"qena":{"word":"qena","translation":"[地名] [埃及] 基納","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

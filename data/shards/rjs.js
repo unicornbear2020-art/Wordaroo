@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rjs",{"rjs":{"word":"rjs","translation":"abbr. reaction jet system 反作用射流控制系統; remote job service 遠程作業服務","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bne",{"bne tar oil":{"word":"bne tar oil","translation":"[機] 骨焦油","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

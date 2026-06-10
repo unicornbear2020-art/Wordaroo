@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mhg",{"mhg":{"word":"mhg","translation":"abbr. message-header generator 報文標頭生成程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

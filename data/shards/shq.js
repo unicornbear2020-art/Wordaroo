@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("shq",{"shqip":{"word":"Shqip","translation":"n. 阿爾巴尼亞語(亦作 Shqup 或 Shqyp)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ʃkjip/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("juw",{"juwan":{"word":"juwan","translation":"[人名] 朱萬","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

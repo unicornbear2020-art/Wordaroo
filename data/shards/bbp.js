@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bbp",{"bbp":{"word":"bbp","translation":"abbr. 鄰苯二甲酸丁苄酯（Butyl Benzyl Phthalate）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

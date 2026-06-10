@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lhp",{"lhp":{"word":"lhp","translation":"[醫][=late hyperpolarizing potential]遲發超極化電位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'el'etʃp'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mmd",{"mmd":{"word":"mmd","translation":"abbr. moving map display 活動地圖顯示器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

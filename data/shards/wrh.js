@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wrh",{"wrhs":{"word":"wrhs","translation":"abbr. Western Reserve Historical Society 西部預備隊歷史協會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

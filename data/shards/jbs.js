@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jbs",{"jbs":{"word":"JBS","translation":"abbr. 約翰·伯奇協會（美國極右組織, 創立於1958年）（John Birch Society）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

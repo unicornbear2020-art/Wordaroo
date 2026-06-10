@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aiq",{"aiq":{"word":"aiq","translation":"abbr. 分析儀器確認；自動進口配額","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

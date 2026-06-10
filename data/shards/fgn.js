@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fgn",{"fgn":{"word":"fgn","translation":"[醫][=foreign]外國的，外來的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'efdʒ'i:'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

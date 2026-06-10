@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iug",{"iugr":{"word":"iugr","translation":"abbr. introuterine growth retardation 子宮內發育遲緩","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɪəɡər/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

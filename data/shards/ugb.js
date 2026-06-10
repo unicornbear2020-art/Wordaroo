@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ugb",{"ugb":{"word":"ugb","translation":"[醫][=undecalcified granulated bone]未脱鈣（異體）骨顆粒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ʌɡb/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

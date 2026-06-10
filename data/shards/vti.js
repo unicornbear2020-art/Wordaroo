@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vti",{"vti":{"word":"vti","translation":"abbr. virus respiratory infection 病毒性呼吸道感染; volume thickness index 容積厚度指數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

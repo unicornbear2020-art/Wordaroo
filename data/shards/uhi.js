@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uhi",{"uhi":{"word":"uhi","translation":"[醫]Ultrasound Harmonic Imaging","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

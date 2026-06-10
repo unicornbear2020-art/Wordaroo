@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dpw",{"dpw":{"word":"dpw","translation":"abbr. dried poultry waste 乾的家禽排泄物","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

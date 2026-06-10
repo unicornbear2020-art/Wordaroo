@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wni",{"wnim":{"word":"WNIM","translation":"廣域網絡接口模塊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

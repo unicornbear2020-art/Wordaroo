@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jc_",{"jc":{"word":"jc","translation":"abbr. 法學家（jurisconsult）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

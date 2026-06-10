@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("klt",{"klt":{"word":"klt","translation":"abbr. 康萊特（抗腫瘤中藥注射液）；韓國語水平測試（Korean Level Test）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

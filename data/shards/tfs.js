@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tfs",{"tfs":{"word":"tfs","translation":"無錫鍍層薄板","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:'ef'es/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

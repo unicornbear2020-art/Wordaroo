@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sdn",{"sdn":{"word":"sdn","translation":"[醫][=sensory defect nystagmus]感覺缺陷性眼震","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

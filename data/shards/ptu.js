@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ptu",{"ptu":{"word":"PTU","translation":"[醫] 丙硫氧嘧啶, 丙硫尿嘧啶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

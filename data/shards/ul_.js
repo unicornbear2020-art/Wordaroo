@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ul_",{"ul":{"word":"ul","translation":"abbr. （美）保險商實驗所（Underwriters' Laboratories）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

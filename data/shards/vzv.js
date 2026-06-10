@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vzv",{"vzv":{"word":"VZV","translation":"abbr. 水痘帶狀皰疹病毒（varicella zoster virus）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

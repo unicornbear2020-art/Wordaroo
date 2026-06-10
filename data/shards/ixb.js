@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ixb",{"ixbut":{"word":"ixbut","translation":"[化] 危地馬拉奶茶\n[醫] 危地馬拉奶茶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

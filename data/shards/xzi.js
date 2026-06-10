@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xzi",{"xzibit":{"word":"xzibit","translation":"[人名]艾勒比","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

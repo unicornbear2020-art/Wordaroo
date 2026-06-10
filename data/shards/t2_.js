@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("t2_",{"t2":{"word":"T2","translation":"[計] T2服務","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

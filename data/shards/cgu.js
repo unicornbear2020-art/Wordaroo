@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cgu",{"cgu":{"word":"cgu","translation":"abbr. ceramic glazed units 上釉裝置","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wfh",{"wfh":{"word":"wfh","translation":"[醫][=weight-for-height]按身高（計算）的相對體重","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'dəbəlju:'ef'etʃ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oav",{"oaves":{"word":"oaves","translation":"畸形兒, 痴兒, 懶漢, 笨人, 笨漢, 呆子, 蠢人","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/әjvz/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n an awkward stupid person","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

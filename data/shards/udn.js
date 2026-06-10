@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("udn",{"udn":{"word":"udn","translation":"abbr. ulcerated dermal necrosis 皮膚壞疽潰瘍","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

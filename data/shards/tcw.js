@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tcw",{"tcw":{"word":"tcw","translation":"abbr. time code work 時間碼運轉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

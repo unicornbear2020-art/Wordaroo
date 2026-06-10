@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("thg",{"thg":{"word":"thg","translation":"abbr. Third Harmonic Generation 第三諧波生成","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

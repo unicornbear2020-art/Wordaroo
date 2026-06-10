@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iju",{"ijussite":{"word":"ijussite","translation":"棕閃鈦輝巖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'idʒu,sait/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dju",{"djuifian":{"word":"Djuifian","translation":"朱伊夫階","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("frw",{"frwy":{"word":"frwy","translation":"abbr. Freeway 高速公路","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

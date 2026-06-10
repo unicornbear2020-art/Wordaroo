@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wx_",{"wx":{"word":"wx","translation":"abbr. 女式特大號（women's extra large size）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

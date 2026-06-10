@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cwm",{"cwm":{"word":"Cwm","translation":"n. 山側凹地","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ku:m/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n a steep-walled semicircular basin in a mountain; may contain a lake","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

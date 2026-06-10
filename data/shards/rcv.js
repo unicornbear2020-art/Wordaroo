@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rcv",{"rcv":{"word":"rcv","translation":"abbr. receive 接受; receiver 收貨人; radar control van 雷達控制車; remote-controlled vehicle 遙控車","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

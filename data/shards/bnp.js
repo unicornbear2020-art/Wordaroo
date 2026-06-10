@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bnp",{"bnp":{"word":"BNP","translation":"abbr. 英國國家黨（British National Party）；巴黎國民銀行（Banque Nationale de Paris）；腦利鈉肽","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

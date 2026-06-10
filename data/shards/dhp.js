@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dhp",{"dhp":{"word":"DHP","translation":"[計] 數據處理程序, 調試輔助程序, 文檔處理程序處理器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

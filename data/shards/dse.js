@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dse",{"dse":{"word":"DSE","translation":"[計] 數字交換機, 分佈式系統環境","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

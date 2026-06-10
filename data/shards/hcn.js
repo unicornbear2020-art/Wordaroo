@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hcn",{"hcn":{"word":"hcn","translation":"[醫][=hydrocyanic acid]氫氰酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

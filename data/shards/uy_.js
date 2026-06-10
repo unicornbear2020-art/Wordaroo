@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uy_",{"uy":{"word":"uy","translation":"abbr. 烏拉圭（Uruguay）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

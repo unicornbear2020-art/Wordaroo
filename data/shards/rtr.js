@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rtr",{"rtr":{"word":"RTR","translation":"abbr. 無線電電傳打字電報接收機（Radio Teletype Receiver）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

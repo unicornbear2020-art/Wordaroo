@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mpg",{"mpg":{"word":"mpg","translation":"每加侖汽油能行駛的英里數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

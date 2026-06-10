@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("y_w",{"y wave":{"word":"y wave","translation":"[電] Y波動","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

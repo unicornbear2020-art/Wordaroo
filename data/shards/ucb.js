@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ucb",{"ucb":{"word":"ucb","translation":"abbr. 單元控制部件（Unit Control Block）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

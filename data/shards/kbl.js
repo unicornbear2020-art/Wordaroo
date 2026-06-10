@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kbl",{"kbl":{"word":"kbl","translation":"n. 阿富汗首都喀布爾機場之代號","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

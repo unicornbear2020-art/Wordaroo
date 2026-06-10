@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jyo",{"jyoti":{"word":"jyoti","translation":"n. (Jyoti)人名；(印、尼)喬蒂","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

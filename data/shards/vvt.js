@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vvt",{"vvt":{"word":"vvt","translation":"abbr. [汽車]可變氣門正時技術（Variavle Valve Timing）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

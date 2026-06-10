@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("miw",{"miwa":{"word":"miwa","translation":"n. (Miwa)人名；(日)美和 (名)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

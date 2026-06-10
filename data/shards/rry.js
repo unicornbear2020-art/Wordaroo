@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rry",{"rry":{"word":"rry","translation":"abbr. Registered Radiologic Technologist 註冊放射科技師","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

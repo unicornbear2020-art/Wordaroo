@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hfx",{"hfx":{"word":"hfx","translation":"abbr. High Frequency Transceiver 高頻收發報機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

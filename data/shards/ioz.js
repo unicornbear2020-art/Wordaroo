@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ioz",{"iozite":{"word":"iozite","translation":"方鐵礦","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'aiәzait/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

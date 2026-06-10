@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mub",{"mubarak":{"word":"Mubarak","translation":"n. 穆巴拉克（姓氏）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. Egyptian statesman who became president in 1981 after Sadat was assassinated (born in 1929)","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

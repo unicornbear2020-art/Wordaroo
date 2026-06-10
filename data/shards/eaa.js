@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eaa",{"eaa":{"word":"eaa","translation":"abbr. essential amino acid 必要氨基酸; ethylene acrylic acid 乙烯基丙烯酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

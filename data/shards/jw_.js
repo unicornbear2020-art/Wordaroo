@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jw_",{"jw":{"word":"jw","translation":"abbr. 水套（jacket of water）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

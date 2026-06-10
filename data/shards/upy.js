@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("upy",{"upya":{"word":"upya","translation":"int. <澳俚>操你媽的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ʌpjә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

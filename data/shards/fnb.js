@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fnb",{"fnb":{"word":"fnb","translation":"[醫][=fine-needle aspiration biopsy]細針抽吸活組織檢查","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ef'enb'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

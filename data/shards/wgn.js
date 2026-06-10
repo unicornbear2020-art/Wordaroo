@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wgn",{"wgn":{"word":"wgn","translation":"abbr. wagon 四輪馬車; 貨車; winding 繞; 纏","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

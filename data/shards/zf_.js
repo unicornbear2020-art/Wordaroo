@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zf_",{"zf":{"word":"zf","translation":"abbr. 零頻率（Zero Frequency）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

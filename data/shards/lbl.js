@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lbl",{"lbl":{"word":"lbl","translation":"[醫][=labeled lymphoblast]標記的成淋巴細胞","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'elb'i:'el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

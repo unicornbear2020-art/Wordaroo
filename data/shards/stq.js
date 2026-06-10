@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("stq",{"stqb":{"word":"stqb","translation":"刺,捅,中傷","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

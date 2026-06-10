@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gn_",{"gn":{"word":"gn","translation":"n. 幾內亞（等於Guinea）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

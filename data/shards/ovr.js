@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ovr",{"ovral":{"word":"ovral","translation":"[醫]炔諾孕酮-炔雌醇片劑<口服避孕藥>","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

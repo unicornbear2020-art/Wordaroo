@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hxr",{"hxr":{"word":"HXR","translation":"[化] 肌苷","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

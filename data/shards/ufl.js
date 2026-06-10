@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ufl",{"uflow":{"word":"uflow","translation":"(=underflow)濃泥, 底流","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ju(:)flәu/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

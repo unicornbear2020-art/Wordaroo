@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ocw",{"ocw":{"word":"ocw","translation":"操作命令字(operation command word )","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tmr",{"tmr":{"word":"tmr","translation":"abbr. timer 計時員; 定時器; 時間繼電器; 秒錶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

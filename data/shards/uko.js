@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uko",{"uko":{"word":"uko","translation":"abbr. United Karen Organization 克倫族聯合組織（緬甸）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

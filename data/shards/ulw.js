@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ulw",{"ulwan":{"word":"Ulwan","translation":"厄爾萬手織羊絨披巾","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ulwәn/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

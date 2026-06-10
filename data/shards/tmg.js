@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tmg",{"tmg":{"word":"tmg","translation":"[醫][=tetra-methylene glutaric acid]四亞甲戊二酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

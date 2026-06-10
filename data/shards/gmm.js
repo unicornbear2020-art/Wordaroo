@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gmm",{"gmm":{"word":"gmm","translation":"[醫][=Goldberg-Maxwell-Morris(syndrome)]戈-梅-莫三氏（綜合徵）：男性假兩性畸形綜合徵","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

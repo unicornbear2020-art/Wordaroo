@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sjd",{"sjd":{"word":"SJD","translation":"法理學博士","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

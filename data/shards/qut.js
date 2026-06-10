@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qut",{"qutb":{"word":"qutb","translation":"n. (Qutb)人名；(阿拉伯)庫特卜","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qop",{"qoph":{"word":"qoph","translation":"n. 希伯萊語第十九個字母","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/kәuf/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n the 19th letter of the Hebrew alphabet","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

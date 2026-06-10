@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dxm",{"dxm":{"word":"DXM","translation":"[化] 地塞米松","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

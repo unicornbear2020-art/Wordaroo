@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cgo",{"cgo":{"word":"cgo","translation":"abbr. 首席政府關係官（Chief Government Officer）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dsa",{"dsa":{"word":"dsa","translation":"abbr. 目錄系統代理（Directory System Agent）；駕駛安全預警系統（Driving Safety Alerting）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

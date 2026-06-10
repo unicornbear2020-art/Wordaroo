@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("u_i",{"u interface":{"word":"u interface","translation":"[電] U界面","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

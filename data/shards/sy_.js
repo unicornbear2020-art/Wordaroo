@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sy_",{"sy":{"word":"sy","translation":"abbr. 平方碼（square yard）；石油天然氣行業標準；敍利亞（Syria）；蘇丹黃（Sudan yellow）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"imp. Saw.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

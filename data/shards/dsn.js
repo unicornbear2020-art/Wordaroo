@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dsn",{"dsn":{"word":"DSN","translation":"[計] 數字衞星網絡, 數據集名, 分佈式系統網絡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

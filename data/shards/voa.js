@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("voa",{"voa":{"word":"VOA","translation":"美國之音電台","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

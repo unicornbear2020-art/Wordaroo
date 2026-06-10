@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pph",{"pph":{"word":"pph","translation":"abbr. 脈波/小時（pulses per hour）；小冊子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vmg",{"vmg":{"word":"vmg","translation":"[醫][=vertical mirror galvanometer]立式反射鏡檢流計","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

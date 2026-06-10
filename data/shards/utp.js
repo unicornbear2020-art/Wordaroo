@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("utp",{"utp":{"word":"UTP","translation":"[計] 非屏蔽雙絞線\n[化] 尿苷三磷酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

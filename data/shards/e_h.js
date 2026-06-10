@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("e_h",{"e-h tuner":{"word":"e-h tuner","translation":"[電] E-H調諧器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

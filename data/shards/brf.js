@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("brf",{"brfss":{"word":"brfss","translation":"abbr. Behavioral Risk Factor Surveillance System 行為危險因子監視系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

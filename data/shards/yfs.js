@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yfs",{"yfs":{"word":"yfs","translation":"(yf 的第三人稱 -s形式) abbr. 黃熱病（Yellow Fever）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"-s form of yf","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ysr",{"ysr":{"word":"ysr","translation":"青少年自陳報告","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

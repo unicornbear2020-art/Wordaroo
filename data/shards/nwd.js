@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nwd",{"nwdc":{"word":"nwdc","translation":"abbr. navigation weapon-delivery computer 航行武器傳輸計算機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'end'əbəlju:d'i:s'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

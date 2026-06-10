@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cm3",{"cm3":{"word":"cm3","translation":"[醫] 立方厘米","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

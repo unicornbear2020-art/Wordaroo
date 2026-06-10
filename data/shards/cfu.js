@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cfu",{"cfu":{"word":"cfu","translation":"abbr. colony-forming units 菌落形成單位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/k'fʊ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

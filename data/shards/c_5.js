@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c_5",{"c-5-fraction":{"word":"C-5-fraction","translation":"[化] 碳五餾分","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

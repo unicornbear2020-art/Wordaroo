@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hyz",{"hyzone":{"word":"hyzone","translation":"三原子氫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'haizәun/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

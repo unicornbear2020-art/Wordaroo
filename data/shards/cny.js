@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cny",{"cny":{"word":"cny","translation":"abbr. 人民幣（China Yuan）；中國新年（Chinese New Year）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

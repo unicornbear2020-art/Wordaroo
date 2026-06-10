@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rns",{"rns":{"word":"rns","translation":"[醫][=reference normal serum]參考正常血清","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:r'en'es/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

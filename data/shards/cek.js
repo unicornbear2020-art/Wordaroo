@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cek",{"cekas":{"word":"cekas","translation":"賽卡司(鎳鐵鉻合金)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'sekәs/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

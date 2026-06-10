@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nkk",{"nkk":{"word":"nkk","translation":"日本鋼管公司總部所在地：日本主要業務：金屬","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

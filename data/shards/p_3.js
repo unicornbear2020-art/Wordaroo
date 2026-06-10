@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("p_3",{"p 391":{"word":"P 391","translation":"[醫] 甲哌啶嗪","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

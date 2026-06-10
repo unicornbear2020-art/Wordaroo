@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mkb",{"mkb":{"word":"mkb","translation":"[醫][=megakaryoblast]成巨核細胞，幼巨核細胞","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

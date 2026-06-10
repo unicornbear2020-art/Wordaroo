@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lti",{"lti":{"word":"lti","translation":"[醫][=low temperature isotropic]各向同性低温，低温各向同性的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

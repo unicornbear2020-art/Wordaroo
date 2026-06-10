@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cfv",{"cfv":{"word":"CFV","translation":"[計] 要求表決","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

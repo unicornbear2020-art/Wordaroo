@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bv_",{"bv":{"word":"BV","translation":"abbr. 法國國際檢驗局（Bureau Veritas）；聖母瑪利亞（Blessed Virgin）；票面價值（Book Value）；布韋島（Bouvet Island）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

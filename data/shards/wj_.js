@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wj_",{"wj":{"word":"wj","translation":"abbr. 結構性投資工具（Whistle Jacket）；週刊少年JUMP（Weekly Jump）；兵工民品行業標準","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

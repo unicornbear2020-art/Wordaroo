@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pjc",{"pjc":{"word":"pjc","translation":"[醫][=porcelain jacket crown]瓷甲冠（鑲牙）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'pi:dʒ'eɪs'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

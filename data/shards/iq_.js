@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iq_",{"iq":{"word":"IQ","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"Abbreviation for intelligence quotient, a measure of the amount of intelligence a person has.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"智商, 智力商數"}});

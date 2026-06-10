@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vbo",{"vbox":{"word":"vbox","translation":"abbr. 縱向盒（vertical box）；視頻盒（video box）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

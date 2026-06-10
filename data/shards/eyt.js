@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eyt",{"eytlaudite":{"word":"eytlaudite","translation":"鈮釔礦","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'eitlɔ:dait/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

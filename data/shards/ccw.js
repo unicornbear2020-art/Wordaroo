@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ccw",{"ccw":{"word":"CCW","translation":"[計] 通道命令字","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

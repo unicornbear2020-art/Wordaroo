@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c4_",{"c4":{"word":"c4","translation":"abbr. 補體4（ \tcomplement 4）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

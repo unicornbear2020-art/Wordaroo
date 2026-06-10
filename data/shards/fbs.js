@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fbs",{"fbs":{"word":"fbs","translation":"abbr. fasting blood sugar 空腹時的血糖; fighter-bomber strike 戰鬥轟炸機攻擊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gnm",{"gnma":{"word":"GNMA","translation":"abbr. 政府國家質押協會（Government National Mortgage Association）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

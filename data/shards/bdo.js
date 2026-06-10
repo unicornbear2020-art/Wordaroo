@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bdo",{"bdo":{"word":"bdo","translation":"abbr. [醫]丁二醇（butanediol）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

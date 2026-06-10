@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ogg",{"ogg":{"word":"ogg","translation":"n. 一種新的音頻壓縮格式","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

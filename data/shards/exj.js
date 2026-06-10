@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("exj",{"exjunction":{"word":"exjunction","translation":"[計] \"異\",\"異\"操作","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

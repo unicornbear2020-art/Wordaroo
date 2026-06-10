@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dfj",{"dfj":{"word":"dfj","translation":"abbr. dual function jammer 雙功能干擾機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

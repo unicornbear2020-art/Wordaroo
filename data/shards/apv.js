@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("apv",{"apv":{"word":"apv","translation":"abbr. 前後觀（anteroposterior view）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

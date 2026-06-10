@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xd_",{"xd":{"word":"xd","translation":"abbr. 無紅利（ex-dividend）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

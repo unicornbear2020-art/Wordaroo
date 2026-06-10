@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hvb",{"hvb":{"word":"hvb","translation":"[計]= High Voltage Bias,高壓偏壓","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

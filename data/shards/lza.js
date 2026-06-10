@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lza",{"lzar's reagent":{"word":"lzar's reagent","translation":"[醫] 伊扎氏試劑(等量亞油酸和蓖麻油酸)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

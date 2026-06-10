@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sj_",{"sj":{"word":"sj","translation":"abbr. 耶穌會（Society of Jesus）；軟焊接頭（Soldered Joint）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

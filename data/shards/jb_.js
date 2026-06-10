@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jb_",{"jb":{"word":"jb","translation":"abbr. 分線盒（Junction Box）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

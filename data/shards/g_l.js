@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("g_l",{"g-line":{"word":"g-line","translation":"[電] G線","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

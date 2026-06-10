@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("smj",{"smj":{"word":"smj","translation":"[醫][=Society of Medical Jurisprudence]法醫學學會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

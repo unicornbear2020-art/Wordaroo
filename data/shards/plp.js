@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("plp",{"plp":{"word":"plp","translation":"abbr. plastic-lined pipe 塑料軟線管; pyridoxal phosphate 吡哆醛磷酸酯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

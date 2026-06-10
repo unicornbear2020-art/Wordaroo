@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ffa",{"ffa":{"word":"FFA","translation":"國外貨運代理人, 船邊交貨(價格)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

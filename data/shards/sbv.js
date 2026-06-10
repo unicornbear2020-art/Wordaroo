@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sbv",{"sbv":{"word":"sbv","translation":"abbr. sea-bed vehicle 海底交通工具","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jnb",{"jnb":{"word":"jnb","translation":"abbr. Johannesburg, South Africa 南非，約翰內斯堡機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

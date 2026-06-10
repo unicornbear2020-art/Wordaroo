@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zaj",{"zajonc":{"word":"zajonc","translation":"[人名] 扎伊翁茨","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

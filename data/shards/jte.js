@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jte",{"jtes":{"word":"jtes","translation":"abbr. Japan Techno-Economics Society 日本技術經濟學會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

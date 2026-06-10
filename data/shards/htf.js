@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("htf",{"htf":{"word":"htf","translation":"[醫][=heterothyrotrop(h)ic factors]異種促甲狀腺因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'etʃt'i:'ef/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

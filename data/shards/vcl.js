@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vcl",{"vcl":{"word":"VCL","translation":"n. DELPHI的可視對象庫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

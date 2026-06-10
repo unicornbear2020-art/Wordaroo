@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ri_",{"ri":{"word":"RI","translation":"[化] 放射性同位素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a state in New England; one of the original 13 colonies; the smallest state","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

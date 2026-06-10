@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yh_",{"yh":{"word":"yh","translation":"abbr. 青年招待所（\tyouth hostel）；電焊機電纜；改性氯丁膠","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

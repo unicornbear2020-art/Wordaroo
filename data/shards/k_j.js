@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("k_j",{"k.j.":{"word":"k.j.","translation":"[醫] 膝反射","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

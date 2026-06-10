@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tmi",{"tmi":{"word":"tmi","translation":"abbr. technical market index (TMI) 技術性市場指數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

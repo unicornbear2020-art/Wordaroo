@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fmi",{"fmi":{"word":"FMI","translation":"(法)國際貨幣基金組織","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

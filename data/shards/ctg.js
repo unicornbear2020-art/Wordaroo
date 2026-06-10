@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ctg",{"ctg":{"word":"ctg","translation":"[醫][=cardiotachometer]心動計數器, 心率計","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uus",{"uus":{"word":"uus","translation":"abbr. user-to-user signaling 用户對用户信令，用户間信令","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

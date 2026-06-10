@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uvr",{"uvr":{"word":"uvr","translation":"abbr. ultraviolet radiation 紫外輻射; UV resistance determinant 紫外線耐力決定簇","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ʌvr/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

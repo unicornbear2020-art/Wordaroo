@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mdk",{"mdk":{"word":"mdk","translation":"abbr. 多媒體開發工具包；孤膽槍手（科學幻想題材的遊戲）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

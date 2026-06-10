@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nvi",{"nvidia":{"word":"nvidia","translation":"恩威迪亞（芯片廠方）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

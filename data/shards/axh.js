@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("axh",{"axhammer":{"word":"axhammer","translation":"n. 斧槌","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'æks,hæmә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

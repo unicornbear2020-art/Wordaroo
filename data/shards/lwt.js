@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lwt",{"lwt":{"word":"LWT","translation":"abbr. 倫敦週末電視（London Weekend Television）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

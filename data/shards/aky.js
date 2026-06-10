@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aky",{"akyab":{"word":"Akyab","translation":"阿恰布[緬甸西部港市]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/æk'jæb/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

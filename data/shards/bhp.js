@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bhp",{"bhp":{"word":"bhp","translation":"abbr. [軍]制動馬力（Brake Horse Power）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lsq",{"lsq":{"word":"lsq","translation":"[醫][=least square]最小平方，最小二乘（法）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

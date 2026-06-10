@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uek",{"ueki":{"word":"ueki","translation":"[地名] [日本] 植木","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

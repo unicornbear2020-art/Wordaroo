@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dda",{"dda":{"word":"DDA","translation":"[計] 請求存款計算, 直接存款單","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

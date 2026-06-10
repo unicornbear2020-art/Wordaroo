@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lmn",{"lmn":{"word":"lmn","translation":"abbr. 負載匹配網絡（Load Matching Network）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

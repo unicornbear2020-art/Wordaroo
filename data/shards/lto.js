@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lto",{"lto":{"word":"lto","translation":"abbr. 線性磁帶開放協議（Linear Tape-Open）；低温氧化物","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

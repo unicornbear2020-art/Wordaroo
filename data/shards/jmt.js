@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jmt",{"jmt":{"word":"jmt","translation":"abbr. Japan Marine Telecommunication 日本航海電信局; Job Methods Training 工作培訓","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

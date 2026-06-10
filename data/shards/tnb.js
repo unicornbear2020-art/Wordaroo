@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tnb",{"tnb":{"word":"TNB","translation":"abbr. 國家電力公司（Tenaga Nasional Berhad）；三硝基苯（Trinitrobenzene）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

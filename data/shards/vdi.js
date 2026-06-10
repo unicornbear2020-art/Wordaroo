@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vdi",{"vdi":{"word":"VDI","translation":"[計] 視頻顯示器接口, 虛擬設備接口, 虛擬數據庫級","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

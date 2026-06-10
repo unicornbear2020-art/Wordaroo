@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ddx",{"ddx":{"word":"DDX","translation":"[計] DDX-3公用數據網","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

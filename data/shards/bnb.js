@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bnb",{"bnb":{"word":"bnb","translation":"abbr. 泡泡堂（遊戲名稱）；藍惠邦數碼科技公司；英國國家書目（British National Biblioraphy）；血神經屏障（blood-nervebarrier）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

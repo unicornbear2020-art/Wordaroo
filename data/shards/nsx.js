@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nsx",{"nsx":{"word":"nsx","translation":"[醫][=neurosurgical examination]神經外科檢查","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

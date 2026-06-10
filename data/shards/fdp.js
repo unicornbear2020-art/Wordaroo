@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fdp",{"fdp":{"word":"FDP","translation":"abbr. 光纖分佈點（Fiber Distribution Point）；飛行數據處理器（Flight Data Processor）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

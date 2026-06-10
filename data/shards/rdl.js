@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rdl",{"rdl":{"word":"rdl","translation":"[醫][=radiological defense laboratory]放射防護實驗室","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ccz",{"ccz":{"word":"ccz","translation":"[醫]Cloconazole Hydrochloride","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

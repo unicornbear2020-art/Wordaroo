@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hgr",{"hgring-hellebrand deviation":{"word":"Hgring-Hellebrand deviation","translation":"[醫] 赫-黑二氏偏斜(任何雙眼單視界的偏斜)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

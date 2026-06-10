@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gfp",{"gfp":{"word":"GFP","translation":"[計] 通用文件處理器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dnf",{"dnf":{"word":"dnf","translation":"abbr. 未完成（did not finish）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

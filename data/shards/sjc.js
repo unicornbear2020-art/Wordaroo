@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sjc",{"sjc":{"word":"SJC","translation":"(美)最高法院","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

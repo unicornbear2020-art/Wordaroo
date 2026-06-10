@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cgy",{"cgy":{"word":"cgy","translation":"[醫][=centigray]釐戈瑞","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

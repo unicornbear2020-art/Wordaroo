@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wg_",{"wg":{"word":"wg","translation":"abbr. 水錶（Water Gauge）；波導管（Wave Guide）；線規（Wire Gauge）；威爾士禁衞軍（Welsh Guards）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

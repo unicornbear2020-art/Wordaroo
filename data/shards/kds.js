@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kds",{"kds":{"word":"kds","translation":"abbr. 德語等級考試（Kleines Deutsches Sprachdiplom）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

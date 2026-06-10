@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jrg",{"jrg":{"word":"jrg","translation":"abbr. jaargang (Dutch=year) （荷蘭語）年","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒeɪ'ɑ:rdʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gsi",{"gsi":{"word":"GSI","translation":"[計] 超大規模集成電路","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

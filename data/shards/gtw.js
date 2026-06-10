@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gtw",{"gtw":{"word":"gtw","translation":"abbr. good till this week 本週內有效; gross ton weight 總噸重; gross tonnage weight 總噸重","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

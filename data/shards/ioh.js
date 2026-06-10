@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ioh",{"ioh":{"word":"ioh","translation":"abbr. item(s) on hand 手上的項目，現有項目","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hns",{"hns":{"word":"hns","translation":"當晚服用","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

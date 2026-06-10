@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("b2b",{"b2b":{"word":"b2b","translation":"abbr. 企業對企業的電子商務模式（business to business）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

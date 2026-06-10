@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gmp",{"gmp":{"word":"GMP","translation":"[化] 鳥苷酸; 鳥苷一磷酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

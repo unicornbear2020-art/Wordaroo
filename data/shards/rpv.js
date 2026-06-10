@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rpv",{"rpv":{"word":"rpv","translation":"abbr. remote pilotless vehicle 遠程遙控車; remotely piloted vehicle 遙控車","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

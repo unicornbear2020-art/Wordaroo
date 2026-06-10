@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pnm",{"pnm":{"word":"pnm","translation":"abbr. pulse number modulation 脈衝密度調製","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

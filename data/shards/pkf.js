@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pkf",{"pkf":{"word":"pkf","translation":"[醫][=phagocytosis and killing function]吞噬和殺傷功能","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

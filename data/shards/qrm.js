@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qrm",{"qrm":{"word":"qrm","translation":"[電] 人造干擾的過時稱呼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

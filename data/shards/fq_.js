@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fq_",{"fq":{"word":"fq","translation":"abbr. 會計季度（fiscal quarter）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

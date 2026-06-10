@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mhv",{"mhv":{"word":"mhv","translation":"[醫][=magnetic heart vector]心磁向量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'em'etʃv'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

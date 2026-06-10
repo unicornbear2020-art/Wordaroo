@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uea",{"uea":{"word":"uea","translation":"abbr. unattended equipment area 無人值守設備區","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

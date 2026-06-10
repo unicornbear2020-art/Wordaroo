@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pl_",{"pl":{"word":"PL","translation":"[化] 磷脂","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

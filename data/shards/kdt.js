@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kdt",{"kdt":{"word":"KDT","translation":"[醫] 陰極期間強直","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

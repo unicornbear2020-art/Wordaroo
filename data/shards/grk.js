@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("grk",{"grk":{"word":"grk","translation":"abbr. G-protein coupled receptor kinase G-蛋白耦聯受體激酶; Greek 希臘的; 希臘人（的）; 希臘語（的）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

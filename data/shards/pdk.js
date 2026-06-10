@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pdk",{"pdk":{"word":"pdk","translation":"[醫][=primary dog kidney]原代狗腎（細胞）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

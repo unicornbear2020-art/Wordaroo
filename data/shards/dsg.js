@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dsg",{"dsg":{"word":"DSG","translation":"[計] 數據集組","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

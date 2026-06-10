@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fsm",{"fsm":{"word":"FSM","translation":"有限狀態機器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

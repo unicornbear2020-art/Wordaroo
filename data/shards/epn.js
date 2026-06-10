@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("epn",{"epn":{"word":"EPN","translation":"苯硫磷殺蟲劑\n[化] 苯硫磷; 伊皮恩","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'i:pi:'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rld",{"rld":{"word":"rld","translation":"abbr. radar laydown delivery 雷達擱淺發送; relocation list dictionary 重新安排字典目錄; rolled 碾壓的; 軋製的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

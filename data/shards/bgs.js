@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bgs",{"bgs":{"word":"BGS","translation":"abbr. 英國地質調查所（British Geological Survey）；北京空港航空地面服務有限公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

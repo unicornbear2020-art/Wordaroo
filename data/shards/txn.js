@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("txn",{"txn":{"word":"txn","translation":"abbr. taxation 徵税，納税，税收","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:'eks'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

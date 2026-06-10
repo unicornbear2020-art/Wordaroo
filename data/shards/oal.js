@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oal",{"oal":{"word":"oal","translation":"abbr. overall length 整體長度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

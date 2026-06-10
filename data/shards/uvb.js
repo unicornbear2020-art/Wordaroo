@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uvb",{"uvb":{"word":"uvb","translation":"[醫][=ultraviolet light,midrange sunbeam spectrum]紫外線B光譜, 中波紫外線光譜","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ˌju: vi: ˈbi:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

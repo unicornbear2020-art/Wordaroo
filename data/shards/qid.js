@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qid",{"qid":{"word":"qid","translation":"abbr. 一天四次quarter in die","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

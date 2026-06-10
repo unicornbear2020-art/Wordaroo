@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vmc",{"vmc":{"word":"VMC","translation":"[計] 虛存計算機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fvs",{"fvs":{"word":"fvs","translation":"abbr. fighting vehicle system 戰鬥飛行器系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

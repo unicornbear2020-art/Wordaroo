@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kpt",{"kpt":{"word":"kpt","translation":"[醫][=kidney punch test]腎衝擊診試驗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

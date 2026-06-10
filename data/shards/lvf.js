@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lvf",{"lvf":{"word":"lvf","translation":"[醫][=left ventricular failure]左心室衰竭","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

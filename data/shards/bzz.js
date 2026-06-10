@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bzz",{"bzzz":{"word":"bzzz","translation":"abbr. Brize Norton, England 英國，布里茨諾頓機場","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'bi:z'i:z'i:z'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

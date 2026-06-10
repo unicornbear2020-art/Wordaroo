@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cmq",{"cmq":{"word":"cmq","translation":"abbr. Catholic Medical Quarterly 羅馬天主教醫學季刊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

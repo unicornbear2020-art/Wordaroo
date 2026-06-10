@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sgs",{"sgs":{"word":"sgs","translation":"n. 歐洲著名的SGS-湯姆遜電子集團","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a transuranic element","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cz_",{"cz":{"word":"cz","translation":"abbr. [域]捷克（Czech Republic）；運河區","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

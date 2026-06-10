@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gwu",{"gwu":{"word":"gwu","translation":"abbr. George Washington University 喬治。華盛頓大學","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

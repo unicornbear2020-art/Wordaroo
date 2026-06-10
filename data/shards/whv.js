@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("whv",{"whv":{"word":"whv","translation":"abbr. 土撥鼠肝炎病毒（woodchuck hepatitis virus）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

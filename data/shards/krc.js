@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("krc",{"krc":{"word":"krc","translation":"abbr. Knight of the Red Cross 紅十字騎士","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nmf",{"nmfs":{"word":"nmfs","translation":"abbr. neonatal Marfan syndrome 新生兒馬方綜合徵","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

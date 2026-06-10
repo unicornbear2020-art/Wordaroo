@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pkt",{"pkt":{"word":"pkt","translation":"abbr. packet 小包; pocket （衣）袋; 套; 袖珍的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'pi:k'eɪt'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

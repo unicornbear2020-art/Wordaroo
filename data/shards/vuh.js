@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vuh",{"vuh":{"word":"vuh","translation":"abbr. Vanderbih University Hospital 範德比爾特大學醫院","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

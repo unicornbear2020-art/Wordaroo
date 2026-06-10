@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qmd",{"qmd":{"word":"qmd","translation":"abbr. quantum magnetic disk 量子磁盤; quantum molecular dynamics 量子分子動力學","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

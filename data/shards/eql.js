@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eql",{"eql":{"word":"eql","translation":"abbr. equivalent 等價的; 等值的; 等量的; 同等的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

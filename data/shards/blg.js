@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("blg",{"blg":{"word":"blg","translation":"abbr. β-乳球蛋白（beta-lactoglobulin β-）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("riu",{"riu":{"word":"riu","translation":"[醫][=radioactive iodine uptake]放射性碘攝取量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

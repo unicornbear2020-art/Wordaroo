@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("scv",{"scv":{"word":"scv","translation":"abbr. single concave 單式的凹面","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("b_4",{"b-47s":{"word":"b-47s","translation":"【航空學】一種有六引擎噴氣發動機的轟炸機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

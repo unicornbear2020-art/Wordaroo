@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("f0l",{"f0l syetem":{"word":"F0L syetem","translation":"[計] 帶有限公理集的林氏無關係統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rrm",{"rrms":{"word":"rrms","translation":"abbr. relapsing remitting multiple sclerosis 復發緩解型多發性硬化","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

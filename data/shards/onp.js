@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("onp",{"onp":{"word":"onp","translation":"[醫][=operating nursing procedure]手術護理程序，手術護理法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɒnp/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

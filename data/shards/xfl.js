@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xfl",{"xfl":{"word":"xfl","translation":"abbr. Extreme Football League 超級足球聯賽（代號）; X-ray fluorescence X射線熒光","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

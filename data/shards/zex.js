@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zex",{"zexon":{"word":"Zexon","translation":"高密度聚乙烯合成紙","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'zeksәn/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vcj",{"vcjd":{"word":"vcjd","translation":"n. 變異型克-雅氏病，人類瘋牛病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

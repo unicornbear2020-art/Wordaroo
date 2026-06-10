@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pgl",{"pgl":{"word":"pgl","translation":"abbr. puppy beagle 小狗，小獵犬","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

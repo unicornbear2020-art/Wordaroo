@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tn3",{"tn3270":{"word":"tn3270","translation":"[計] tn3270協議","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

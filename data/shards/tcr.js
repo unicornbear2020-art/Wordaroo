@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tcr",{"tcr":{"word":"TCR","translation":"abbr. 電阻温度係數（temperature coefficient of resistance）；技術制導雷達（Tactical Control Radar）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

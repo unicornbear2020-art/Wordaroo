@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tcu",{"tcu":{"word":"TCU","translation":"[計] 中繼耦合單元","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

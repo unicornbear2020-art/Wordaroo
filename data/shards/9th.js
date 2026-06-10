@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("9th",{"9th":{"word":"9th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"9th is an abbreviation of ninth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

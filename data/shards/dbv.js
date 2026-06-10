@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dbv",{"dbv":{"word":"dbv","translation":"[電] 和阻抗水平無關的電壓增減","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

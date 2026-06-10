@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pbd",{"pbd":{"word":"pbd","translation":"abbr. paperboard 紙板; particle board 刨花板，木屑纖維板","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

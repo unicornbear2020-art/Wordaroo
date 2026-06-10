@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wxg",{"wxga":{"word":"wxga","translation":"abbr. 寬螢幕擴展型圖形陣列（Wide Extended Graphics Array）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dsw",{"dsw":{"word":"dsw","translation":"n. 設備狀態字","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

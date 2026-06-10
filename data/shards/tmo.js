@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tmo",{"tmo":{"word":"tmo","translation":"abbr. telegraph money order 電匯票","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

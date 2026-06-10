@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c_k",{"c kinase":{"word":"c kinase","translation":"[機] C激","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

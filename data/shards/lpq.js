@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lpq",{"lpq":{"word":"lpq","translation":"abbr. line printer query 行式打印機任務探詢; long playing quadraphonics 長放音時間四聲道立體聲（唱片），密紋四聲道立體聲唱片","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

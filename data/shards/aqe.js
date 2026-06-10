@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aqe",{"aqeel":{"word":"aqeel","translation":"n. (Aqeel)人名；(巴基)阿基爾","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

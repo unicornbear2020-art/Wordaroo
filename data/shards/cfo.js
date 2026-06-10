@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cfo",{"cfo":{"word":"CFO","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"CFO is a short way of saying \"chief financial officer\".","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"abbr. 首席財務官（Chief Finance Officer）"}});

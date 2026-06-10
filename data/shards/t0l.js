@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("t0l",{"t0l system":{"word":"T0L system","translation":"[計] 帶產生式表的林氏無關係統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

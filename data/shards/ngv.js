@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ngv",{"ngv":{"word":"ngv","translation":"abbr. nongonococcal vulvovaginitis 非淋菌性外陰陰道炎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'endʒ'i:v'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xcr",{"xcr":{"word":"xcr","translation":"abbr. Crystal Controlled Receiver 晶體控制接收機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

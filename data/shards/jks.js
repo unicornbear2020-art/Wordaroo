@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jks",{"jks":{"word":"jks","translation":"abbr. Julius Kayser (stock-exchange symbol) 朱利葉斯·凱塞（股票交易代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

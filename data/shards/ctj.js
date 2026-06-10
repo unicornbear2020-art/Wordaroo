@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ctj",{"ctj":{"word":"ctj","translation":"abbr. Citizens for Tax Justice 爭取税法公正的市民; coaxial transverse junction (structure) 同軸橫向結（結構）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

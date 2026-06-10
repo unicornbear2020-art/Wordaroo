@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("npm",{"npm":{"word":"npm","translation":"abbr. number of points in the point-matching method 點匹配法中的點數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

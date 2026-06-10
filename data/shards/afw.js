@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("afw",{"afwillite":{"word":"afwillite","translation":"柱硅鈣石, 水合硅酸鈣","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'æfwilait/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

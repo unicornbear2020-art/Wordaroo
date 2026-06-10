@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xtv",{"xtv":{"word":"xtv","translation":"abbr. X-ray television X射線電視","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

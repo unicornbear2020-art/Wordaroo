@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hsk",{"hsk":{"word":"hsk","translation":"abbr. 漢語水平考試（hàn yǔ shǔi píng kǎo shì）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

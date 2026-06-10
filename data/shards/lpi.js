@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lpi",{"lpi":{"word":"lpi","translation":"n. lines per inch; 每英寸行數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

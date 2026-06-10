@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kix",{"kix":{"word":"kix","translation":"abbr. Kansai International Airport; Japan 日本; 大阪; 關西國際機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

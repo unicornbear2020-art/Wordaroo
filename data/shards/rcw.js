@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rcw",{"rcw":{"word":"rcw","translation":"[計]= Read,Compute,Write,讀-計算-寫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

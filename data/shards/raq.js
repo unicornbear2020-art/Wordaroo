@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("raq",{"raquel":{"word":"Raquel","translation":"n. 拉克爾（人名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

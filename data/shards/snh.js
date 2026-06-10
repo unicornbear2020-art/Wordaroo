@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("snh",{"snhl":{"word":"snhl","translation":"[醫][=sensorineural hearing loss]感覺神經性耳聾（失聰）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

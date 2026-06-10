@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vcs",{"vcs":{"word":"vcs","translation":"abbr. 集羣服務器（Virus Capture Scripter）；真空控制開關（Vacuum Controlled Switch）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

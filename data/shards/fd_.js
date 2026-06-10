@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fd_",{"fd":{"word":"FD","translation":"[計] 文件定義, 文件描述, 軟磁盤, 功能相關性\n[化] 場解吸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

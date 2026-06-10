@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bff",{"bff":{"word":"bff","translation":"abbr. 永遠最好的朋友（Best Friend Forever）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

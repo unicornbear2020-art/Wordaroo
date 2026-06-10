@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sfz",{"sfz":{"word":"sfz","translation":"abbr. sforzando (Italian=emphasized chord or note) （意大利語）重音或音符","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'es'efz'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

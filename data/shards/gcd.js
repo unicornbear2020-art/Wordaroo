@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gcd",{"gcd":{"word":"GCD","translation":"最大公約數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

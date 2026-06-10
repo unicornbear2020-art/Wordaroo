@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hci",{"hci":{"word":"hci","translation":"abbr. 人機相互作用（Human Computer Interaction）；主機控制器接口（host controller interface）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

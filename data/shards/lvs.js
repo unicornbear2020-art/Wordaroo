@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lvs",{"lvs":{"word":"lvs","translation":"abbr. leaves 樹葉，花瓣","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

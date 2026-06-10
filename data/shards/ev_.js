@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ev_",{"ev":{"word":"ev","translation":"[電] 電子伏特","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a unit of energy equal to the work done by an electron accelerated through a potential difference of 1 volt","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

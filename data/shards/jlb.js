@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jlb",{"jlb crane":{"word":"jlb crane","translation":"[機] 旋臂吊車","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

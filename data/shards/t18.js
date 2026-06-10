@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("t18",{"t1824":{"word":"T1824","translation":"[醫] 伊凡斯藍","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oln",{"olney":{"word":"Olney","translation":"（人名）奧爾尼\n奧爾尼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

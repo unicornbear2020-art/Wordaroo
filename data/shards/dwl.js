@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dwl",{"dwl":{"word":"dwl","translation":"abbr. dwelling 住處; displacement waterline 排水狀態水線; derived working level 導出工作標準; dowel 木釘","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

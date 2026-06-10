@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bq_",{"bq":{"word":"bq","translation":"abbr. [醫]對苯醌（p-benzoquinone）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

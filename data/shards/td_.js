@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("td_",{"td":{"word":"td","translation":"abbr. （美）財政部（Treasury Department）；任務説明書（Task Description）；反坦克自行火炮（Tank Destroyer）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

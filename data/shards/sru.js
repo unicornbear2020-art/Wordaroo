@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sru",{"sruma":{"word":"sruma","translation":"[醫] 牙石","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

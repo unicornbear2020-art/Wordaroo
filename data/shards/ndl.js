@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ndl",{"ndl":{"word":"ndl","translation":"abbr. network definition language 網絡定義語言; niederlndisch (German=Netherlandic) （德語）荷蘭語","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tsg",{"tsgt":{"word":"TSgt","translation":"abbr. technical sergeant","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

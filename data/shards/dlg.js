@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dlg",{"dlg":{"word":"dlg","translation":"abbr. 數字線劃地圖（Digital Line Graphic）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

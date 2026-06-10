@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dvm",{"dvm":{"word":"DVM","translation":"[化] 離散變分方法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

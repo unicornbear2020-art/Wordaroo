@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ccp",{"ccp":{"word":"CCP","translation":"[計] 調用控制端口, 計算機程序設計檢驗合格證, 通信控制程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

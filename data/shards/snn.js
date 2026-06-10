@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("snn",{"snnuliform":{"word":"snnuliform","translation":"環形","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ænjuli,fɔ:m/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

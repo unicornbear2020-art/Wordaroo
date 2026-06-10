@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mlo",{"mlo":{"word":"mlo","translation":"[醫][=mesiolinguo-occlusal]近中舌側牙合（面）的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/m'ləʊ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

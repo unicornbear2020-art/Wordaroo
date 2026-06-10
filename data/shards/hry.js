@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hry",{"hryvnia":{"word":"hryvnia","translation":"n. 格里夫尼亞（烏克蘭的貨幣單位）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. the basic unit of money in Ukraine","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

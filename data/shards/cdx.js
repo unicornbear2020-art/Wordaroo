@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cdx",{"cdx":{"word":"cdx","translation":"[醫][=cadmium-propylxanthate]丙黃原酸鎘","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'si:d'i:'eks/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zma",{"zma":{"word":"zma","translation":"[醫][=zinc meta-arsenite,insecticide]偏亞砷酸鋅","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

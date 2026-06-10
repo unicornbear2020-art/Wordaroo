@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("o_i",{"o-iodohippuric acid":{"word":"o-iodohippuric acid","translation":"[化] 鄰碘馬尿酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

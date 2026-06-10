@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ubl",{"ubl":{"word":"ubl","translation":"abbr. unbleached 未漂白的，原色的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

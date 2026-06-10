@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("b_u",{"b-unit":{"word":"b-unit","translation":"變數部件，變址部件","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

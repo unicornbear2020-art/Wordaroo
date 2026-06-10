@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uby",{"ubykh":{"word":"Ubykh","translation":"n. 尤比克語(高加索語系中一種)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'u:bik/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n an extinct Caucasian language spoken exclusively in Turkey","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

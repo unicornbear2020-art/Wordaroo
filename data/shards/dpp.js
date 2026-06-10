@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dpp",{"dpp":{"word":"DPP","translation":"[計] 數字並行處理機\n[化] 微分脈衝極譜法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

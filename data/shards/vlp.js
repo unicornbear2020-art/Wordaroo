@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vlp",{"vlp":{"word":"vlp","translation":"abbr. 長春新鹼（vasoactive lung polypeptide）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

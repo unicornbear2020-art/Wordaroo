@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ehn",{"ehn":{"word":"ehn","translation":"abbr. Exploring Human Nature 人性探索","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

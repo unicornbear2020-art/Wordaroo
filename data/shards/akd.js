@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("akd",{"akdeniz":{"word":"akdeniz","translation":"n. (Akdeniz)人名；(土)阿克代尼茲","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

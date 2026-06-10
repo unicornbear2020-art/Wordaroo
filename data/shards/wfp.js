@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wfp",{"wfp":{"word":"wfp","translation":"abbr. warm frontal passage 温暖的前通道","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

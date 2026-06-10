@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("shd",{"shd":{"word":"shd","translation":"abbr. should 應, 應該","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

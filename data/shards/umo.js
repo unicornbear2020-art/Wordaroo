@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("umo",{"umohoite":{"word":"umohoite","translation":"n. [礦](菱)鉬鈾礦","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ju:mә,hәu,ait/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

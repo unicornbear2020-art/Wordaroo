@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sqr",{"sqrt":{"word":"sqrt","translation":"abbr. 開平方根（square root）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xw_",{"xw":{"word":"xw","translation":"abbr. 無認股證書（ex warrants）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

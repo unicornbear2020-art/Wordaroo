@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mwd",{"mwd":{"word":"mwd","translation":"abbr. megawatt per day 兆瓦/日","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

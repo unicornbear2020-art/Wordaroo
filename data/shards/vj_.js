@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vj_",{"vj":{"word":"vj","translation":"abbr. 電視綜藝節目主持人（Video Jockey）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

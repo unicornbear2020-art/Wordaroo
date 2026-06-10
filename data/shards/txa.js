@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("txa",{"txa":{"word":"txa","translation":"abbr. terminal exchange area 終端交換區; tranexamic acid 氨甲環酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

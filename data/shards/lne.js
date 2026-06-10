@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lne",{"lner":{"word":"lner","translation":"abbr. London North-Eastern Railway <英>倫敦東北鐵路","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wtu",{"wtu":{"word":"wtu","translation":"abbr. Washington Theological Union 華盛頓神學聯盟","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

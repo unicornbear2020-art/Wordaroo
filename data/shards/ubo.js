@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ubo",{"ubon":{"word":"Ubon","translation":"烏汶[泰國東部城市]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/j'bʌn,,u:'bɔ:n/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

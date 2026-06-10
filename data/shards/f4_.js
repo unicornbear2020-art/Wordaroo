@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("f4_",{"f4":{"word":"f4","translation":"n. 中國台灣的一個男子組合","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

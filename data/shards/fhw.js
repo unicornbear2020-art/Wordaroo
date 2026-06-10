@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fhw",{"fhwa":{"word":"fhwa","translation":"abbr. Federal Highway Administration <美>聯邦公路局","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

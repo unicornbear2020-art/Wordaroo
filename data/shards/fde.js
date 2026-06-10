@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fde",{"fdep":{"word":"fdep","translation":"[計]= Formatted Data Entry Program,格式化數據輸入程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

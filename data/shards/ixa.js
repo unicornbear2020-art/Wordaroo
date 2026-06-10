@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ixa",{"ixa":{"word":"ixa","translation":"abbr. Internet exchange architecture 因特網交換體系結構","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

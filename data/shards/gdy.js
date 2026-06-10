@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gdy",{"gdynia":{"word":"Gdynia","translation":"格丁尼亞[波蘭北部港市]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/^ә'dinjә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("slp",{"slp":{"word":"SLP","translation":"[計] 單鏈路規程","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

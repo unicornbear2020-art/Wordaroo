@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ktp",{"ktp":{"word":"ktp","translation":"abbr. Keyboard Tape Punch 鍵盤磁帶穿孔機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

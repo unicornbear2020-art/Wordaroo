@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mvt",{"mvt":{"word":"MVT","translation":"[計] 任務數可變的多道操作系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

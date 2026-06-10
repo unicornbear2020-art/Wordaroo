@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bdi",{"bdi":{"word":"bdi","translation":"n. 基極擴散隔離","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

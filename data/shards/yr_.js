@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yr_",{"yr":{"word":"yr","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"Yr is short for year.","glossZh":"","labels":[],"examples":[]},{"gloss":"Yr is short for your.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"[計] 年\n[經] 年"}});

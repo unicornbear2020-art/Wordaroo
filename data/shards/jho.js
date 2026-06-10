@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jho",{"jhon":{"word":"Jhon","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"name","senses":[{"gloss":"Jhon is a male given name.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

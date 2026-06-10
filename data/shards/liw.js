@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("liw",{"liwa":{"word":"liwa","translation":"n. (伊拉克等阿拉伯語國家的)大行政區,省","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'li:wә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

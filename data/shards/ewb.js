@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ewb",{"ewbank":{"word":"Ewbank","translation":"n. (Ewbank)人名；(英)尤班克","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lng",{"lng":{"word":"lng","translation":"abbr. 液化天然氣（Liquefied Natural Gas）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

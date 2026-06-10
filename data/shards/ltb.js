@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ltb",{"ltb":{"word":"LTB","translation":"abbr. 公司名（Listen to Believe）；論壇幣","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

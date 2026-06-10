@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gll",{"gllie transplant":{"word":"Gllie transplant","translation":"[醫] 加利氏移植物(用闊筋膜條作疝手術縫線)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

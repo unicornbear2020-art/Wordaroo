@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ejf",{"ejf":{"word":"ejf","translation":"abbr. estimated junction frequency 估計結頻率","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

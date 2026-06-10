@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tkr",{"tkr":{"word":"tkr","translation":"abbr. tanker 坦克手; 油船; 運油飛機; terrestrial kilometric radiation 地面公里輻射","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

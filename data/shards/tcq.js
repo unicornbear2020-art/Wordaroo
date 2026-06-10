@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tcq",{"tcq":{"word":"tcq","translation":"abbr. trellis coded quantization 格狀編碼量化","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

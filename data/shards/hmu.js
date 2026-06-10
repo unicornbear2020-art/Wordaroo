@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hmu",{"hmu":{"word":"HMU","translation":"n. (Hmu)人名；(緬)木","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

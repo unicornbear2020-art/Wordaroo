@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vme",{"vme":{"word":"VME","translation":"abbr. 虛擬機環境（Virtual Machine Enviroment）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

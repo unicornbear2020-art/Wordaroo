@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ijs",{"ijssel":{"word":"IJssel","translation":"n. 艾塞爾河（在荷蘭境內）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'aisəl/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n. a river in the central Netherlands flowing north to the IJsselmeer","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

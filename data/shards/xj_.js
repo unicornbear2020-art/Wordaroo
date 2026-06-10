@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xj_",{"xj":{"word":"xj","translation":"abbr. Manchester 曼徹斯特（代號）; Mesaba Airlines 梅莎巴航空公司（代碼）; Xinjiang <中國>新疆","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

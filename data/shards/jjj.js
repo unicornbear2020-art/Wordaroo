@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jjj",{"jjj":{"word":"jjj","translation":"abbr. 系列精密淨油加油機；非貨幣用未鍛造金進出口分析；聚甲基丙烯酸甲酯進出口","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

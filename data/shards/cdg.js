@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cdg",{"cdg":{"word":"cdg","translation":"abbr. 巴黎機場（Paris Charles de Gaulle Airport）；危險品運輸（Carriage of Dangerous Goods）；圖示激光唱片","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ndc",{"ndc":{"word":"NDC","translation":"規格化設備座標","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

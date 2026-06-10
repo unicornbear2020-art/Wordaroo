@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yv_",{"yv":{"word":"yv","translation":"abbr. yellow virescent 黃帶綠色","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

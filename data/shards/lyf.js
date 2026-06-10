@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lyf",{"lyford":{"word":"lyford","translation":"[人名] 萊福德","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

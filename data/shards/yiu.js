@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yiu",{"yiu":{"word":"yiu","translation":"n. 姚（姓氏）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

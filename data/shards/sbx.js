@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sbx",{"sbx":{"word":"sbx","translation":"abbr. S-band transponder S波段應答機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bbg",{"bbg":{"word":"bbg","translation":"abbr. bundle branch block 束支塊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

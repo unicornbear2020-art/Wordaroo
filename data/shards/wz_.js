@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wz_",{"wz":{"word":"wz","translation":"n. 五莊觀（遊戲名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("riq",{"riquewihr":{"word":"Riquewihr","translation":"n. 利克威爾(白葡萄)酒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ri:kviә(r)/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

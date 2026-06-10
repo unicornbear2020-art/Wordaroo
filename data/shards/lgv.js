@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lgv",{"lgv":{"word":"lgv","translation":"[醫][=large granular vesicle]大顆粒水泡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'eldʒ'i:v'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

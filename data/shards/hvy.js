@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hvy",{"hvy":{"word":"hvy","translation":"abbr. heavy 重的; 重型的; 沉重的; 大量的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/h'vɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

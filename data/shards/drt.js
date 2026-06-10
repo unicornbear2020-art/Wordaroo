@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("drt",{"drta":{"word":"drta","translation":"[醫][=distal renal tubular acidosis]遠側腎小管酸中毒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lfg",{"lfg":{"word":"LFG","translation":"詞彙功能語法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

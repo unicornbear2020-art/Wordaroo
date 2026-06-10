@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kso",{"ksos":{"word":"KSOS","translation":"核基安全操作系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

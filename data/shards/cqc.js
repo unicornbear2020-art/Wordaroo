@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cqc",{"cqc":{"word":"cqc","translation":"abbr. 全公司範圍的品質管理（ Companywide Quality Control）；中國質量認證中心；中國進出口質量認證中心","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qlq",{"qlq":{"word":"qlq","translation":"abbr. quality of life questionnaire 生活質量問卷調查表","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

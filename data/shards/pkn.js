@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pkn",{"pkn":{"word":"pkn","translation":"[醫][=parkinsonism]帕金森（氏）綜合徵","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

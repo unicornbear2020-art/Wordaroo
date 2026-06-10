@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dgf",{"dgf":{"word":"dgf","translation":"[醫][=duct growth factor]導管發育因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

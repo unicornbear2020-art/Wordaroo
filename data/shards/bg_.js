@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bg_",{"bg":{"word":"BG","translation":"[計] 後台","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

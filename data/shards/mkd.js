@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mkd",{"mkdir":{"word":"MKDIR","translation":"[計] DOS內部命令:該命令用於在軟盤或硬盤上建立新的子目錄","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qus",{"qusternary syphilis":{"word":"qusternary syphilis","translation":"[醫] 四期梅毒, 終期梅毒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

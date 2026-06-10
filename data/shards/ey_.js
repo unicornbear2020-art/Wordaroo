@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ey_",{"ey":{"word":"ey","translation":"abbr. 醫院；阿聯酋阿提哈德航空公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. An island.\nn. See Egg.\n An interj. of wonder or inquiry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

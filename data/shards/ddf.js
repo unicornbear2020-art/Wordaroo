@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ddf",{"ddf":{"word":"DDF","translation":"[計] 數據庫描述文件, 開發論證設施","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

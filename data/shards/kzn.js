@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kzn",{"kzn":{"word":"kzn","translation":"abbr. Kazan, Russian Federation 俄羅斯，喀山機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

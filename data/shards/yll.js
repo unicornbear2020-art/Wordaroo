@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yll",{"ylla":{"word":"ylla","translation":"伊利亞","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

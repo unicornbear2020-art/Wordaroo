@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hfd",{"hfd":{"word":"hfd","translation":"[醫][=high fiber diet]高纖維飲食","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'etʃ'efd'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hng",{"hnggins-miller-jensen test":{"word":"Hnggins-Miller-Jensen test","translation":"[醫] 哈-米-晏三氏試驗, 哈金斯氏試驗(檢癌)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

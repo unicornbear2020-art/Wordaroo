@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vt_",{"vt":{"word":"VT","translation":"[計] 視頻終端, 虛擬終端","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a state in New England","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

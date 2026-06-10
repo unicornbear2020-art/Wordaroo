@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lrv",{"lrv":{"word":"LRV","translation":"abbr. 輕軌火車（Light Rail Vehicle）；左腎靜脈（left renal vein）；月面考察車（lunar roving vehicle）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

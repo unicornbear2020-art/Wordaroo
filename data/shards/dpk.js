@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dpk",{"dpk":{"word":"dpk","translation":"[醫][=dipropyl ketone]二丙基甲酮，4-庚酮","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

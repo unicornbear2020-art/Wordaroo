@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xm_",{"xm":{"word":"XM","translation":"[計] 執行節點","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

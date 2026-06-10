@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gbv",{"gbv":{"word":"gbv","translation":"abbr. gallbladder volume 膽囊容量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

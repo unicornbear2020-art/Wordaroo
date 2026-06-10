@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("omt",{"omtimeter":{"word":"omtimeter","translation":"高精度光學比較儀","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("r_p",{"r.p.m.":{"word":"r.p.m.","translation":"[醫] 每分鐘繞轉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

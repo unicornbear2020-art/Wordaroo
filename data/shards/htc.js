@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("htc",{"htc":{"word":"htc","translation":"abbr. 熱傳導係數（Heat Transfer Coefficient）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bwe",{"bwe":{"word":"bwe","translation":"abbr. Bucket Wheel Excavator 鬥輪挖掘機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

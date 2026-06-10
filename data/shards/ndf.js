@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ndf",{"ndf":{"word":"ndf","translation":"[醫][=neutrophil diffraction factor]嗜中性粒（白）細胞衍生因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

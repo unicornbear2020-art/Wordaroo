@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uos",{"uos":{"word":"uos","translation":"(uo 的複數) abbr. 尚未發出的定貨單（undelivered orders）；網絡創世紀（Ultima Online）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"plural of uo","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

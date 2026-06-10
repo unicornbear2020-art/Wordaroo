@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cxt",{"cxt":{"word":"cxt","translation":"abbr. common external tariff （歐共體）共同對外關税，對外統一運費","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

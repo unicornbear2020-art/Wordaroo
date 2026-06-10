@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fqd",{"fqdn":{"word":"FQDN","translation":"[計] 主機域名全稱, 完全限定域名","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

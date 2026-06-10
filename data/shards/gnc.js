@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gnc",{"gnc":{"word":"gnc","translation":"abbr. 全球航海圖（Global Navigation Chart）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

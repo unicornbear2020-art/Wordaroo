@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uud",{"uudecode":{"word":"uudecode","translation":"[計] uu解碼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

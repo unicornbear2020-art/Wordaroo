@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("glr",{"glr":{"word":"glr","translation":"abbr. gas liquid ratio (oil well) 氣液比（油井）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gns",{"gns":{"word":"gns","translation":"(gn 的複數) n. 幾內亞（等於Guinea）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"plural of gn","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

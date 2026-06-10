@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ctx",{"ctx":{"word":"ctx","translation":"abbr. 環磷酰胺（cyclophosphamide）；用户電話交換機（Customer Telephone Exchange）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

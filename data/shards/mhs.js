@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mhs",{"mhs":{"word":"MHS","translation":"[計] 消息處理服務, 消息處理系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

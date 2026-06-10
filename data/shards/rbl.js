@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rbl",{"rbl":{"word":"rbl","translation":"[醫][=reid's base line]裏德基線","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:rb'i:'el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

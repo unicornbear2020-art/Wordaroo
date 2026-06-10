@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iji",{"iji":{"word":"iji","translation":"abbr. International Jurisdical Institute 國際司法學會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

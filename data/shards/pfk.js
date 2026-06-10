@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pfk",{"pfk":{"word":"PFK","translation":"abbr. 磷酸果糖激酶（phosphofructokinase）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

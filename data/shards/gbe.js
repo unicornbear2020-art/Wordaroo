@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gbe",{"gbe":{"word":"gbe","translation":"abbr. 獲英帝國大十字勳章（的爵士或女爵士）（Knight 或 Dame）Grand Cross （of the Order）of the British Empire","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

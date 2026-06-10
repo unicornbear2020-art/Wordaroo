@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("emh",{"emhorn tube":{"word":"Emhorn tube","translation":"[化] 艾氏管; 艾氏發酵管","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

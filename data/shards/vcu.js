@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vcu",{"vcu":{"word":"vcu","translation":"[醫][=videocystourethrography]電視錄像膀胱尿道造影術","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/v'ku:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

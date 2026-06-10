@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fgs",{"fgs":{"word":"fgs","translation":"abbr. fellow of the geological society <英>地質學會會員","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

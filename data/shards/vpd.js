@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vpd",{"vpd":{"word":"vpd","translation":"[醫][=variation per day]日變量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

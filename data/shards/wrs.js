@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wrs",{"wrs":{"word":"wrs","translation":"abbr. war reserve stock(s) 戰爭儲備庫存","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'dəbəlju:'ɑ:r'es/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

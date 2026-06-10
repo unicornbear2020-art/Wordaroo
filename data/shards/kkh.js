@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kkh",{"kkh":{"word":"kkh","translation":"abbr. Karakoran Highway 喀喇崑崙公路","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

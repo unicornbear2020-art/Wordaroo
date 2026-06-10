@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yn_",{"yn":{"word":"yn","translation":"abbr. 雲南（Yun Nan）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

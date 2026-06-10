@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("swp",{"swp":{"word":"swp","translation":"abbr. safe working pressure 安全工作壓力; sweep 清掃; sweeping 掃除; steam working pressure 蒸汽工作壓力","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

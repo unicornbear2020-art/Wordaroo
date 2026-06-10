@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tmc",{"tmc":{"word":"tmc","translation":"abbr. 交通管制（Traffic Movement Control）；運輸器材司令部（[美]陸軍）（Transportation Material Command）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

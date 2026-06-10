@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ldh",{"ldh":{"word":"LDH","translation":"abbr. 乳酸鹽脱氫酶（lactate dehydrogenase）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

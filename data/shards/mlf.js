@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mlf",{"mlf":{"word":"MLF","translation":"abbr. 多邊核力量（Multilateral Nuclear Force）；媒體語言格式（Media Language Format）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

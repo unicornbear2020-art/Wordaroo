@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xml",{"xml":{"word":"xml","translation":"abbr. 可擴展標示語言（Extensive Makeup Language）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

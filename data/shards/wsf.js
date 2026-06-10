@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wsf",{"wsf":{"word":"wsf","translation":"[醫][=white single female]白種單身女子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

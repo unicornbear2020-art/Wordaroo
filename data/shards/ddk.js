@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ddk",{"ddk":{"word":"DDK","translation":"n. 微軟的設備驅動程序開發包","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

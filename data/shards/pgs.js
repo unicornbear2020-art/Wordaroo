@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pgs",{"pgs":{"word":"pgs","translation":"abbr. predicted ground speed 預測地面速度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'pi:dʒ'i:'es/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

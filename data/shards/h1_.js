@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("h1_",{"h1":{"word":"H1","translation":"[醫] 氕(音撇)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

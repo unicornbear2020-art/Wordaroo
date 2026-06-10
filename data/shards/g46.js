@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("g46",{"g469":{"word":"G469","translation":"[醫] β-吡啶醛縮氨硫脲","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

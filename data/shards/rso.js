@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rso",{"rso":{"word":"rso","translation":"abbr. railway suboffice 鐵路分局; research ship of opportunity 兼用研究船，輔助觀測船","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

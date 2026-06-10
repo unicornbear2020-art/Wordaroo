@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fyv",{"fyvel":{"word":"fyvel","translation":"[人名] 法伊弗爾","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

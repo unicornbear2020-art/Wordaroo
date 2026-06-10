@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pcw",{"pcw":{"word":"PCW","translation":"n. 製程冷卻水；物理化學加工","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

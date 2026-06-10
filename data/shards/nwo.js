@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nwo",{"nwo":{"word":"nwo","translation":"abbr. New World Order 新世界次序; Nuclear Weapons Office 核武器辦公室; nuclear weapons officer 核武器官","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

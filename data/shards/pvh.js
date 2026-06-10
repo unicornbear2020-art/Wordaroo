@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pvh",{"pvh":{"word":"pvh","translation":"[醫][=periventricular hemorrhage]腦室周圍出血","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'pi:v'i:'etʃ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

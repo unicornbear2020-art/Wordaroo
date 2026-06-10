@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lds",{"lds":{"word":"lds","translation":"abbr. 長途業務（Local Distribution Service）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

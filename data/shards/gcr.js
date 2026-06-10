@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gcr",{"gcr":{"word":"GCR","translation":"地面控制雷達\n[計] 成組編碼記錄","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

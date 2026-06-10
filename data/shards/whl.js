@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("whl",{"whl":{"word":"whl","translation":"abbr. wheel 輪; 齒輪; 飛輪; wholesale 批發","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

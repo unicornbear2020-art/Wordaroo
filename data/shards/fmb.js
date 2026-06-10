@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fmb",{"fmb":{"word":"fmb","translation":"abbr. Federal Marine Board <美>聯邦海運局","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

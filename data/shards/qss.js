@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qss",{"qss":{"word":"qss","translation":"abbr. quasi-stellar source 類星射電源，準恆星放射源","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

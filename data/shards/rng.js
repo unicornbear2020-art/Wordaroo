@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rng",{"rng":{"word":"rng","translation":"abbr. 無線電網絡網關（Radio Network Gateway）；隨機數發生器（random number generator）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

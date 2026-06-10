@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yev",{"yevele":{"word":"yevele","translation":"[人名] 伊夫利","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

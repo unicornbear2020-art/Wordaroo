@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rln",{"rln":{"word":"rln","translation":"[醫][=recurrent laryngeal nerve]喉返神經","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:r'el'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

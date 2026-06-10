@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gfo",{"gfo":{"word":"gfo","translation":"abbr. gap-filler output 補盲雷達信息輸出; General Freight Office 貨運總處","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

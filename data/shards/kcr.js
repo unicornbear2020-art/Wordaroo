@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kcr",{"kcrp":{"word":"KCRP","translation":"知識編譯快速原型","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

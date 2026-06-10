@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("afn",{"afn":{"word":"afn","translation":"abbr. 平均故障數（average failure number）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

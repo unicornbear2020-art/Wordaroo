@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oag",{"oag":{"word":"oag","translation":"眼動脈造影[術]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bny",{"bny":{"word":"bny","translation":"abbr. Bank of New York <美國>紐約銀行","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

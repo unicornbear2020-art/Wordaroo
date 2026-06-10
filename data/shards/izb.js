@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("izb",{"izbica":{"word":"izbica","translation":"[地名] [波蘭] 伊茲比察","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

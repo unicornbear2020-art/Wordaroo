@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jbl",{"jbl":{"word":"jbl","translation":"abbr. 日本籃球聯盟（Japanese Basketball League）；音響品牌名稱","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

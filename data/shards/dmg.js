@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dmg",{"dmg":{"word":"dmg","translation":"abbr. 數據管理集團（Data Management Group）；損傷（Damage, 遊戲用語）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

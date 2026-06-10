@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("brl",{"brl":{"word":"brl","translation":"abbr. barrel(s) 桶（容量單位, 英桶為36英加侖, 美桶為31。5美加侖）; 筒; 槍管; bomb-release line 投彈線","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

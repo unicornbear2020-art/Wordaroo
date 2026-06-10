@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fhr",{"fhr":{"word":"fhr","translation":"abbr. fetal heart rate 胎心率; fire-hose rack 消防水龍帶架子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

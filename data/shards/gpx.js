@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gpx",{"gpx":{"word":"gpx","translation":"[醫][=generalized plane xanthoma]泛發性扁平黃瘤","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒi:p'i:'eks/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

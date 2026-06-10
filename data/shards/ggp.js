@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ggp",{"ggp":{"word":"GGP","translation":"[計] 網關至網關的協議","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

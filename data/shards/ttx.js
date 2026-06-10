@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ttx",{"ttx":{"word":"ttx","translation":"abbr. tritated tetrodotoxin 氚化河豚毒素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:t'i:'eks/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

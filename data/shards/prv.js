@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("prv",{"prv":{"word":"prv","translation":"abbr. 峯值反向電壓（Peak Reverse Voltage）；減壓閥（Pressure Reducing Valve）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tvq",{"tvq":{"word":"tvq","translation":"abbr. top visual quality 最佳視頻質量，最佳圖像質量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:v'i:kj'u:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("e_2",{"e-2 mechanism":{"word":"E-2 mechanism","translation":"[化] E-2機理; 雙分子消去反應機理","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

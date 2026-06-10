@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dft",{"dft":{"word":"DFT","translation":"[計] 離散傅里葉變換; 診斷功能測試程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

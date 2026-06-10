@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dmm",{"dmm":{"word":"dmm","translation":"abbr. 數字萬用表（digital multimeter）；數字微粒特效（Digital Molecular Matter）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

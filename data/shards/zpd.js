@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zpd",{"zpd":{"word":"zpd","translation":"abbr. zero path difference 零（光）程差","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

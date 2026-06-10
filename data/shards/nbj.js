@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nbj",{"nbjective symptom":{"word":"nbjective symptom","translation":"[醫] 客觀症狀","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

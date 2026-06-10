@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("r_7",{"r-76-1":{"word":"R-76-1","translation":"[化] 利福定","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mbn",{"mbna":{"word":"mbna","translation":"[醫][=N-methyl-N-benzylnitrosamine]N-甲基-N-苄基亞硝胺","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

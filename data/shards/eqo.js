@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eqo",{"eqoine infectious anemia":{"word":"eqoine infectious anemia","translation":"[醫] 馬感染性貧血","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

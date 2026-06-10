@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tpx",{"tpx":{"word":"tpx","translation":"abbr. thyroid peroxidase 甲狀腺過氧化物酶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

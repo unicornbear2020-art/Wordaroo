@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dnn",{"dnn":{"word":"dnn","translation":"[醫][=1，5-dinitronaphthalene]1，5-二硝基萘","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

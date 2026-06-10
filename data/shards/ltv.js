@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ltv",{"ltv":{"word":"ltv","translation":"abbr. loan to value 借款估價","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

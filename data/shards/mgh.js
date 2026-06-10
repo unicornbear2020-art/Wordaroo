@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mgh",{"mgh":{"word":"mgh","translation":"abbr. milligram hour(s) 毫克小時; milligramme-hour 毫克小時","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

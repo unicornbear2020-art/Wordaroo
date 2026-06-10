@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vhi",{"vhi":{"word":"vhi","translation":"abbr. Value Health Incorporated 價值健康有限公司; virtual host interface 虛擬主機接口","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

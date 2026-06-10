@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mdd",{"mdd":{"word":"mdd","translation":"abbr. microgram per square decimeter per day 微克/分米/天（腐蝕速率單位）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'emd'i:d'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jdm",{"jdm":{"word":"jdm","translation":"[醫][=juvenile diabetes mellitus]青少年糖尿病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒeɪd'i:'em/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

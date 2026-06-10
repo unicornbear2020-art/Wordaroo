@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oio",{"oio":{"word":"oio","translation":"abbr. Oklahomans for Indian Opportunity 俄克拉何馬州印地安人機遇","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

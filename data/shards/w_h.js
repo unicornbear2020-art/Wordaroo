@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("w_h",{"w hernia":{"word":"w hernia","translation":"[醫] 逆行性疝","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uie",{"uie":{"word":"uie","translation":"abbr. UNESCO Institute for Education 聯合國科教文組織教育研究所","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

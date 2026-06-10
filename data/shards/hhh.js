@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hhh",{"hhh":{"word":"hhh","translation":"終極戰士（Warrior VS Hunter Hearst Helmsley）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dlu",{"dluria":{"word":"dluria","translation":"[醫] 晝間尿頻","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

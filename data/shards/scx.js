@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("scx",{"scx":{"word":"scx","translation":"abbr. single convex 單獨凸出的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

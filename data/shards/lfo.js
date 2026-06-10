@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lfo",{"lfo":{"word":"lfo","translation":"abbr. light fuel oil 輕燃料油，易揮發油; low-frequency oscillator 低頻振盪器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

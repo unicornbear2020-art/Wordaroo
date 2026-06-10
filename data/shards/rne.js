@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rne",{"rne":{"word":"rne","translation":"[醫][=radionuclide esophagogram]放射性核素食管造影照片","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

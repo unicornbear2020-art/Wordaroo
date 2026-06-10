@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("srf",{"srf":{"word":"srf","translation":"血清響應因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xps",{"xps":{"word":"XPS","translation":"[化] X射線光電子能譜; X射線光電子能譜學","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

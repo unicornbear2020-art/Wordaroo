@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("h_v",{"h-vector":{"word":"h-vector","translation":"[電] H向量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

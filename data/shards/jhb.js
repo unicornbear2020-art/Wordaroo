@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jhb",{"jhb":{"word":"jhb","translation":"abbr. Johannesburg 約翰內斯堡（南非東北部城市）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

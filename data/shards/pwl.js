@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pwl",{"pwl":{"word":"PWL","translation":"abbr. 能級（Power Level）；功率瓦特級（Power Watt Level）；電平","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

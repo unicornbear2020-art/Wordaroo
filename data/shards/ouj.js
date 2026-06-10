@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ouj",{"oujda":{"word":"Oujda","translation":"烏傑達[摩洛哥東北部城市]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/u:dʒ'dɑ:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n a city in northeastern Morocco near the Algerian border","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

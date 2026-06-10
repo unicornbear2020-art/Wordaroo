@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tqc",{"tqc":{"word":"TQC","translation":"[化] 全面質量管理","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

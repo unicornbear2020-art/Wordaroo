@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vw_",{"vw":{"word":"vw","translation":"abbr. 大眾汽車（Volkswagen）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kms",{"kms":{"word":"kms","translation":"abbr. 知識管理系統（Knowledgebase Management System）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a metric unit of length equal to 1000 meters (or 0.621371 miles)","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

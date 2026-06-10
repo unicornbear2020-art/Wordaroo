@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lqs",{"lqs":{"word":"lqs","translation":"abbr. lot quality standard 批量質量標準; quartz spot light （石英）聚光燈（代號）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

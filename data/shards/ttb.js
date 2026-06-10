@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ttb",{"ttb":{"word":"ttb","translation":"abbr. Tank Test Bed 坦克試驗枱架","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

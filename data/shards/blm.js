@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("blm",{"blm":{"word":"BLM","translation":"[化] 雙層脂膜; 黑脂膜","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

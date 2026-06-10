@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ayy",{"ayyad":{"word":"ayyad","translation":"n. (Ayyad)人名；(阿拉伯)伊亞德","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

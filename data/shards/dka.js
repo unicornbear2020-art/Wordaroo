@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dka",{"dka":{"word":"dka","translation":"糖尿病酮症酸中毒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

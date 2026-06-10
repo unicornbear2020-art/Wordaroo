@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("icg",{"icg":{"word":"icg","translation":"[醫][=immune complex glomerulonephritis]免疫複合物性腎小球腎炎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

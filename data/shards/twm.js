@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("twm",{"twm":{"word":"twm","translation":"abbr. traveling-wave maser 行波微波激射器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:d'əbəlju:'em/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

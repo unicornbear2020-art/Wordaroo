@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tco",{"tco":{"word":"tco","translation":"abbr. 總體擁有成本（ \tTotal Cost of Ownership）；瑞典專業職業聯盟；零點温度影響","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

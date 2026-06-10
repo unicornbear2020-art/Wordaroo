@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("guk",{"guk":{"word":"guk","translation":"n. (Guk)人名；(俄、塞)古克","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

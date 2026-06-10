@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kwp",{"kwp":{"word":"kwp","translation":"abbr. Korean Workers Party 朝鮮工人黨","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

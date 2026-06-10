@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kcc",{"kcc":{"word":"KCC","translation":"[醫] 陰極通電收縮","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

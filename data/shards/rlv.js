@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rlv",{"rlv":{"word":"rlv","translation":"[醫][=rauscher leukemia virus]勞舍爾白血病病毒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:r'elv'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ksm",{"ksm":{"word":"ksm","translation":"[醫][=kasugamycin]春雷黴素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'keɪ'es'em/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

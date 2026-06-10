@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hhd",{"hhd":{"word":"HHD","translation":"abbr. 古典文學博士（Humanitatum Doctor, 等於Doctor of Humanities）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

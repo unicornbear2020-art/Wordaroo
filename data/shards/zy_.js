@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zy_",{"zy":{"word":"zy","translation":"abbr. 區域業務代表；中國漁檢；中醫藥行業標準","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

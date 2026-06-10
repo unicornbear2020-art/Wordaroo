@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nfd",{"nfd":{"word":"nfd","translation":"abbr. no fixed date 無固定日期; non-fat dry (milk) 脱脂奶粉","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

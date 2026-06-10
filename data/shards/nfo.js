@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nfo",{"nfo":{"word":"nfo","translation":"abbr. 系統信息文件（information）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

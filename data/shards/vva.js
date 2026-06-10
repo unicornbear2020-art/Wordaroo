@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vva",{"vvaw":{"word":"vvaw","translation":"abbr. Vietnam Veterans Against the War 反戰越南退伍軍人","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

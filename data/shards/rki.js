@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rki",{"rki":{"word":"rki","translation":"abbr. Rokot, Indonesia 印度尼西亞，羅克特機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

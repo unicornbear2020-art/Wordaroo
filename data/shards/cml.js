@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cml",{"cml":{"word":"CML","translation":"[計] 電流開關邏輯電路; 電流型邏輯電路","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

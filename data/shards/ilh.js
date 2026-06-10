@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ilh",{"ilheus encephalitis":{"word":"Ilheus encephalitis","translation":"[醫] 巴西腦炎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mcz",{"mcz":{"word":"mcz","translation":"[醫][=miconazole]雙氯苯咪唑，黴康唑","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ems'i:z'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

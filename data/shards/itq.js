@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("itq",{"itqs":{"word":"itqs","translation":"abbr. Individual Transferable Quotas 個人可轉讓配額","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

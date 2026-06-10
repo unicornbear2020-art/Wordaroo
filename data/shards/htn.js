@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("htn",{"htn":{"word":"htn","translation":"[醫][=hypertension]高血壓","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'etʃt'i:'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

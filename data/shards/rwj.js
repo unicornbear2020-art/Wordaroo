@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rwj",{"rwjf":{"word":"rwjf","translation":"abbr. Robert Wood Johnson Foundation 羅伯特·伍德·約翰遜基金（會）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

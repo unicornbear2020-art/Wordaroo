@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tdn",{"tdn":{"word":"TDN","translation":"abbr. 可消化的養分總量（total digestible nutrients）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

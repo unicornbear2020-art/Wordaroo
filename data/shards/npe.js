@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("npe",{"npe":{"word":"npe","translation":"[醫][=neurogenic pulmonary edema]神經源（性）肺水腫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

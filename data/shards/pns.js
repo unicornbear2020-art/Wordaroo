@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pns",{"pns":{"word":"pns","translation":"abbr. parasympathetic nervous system 副交感神經系統; peripheral nerve stimulation 外周神經刺激","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

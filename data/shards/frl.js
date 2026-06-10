@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("frl",{"frl":{"word":"frl","translation":"abbr. fractional 部分的; 碎片的; 分數的; fuselage reference line 機身參考線條","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

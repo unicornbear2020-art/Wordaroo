@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qds",{"qds":{"word":"qds","translation":"abbr. 快速斷開序列（Quick-Disconnect Series）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

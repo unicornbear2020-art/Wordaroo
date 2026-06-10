@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wta",{"wta":{"word":"wta","translation":"n. Women's Tennis Association","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

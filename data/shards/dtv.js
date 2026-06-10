@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dtv",{"dtv":{"word":"dtv","translation":"abbr. digital television 數字電視; diver transport vehicle 水下運輸車","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

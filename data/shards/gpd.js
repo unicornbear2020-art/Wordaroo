@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gpd",{"gpd":{"word":"gpd","translation":"abbr. gallons per day 加侖/天; grams per denier 克/旦（纖維細度單位）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒi:p'i:d'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

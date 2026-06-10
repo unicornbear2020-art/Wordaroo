@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mws",{"mws":{"word":"mws","translation":"(mw 的複數) [計] 毫瓦","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"plural of mw","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

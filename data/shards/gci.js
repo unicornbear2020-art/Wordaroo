@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gci",{"gci":{"word":"gci","translation":"n. ground-controlled interception[的簡寫]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zas",{"zastruga":{"word":"zastruga","translation":"n. ([復]-gi[-^I])=sastruga","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/zɑ:s'tru:^ә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

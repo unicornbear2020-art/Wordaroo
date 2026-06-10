@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rsx",{"rsx":{"word":"rsx","translation":"abbr. resident system expansion 常駐系統擴充; resource sharing executive 資源共享執行程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

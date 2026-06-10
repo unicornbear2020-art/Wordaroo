@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fiq",{"fiq":{"word":"fiq","translation":"[醫][=full-scale intelligence quotient]智商總量表","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

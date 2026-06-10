@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xrt",{"xrt":{"word":"xrt","translation":"abbr. ex-rights 除權; 沒有權利（代號）; without rights 沒有權利（代號）; X-ray technician X射線技師","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

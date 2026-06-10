@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fqp",{"fqpa":{"word":"fqpa","translation":"abbr. food quality and protection act 食品質量與保護法規; Food Quality Protection Act 食品質量保護法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

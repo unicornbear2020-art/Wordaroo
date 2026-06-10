@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ftt",{"ftt":{"word":"ftt","translation":"[醫][=failure to thrive]不能生長髮育，發育停滯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

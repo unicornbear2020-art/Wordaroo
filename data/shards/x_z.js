@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("x_z",{"x zone":{"word":"X zone","translation":"[醫] X線, 雄激素帶(胚)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

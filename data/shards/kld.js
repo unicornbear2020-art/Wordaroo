@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kld",{"kld":{"word":"kld","translation":"abbr. kaelder (Dano-Norwegian=basement or cellar) （丹麥-挪威語）地下室，地窖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'keɪ'eld'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

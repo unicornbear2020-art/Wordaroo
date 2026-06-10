@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ff_",{"ff":{"word":"FF","translation":"[計] 快進, 觸發器, 換頁","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

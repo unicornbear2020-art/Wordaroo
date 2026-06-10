@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pz_",{"pz":{"word":"pz","translation":"abbr. 永久載重線區（Permanent Zones）；二甲基二硫代氨基甲酸鋅","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

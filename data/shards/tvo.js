@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tvo",{"tvo":{"word":"tvo","translation":"abbr. tractor vaporizing oil 拖拉機揮發油","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

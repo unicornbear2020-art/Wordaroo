@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fbt",{"fbt":{"word":"fbt","translation":"[計]= Fast Binary Fourier representation Transform,快速二進制傅里葉表示式變換","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

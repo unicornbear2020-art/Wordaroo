@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("waj",{"wajir":{"word":"wajir","translation":"[地名] [肯尼亞] 瓦吉爾","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vm_",{"vm":{"word":"VM","translation":"[計] 虛擬機, 虛擬存儲機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

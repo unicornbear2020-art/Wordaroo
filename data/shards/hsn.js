@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hsn",{"hsn":{"word":"hsn","translation":"[醫][=hereditary sensory neuropathy]遺傳性感覺神經病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

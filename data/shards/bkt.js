@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bkt",{"bkt":{"word":"bkt","translation":"abbr. 商務韓語水平等級考試；包圍曝光","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

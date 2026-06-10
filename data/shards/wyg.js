@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wyg",{"wygant":{"word":"wygant","translation":"[人名] 威甘特","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

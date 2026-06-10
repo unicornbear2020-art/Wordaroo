@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ggt",{"ggt":{"word":"ggt","translation":"[醫][=galactosylhydroxylysyl glucosyltransferase]半乳糖羥賴氨酰葡糖基轉移酶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒi:dʒ'i:t'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

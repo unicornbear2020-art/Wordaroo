@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xep",{"xeponent":{"word":"xeponent","translation":"冪","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

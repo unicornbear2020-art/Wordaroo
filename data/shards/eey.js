@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eey",{"eeyore":{"word":"eeyore","translation":"n. 屹耳（動畫角色）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

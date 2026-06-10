@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gbh",{"gbh":{"word":"GBH","translation":"abbr. 重傷（Grievous Bodily Harm）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,dʒi: bi: 'eitʃ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

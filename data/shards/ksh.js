@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ksh",{"kshatriya":{"word":"Kshatriya","translation":"n. 剎帝利","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'kʃɑ:trijә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n. a member of the royal or warrior Hindu caste","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

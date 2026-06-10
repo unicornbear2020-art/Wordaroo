@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("exv",{"exvoto":{"word":"exvoto","translation":"<拉>出於許願,為了還願[字面意義：out of a vow]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/eks'vәutәu/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

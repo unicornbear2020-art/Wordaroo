@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xpg",{"xpg":{"word":"xpg","translation":"abbr. converted merchant ship 改裝商船，改裝艦船（美國海軍艦船符號）; X/Open portability guide X/Open 可移植性指南","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

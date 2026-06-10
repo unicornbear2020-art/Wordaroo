@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ia_",{"ia":{"word":"IA","translation":"[計] 指令地址, 集成轉接器\n[醫] 腸下垂","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a state in midwestern United States","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

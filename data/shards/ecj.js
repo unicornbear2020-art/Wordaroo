@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ecj",{"ecj":{"word":"ecj","translation":"abbr. Erie County Jail (Buffalo) 伊利縣監獄（布法羅）; European Court of Justice 歐洲審判法院","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

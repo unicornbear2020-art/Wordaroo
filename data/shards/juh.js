@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("juh",{"juhani":{"word":"juhani","translation":"n. (Juhani)人名；(芬)尤哈尼；(西)胡阿尼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

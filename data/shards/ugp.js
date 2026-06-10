@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ugp",{"ugpa":{"word":"ugpa","translation":"abbr. undergraduate grade-point average <美>本科大學生平均積分點","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

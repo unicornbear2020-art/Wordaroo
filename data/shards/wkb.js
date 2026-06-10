@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wkb",{"wkb approximation":{"word":"WKB approximation","translation":"[化] WKB近似","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

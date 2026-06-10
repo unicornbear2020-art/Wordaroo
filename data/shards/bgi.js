@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bgi",{"bgi":{"word":"bgi","translation":"abbr. 巴克萊國際投資管理公司（Barclays Global Investors）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

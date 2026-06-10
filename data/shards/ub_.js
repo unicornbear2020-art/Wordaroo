@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ub_",{"ub":{"word":"UB","translation":"[計] 上限","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

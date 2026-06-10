@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uo_",{"uo":{"word":"uo","translation":"abbr. 尚未發出的定貨單（undelivered orders）；網絡創世紀（Ultima Online）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

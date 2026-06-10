@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uua",{"uua":{"word":"uua","translation":"[醫][=urine uric acid]尿中尿酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

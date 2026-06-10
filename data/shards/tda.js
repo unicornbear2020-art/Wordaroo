@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tda",{"tda":{"word":"tda","translation":"abbr. tax-deferred annuity 養老金緩繳税款","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

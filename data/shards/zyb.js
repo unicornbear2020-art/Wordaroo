@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zyb",{"zyban":{"word":"zyban","translation":"[醫]安非他酮緩釋片<戒煙藥>","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

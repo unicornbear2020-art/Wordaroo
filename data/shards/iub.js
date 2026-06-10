@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iub",{"iub":{"word":"iub","translation":"abbr. International Union of Biochemistry 國際生物化學聯合會(ICSU)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

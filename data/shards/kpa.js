@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kpa",{"kpa":{"word":"kPa","translation":"abbr. 千帕斯卡（kilopascal）；朝鮮人民軍（Korean People's Army）；關鍵過程域（Key Process Area）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

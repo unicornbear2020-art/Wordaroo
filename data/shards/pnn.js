@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pnn",{"pnni":{"word":"PNNI","translation":"[計] PNNI標準","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

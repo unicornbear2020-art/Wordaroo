@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dcg",{"dcg":{"word":"DCG","translation":"定子句文法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

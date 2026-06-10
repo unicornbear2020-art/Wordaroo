@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("slf",{"slfp":{"word":"slfp","translation":"abbr. Short-lived Fission Products 短壽命裂變產物; Sri Lanka Freedom Party 斯里蘭卡自由黨","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

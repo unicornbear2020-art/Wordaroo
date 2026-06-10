@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tpf",{"tpf":{"word":"tpf","translation":"[醫][=thymocyte proliferation factor]胸腺細胞增生因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:p'i:'ef/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

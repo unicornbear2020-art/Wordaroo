@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ktt",{"kttstorfer number":{"word":"Kttstorfer number","translation":"[化] 皂化值","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

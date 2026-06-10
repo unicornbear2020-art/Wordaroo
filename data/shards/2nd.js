@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("2nd",{"2nd":{"word":"2nd","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ˈsɛkənd/"]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"2nd is an abbreviation of second.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"第二(second)"}});

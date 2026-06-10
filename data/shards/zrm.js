@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zrm",{"zrm":{"word":"zrm","translation":"n. 自然碼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

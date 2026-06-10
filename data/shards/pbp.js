@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pbp",{"pbp":{"word":"PBP","translation":"[計] 數據分組實發協議","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

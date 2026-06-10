@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mza",{"mza":{"word":"mza","translation":"abbr. monozygotic twins reared apart 單卵雙胎分開撫養","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wva",{"wva":{"word":"wva","translation":"abbr. World Veterinary Association 世界獸醫協會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

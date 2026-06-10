@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("krw",{"krw":{"word":"krw","translation":"abbr. 韓國貨幣單位（Korea won）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

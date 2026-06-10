@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xas",{"xaser":{"word":"xaser","translation":"n. 射線激射器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'zeizә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

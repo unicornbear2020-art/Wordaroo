@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("e_1",{"e-1 mechanism":{"word":"E-1 mechanism","translation":"[化] E-1機理; 單分子消去反應機理","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

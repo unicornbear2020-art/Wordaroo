@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dkp",{"dkp":{"word":"dkp","translation":"abbr. 屠龍積分（Dragon Kill Point, 遊戲積分系統）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nzr",{"nzrfu":{"word":"nzrfu","translation":"abbr. New Zealand Rugby Football Union 新西蘭橄欖球聯盟","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

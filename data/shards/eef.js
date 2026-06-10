@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eef",{"eef":{"word":"eef","translation":"abbr. eukaryotic elongation factor 真核延伸因子","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

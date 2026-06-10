@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("b_w",{"b.w.g.":{"word":"B.w.g.","translation":"[電] 英制線規","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

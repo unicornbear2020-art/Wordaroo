@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qyi",{"qyid pro quo":{"word":"qyid pro quo","translation":"[法] 相等的補償或報酬, 交換條件, 對價","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

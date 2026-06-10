@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("swv",{"swv":{"word":"swv","translation":"abbr. swivel 轉環，旋軸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

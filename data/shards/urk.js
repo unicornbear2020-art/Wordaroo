@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("urk",{"urk":{"word":"urk","translation":"[地名] [荷蘭] 於爾克","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

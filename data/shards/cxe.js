@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cxe",{"cxencephaly":{"word":"cxencephaly","translation":"[醫] 露腦[畸形]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

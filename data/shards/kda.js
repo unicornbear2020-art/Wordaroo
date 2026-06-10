@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kda",{"kda":{"word":"kda","translation":"[醫]千道爾頓","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

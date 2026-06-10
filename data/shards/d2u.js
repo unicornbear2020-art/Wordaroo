@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("d2u",{"d2u":{"word":"d2u","translation":"[計] Netware DOS文本文件到UNIX文本文件轉換程序","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

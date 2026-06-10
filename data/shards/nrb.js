@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nrb",{"nrb":{"word":"nrb","translation":"[醫][=non-rejoining break]未重結合斷裂，未重聚合斷裂","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

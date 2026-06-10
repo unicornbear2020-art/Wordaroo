@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bzd",{"bzd":{"word":"bzd","translation":"[醫][=benzidine]聯苯胺，4，4'-二氨基聯（二）苯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'bi:z'i:d'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

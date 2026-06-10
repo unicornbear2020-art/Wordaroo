@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fhp",{"fhp":{"word":"fhp","translation":"abbr. friction horsepower 摩擦[消耗]馬力","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ef'etʃp'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

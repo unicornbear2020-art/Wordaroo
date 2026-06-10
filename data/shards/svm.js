@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("svm",{"svmnobacteria":{"word":"svmnobacteria","translation":"[醫] 裸菌(無鞭毛菌)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

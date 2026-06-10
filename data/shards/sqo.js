@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sqo",{"sqoamosphenoid suture":{"word":"sqoamosphenoid suture","translation":"[醫] 鱗蝶縫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

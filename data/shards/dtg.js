@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dtg",{"dtg":{"word":"DTG","translation":"[化] 微商熱重法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

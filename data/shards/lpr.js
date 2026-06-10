@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lpr",{"lpr":{"word":"lpr","translation":"abbr. lymphoproliferation 淋巴組織增生","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

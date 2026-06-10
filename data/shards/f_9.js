@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("f_9",{"f.933":{"word":"F.933","translation":"[醫] 福諾九三三, 2-六氫吡啶甲基-1,4-苯並二┧烷","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

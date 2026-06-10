@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tkn",{"tkn":{"word":"tkn","translation":"[醫][=total kjeldahl nitrogen]總克氏氮","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

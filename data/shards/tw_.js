@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tw_",{"tw":{"word":"tw","translation":"abbr. 工具車（Tool Wagon）；雙心導線（Twin Wire）；颱風警報（Typhoon Warning）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

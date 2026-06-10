@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("swm",{"swm":{"word":"swm","translation":"abbr. single white male 單身白人男子; standards;  weights; surface-water management 地表水處理","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

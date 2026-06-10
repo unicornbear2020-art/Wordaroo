@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uop",{"uop":{"word":"uop","translation":"n. 美國環球石油產品公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

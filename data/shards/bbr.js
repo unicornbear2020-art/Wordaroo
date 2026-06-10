@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bbr",{"bbr":{"word":"bbr","translation":"abbr. 黑體輻射器（Black Body Radiator）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

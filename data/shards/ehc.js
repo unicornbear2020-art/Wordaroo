@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ehc",{"ehc":{"word":"ehc","translation":"[醫][=enterohepatic circulation]肝腸循環","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'eɪk/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

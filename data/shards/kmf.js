@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kmf",{"kmf":{"word":"kmf","translation":"abbr. key management facility 密鑰管理設施; Koussevitzky Music Foundation 科烏謝維茨基音樂基金會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

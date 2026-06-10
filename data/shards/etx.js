@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("etx",{"etx":{"word":"ETX","translation":"[計] 文本結束符; 傳送結束符","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

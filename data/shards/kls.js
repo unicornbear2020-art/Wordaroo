@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kls",{"kls":{"word":"kls","translation":"[醫][=kidney,liver,spleen]腎、肝、脾","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'keɪ'el'es/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("d_w",{"d.w.t.":{"word":"D.W.T.","translation":"(總)載重噸位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wsd",{"wsd":{"word":"wsd","translation":"abbr. working stress design 工作應力設計","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'dəbəlju:'esd'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ppx",{"ppx":{"word":"ppx","translation":"[計]= Packet Protocol eXtension,包規約擴充","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

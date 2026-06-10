@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wso",{"wso":{"word":"wso","translation":"[計]= World Simulation Organization,世界模擬組織","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

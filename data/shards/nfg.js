@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nfg",{"nfg":{"word":"nfg","translation":"abbr. National Fuel Gas Company <美國>全國可燃氣體公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

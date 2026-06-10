@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dte",{"dte":{"word":"DTE","translation":"[計] 數據終端設備, 數據傳輸設備","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

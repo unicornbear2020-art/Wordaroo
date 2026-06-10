@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wrb",{"wrb":{"word":"wrb","translation":"abbr. War Refugee Board <美>戰時難民事務委員會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

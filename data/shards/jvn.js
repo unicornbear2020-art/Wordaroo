@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jvn",{"jvncnet":{"word":"JvNCnet","translation":"[計] 約翰.馮.諾依曼計算機網絡, JvNC網絡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

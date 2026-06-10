@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mbc",{"mbc":{"word":"mbc","translation":"abbr. （一分鐘）最大呼吸（換氣）量（Maximum Breathing Capacity）；韓國MBC電視台（Munhwa Broadcasting Corporation）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

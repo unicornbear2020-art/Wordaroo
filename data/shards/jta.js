@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jta",{"jtag":{"word":"jtag","translation":"abbr. 聯合測試行動組（Joint Test Action Group）；調試接口","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lwv",{"lwv":{"word":"LWV","translation":"abbr. （美）女選民聯盟（League of Women Voters）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

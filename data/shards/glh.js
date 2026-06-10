@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("glh",{"glh":{"word":"glh","translation":"[醫][=germinal layer hemorrhage]胚層出血","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

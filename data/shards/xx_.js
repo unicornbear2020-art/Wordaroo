@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xx_",{"xx":{"word":"xx","translation":"abbr. 血型（xue xing, 漢語拼音）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. (genetics) normal complement of sex chromosomes in a female","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

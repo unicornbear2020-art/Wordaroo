@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("g_r",{"g-rated":{"word":"G-rated","translation":"a. 【電影】G級的；老幼皆宜的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'dʒi:'reitid/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

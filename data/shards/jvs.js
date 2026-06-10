@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jvs",{"jvs":{"word":"jvs","translation":"abbr. Jewish Vocational Service 猶太職業服務; Joint Vocational School 聯合職業學校","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

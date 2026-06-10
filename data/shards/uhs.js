@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uhs",{"uhs":{"word":"uhs","translation":"ultra-high speed 超高速","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

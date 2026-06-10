@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gya",{"gyani":{"word":"Gyani","translation":"n. 吉阿尼(印度旁遮普學者姓名前的稱號)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'^jɑ:ni/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

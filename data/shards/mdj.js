@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mdj",{"mdj":{"word":"mdj","translation":"abbr. Muscular Dystrophy Journal <肌萎縮症雜誌>（美國肌萎縮症研究小組）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

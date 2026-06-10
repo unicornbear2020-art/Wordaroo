@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tbn",{"tbn":{"word":"TBN","translation":"[醫] 菌乳劑","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ddu",{"ddu":{"word":"Ddu","translation":"abbr. 數字顯示器（Digital Display Unit）；未完税交貨（Deliverde Duty Unpaid）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

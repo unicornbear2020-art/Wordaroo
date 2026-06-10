@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hsw",{"hswa":{"word":"hswa","translation":"abbr. Hazardous and Solid Waste Amendment 危險固體垃圾改善","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

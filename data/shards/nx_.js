@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nx_",{"nx":{"word":"nx","translation":"abbr. 非消耗品（Nonexpendable Item）；澳門航空公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

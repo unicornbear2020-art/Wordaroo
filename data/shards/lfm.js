@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lfm",{"lfm":{"word":"lfm","translation":"abbr. low-power fan marker 低能量扇形指點標","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

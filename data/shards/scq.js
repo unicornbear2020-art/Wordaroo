@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("scq",{"scq":{"word":"scq","translation":"abbr. Shell Company of Qatar 卡塔爾殼牌石油公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("awd",{"awd":{"word":"awd","translation":"abbr. 全時四輪驅動；全輪驅動（All Wheel Drive）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

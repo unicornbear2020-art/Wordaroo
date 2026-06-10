@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jmb",{"jmb":{"word":"jmb","translation":"abbr. Joint Matriculation Board<英>（大學的）入學考試聯合委員會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

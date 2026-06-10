@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("twp",{"twp":{"word":"twp","translation":"a. <英方>傻的,笨的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/tjp/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

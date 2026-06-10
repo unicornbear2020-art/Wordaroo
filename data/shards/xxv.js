@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xxv",{"xxv":{"word":"xxv","translation":"num. 羅馬數字 25","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n the cardinal number that is the sum of twenty-four and one\ns being five more than twenty","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

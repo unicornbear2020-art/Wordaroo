@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ffs",{"ffs":{"word":"Ffs","translation":"(FF 的複數) [計] 快進, 觸發器, 換頁","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"plural of FF","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

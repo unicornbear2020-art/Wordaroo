@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pfx",{"pfx":{"word":"pfx","translation":"abbr. prefix 前綴，冠字","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

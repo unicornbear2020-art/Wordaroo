@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ltf",{"ltfv":{"word":"ltfv","translation":"abbr. less than fair value 小於正常值","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

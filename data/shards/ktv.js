@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ktv",{"ktv":{"word":"ktv","translation":"abbr. 鍵盤磁帶檢孔機（Keyboard Tape Verifier）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

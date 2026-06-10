@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cvb",{"cvb":{"word":"cvb","translation":"abbr. combined very-high-frequency band 聯合超高頻率樂隊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

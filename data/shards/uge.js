@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uge",{"uge":{"word":"uge","translation":"[醫][=urogenital sinus epithelium]泌尿生殖竇上皮","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mda",{"mda":{"word":"MDA","translation":"單色顯示適配卡\n[計] 單色顯示適配卡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

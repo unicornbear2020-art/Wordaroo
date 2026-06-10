@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wts",{"wts":{"word":"WTS","translation":"[計] 字同步終端","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kgp",{"kgps":{"word":"kgps","translation":"abbr. kilograms per second 千克/秒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

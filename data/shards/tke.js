@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tke",{"tke":{"word":"tke","translation":"abbr. take 拿; 取得; 獲得; 買下","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

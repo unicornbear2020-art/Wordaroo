@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rgs",{"rgs":{"word":"rgs","translation":"abbr. radar ground stabilization 雷達的地面穩定性; regards 問候，致意","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

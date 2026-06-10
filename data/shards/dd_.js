@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dd_",{"dd":{"word":"DD","translation":"神學博士\n[計] 數據定義, 數據詞典, 磁盤驅動器, 雙密度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a doctor's degree in religion","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

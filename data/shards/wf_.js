@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wf_",{"wf":{"word":"wf","translation":"abbr. 濾水器（Water Filter）；非同一型號的鉛字（wrong font）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

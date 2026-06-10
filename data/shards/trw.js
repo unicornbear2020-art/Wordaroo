@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("trw",{"trw":{"word":"TRW","translation":"abbr. 天合汽車集團；湯姆森拉莫伍爾德里奇（美國汽車零件公司）（Thompson Ramo Wooldrige Inc）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

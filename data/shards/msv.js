@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("msv",{"msv":{"word":"msv","translation":"abbr. milli Sievert 毫西弗特（放射吸收劑量當量國際單位）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

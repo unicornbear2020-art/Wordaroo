@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xxy",{"xxy":{"word":"xxy","translation":"[醫][=an abnormal sex chromosome type]一種異常性染色體組型（克氏綜合徵中常見）; [電影]雙性傳奇/我是女生，也是男生","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

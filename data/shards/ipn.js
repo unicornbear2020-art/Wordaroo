@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ipn",{"ipn":{"word":"IPN","translation":"[化] 互穿網絡; 互穿聚合物網絡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gdl",{"gdl":{"word":"gdl","translation":"abbr. ground dynamic laser 地面動力激光器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

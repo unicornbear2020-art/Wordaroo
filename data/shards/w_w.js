@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("w_w",{"w w w":{"word":"W W W","translation":"[縮] World Weather Watch 世界天氣監視網","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

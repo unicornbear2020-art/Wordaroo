@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rtp",{"rtp":{"word":"rtp","translation":"abbr. records turnover package 記錄週轉包; reinforced thermoplastic 強化型熱塑性塑料","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

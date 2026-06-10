@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("smq",{"smq":{"word":"smq","translation":"[計]= Save/restore Message Queues,保存與恢復信息[報文]隊列","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

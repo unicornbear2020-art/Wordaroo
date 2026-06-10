@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yge",{"ygerne":{"word":"Ygerne","translation":"n. =Igraine [變體]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/i:'geәn/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

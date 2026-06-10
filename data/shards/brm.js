@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("brm",{"brm":{"word":"brm","translation":"abbr. 生物性應答修飾物（Biological Response Modifier）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

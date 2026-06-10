@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gsw",{"gsw":{"word":"gsw","translation":"abbr. gross shipping weight 裝船毛重; 裝運毛重; 裝運總重量; 裝船總重量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

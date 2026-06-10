@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("k_h",{"k.h. reaction":{"word":"K.H. reaction","translation":"[醫] 補體結合血細胞凝集合並反應(檢馬鼻疽)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

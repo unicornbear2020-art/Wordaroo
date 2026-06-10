@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lct",{"lct":{"word":"LCT","translation":"[計] 線路控制表, 邏輯通道終端","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

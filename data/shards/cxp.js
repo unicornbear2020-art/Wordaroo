@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cxp",{"cxplant":{"word":"cxplant","translation":"[醫] 移出, 移出物","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

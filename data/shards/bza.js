@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bza",{"bza":{"word":"bza","translation":"abbr. benzoic acid 苯甲酸; benzyl alcohol 苯甲醇; benzylamine 苯甲胺; benzamil 苯扎明","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

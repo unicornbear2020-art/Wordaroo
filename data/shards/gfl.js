@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gfl",{"gflops":{"word":"gflops","translation":"abbr. giga floating-point operations per second 每秒十億次浮點運算數, 十億次浮點運算/秒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("grg",{"grg":{"word":"grg","translation":"分級，分類","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒi:'ɑ:rdʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

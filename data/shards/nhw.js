@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nhw",{"nhw":{"word":"nhw","translation":"abbr. non-healing wounds 非治癒性傷口","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

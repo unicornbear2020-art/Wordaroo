@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nla",{"nla":{"word":"nla","translation":"abbr. 全國白血病協會（National Leukemia Association）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

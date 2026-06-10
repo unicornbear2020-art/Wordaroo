@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ktu",{"ktu":{"word":"ktu","translation":"abbr. kill the umpire 殺害裁判","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

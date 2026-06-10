@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fii",{"fii":{"word":"fii","translation":"裂縫強度指數\n(federal item identification) 聯邦物資識別標誌","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

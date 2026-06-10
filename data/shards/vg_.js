@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vg_",{"vg":{"word":"vg","translation":"abbr. 音頻段（Voice Grade）；電壓增益（Voltage Gain）；很好（Very Good）；代理監督（Vicar General）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eiw",{"eiweissmilch":{"word":"eiweissmilch","translation":"[醫] 白蛋白乳","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

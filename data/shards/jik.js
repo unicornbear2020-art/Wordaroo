@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jik",{"jiko":{"word":"jiko","translation":"績高爐（用金屬或黏土製作, 燒煤炭或小木塊）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("etv",{"etv":{"word":"ETV","translation":"abbr. 教育電視（educational television）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

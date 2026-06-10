@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("j2s",{"j2se":{"word":"j2se","translation":"abbr. Java 2 標準版（Java 2 Standard Edition）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("syu",{"syupy":{"word":"syupy","translation":"[醫] 糖漿狀的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

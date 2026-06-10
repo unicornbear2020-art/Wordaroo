@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fcn",{"fcns":{"word":"fcns","translation":"abbr. facsimile communications network system 傳真通信網絡系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

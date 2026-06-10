@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("prk",{"prk":{"word":"PRK","translation":"abbr. 準分子激光角膜切削術（Photorefractive Keratectomy）；朝鮮（People's Republic of Korea）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

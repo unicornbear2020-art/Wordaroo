@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nbg",{"nbg":{"word":"nbg","translation":"abbr. no bloody good <英口>不好，不行","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

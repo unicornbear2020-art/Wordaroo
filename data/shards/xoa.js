@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xoa",{"xoanon":{"word":"xoanon","translation":"n. 木雕神像","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'zәuәnɒn/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

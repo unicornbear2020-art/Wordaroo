@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lzd",{"lzd":{"word":"lzd","translation":"[計]= Launch Zone Display,發射區顯示（器）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

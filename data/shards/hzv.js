@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hzv",{"hzv":{"word":"hzv","translation":"[醫][=herpes zoster virus]帶狀皰疹病毒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'etʃz'i:v'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vbr",{"vbr":{"word":"VBR","translation":"[計] 可變速率","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

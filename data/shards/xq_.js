@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xq_",{"xq":{"word":"xq","translation":"abbr. 交叉問題, 相互提問（Cross-Question）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

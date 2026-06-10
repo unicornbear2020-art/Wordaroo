@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hht",{"hht":{"word":"hht","translation":"abbr. higher high-tensile 極高張力，超強力","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

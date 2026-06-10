@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mgd",{"mgd":{"word":"mgd","translation":"abbr. million gallons per day 百萬加侖; million gallons per day 百萬加侖","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'emdʒ'i:d'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

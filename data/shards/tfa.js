@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tfa",{"tfa":{"word":"tfa","translation":"[醫][=tissue factor activity]組織因子活性","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

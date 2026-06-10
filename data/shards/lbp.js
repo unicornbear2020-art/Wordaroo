@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lbp",{"lbp":{"word":"lbp","translation":"abbr. 垂直線間的距離；length between perpendiculars；黎巴嫩鎊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

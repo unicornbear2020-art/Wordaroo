@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kz_",{"kz":{"word":"kz","translation":"abbr. 哈薩克斯坦（Kazakhstan）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zeq",{"zequin":{"word":"zequin","translation":"零","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'zi:kwin/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n. See Sequin.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

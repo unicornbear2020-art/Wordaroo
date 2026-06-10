@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bfi",{"bfi":{"word":"bfi","translation":"abbr. 英國電影協會（British Film Institute）；波羅的海運價指數；壞幀指示（baltic freight index）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

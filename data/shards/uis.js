@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uis",{"uis":{"word":"uis","translation":"abbr. urban industrial society 城市工業協會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

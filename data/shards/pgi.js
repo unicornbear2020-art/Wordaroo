@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pgi",{"pgi":{"word":"pgi","translation":"[醫][=(serum)pepsinogen i]（血漿）胃蛋白酶元？（放免測定）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/p'ɡɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

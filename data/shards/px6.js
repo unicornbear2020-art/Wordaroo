@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("px6",{"px64":{"word":"PX64","translation":"[計] 可視會議標準","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

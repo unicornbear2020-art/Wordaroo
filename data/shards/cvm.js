@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cvm",{"cvm":{"word":"cvm","translation":"[醫][=cardiovascular monitor]心血管監視器，心血管監護儀","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'si:v'i:'em/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

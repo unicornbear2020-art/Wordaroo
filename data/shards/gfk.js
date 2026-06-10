@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gfk",{"gfk":{"word":"gfk","translation":"abbr. Gustafsvik 古塔夫斯威克","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

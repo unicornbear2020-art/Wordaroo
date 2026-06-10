@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tde",{"tde":{"word":"TDE","translation":"[醫] 四氯二苯乙烷, 滴滴滴","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

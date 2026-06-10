@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ctl",{"ctl":{"word":"CTL","translation":"[計] 互補晶體管邏輯電路","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

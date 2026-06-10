@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eha",{"eha":{"word":"eha","translation":"[醫][=education of the handicapped act]殘疾人教育法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'eɪə/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

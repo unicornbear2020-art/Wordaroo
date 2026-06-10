@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kpd",{"kpd":{"word":"kpd","translation":"abbr. Kommunistische Partei Deutschland (German=Communist Party of Germany) （德語）德國共產黨","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

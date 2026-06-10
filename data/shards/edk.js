@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("edk",{"edkins":{"word":"edkins","translation":"[人名] [英格蘭人姓氏] 埃德金斯取自父名或母名，來源於Eakin,含義是“埃金之子”(son of Eakin)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

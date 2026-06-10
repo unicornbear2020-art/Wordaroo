@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("odw",{"odwin":{"word":"odwin","translation":"abbr. Opening Doors Wider in Nursing 擴大護理服務範圍","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

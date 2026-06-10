@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wcp",{"wcpn":{"word":"wcpn","translation":"abbr. wireless customer premises network 無線客户宅室網絡，無線客户駐地網","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bpd",{"bpd":{"word":"bpd","translation":"abbr. barrels per day 桶/日（指產油量）; boxes per day 每日箱數; broncho-pulmonary dysplasia 支氣管肺發育異常","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

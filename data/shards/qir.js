@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qir",{"qiryat":{"word":"qiryat","translation":"[地名] 村、鎮（希伯來語）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

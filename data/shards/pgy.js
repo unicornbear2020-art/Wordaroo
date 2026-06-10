@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pgy",{"pgy":{"word":"pgy","translation":"abbr. postgraduate year 研究生年度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

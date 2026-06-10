@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("o_o",{"o-o":{"word":"o-o","translation":"[醫][=outer-to-outer]總長度，全長（寬）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/əʊ əʊ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

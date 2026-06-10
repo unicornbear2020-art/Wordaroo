@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jvm",{"jvm":{"word":"jvm","translation":"abbr. Java虛擬機（Java Visual Machine）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

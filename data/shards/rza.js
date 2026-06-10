@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rza",{"rza":{"word":"rza","translation":"abbr. Religious Zionists of America 美國的宗教復國運動者","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

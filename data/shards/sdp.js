@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sdp",{"sdp":{"word":"sdp","translation":"abbr. （英）社會民主黨（Social Democratic Party）；信號資料處理機（Signal Data Processor）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

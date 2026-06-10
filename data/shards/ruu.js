@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ruu",{"ruud":{"word":"Ruud","translation":"n. (Ruud)人名；(荷)呂德；(英、瑞典)魯德","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

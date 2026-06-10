@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pzp",{"pzp":{"word":"pzp","translation":"[醫][=pregnancy zone protein]妊娠區帶蛋白","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

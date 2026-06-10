@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kgy",{"kgy":{"word":"kgy","translation":"[醫][=kilogray]千戈瑞：吸收劑量單位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

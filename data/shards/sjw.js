@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sjw",{"sjw":{"word":"sjw","translation":"abbr. Shijiazhuang; China 中國; 石家莊機場（代碼）; synchronization jump width 同步轉移寬度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

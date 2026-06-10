@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pkb",{"pkb":{"word":"pkb","translation":"abbr. 便攜式鍵盤（Portable KeyBoard）；光電鍵盤（Photoelectric KeyBoard）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

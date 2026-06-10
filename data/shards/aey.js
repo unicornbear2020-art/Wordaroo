@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aey",{"aey":{"word":"aey","translation":"abbr. Akureyri, Iceland 冰島，阿庫雷裏機場（代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

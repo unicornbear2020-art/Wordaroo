@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dkn",{"dkny":{"word":"dkny","translation":"abbr. 唐娜·凱倫（Donna Karan New York, 服裝品牌名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

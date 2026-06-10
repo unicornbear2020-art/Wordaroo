@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kgf",{"kgf":{"word":"kgf","translation":"abbr. kilogram-force 千克力; Kriegsgefangener (German=prisoner of war) （德語）戰俘","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'keɪdʒ'i:'ef/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lgc",{"lgc":{"word":"lgc","translation":"n. [暗黑破壞神]Light Grand Charm, +1 法師電系技能的超大型護身符; [計]= Lem Guidance Computer,登月艙制導計算機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kmc",{"kmc":{"word":"kmc","translation":"[電] 千百萬周","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

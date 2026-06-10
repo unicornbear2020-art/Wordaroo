@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xt_",{"xt":{"word":"xt","translation":"abbr. 串音（Cross Talk）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n the presence of an unwanted signal via an accidental coupling","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

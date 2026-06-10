@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kvm",{"kvm":{"word":"kvm","translation":"abbr. 基於內核的虛擬機（K Virtual Machine）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

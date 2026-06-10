@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cbf",{"cbf":{"word":"CBF","translation":"[醫] 腦血流量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

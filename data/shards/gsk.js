@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gsk",{"gsk":{"word":"GSK","translation":"abbr. 葛蘭素史克（Glaxosmithkline 英國製藥公司）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

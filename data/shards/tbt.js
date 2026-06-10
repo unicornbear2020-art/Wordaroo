@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tbt",{"tbt":{"word":"Tbt","translation":"[建] 鈦酸四丁酯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

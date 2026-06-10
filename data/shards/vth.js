@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vth",{"vth":{"word":"vth","translation":"abbr. ventral thalamus 腹側丘腦","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

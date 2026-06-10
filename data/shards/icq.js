@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("icq",{"icq":{"word":"icq","translation":"abbr. 網路呼叫器（一種網絡通訊軟件, 等於I Seek You）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

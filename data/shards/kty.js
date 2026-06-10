@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kty",{"ktypeite":{"word":"ktypeite","translation":"泡霰石","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ktaipait/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

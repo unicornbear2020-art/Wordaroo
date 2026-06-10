@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sbw",{"sbw":{"word":"SbW","translation":"abbr. (=south by west)南偏西","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eib",{"eib":{"word":"eib","translation":"abbr. European Investment Bank 歐洲投資銀行","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

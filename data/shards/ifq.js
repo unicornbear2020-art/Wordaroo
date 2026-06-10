@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ifq",{"ifq":{"word":"ifq","translation":"abbr. individual fishing quota 個人釣魚限額","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'i:fk/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

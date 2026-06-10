@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tsn",{"tsn":{"word":"tsn","translation":"abbr. Thermal Severity Number 熱程度值; 温變係數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

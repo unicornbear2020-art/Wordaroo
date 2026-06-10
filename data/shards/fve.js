@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fve",{"fve":{"word":"fve","translation":"[醫][=fibrovascular tissue elsewhere]其他部位纖維血管組織","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/f've/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("brw",{"brw":{"word":"brw","translation":"abbr. Barrow;  Alaska 美國; British Relay Wireless 英國中繼無線電; burns of respiratory ways 呼吸道燒傷","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pwp",{"pwp":{"word":"pwp","translation":"abbr. picowatt power 百億分之一瓦功率","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'pi:d'əbəlju:p'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

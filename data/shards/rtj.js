@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rtj",{"rtj":{"word":"rtj","translation":"abbr. repeat tone jammer 重複音調幹擾機; return jump 返回轉移; 回跳; ring tongue joint 環形止口連接","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("egn",{"egner":{"word":"egner","translation":"[人名] 埃格納","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

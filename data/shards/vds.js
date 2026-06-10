@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vds",{"vds":{"word":"Vds","translation":"(VD 的複數) 性病, 花柳病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"plural of VD\nn a communicable infection transmitted by sexual intercourse or genital contact","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

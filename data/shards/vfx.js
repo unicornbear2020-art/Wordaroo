@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vfx",{"vfx":{"word":"vfx","translation":"abbr. variable frequency crystal oscillator 可變頻率晶體振盪器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

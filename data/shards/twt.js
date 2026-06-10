@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("twt",{"twt":{"word":"twt","translation":"[電] 行波管","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("19t",{"19th":{"word":"19th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"19th is an abbreviation of nineteenth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

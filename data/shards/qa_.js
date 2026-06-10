@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qa_",{"qa":{"word":"qa","translation":"abbr. 品質保證（Quality Assurance）；質量評價（Quality Assessment）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

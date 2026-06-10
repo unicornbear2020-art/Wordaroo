@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ivs",{"ivs":{"word":"ivs","translation":"[醫][=inappropriate vasopressin secretion]加壓素分泌失當","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

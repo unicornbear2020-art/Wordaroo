@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dwf",{"dwf":{"word":"dwf","translation":"abbr. divorced white female 離婚的白人女性","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

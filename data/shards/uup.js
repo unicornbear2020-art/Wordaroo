@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uup",{"uup":{"word":"UUP","translation":"abbr. 尿中尿卟啉（urinary uroporphyrin）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. a radioactive transuranic element","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

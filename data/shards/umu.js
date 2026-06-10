@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("umu",{"umuahia":{"word":"umuahia","translation":"[地名] [尼日利亞] 烏穆阿希亞","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

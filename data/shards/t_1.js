@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("t_1",{"t-1":{"word":"T-1","translation":"[醫] 眼壓減一","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

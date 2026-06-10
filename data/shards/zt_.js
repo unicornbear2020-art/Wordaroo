@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zt_",{"zt":{"word":"zt","translation":"abbr. 區時（zone time）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

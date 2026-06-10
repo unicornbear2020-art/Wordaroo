@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vmx",{"vmx":{"word":"vmx","translation":"abbr. voice message exchange 語音信息交換","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

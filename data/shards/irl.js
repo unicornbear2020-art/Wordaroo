@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("irl",{"irl":{"word":"IRL","translation":"中斷請求線\n[計] 中斷請求線","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vpa",{"vpa":{"word":"vpa","translation":"[醫][=valproic acid]丙戊酸，2-丙基戊酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/v'pə/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

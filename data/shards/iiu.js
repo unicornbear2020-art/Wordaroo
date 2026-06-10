@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iiu",{"iiu":{"word":"iiu","translation":"[醫][=international insulin unit]國際胰島素單位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

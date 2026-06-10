@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lpm",{"lpm":{"word":"LPM","translation":"[計] 行/分","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

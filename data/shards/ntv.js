@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ntv",{"ntv":{"word":"ntv","translation":"abbr. nerve tissue vaccine 神經組織疫苗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

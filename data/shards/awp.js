@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("awp",{"awp":{"word":"awp","translation":"abbr. 氣道壓力（airway pressure）；實際工作壓力（actual working pressure）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

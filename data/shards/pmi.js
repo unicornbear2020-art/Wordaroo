@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pmi",{"pmi":{"word":"pmi","translation":"abbr. 採購經理人指數（Purchase Management Index）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

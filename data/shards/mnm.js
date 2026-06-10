@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mnm",{"mnm":{"word":"mnm","translation":"abbr. minimum 最小量; 最小數; mnemonic 記憶的; 記憶術的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

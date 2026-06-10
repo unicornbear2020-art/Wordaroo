@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bvm",{"bvm":{"word":"BVM","translation":"abbr. 聖母馬利亞（Blessed Virgin Mary）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

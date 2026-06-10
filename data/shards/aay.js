@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aay",{"aayretic typhoid":{"word":"aayretic typhoid","translation":"[醫] 無熱傷寒","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

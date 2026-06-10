@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rko",{"rko":{"word":"rko","translation":"雷電華影業股份有限公司（Radio-Keith-Orpheum）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

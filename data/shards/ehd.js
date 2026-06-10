@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ehd",{"ehd":{"word":"ehd","translation":"abbr. electrohydrodynamics 電流體動力學","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'eɪt/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

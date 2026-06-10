@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dcf",{"dcf":{"word":"DCF","translation":"[醫] 直接離心浮選[法]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

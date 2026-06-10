@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("usv",{"usvi":{"word":"usvi","translation":"abbr. United States Virgin Islands (St Croix, St John, St Thomas) 美國維京羣島（聖克魯伊克斯，聖約翰，聖托馬斯）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

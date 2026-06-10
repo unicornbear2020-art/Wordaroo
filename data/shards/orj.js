@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("orj",{"orjonikidze":{"word":"Orjonikidze","translation":"奧爾忠尼啓則( 蘇聯高加索城市弗拉基高加索)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,ɔrdʒɔni'ki:dze/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

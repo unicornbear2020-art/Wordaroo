@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qvg",{"qvga":{"word":"qvga","translation":"abbr. 顯示屏；分辨率；綠色版","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

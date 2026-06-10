@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("icj",{"icj":{"word":"ICJ","translation":"abbr. 國際法院（International Court of Justice）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

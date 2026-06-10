@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c_d",{"c-display":{"word":"c-display","translation":"[電] C顯示","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

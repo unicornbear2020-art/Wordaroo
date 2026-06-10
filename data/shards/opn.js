@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("opn",{"opn":{"word":"opn","translation":"abbr. open 公開的; open (flow chart) 公開（浮動圖表）; option 選擇（權）; operation 操作","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

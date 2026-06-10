@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hbt",{"hbt":{"word":"hbt","translation":"異質結雙極型晶體管","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'etʃb'i:t'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

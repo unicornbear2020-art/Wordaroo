@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ihn",{"ihn":{"word":"ihn","translation":"abbr. in His name 以主的名義","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

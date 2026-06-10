@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("thz",{"thz":{"word":"thz","translation":"n. terahertz（10Ｘhertz）的簡寫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. one trillion periods per second","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

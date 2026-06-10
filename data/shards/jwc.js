@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jwc",{"jwc":{"word":"jwc","translation":"abbr. junction wire connector 匯接線連接器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

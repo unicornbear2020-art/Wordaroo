@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vpn",{"vpn":{"word":"VPN","translation":"[計] 虛擬私人網絡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

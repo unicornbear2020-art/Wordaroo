@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rgn",{"rgn":{"word":"RGN","translation":"abbr. 仰光（Rangoon）；普通註冊護士（registered general nurse）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,ar: dʒi: 'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("shf",{"shf":{"word":"shf","translation":"n. super-high frequency的簡寫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. 3 to 30 gigahertz","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

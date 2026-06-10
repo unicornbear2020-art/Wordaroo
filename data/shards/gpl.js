@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gpl",{"gpl":{"word":"gpl","translation":"abbr. grams per liter 克/升","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒi:p'i:'el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

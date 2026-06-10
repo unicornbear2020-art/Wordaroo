@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tvt",{"tvt":{"word":"TVT","translation":"電視電傳機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

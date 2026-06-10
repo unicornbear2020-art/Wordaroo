@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ccu",{"ccu":{"word":"CCU","translation":"[計] 中央控制器, 通信控制器, 相關控制器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

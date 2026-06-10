@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dqd",{"dqdb":{"word":"DQDB","translation":"[計] 分佈式對列雙總線","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

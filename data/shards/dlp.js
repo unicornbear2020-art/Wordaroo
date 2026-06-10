@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dlp",{"dlp":{"word":"dlp","translation":"abbr. 民主工黨（Democratic Labour Party）；數字光處理器（Digital Light Processing）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

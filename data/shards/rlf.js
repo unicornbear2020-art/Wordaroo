@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rlf",{"rlf":{"word":"RLF","translation":"[醫] 晶狀體後纖維組織形成","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

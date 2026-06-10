@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xsm",{"xsmn":{"word":"xsmn","translation":"[電] 輸送","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

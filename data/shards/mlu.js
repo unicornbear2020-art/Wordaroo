@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mlu",{"mlu":{"word":"mlu","translation":"abbr. mid-life upgrade 中等生命升級","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

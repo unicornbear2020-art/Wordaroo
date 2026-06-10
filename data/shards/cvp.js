@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cvp",{"cvp":{"word":"cvp","translation":"abbr. cars;  vans; climate;  vegetation","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'si:v'i:p'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

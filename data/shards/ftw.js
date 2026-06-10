@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ftw",{"ftw":{"word":"FTW","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"Abbreviation for \"For the win\".","glossZh":"","labels":["Internet slang"],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"abbr. free trade wharf 自由貿易碼頭"}});

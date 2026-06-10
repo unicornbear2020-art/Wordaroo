@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wfn",{"wfn":{"word":"wfn","translation":"abbr. well-formed net 合適網絡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

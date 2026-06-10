@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cpx",{"cpx":{"word":"cpx","translation":"abbr. complex 複雜的，合成的，綜合的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wfc",{"wfc":{"word":"wfc","translation":"abbr. wide field camera 廣角照相機; wolf first class 極其貪色的人（獵取女性的人）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

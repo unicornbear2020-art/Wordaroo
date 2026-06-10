@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oea",{"oea":{"word":"oea","translation":"[計]= Operator Error Analysis,操作員錯誤分析","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

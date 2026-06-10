@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pjm",{"pjm":{"word":"pjm","translation":"abbr. postjunctional membrane 次連結膜","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

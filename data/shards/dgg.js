@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dgg",{"dgge":{"word":"dgge","translation":"[醫]變性梯度凝膠電泳法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

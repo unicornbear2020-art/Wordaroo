@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gtd",{"gtd":{"word":"gtd","translation":"abbr. geometrical theory of diffraction 衍射幾何理論; guaranteed 擔保的, 有保證的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

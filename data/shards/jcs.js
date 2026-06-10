@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jcs",{"jcs":{"word":"JCS","translation":"參謀長聯席會議","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

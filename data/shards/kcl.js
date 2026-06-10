@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kcl",{"kcl":{"word":"KCl","translation":"abbr. 基爾霍夫電流定律（Kirchhoff's circuit laws）\n氯化鉀","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

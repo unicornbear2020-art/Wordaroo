@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fmd",{"fmd":{"word":"fmd","translation":"[醫][=family medical doctor]家庭內科醫師","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ef'emd'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

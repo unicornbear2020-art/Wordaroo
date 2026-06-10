@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lks",{"lks":{"word":"lks","translation":"abbr. links 高爾夫球場，沙丘","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

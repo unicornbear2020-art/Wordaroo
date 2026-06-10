@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nr_",{"nr":{"word":"nr","translation":"abbr. 天然橡膠（Natural Rubber）；水平調節控制","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

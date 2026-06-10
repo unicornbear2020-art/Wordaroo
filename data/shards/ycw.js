@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ycw",{"ycw":{"word":"ycw","translation":"abbr. Chilliwack;  British Columbia;  Canada 加拿大; Young Christian Workers 青年基督教工人聯盟","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

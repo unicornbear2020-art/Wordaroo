@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zsg",{"zsg":{"word":"zsg","translation":"abbr. zero-speed generator 零速度發生器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'zi:'esdʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("aoh",{"aoh":{"word":"aoh","translation":"abbr. 古代愛爾蘭制度（Ancient Order of Hibernians）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

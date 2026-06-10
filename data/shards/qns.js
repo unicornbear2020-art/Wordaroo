@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qns",{"qns":{"word":"qns","translation":"量不足","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

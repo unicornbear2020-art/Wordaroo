@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("frd",{"frd":{"word":"frd","translation":"abbr. friend 朋友; friendly 友好的; 友誼的; fumarate reductase 富馬酸還原酶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

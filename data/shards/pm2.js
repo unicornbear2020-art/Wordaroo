@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pm2",{"pm2i":{"word":"PM2I","translation":"[計] 加減2I網絡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

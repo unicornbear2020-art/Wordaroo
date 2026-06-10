@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ajs",{"ajs":{"word":"ajs","translation":"n. 合金結（抗干擾）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

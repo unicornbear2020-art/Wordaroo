@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("npq",{"npq":{"word":"npq","translation":"abbr. negotiated price quota 談判價格限額; nonphotoquenchable (defect) 不吸收光（缺陷），非消光（缺陷）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

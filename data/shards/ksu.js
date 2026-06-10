@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ksu",{"ksu":{"word":"ksu","translation":"abbr. key service unit 密鑰業務單元","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/k'sʌ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

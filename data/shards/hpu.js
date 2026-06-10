@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hpu",{"hpu":{"word":"hpu","translation":"abbr. 美國夏威夷太平洋大學（Hawaii Pacific University）；液壓動力裝置（Hydraulic Pumping Unit）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

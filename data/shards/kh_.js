@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kh_",{"kh":{"word":"kh","translation":"abbr. 柬埔寨；碳酸鹽硬度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

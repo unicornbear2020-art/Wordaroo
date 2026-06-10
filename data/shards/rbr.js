@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rbr",{"rbrvs":{"word":"rbrvs","translation":"abbr. resource-based relative value scale 以資源為基礎的相對價值評估刻度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:rb'i:'ɑ:rv'i:'es/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

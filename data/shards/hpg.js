@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hpg",{"hpg":{"word":"hpg","translation":"[醫][=human pituitary gonadotrop(h)in]人垂體促性腺激素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

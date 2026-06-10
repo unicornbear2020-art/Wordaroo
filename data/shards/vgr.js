@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vgr",{"vgreaux column":{"word":"vgreaux column","translation":"[機] 維格勒柱","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

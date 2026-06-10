@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hcl",{"hcl":{"word":"hcl","translation":"abbr. 高生活費（high cost of living）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

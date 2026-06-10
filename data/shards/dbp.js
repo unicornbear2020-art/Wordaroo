@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dbp",{"dbp":{"word":"dbp","translation":"abbr. decibels with reference to one pecowatt 微微瓦分貝; design-basis probability 設計基準概率","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

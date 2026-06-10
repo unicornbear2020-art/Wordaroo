@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("whh",{"whh":{"word":"whh","translation":"abbr. William Henry Harrison 威廉·亨利·哈里森（美國第9位總統）; William Henry Hudson 威廉·亨利·哈德森（格林大廈）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("e10",{"e1059":{"word":"E1059","translation":"[醫] 內吸磷, 地滅通, E一零五九, 二乙基乙巰乙基硫代磷酸酯(有機磷殺蟲劑)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uq_",{"uq":{"word":"uq","translation":"abbr. 昆士蘭大學（The University of Queensland）；上四分值（upper quartile）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

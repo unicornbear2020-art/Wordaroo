@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nrr",{"nrr":{"word":"nrr","translation":"[醫][=net reproductive rate]淨生殖率，淨再生產率","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'en'ɑ:r'ɑ:r/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

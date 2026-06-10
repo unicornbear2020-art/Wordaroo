@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cxy",{"cxyglutamic acid":{"word":"cxyglutamic acid","translation":"[醫] 羥穀氨酸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

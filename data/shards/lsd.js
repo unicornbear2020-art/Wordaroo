@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lsd",{"lsd":{"word":"LSD","translation":"n. 迷幻劑烈性麻醉藥\n[計] 最小有效位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a powerful hallucinogenic drug manufactured from lysergic acid","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

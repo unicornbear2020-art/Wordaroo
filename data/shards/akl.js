@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("akl",{"aklomide":{"word":"aklomide","translation":"[化] 阿克洛胺; 2-氯-4-硝酸苯甲酰胺","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

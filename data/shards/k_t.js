@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("k_t",{"k-t":{"word":"k-t","translation":"abbr. Kazin-Turkic 卡津-突厥語","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

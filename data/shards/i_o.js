@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("i_o",{"i owe you":{"word":"I owe you","translation":"借據, 借條","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

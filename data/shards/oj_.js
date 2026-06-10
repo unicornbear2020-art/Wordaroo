@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oj_",{"oj":{"word":"oj","translation":"abbr. 橙汁（Orange Juice）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'әjdʒei/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

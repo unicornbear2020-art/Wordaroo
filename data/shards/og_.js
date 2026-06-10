@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("og_",{"og":{"word":"og","translation":"abbr. 奧運會（Olympic Games）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("awb",{"awb":{"word":"awb","translation":"abbr. 航空提單（Airway bill）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

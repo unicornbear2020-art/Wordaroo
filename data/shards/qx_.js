@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qx_",{"qx":{"word":"qx","translation":"abbr. quasi-crystalline 準結晶的，準晶體的; quintaux (French=hundred-weights) （法語）百個計量單位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

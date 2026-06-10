@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ugt",{"ugt":{"word":"UGT","translation":"急電","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

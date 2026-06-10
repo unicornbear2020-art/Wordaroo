@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ddm",{"ddm":{"word":"ddm","translation":"abbr. 調製深度差（Difference of Depth of Modulation）；分佈式數據管理（Distributed Data Management）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

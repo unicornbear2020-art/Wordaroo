@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sll",{"sllophthalmia":{"word":"sllophthalmia","translation":"[醫] 兩眼軸向不等, 斜眼, 兩眼異色","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

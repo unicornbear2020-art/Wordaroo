@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("clw",{"clwyd":{"word":"Clwyd","translation":"克盧伊達郡[英國威爾士郡名]","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'klu:id/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

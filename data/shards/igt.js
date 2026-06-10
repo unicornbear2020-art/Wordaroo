@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("igt",{"igt":{"word":"igt","translation":"abbr. Institute of Gas Technology <美>煤氣技術研究所","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ymm",{"ymmv":{"word":"ymmv","translation":"你的歷程可能有所不同(your mileage may vary)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

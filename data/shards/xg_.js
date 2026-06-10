@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xg_",{"xg":{"word":"xg","translation":"abbr. crossing 橫越，交叉口（代號）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

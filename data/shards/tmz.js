@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tmz",{"tmz":{"word":"tmz","translation":"[醫][=tribuzone]三甲保泰松","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:'emz'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

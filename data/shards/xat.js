@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xat",{"xat":{"word":"xat","translation":"n. 為紀念死者的雕刻柱","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/zɑ:t/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

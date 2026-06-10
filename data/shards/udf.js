@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("udf",{"udf":{"word":"UDF","translation":"abbr. 南非民主統一戰線（United Democratic Front）；通用磁盤格式（Universal Disk Format）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("weu",{"weu":{"word":"WEU","translation":"abbr. 西歐聯盟（Western European Union）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

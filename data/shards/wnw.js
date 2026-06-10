@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wnw",{"wnw":{"word":"WNW","translation":"abbr. 西西北（west-north-west）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. the compass point midway between west and northwest","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("utx",{"utx":{"word":"utx","translation":"abbr. 4-engine jet utility transport 4引擎噴氣實用運輸機（科技符號）; University of Texas 得克薩斯大學","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

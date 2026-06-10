@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vy_",{"vy":{"word":"vy","translation":"abbr. 不同年代（various years）；小牛肉酵母（培養基）（veal yeast）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

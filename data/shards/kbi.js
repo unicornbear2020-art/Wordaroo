@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kbi",{"kbit":{"word":"Kbit","translation":"[計] 千位","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a unit of information equal to 1000 bits","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

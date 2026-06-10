@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("skc",{"skc":{"word":"skc","translation":"abbr. sky clear 天空晴朗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("chg",{"chg":{"word":"chg","translation":"abbr. change 變化; 變動; charge 價錢; 應付項目","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'si:'etʃdʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

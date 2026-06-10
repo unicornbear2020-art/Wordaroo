@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mgn",{"mgn":{"word":"MGN","translation":"abbr. 膜性腎小球腎炎（membranous glomerulonephritis）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

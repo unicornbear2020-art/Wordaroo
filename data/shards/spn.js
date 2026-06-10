@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("spn",{"spn":{"word":"spn","translation":"abbr. 業務提供者網絡（Service Provider Network）；最短進程優先（Shortest Process Next）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

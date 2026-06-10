@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cnk",{"cnki":{"word":"cnki","translation":"abbr. 中國國家知識基礎設施工程（Chinese National Knowledge Infrastructure）；中國期刊全文數據庫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

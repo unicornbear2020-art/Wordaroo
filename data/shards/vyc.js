@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vyc",{"vycor":{"word":"Vycor","translation":"n. 維克玻璃","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'vaikә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

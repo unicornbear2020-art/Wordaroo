@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("owt",{"owt":{"word":"owt","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"noun","senses":[{"gloss":"Owt means anything.","glossZh":"","labels":["Northern-England"],"examples":[]}]}],"forms":[{"form":"owts","tags":["plural"]}],"source":"wiktionary","translation":"pron. 任何事"}});

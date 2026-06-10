@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vab",{"vab":{"word":"VAB","translation":"[計] 聲音應答裝置","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

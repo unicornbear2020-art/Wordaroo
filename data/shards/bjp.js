@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bjp",{"bjp":{"word":"bjp","translation":"[醫][=Bence Jones protein]本週（氏）蛋白，凝溶蛋白","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

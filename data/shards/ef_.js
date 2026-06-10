@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ef_",{"ef":{"word":"ef","translation":"abbr. 每面（each face）；超精度（extremely fine）；仰角指示器（Elevation Finder）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

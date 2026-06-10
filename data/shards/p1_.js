@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("p1_",{"p1 refutation":{"word":"P1 refutation","translation":"[計] 反演","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qlg",{"qlg":{"word":"qlg","translation":"abbr. quick-look guide 快查指南","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

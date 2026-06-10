@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cmj",{"cmj":{"word":"cmj","translation":"[醫][=carpometacarpal joint]腕掌關節","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

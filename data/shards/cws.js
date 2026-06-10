@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cws",{"cws":{"word":"cws","translation":"abbr. 化學戰勤務（Chemical Warfare Service）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

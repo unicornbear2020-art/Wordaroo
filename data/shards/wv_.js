@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wv_",{"wv":{"word":"wv","translation":"abbr. 工作電壓（Working Voltage）；西弗吉尼亞（West Virginia）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a state in east central United States","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

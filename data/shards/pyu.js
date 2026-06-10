@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pyu",{"pyuria":{"word":"pyuria","translation":"n. 膿尿\n[醫] 膿尿","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/pai'juәriә/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n. presence of white blood cells in the urine; symptom of urinary tract infection","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

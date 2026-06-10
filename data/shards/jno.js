@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jno",{"jno":{"word":"Jno","translation":"abbr. 工程項目代碼；不溢出則轉移指令（Jump if Not Overflow）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

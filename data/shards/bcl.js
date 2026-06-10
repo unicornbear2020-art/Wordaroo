@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bcl",{"bcl":{"word":"BCL","translation":"abbr. 二進制文件；教會法規學士（Bachelor of Canon Law）；民法學士（Bachelor of Civil Law）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

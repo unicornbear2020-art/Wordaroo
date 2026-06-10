@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pfn",{"pfn":{"word":"PFN","translation":"頁幀號,頁面號","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

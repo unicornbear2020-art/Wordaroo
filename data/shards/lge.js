@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lge",{"lge":{"word":"lge","translation":"abbr. language 語言; large （衣服等）大號; league 同盟; 聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ld'ʒe/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

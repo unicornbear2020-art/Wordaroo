@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tdl",{"tdl":{"word":"TDL","translation":"[計] 測試和診斷語言","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

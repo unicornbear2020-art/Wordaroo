@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hnh",{"hnh":{"word":"hnh","translation":"abbr. hypothalamic neuronal hamartoma 下丘腦神經元錯構瘤","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

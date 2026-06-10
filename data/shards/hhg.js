@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hhg",{"hhg":{"word":"hhg","translation":"abbr. hogshead （容量約為63至140加侖的）大桶，豪格海（液量單位，在美國相當於63加侖，在英國相當於52。5加侖）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

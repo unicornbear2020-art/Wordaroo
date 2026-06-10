@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tdt",{"tdt":{"word":"tdt","translation":"[醫][=tentative discharge tomorrow]暫定明天出院","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

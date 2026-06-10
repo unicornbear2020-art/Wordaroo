@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("eai",{"eai":{"word":"eai","translation":"abbr. Electronic Associates Incorporated <美>電子聯合公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

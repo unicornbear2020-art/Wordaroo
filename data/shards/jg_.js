@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jg_",{"jg":{"word":"jg","translation":"abbr. 少尉（junior grade）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

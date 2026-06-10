@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("b_y",{"b-y signal":{"word":"b-y signal","translation":"[電] B-Y訊號","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

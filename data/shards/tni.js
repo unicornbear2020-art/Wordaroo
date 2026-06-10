@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tni",{"tni":{"word":"tni","translation":"abbr. Traffic Noise Index 交通噪音指數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

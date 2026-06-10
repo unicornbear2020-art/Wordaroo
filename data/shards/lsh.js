@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lsh",{"lsh":{"word":"lsh","translation":"激光衝徊化","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'el'es'etʃ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

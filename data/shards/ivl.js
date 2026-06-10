@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ivl",{"ivlink":{"word":"IVLINK","translation":"[計] 教育信息服務系統","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

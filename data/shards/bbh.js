@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bbh",{"bbh":{"word":"bbh","translation":"[醫][=benzene hexachloride]六六六，六氯化苯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

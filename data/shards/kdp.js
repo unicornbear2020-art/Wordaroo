@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kdp",{"kdp":{"word":"kdp","translation":"abbr. Key, Display, Printer 鍵、顯示器、打印機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

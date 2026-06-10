@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cej",{"cejka's sign":{"word":"Cejka's sign","translation":"[醫] 塞伊卡氏徵(心包粘連時的一種叩診體徵)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

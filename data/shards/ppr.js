@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ppr",{"ppr":{"word":"ppr","translation":"abbr. 現在分詞（present participle）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

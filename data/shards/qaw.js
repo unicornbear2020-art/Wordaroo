@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qaw",{"qawwali":{"word":"qawwali","translation":"n. 克瓦利（蘇菲派穆斯林用於祈禱的音樂）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/kɔ:wə'lɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rdg",{"rdg":{"word":"rdg","translation":"[醫][=reading]讀數，儀器指示數，誦讀，讀出","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɑ:rd'i:dʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

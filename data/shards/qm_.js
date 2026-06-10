@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qm_",{"qm":{"word":"qm","translation":"abbr. 質量管理（Quality Management）；軍需官（quartermaster）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hkc",{"hkc":{"word":"hkc","translation":"n. 弘谷電（生產手機公司）；惠科電子（生產顯示器公司）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

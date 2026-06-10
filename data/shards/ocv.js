@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ocv",{"ocv":{"word":"ocv","translation":"abbr. open-circuit voltage 開路電壓","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

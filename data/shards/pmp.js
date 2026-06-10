@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pmp",{"pmp":{"word":"PMP","translation":"[化] 殺鼠酮鈉鹽","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ddo",{"ddo":{"word":"ddo","translation":"abbr. despatch money payable (for) discharging only （海）卸貸速遣費","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nnk",{"nnk":{"word":"nnk","translation":"abbr. notify next of kin 通知最近親屬","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

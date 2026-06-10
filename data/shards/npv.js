@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("npv",{"npv":{"word":"NPV","translation":"abbr. 淨現值（net present value）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

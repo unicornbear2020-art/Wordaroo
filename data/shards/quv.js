@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("quv",{"quviut":{"word":"quviut","translation":"麝牛絨","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'kjuviәt/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

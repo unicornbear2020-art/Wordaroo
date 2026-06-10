@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fvc",{"fvc":{"word":"fvc","translation":"abbr. forced vital capacity 最大肺活量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'efv'i:s'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

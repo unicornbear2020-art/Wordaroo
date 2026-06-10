@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jtl",{"jtl":{"word":"jtl","translation":"約瑟夫遜隧道結邏輯電路","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/d'ʒeɪt'i:'el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

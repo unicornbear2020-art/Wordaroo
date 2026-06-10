@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fdg",{"fdg":{"word":"fdg","translation":"abbr. fading 褪色，（電視畫面）時明時暗; funding 用發行長期債券的方法來收回短期債券","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("crl",{"crl":{"word":"crl","translation":"abbr. cross register line 交叉登記列; crown rump length 冠尾長度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

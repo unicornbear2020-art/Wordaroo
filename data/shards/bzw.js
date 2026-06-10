@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bzw",{"bzw":{"word":"bzw","translation":"abbr. beziehungsweise (German=respectively) （德語）分別地，各個地","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'bi:z'i:d'əbəlju:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

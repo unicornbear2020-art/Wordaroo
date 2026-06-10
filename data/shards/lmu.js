@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lmu",{"lmu":{"word":"lmu","translation":"[計]= Line Monitor Unit,線路監控器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

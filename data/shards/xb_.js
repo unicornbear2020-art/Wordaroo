@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xb_",{"xb":{"word":"xb","translation":"abbr. crossbar 縱橫開關; 交叉棒; 閂; exploding bridgewire 爆炸橋絲點火器（代號）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'eksb'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

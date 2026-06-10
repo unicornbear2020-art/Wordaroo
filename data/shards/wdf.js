@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wdf",{"wdf":{"word":"wdf","translation":"abbr. wood door and frame 木製門和框架","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

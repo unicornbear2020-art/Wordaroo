@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mld",{"mld":{"word":"mld","translation":"abbr. mold 模型; molded 模製的; mailed 郵寄的; mild 温和的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

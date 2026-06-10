@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fpo",{"fpo":{"word":"FPO","translation":"戰地郵局, 艦隊郵局","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

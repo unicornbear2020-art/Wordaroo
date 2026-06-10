@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("c_2",{"c-2-fraction":{"word":"C-2-fraction","translation":"[化] 碳二餾分","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

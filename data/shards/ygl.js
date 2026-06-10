@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ygl",{"yglesias":{"word":"yglesias","translation":"[人名] 伊格萊西亞斯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

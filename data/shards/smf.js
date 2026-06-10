@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("smf",{"smf":{"word":"smf","translation":"abbr. 系統管理程式（system management facilities）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

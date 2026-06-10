@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pbg",{"pbgc":{"word":"pbgc","translation":"abbr. Pension Benefit Guaranty Corporation 退休金付給保證公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

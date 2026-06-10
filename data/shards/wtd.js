@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wtd",{"wtd":{"word":"wtd","translation":"abbr. warranted （商品質量）保證的; 擔保的; watertight door 水密門; weighted 有利的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

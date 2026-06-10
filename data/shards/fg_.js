@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fg_",{"fg":{"word":"fg","translation":"abbr. 懸浮式陀螺（Floated Gyro）；細粒（Fine-Grain）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

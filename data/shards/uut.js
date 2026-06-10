@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uut",{"uut":{"word":"UUT","translation":"[計] 被測部件, 待測部件","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a radioactive transuranic element","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

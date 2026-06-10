@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gpe",{"gpe":{"word":"gpe","translation":"[醫][=general purpose equipment]通用設備","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ɡ'pe/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ou_",{"ou":{"word":"ou","translation":"abbr. 開放大學（Open University）；牛津大學（Oxford University）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

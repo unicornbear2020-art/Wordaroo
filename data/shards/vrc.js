@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vrc",{"vrc":{"word":"VRC","translation":"[計] 垂直冗餘校驗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

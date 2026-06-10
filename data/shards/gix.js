@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gix",{"gix":{"word":"GIX","translation":"[醫] 二氟二苯三氯乙烷(殺蟲劑)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

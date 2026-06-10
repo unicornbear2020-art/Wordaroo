@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("e2_",{"e2":{"word":"E2","translation":"[計] 電子娛樂","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qty",{"qty":{"word":"qty","translation":"abbr. 數量（quantity）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

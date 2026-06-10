@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("obw",{"obwalden":{"word":"Obwalden","translation":"奧布瓦爾登州[瑞士州名](意譯上瓦爾登州)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɔ:pvɑ:ldәn/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

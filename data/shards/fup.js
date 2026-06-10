@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fup",{"fup":{"word":"fup","translation":"abbr. 熔點（Fusion Point）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("drb",{"drb":{"word":"drb","translation":"[醫][=daunorubicin]紅比黴素，柔紅黴素","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'di:'ɑ:rb'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

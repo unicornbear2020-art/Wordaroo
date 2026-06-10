@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tyf",{"tyfon":{"word":"tyfon","translation":"霧笛, 氣笛","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'taifɔn/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

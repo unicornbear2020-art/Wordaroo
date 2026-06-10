@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ffg",{"ffg":{"word":"ffg","translation":"abbr. 燃油流量調節器（Fuel Flow Governor）；導彈護衞艦（等於Guided Missile Frigate）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

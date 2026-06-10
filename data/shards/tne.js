@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tne",{"tne":{"word":"tne","translation":"[醫][=tris sodium chloride EDTA buffer]三羥甲基氨基甲烷氯化鈉EDTA緩衝劑","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/,tiɛn'i/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

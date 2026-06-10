@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rmk",{"rmk":{"word":"rmk","translation":"abbr. read memory key 讀存儲器關鍵字; rhesus monkey kidney 獼猴腎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

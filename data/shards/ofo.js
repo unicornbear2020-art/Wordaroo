@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ofo",{"ofor":{"word":"ofor","translation":"abbr. operational forced outage rate 運行故障停用率","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

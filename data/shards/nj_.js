@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nj_",{"nj":{"word":"nj","translation":"abbr. 新澤西（New Jersey）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a Mid-Atlantic state on the Atlantic; one of the original 13 colonies","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

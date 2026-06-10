@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ggg",{"ggg":{"word":"ggg","translation":"abbr. 釓鎵石榴石（Gadolinium gallium garnet）；網格（GREAT GLOBAL GRID）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

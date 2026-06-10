@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zbr",{"zbr":{"word":"ZBR","translation":"成組編碼記錄","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

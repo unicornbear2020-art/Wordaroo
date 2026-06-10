@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ipl",{"ipl":{"word":"IPL","translation":"初始程序裝入","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

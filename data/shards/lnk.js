@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lnk",{"lnk":{"word":"lnk","translation":"abbr. 快捷方式；連接","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

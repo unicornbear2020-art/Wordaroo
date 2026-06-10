@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ttv",{"ttv":{"word":"ttv","translation":"[醫][=tracheal transport velocity]氣管轉運速度","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

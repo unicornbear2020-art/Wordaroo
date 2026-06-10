@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jyc",{"jyc":{"word":"jyc","translation":"abbr. Judicial Youth Corps 法學院學生聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cxi",{"cxi":{"word":"cxi","translation":"abbr. Christmas Island; common X interface 公用X接口; crosstalk input 串音輸入","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

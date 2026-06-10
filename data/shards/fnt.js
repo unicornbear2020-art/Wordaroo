@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fnt",{"fnt":{"word":"fnt","translation":"[醫][=false(adrenergic)neurochemical transmitter]假性（腎上腺能）神經化學傳導遞質","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cng",{"cng":{"word":"cng","translation":"abbr. 壓縮天然氣（Compressed Natural Gas）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mdo",{"mdo":{"word":"mdo","translation":"abbr. medium-density overload(ing) 中密度超載; monthly debit ordinary 每月的普通借方","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

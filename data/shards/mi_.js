@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mi_",{"mi":{"word":"MI","translation":"檢疫, 軍事情報","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/mi:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n. the syllable naming the third (mediant) note of any major scale in solmization","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

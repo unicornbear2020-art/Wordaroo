@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("avh",{"avhrr":{"word":"avhrr","translation":"abbr. advanced very high resolution radiometer 高級超高分辨率輻射計","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

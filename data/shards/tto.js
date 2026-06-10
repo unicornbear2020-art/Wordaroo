@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tto",{"ttopp-38s":{"word":"TTOPP-38S","translation":"[化] 三鈦酸異丙酯; 三二辛基焦磷酰氧基鈦酸異丙酯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

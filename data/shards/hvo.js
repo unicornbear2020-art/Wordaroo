@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hvo",{"hvo":{"word":"hvo","translation":"[醫][=hepatic venous obstruction]肝靜脈阻塞","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

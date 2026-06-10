@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nnf",{"nnfa":{"word":"nnfa","translation":"[醫][=National Nutritional Foods Associatoin]全國營養食品協會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

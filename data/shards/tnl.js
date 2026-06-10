@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tnl",{"tnl":{"word":"tnl","translation":"abbr. ton long 長噸","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ti:'en'el/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("btw",{"btw":{"word":"btw","translation":"abbr. 順便, 順便提及（By The Way）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

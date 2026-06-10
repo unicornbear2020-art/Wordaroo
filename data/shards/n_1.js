@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("n_1",{"n-1":{"word":"N-1","translation":"[計] N-1網絡","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

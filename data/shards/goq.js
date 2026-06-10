@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("goq",{"goq":{"word":"goq","translation":"[醫][=glucose oxidation quotient]葡萄糖氧化商","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rwy",{"rwy":{"word":"rwy","translation":"abbr. railway 鐵路, 鐵路系統; runway （飛機場的）跑道","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

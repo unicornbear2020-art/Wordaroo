@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ieg",{"ieg":{"word":"ieg","translation":"abbr. 免疫病理學交流組（immunopathology exchange group）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

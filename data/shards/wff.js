@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wff",{"wffs":{"word":"wffs","translation":"公式,合取公式類","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

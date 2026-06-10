@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("uf_",{"uf":{"word":"uf","translation":"abbr. 脲甲醛樹脂；超聲頻率（Ultrasonic Frequency）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

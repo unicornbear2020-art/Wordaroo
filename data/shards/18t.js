@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("18t",{"18th":{"word":"18th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"18th is an abbreviation of eighteenth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

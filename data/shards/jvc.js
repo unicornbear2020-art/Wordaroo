@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jvc",{"jvc":{"word":"jvc","translation":"n. 日本勝利公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

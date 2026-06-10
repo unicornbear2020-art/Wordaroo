@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("crd",{"crd":{"word":"CRD","translation":".CRD卡片文件","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

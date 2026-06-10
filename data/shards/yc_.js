@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yc_",{"yc":{"word":"yc","translation":"abbr. 雲南商務管理體系（Yunnan Commodity和Yunnan Commerce的縮寫）；重型橡套軟電纜的一種型號","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rpe",{"rpe":{"word":"rpe","translation":"abbr. range probable error 距離大概偏差; related payroll expense 相關的薪水冊支出","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

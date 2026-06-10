@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fpc",{"fpc":{"word":"FPC","translation":"abbr. 聯邦動力委員會（Federal Power Commission）；護漁艇（Fishery Protection Cruiser）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

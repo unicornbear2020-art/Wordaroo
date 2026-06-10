@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cks",{"cks":{"word":"cks","translation":"abbr. casks （複數）桶; checks （複數）<美國>賬單; 支票; cyclin-dependent kinase 獨立性細胞週期蛋白激酶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

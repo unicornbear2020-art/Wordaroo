@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lmx",{"lmx":{"word":"lmx","translation":"[計]= Local Multiplexer,局部多路轉換器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

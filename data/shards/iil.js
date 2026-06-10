@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("iil",{"iil":{"word":"IIL","translation":"[計] 集成注入邏輯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

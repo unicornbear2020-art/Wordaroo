@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("clr",{"clr":{"word":"CLR","translation":"[計] 清除","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

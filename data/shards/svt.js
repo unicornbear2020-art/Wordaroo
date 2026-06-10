@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("svt",{"svt":{"word":"svt","translation":"[醫][=sinoventricular tachyarrhythmia]竇室性快速心律失常","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

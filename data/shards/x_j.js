@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("x_j",{"x-japan":{"word":"X-Japan","translation":"無限日本（樂隊）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jyn",{"jynx":{"word":"jynx","translation":"n. [鳥]蟻鴷","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/dʒiŋks/"]},"meanings":[{"pos":"word","senses":[{"gloss":"n wrynecks","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

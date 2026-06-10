@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("1st",{"1st":{"word":"1st","regions":[],"pronunciations":{"UK":["/fɜːst/"],"US":["/fɝst/"],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"1st is an abbreviation of first.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"abbr. 第一（first）"}});

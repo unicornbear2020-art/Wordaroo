@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rnr",{"rnr":{"word":"rnr","translation":"abbr. runner 參加賽跑者，（雪橇，溜冰鞋的）滑走部分","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gph",{"gph":{"word":"GPH","translation":"(gallons per hour )加侖每小時\n(granulomatous hypersensitivity reaction) 肉芽腫過敏反應","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

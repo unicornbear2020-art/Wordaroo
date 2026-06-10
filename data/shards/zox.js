@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zox",{"zoxazolamine":{"word":"zoxazolamine","translation":"氯苯惡唑胺(肌弛緩劑)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/zәuk,sæzɔ'læmi:n/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hft",{"hft":{"word":"hft","translation":"[醫][=hidden figures test]隱蔽圖形測驗","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'etʃ'eft'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

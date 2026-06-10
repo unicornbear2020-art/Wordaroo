@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fp_",{"fp":{"word":"FP","translation":"總保單, 總保險單, 全部付訖, 冰點, 凝固點\n[計] 浮點, 函數處理器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

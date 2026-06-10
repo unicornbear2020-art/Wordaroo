@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hth",{"hth":{"word":"hth","translation":"n. （網絡用語） Hope This (That) Helps （希望對你有用）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

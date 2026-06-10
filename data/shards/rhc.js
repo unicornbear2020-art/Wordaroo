@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rhc",{"rhc":{"word":"rhc","translation":"abbr. rubber hydrocarbon 橡膠烴","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

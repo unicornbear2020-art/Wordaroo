@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ppk",{"ppk":{"word":"ppk","translation":"[醫][=falicain]鹽酸丙哌卡因","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'pi:p'i:k'eɪ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

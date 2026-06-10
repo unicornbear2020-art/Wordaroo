@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mxd",{"mxd":{"word":"mxd","translation":"abbr. mixed 混合的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

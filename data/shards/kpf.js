@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kpf",{"kpf":{"word":"kpf","translation":"abbr. key pulse on front cord 前向塞繩按鍵脈衝","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

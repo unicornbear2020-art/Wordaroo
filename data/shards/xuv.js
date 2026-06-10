@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xuv",{"xuv":{"word":"xuv","translation":"abbr. extreme ultraviolet 超紫外（線）的（代號）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

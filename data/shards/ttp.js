@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ttp",{"ttp":{"word":"ttp","translation":"abbr. 血栓性血小板減少性紫癜（Thrombotic Thrombocytopenic Purpura）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rff",{"rff":{"word":"rff","translation":"abbr. remote fiber fluorimetry 遠距離光纖熒光測定法","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

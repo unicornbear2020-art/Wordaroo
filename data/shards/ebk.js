@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ebk",{"ebk":{"word":"ebk","translation":"abbr. embryonic bovine kidney 胚胎培育的牛腎","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

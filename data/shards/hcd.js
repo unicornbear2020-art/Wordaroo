@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hcd",{"hcd":{"word":"hcd","translation":"熱載劣二極管","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'etʃs'i:d'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

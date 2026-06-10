@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("yf_",{"yf":{"word":"yf","translation":"abbr. 黃熱病（Yellow Fever）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

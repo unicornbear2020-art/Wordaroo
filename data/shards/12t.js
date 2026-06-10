@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("12t",{"12th":{"word":"12th","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"12th is an abbreviation of twelveth.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":""}});

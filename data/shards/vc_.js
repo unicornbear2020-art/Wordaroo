@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vc_",{"vc":{"word":"VC","translation":"[計] 虛擬計算機","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

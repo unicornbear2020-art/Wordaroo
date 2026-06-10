@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pnw",{"pnw":{"word":"pnw","translation":"abbr. Present Net Worth 純現值，淨現資本","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

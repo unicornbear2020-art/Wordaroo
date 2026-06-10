@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rmw",{"rmw":{"word":"rmw","translation":"[醫]Relative Molecular Weight","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mnd",{"mnd":{"word":"mnd","translation":"abbr. minimum necrosing dose 最小壞死劑量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

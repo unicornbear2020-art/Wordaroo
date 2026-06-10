@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vfl",{"vfl":{"word":"vfl","translation":"abbr. variable field length 可變字段長度; variable focal-length 可變焦距","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

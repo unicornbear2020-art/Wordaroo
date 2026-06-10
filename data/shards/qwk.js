@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qwk",{"qwk":{"word":"QWK","translation":"[計] 一種快信格式","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

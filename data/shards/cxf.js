@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cxf",{"cxf":{"word":"cxf","translation":"[醫]Chest X-ray Film","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

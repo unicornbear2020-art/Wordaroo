@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tpw",{"tpw":{"word":"tpw","translation":"abbr. title page wanting 扉頁欠缺","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

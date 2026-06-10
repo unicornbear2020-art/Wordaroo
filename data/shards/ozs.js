@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ozs",{"ozs":{"word":"ozs","translation":"(oz 的複數) abbr. 盎司（ounce）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"plural of oz","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

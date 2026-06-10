@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vfd",{"vfd":{"word":"vfd","translation":"abbr. volunteer fire department 志願消防隊","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

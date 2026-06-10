@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bvt",{"bvt":{"word":"bvt","translation":"abbr. brevet 名譽晉升, 予以名譽晉升; brevetted 名譽晉級的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

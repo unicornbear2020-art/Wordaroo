@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dkg",{"dkg":{"word":"dkg","translation":"abbr. decagram 十克; decking 裝飾; 鋪面; dekagram(s) 十克（重量單位）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'di:k'eɪdʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

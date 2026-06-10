@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hsv",{"hsv":{"word":"hsv","translation":"abbr. heat-suppression valve 熱壓閥","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

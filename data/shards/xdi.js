@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xdi",{"xdisease":{"word":"Xdisease","translation":"牛中毒性角化病","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

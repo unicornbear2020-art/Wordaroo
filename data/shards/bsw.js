@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bsw",{"bsw":{"word":"BSW","translation":"英國惠氏標準螺紋（British Standard Whitworth Thread）\n社會工作學士學位（Bachelor of Social Work）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

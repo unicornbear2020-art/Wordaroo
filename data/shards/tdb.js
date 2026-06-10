@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tdb",{"tdb":{"word":"tdb","translation":"abbr. Trade and Development Board 聯合國開發委員會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

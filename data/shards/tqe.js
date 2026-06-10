@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tqe",{"tqe":{"word":"tqe","translation":"abbr. technical quality evaluation 技術質量評價","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/t'kə/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

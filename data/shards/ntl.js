@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ntl",{"ntl":{"word":"ntl","translation":"abbr. no time lost 無時間延誤，立即","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

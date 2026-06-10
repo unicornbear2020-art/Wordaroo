@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bk_",{"bk":{"word":"Bk","translation":"[醫] 錇(97號元素)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n a radioactive transuranic element; discovered by bombarding americium with helium","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

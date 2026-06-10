@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dfo",{"dfo":{"word":"dfo","translation":"[醫][=desferrioxamine]去鐵草酰胺","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ed5",{"ed50":{"word":"ED50","translation":"[醫] 半數有效量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

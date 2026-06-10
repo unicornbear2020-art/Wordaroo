@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("baq",{"baquet":{"word":"baquet","translation":"巴奎特（人名）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("upj",{"upjohn":{"word":"Upjohn","translation":"厄普約翰","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n. United States architect (born in England) (1802-1878)","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

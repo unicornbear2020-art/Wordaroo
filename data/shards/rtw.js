@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rtw",{"rtw":{"word":"rtw","translation":"abbr. ready to wear 準備穿着; right to work 工作權利; round-the-world 全世界的; 環球的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

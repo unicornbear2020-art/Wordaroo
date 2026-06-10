@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ptt",{"ptt":{"word":"PTT","translation":"[計] 郵政電話與電報","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

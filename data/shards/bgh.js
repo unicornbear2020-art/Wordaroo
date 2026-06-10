@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bgh",{"bgh":{"word":"BGH","translation":"abbr. 牛生長激素（Bovine Growth Hormone）；德國聯邦法院（Bundesgerichtshof）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

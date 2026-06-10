@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lde",{"ldeoplasty":{"word":"ldeoplasty","translation":"[醫] 意想凝注, 觀念凝注","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

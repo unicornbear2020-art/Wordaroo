@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lrd",{"lrd":{"word":"lrd","translation":"abbr. long-range data 遠程數據","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

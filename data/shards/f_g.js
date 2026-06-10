@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("f_g",{"f-g":{"word":"f-g","translation":"[醫][=feeley-gorman(agar)]菲利-戈爾曼二氏（瓊脂）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'efdʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

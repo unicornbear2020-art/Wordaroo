@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bba",{"bba":{"word":"BBA","translation":"abbr. 工商管理學學士（Bachelor of Business Administration）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xib",{"xibornol":{"word":"xibornol","translation":"[化] 希波酚; 異冰片二甲酚","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

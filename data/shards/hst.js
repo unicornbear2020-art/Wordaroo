@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hst",{"hst":{"word":"HST","translation":"abbr. 超高音速運輸機（Hypersonic Transporter）；高速試驗機（High-Speed Tester）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

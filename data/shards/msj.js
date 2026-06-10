@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("msj",{"msj":{"word":"msj","translation":"abbr. Master of Science in Journalism 新聞學碩士","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nsg",{"nsg":{"word":"nsg","translation":"[醫][=nursing]護理","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

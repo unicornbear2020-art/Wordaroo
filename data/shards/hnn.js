@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hnn",{"hnnger-pains":{"word":"hnnger-pains","translation":"[醫] 飢痛, 空胃痛","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

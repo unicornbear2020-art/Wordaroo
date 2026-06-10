@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("psq",{"psq":{"word":"psq","translation":"[醫][=Patient Satisfaction Questionnaire]病人滿意（程度）問卷調查","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

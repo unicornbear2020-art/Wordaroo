@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gcg",{"gcg":{"word":"gcg","translation":"abbr. gas-chamber green (institutional paint color) 毒氣室綠（組織粉刷顏色）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

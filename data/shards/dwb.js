@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dwb",{"dwb":{"word":"dwb","translation":"abbr. double with bath 帶洗澡間的雙人房間","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("plv",{"plvmetal":{"word":"plvmetal","translation":"包鋁層板","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

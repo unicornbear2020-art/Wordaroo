@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bfh",{"bfh":{"word":"bfh","translation":"[醫][=benign familial hematuria]良性家族性血尿","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

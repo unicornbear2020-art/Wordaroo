@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("u_u",{"u unit":{"word":"u unit","translation":"[醫] 中子單位(舊名)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

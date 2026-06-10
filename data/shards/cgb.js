@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cgb",{"cgb":{"word":"cgb","translation":"[計]= Convert Gray to Binary,格雷碼轉換為二進碼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

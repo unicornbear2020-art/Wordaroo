@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fn_",{"fn":{"word":"fn","translation":"n. 功能, 函數","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

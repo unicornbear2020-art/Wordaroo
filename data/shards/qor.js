@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qor",{"qoran":{"word":"Qoran","translation":"n. (伊斯蘭教)可蘭經","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/kәu'rɑ:n, -'ræn, kɔ:-/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nfa",{"nfa":{"word":"nfa","translation":"abbr. net financial assets 金融資產淨額; no further action 無進一步行動，無下一步行為","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

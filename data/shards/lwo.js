@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lwo",{"lwop":{"word":"lwop","translation":"abbr. leave without pay 停薪留職","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/l'wɒp/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

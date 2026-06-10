@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wbm",{"wbm":{"word":"wbm","translation":"[醫][=whole-body monitor]全身監測儀","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

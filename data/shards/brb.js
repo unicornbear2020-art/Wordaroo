@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("brb",{"brb":{"word":"BRB","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"BRB is an initialism of be right back.","glossZh":"","labels":["Internet slang"],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"abbr. Borba (Yugoslavia=Struggle) （南斯拉夫語）<戰鬥報>"}});

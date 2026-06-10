@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("upq",{"upquenching":{"word":"upquenching","translation":"分級等温淬火, 升温等温淬火(先低温淬火, 後迅速加熱, 再在恆温槽內等温淬火)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/ʌp'kwentʃiŋ/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

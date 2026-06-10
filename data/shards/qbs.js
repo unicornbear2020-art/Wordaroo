@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qbs",{"qbs":{"word":"qbs","translation":"abbr. quantitative business system 商務定量分析系統; query by screen 屏幕查詢","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jiy",{"jiya":{"word":"jiya","translation":"n. (Jiya)人名；(日)持是 (姓)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

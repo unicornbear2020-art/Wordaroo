@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mgu",{"mgu":{"word":"MGU","translation":"最一般合一者","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

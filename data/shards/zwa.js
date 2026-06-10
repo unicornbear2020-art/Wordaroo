@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("zwa",{"zwanck's pessary":{"word":"Zwanck's pessary","translation":"[醫] 陰道鐳錠栓","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

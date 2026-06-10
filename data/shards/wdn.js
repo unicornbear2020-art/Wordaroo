@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("wdn",{"wdnr":{"word":"wdnr","translation":"abbr. Wadi Dishon Nature Reserve <以色列>瓦迪·迪遜自然保護區","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

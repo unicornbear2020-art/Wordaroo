@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rps",{"rps":{"word":"RPS","translation":"[醫] 腎加壓物質","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

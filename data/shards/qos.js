@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qos",{"qos":{"word":"qos","translation":"abbr. Quality of Service 服務質量","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

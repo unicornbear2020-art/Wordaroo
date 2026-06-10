@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dq_",{"dq":{"word":"dq","translation":"abbr. 冰激凌品牌（Dairy Queen）；定量（definite quantity）；[律]直接訊問（direct question）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

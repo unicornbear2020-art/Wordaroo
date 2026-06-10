@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sln",{"sln":{"word":"sln","translation":"[醫][=sublentiform nucleus]豆狀下核","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'es'el'en/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

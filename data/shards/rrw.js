@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rrw",{"rrw":{"word":"rrw","translation":"abbr. resource request word 資源請示字; Royal Regiment of Wales 威爾士皇家團","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

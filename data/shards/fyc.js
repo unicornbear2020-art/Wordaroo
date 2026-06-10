@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("fyc",{"fyce":{"word":"fyce","translation":"n. <美> 小狗, 無用的人, 壞脾氣的人","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/fais/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

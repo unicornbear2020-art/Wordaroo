@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("lho",{"lhotse":{"word":"lhotse","translation":"[體]洛子峯","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

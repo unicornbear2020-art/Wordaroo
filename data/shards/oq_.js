@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("oq_",{"oq":{"word":"oq","translation":"abbr. oil quench 油淬火的; overmation quotient 過量信息份額","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

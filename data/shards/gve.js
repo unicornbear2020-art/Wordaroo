@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gve",{"gve":{"word":"GVE","translation":"Gypsy校驗環境","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

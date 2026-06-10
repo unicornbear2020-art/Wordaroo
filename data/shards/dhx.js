@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dhx",{"dhx":{"word":"dhx","translation":"abbr. Dependable Hawaiian Express 夏威夷快運（班輪公司代碼）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

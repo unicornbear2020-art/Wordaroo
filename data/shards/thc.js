@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("thc",{"thc":{"word":"thc","translation":"abbr. [藥]四氫大麻酚（tetrahydrocannabinol）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"n psychoactive substance present in marijuana","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

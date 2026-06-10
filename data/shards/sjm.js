@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("sjm",{"sjm":{"word":"sjm","translation":"abbr. 斯瓦爾巴羣島","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

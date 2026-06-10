@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nmt",{"nmt":{"word":"nmt","translation":"[醫][=neuromuscular tension]神經肌肉張力","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'en'emt'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

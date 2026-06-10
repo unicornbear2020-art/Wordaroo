@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bnl",{"bnl":{"word":"bnl","translation":"abbr. branchless 無枝的","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

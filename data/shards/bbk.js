@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bbk",{"bbk":{"word":"bbk","translation":"abbr. 德國央行；德意志聯邦銀行（BundesBank）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

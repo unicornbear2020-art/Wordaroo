@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cwc",{"cwc":{"word":"cwc","translation":"[醫][=Chemical Warfare Committee]化學戰委員會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

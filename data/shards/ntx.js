@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ntx",{"ntx":{"word":"ntx","translation":"[醫][=naltrexone]環丙甲羥二羥碼啡酮","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

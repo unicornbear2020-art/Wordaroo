@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ydy",{"ydy":{"word":"ydy","translation":"abbr. 伊甸園論壇（Yi Dian Yuan）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

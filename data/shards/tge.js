@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("tge",{"tge":{"word":"tge","translation":"[醫][=theoretical growth evaluation]推理性生長評價，理論生長評價","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/td'ʒə/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

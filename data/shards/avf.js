@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("avf",{"avf":{"word":"avf","translation":"abbr. 動靜脈瘻；全志願軍（All-Volunteer Force）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

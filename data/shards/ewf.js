@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ewf",{"ewf":{"word":"ewf","translation":"abbr. Electrical Wholesalers' Federation <英>電氣器材批發商聯合會","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hmt",{"hmt":{"word":"HMT","translation":"abbr. 手持微型電話機（Hand Microtelephone）；英國財政部（Majesty's Treasury）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nva",{"nva":{"word":"nva","translation":"abbr. 近視敏度（near visual acuity）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

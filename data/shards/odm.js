@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("odm",{"odm":{"word":"odm","translation":"abbr. 海外開發部（Ministry of Overseas Development）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

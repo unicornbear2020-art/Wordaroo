@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ndu",{"ndugu":{"word":"Ndugu","translation":"<斯瓦希里> n.大哥(在非洲坦桑尼亞用作稱呼)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/әn'du:^j/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

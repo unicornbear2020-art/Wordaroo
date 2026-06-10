@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("hne",{"hne":{"word":"hne","translation":"[醫][=human neutrophil elastase]人嗜中性細胞彈性蛋白酶","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

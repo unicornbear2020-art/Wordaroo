@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ddz",{"ddz":{"word":"DDZ","translation":"[化] 電動單元組合儀表","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

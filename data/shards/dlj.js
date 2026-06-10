@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dlj",{"dlj":{"word":"dlj","translation":"abbr. Donaldson, Lufkin & Jenrette Securities Corporation 帝傑證券公司","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

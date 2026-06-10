@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ubs",{"ubs":{"word":"ubs","translation":"abbr. 瑞士聯合銀行（United Bank of Switzerland）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

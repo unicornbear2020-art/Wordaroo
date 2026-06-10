@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("x_e",{"x-element":{"word":"x-element","translation":"[醫] X成分(染色體團)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

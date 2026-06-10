@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mki",{"mki":{"word":"mki","translation":"abbr. make idle 解除","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

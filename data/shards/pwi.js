@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("pwi",{"pwi":{"word":"pwi","translation":"駕駛員告警指示器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

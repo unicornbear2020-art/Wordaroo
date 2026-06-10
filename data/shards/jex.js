@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jex",{"jex":{"word":"jex","translation":"[人名] [英格蘭人姓氏] 傑克斯取自父名，來源於Geach,含義是“吉奇之子”(son of Geach)","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

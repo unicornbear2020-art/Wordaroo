@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vp_",{"vp":{"word":"VP","translation":"[計] 虛存處理器","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

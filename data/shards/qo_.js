@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("qo_",{"qo":{"word":"qo","translation":"abbr. quick outlet 快速出口","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

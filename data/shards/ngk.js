@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ngk",{"ngk":{"word":"ngk","translation":"abbr. 日本礙子株式會社","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

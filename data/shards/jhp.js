@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("jhp",{"jhp":{"word":"jhp","translation":"abbr. jacketed hollow point 空點","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

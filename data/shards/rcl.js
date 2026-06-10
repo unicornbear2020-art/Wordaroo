@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("rcl",{"rcl":{"word":"rcl","translation":"abbr. runway center line （機場）跑道中心線","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

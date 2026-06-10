@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("nvg",{"nvg":{"word":"nvg","translation":"[醫][=neovascular glaucoma]新生血管性青光眼","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'env'i:dʒ'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

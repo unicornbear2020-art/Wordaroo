@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("kcb",{"kcb":{"word":"KCB","translation":"abbr. 高級巴思勳爵士（Knight Commander of the Bath）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

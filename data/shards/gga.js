@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("gga",{"gga":{"word":"gga","translation":"[醫][=general gonadotropic activity]總促性腺激素活性","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɡə/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

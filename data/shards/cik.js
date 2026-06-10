@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("cik",{"cikovsky":{"word":"cikovsky","translation":"[人名] 奇科夫斯基","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

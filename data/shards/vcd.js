@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("vcd",{"vcd":{"word":"vcd","translation":"[電] 可變電容二極體的簡寫","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

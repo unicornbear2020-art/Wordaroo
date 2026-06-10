@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("ihc",{"ihc":{"word":"ihc","translation":"[醫][=idiopathic hemochromatosis]特發性血色素沉着（症）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'ɪhk/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

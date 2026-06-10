@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("xue",{"xue":{"word":"xue","translation":"雪（漢語拼音）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

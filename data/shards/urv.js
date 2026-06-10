@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("urv",{"urvolgyite":{"word":"urvolgyite","translation":"鈣銅礬","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/u:'vɔldʒiit/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

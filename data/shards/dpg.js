@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("dpg",{"dpg":{"word":"dpg","translation":"abbr. damping 阻尼（的）; 緩衝（的）; data processing group 數據處理組; deck plate girder 上承板梁","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

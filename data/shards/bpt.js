@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("bpt",{"bpt":{"word":"BPT","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"abbrev","senses":[{"gloss":"Best possible time.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"wiktionary","translation":"雙極性晶體管"}});

@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("phc",{"phc":{"word":"phc","translation":"殘殺威","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":["/'pi:'etʃs'i:/"]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

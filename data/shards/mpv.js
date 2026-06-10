@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mpv",{"mpv":{"word":"mpv","translation":"abbr. 多用途車輛（Multi-Purpose Vehicle）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

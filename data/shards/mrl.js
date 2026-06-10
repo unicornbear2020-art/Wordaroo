@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("mrl",{"mrl":{"word":"mrl","translation":"abbr. 最大殘留限量（Maximum Residue Limit）；醫療檔案室（medical record library）","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});

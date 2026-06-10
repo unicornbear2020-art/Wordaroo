@@ -1,0 +1,1 @@
+window.WordarooDB.registerShard("esx",{"esx":{"word":"esx","translation":"abbr. enhanced sensitivity X-ray resist 提高靈敏度X射線抗蝕劑","regions":[],"pronunciations":{"UK":[],"US":[],"AU":[],"OTHER":[]},"meanings":[{"pos":"word","senses":[{"gloss":"English vocabulary entry.","glossZh":"","labels":[],"examples":[]}]}],"forms":[],"source":"ecdict"}});
