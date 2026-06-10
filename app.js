@@ -301,6 +301,8 @@ function renderEntry(entry, shouldSpeak = true) {
           ? "分類資料源：Paleobiology Database（Dinosauria）"
           : entry.source === "gbif"
             ? "分類資料源：GBIF Backbone Taxonomy（CC BY 4.0）"
+          : entry.source === "pokeapi"
+            ? "名稱資料源：PokéAPI（全國圖鑑）"
       : "資料源：Wiktionary / Wiktextract（CC BY-SA 4.0 / GFDL）";
 
   if (shouldSpeak) speak(entry.word, 2);

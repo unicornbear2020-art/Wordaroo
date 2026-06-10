@@ -18,6 +18,7 @@ const ecdictPath = process.argv[4];
 const bilingualSentencesPath = process.argv[5];
 const dinosaurPath = process.argv[6];
 const mossPath = process.argv[7];
+const pokemonPath = process.argv[8] || path.join(root, "sources", "pokemon-pokeapi.json");
 const require = createRequire(import.meta.url);
 const OpenCC = require("./vendor/opencc-cn2t.cjs");
 const toTraditional = OpenCC.Converter({ from: "cn", to: "hk" });
@@ -26,7 +27,7 @@ if (!inputPath) {
   console.error(
     "Usage: node tools/build-dictionary.mjs <wiktextract.jsonl[.gz]> " +
     "[legacy-wordaroo.html] [ecdict.csv] [tatoeba-cmn.txt] " +
-    "[dinosaurs-pbdb.json] [mosses-gbif.json]"
+    "[dinosaurs-pbdb.json] [mosses-gbif.json] [pokemon-pokeapi.json]"
   );
   process.exit(1);
 }
@@ -249,6 +250,50 @@ async function addTaxonomyEntries(entries, dinosaurJsonPath, mossJsonPath) {
   }
 
   return { dinosaurAdded, mossAdded };
+}
+
+async function addPokemonEntries(entries, pokemonJsonPath) {
+  let data;
+  try {
+    data = JSON.parse(await readFile(pokemonJsonPath, "utf8"));
+  } catch (error) {
+    if (error.code === "ENOENT") return 0;
+    throw error;
+  }
+
+  for (const record of data.records) {
+    const key = normalise(record.nameEn);
+    if (!key) continue;
+    const chineseName = record.nameZhHant || record.nameEn;
+    entries.set(key, {
+      word: record.nameEn,
+      translation: chineseName,
+      regions: [],
+      pronunciations: { UK: [], US: [], AU: [], OTHER: [] },
+      meanings: [{
+        pos: "proper noun · Pokémon name",
+        senses: [{
+          gloss:
+            `${record.nameEn} is Pokémon species No. ${record.id} in the National Pokédex` +
+            (record.generation ? `, introduced in Generation ${record.generation}.` : "."),
+          glossZh:
+            `「${chineseName}」是全國圖鑑第 ${record.id} 號寶可夢` +
+            (record.generation ? `，於第 ${record.generation} 世代引入` : "") +
+            `；英文名稱為 ${record.nameEn}。`,
+          labels: [
+            "Pokémon",
+            "proper noun",
+            "National Pokédex",
+            record.generation ? `Generation ${record.generation}` : ""
+          ].filter(Boolean),
+          examples: []
+        }]
+      }],
+      forms: [],
+      source: "pokeapi"
+    });
+  }
+  return data.records.length;
 }
 
 async function readLegacyEntries(htmlPath) {
@@ -510,6 +555,7 @@ async function main() {
     entries.set(key, entry);
   }
 
+  const pokemonAdded = await addPokemonEntries(entries, pokemonPath);
   const taxonomyResult = await addTaxonomyEntries(entries, dinosaurPath, mossPath);
   const translationResult = await applyChineseTranslations(entries, ecdictPath);
   const bilingualExamples = await applyBilingualExamples(entries, bilingualSentencesPath);
@@ -536,6 +582,7 @@ async function main() {
     ecdictAddedEntryCount: translationResult.added,
     dinosaurTaxonomyEntryCount: taxonomyResult.dinosaurAdded,
     mossTaxonomyEntryCount: taxonomyResult.mossAdded,
+    pokemonEntryCount: pokemonAdded,
     bilingualExampleCount: bilingualExamples,
     shardCount: shardNames.length,
     shards: shardNames
@@ -607,6 +654,7 @@ async function main() {
     `Added ${taxonomyResult.dinosaurAdded} dinosaur taxonomy names and ` +
     `${taxonomyResult.mossAdded} Bryophyta names.`
   );
+  console.log(`Imported ${pokemonAdded} National Pokédex Pokémon names.`);
 }
 
 await main();
