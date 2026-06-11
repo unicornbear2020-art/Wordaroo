@@ -8,7 +8,7 @@
       content="Wordaroo 完整離線英語字典，支援英式、美式及澳洲英語詞彙、音標與裝置發音。"
     />
     <title>Wordaroo 離線英語字典</title>
-    <link rel="stylesheet" href="styles.css?v=4" />
+    <link rel="stylesheet" href="styles.css?v=5" />
   </head>
   <body>
     <header class="site-header">
@@ -94,7 +94,22 @@
           <div class="scanner-results">
             <p class="scanner-status" id="scannerStatus" role="status">請拍攝或選擇一張有英文文字的相片。</p>
             <progress id="scannerProgress" max="100" value="0" hidden></progress>
-            <div class="detected-words" id="detectedWords" aria-label="偵測到的文字"></div>
+            <div class="scanner-playback" id="scannerPlayback" hidden>
+              <button class="scanner-play-button" id="scannerPlayButton" type="button">
+                <svg aria-hidden="true" viewBox="0 0 24 24">
+                  <path
+                    d="M8 5.5v13l10-6.5L8 5.5Z"
+                    fill="currentColor"
+                    stroke="currentColor"
+                    stroke-linejoin="round"
+                    stroke-width="1.5"
+                  />
+                </svg>
+                <span id="scannerPlayLabel">聆聽全文</span>
+              </button>
+              <span>短按文字：由該字開始讀　長按 1 秒：查看解釋</span>
+            </div>
+            <div class="detected-text" id="detectedWords" aria-label="偵測到的文字"></div>
           </div>
         </div>
       </section>
@@ -192,6 +207,6 @@
     <script src="data/custom/disney-characters.js"></script>
     <script src="data/custom/pixar-characters.js"></script>
     <script src="vendor/tesseract/tesseract.min.js"></script>
-    <script src="app.js?v=4"></script>
+    <script src="app.js?v=5"></script>
   </body>
 </html>

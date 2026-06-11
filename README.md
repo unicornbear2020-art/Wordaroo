@@ -16,7 +16,8 @@
 - `data/custom/people-names.json` 提供人名、別名、音標及粵語讀音提示
 - `data/custom/disney-characters.json` 提供簡短原創的 Disney 角色索引
 - `data/custom/pixar-characters.json` 收錄《反斗奇兵》及《反斗車王》系列角色
-- 相機／相片英文 OCR 掃描，偵測詞語可直接查字或使用裝置發音
+- 相機／相片英文 OCR 掃描，結果以互動段落顯示並在完成後自動朗讀
+- 短按段落內文字可由該字開始朗讀；長按一秒可查看該詞解釋
 - OCR 使用本機 Tesseract.js 及英文模型，圖片不會上載到伺服器
 
 ## 重新建立資料庫

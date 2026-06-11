@@ -72,6 +72,9 @@ const elements = {
   scanPreview: document.querySelector("#scanPreview"),
   scannerStatus: document.querySelector("#scannerStatus"),
   scannerProgress: document.querySelector("#scannerProgress"),
+  scannerPlayback: document.querySelector("#scannerPlayback"),
+  scannerPlayButton: document.querySelector("#scannerPlayButton"),
+  scannerPlayLabel: document.querySelector("#scannerPlayLabel"),
   detectedWords: document.querySelector("#detectedWords"),
   resultShell: document.querySelector("#resultShell")
 };
@@ -83,6 +86,9 @@ let playToken = 0;
 let suggestionTimer = 0;
 let ocrWorker = null;
 let scanPreviewUrl = "";
+let detectedText = "";
+let detectedWordStarts = [];
+let ocrIsSpeaking = false;
 
 function normalise(value) {
   return String(value || "")
@@ -396,6 +402,9 @@ function stopSpeaking() {
   playToken += 1;
   if ("speechSynthesis" in window) window.speechSynthesis.cancel();
   elements.sound.classList.remove("speaking");
+  ocrIsSpeaking = false;
+  elements.scannerPlayButton.classList.remove("speaking");
+  elements.scannerPlayLabel.textContent = "聆聽全文";
 }
 
 function speak(text, repetitions = 1, markButton = true) {
@@ -486,46 +495,159 @@ function prepareOcrImage(file) {
   });
 }
 
-function extractDetectedWords(text) {
-  const matches = String(text || "").match(/[A-Za-z]+(?:[’'-][A-Za-z]+)*/g) || [];
-  const seen = new Set();
-  return matches
-    .map((word) => word.replace(/[’'-]+$/g, ""))
-    .filter((word) => {
-      const key = word.toLocaleLowerCase("en");
-      if (!key || seen.has(key)) return false;
-      seen.add(key);
-      return true;
-    })
-    .slice(0, 100);
+function cleanDetectedText(text) {
+  return String(text || "")
+    .replace(/\r\n?/g, "\n")
+    .replace(/[ \t]+/g, " ")
+    .replace(/ *\n */g, "\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
 }
 
-function renderDetectedWords(words) {
-  elements.detectedWords.replaceChildren();
-  words.forEach((word) => {
-    const group = document.createElement("span");
-    group.className = "detected-word";
-
-    const searchButton = document.createElement("button");
-    searchButton.type = "button";
-    searchButton.className = "detected-word-search";
-    searchButton.textContent = word;
-    searchButton.setAttribute("aria-label", `搜尋 ${word}`);
-    searchButton.addEventListener("click", () => {
-      searchWord(word);
-      elements.resultShell.scrollIntoView({ behavior: "smooth", block: "start" });
-    });
-
-    const speakButton = document.createElement("button");
-    speakButton.type = "button";
-    speakButton.className = "detected-word-speak";
-    speakButton.textContent = "聽";
-    speakButton.setAttribute("aria-label", `讀出 ${word}`);
-    speakButton.addEventListener("click", () => speak(word, 1, false));
-
-    group.append(searchButton, speakButton);
-    elements.detectedWords.append(group);
+function finishOcrSpeech(token) {
+  if (token !== playToken) return;
+  ocrIsSpeaking = false;
+  elements.scannerPlayButton.classList.remove("speaking");
+  elements.scannerPlayLabel.textContent = "再次聆聽";
+  elements.detectedWords.querySelectorAll(".reading-start").forEach((word) => {
+    word.classList.remove("reading-start");
   });
+}
+
+function splitSpeechPassage(text, maxLength = 260) {
+  const words = text.split(/\s+/).filter(Boolean);
+  const chunks = [];
+  let chunk = "";
+  words.forEach((word) => {
+    if (chunk && `${chunk} ${word}`.length > maxLength) {
+      chunks.push(chunk);
+      chunk = word;
+    } else {
+      chunk = chunk ? `${chunk} ${word}` : word;
+    }
+  });
+  if (chunk) chunks.push(chunk);
+  return chunks;
+}
+
+function speakDetectedText(startIndex = 0) {
+  if (!detectedText || !("speechSynthesis" in window)) return;
+  stopSpeaking();
+  chooseVoice();
+  const token = playToken;
+  const passage = detectedText.slice(startIndex).trim();
+  const chunks = splitSpeechPassage(passage);
+  if (!chunks.length) return;
+
+  ocrIsSpeaking = true;
+  elements.scannerPlayButton.classList.add("speaking");
+  elements.scannerPlayLabel.textContent = startIndex ? "停止朗讀" : "停止全文";
+  elements.detectedWords.querySelectorAll(".reading-start").forEach((word) => {
+    word.classList.remove("reading-start");
+  });
+  const selectedWord = elements.detectedWords.querySelector(`[data-start="${startIndex}"]`);
+  if (selectedWord) selectedWord.classList.add("reading-start");
+
+  const playChunk = (index) => {
+    if (token !== playToken || index >= chunks.length) {
+      finishOcrSpeech(token);
+      return;
+    }
+    const utterance = new SpeechSynthesisUtterance(chunks[index]);
+    utterance.lang = elements.accent.value;
+    utterance.rate = Number(elements.rate.value) || 0.88;
+    utterance.pitch = Number(elements.pitch.value) || 1.12;
+    utterance.volume = 1;
+    if (selectedVoice) utterance.voice = selectedVoice;
+    utterance.onend = () => playChunk(index + 1);
+    utterance.onerror = () => finishOcrSpeech(token);
+    window.speechSynthesis.speak(utterance);
+  };
+
+  playChunk(0);
+}
+
+function openDetectedWord(word) {
+  stopSpeaking();
+  searchWord(word, false);
+  elements.resultShell.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+function addDetectedWordInteraction(button, word, startIndex) {
+  let holdTimer = 0;
+  let longPressTriggered = false;
+
+  const cancelHold = () => {
+    window.clearTimeout(holdTimer);
+    holdTimer = 0;
+  };
+  button.addEventListener("pointerdown", (event) => {
+    if (event.pointerType === "mouse" && event.button !== 0) return;
+    longPressTriggered = false;
+    button.classList.add("holding");
+    holdTimer = window.setTimeout(() => {
+      longPressTriggered = true;
+      button.classList.remove("holding");
+      openDetectedWord(word);
+    }, 1000);
+  });
+  button.addEventListener("pointerup", () => {
+    cancelHold();
+    button.classList.remove("holding");
+    if (!longPressTriggered) speakDetectedText(startIndex);
+  });
+  button.addEventListener("pointercancel", () => {
+    cancelHold();
+    button.classList.remove("holding");
+  });
+  button.addEventListener("pointerleave", (event) => {
+    if (event.pointerType === "mouse") {
+      cancelHold();
+      button.classList.remove("holding");
+    }
+  });
+  button.addEventListener("contextmenu", (event) => event.preventDefault());
+  button.addEventListener("click", (event) => event.preventDefault());
+  button.addEventListener("keydown", (event) => {
+    if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      speakDetectedText(startIndex);
+    }
+  });
+}
+
+function renderDetectedText(text) {
+  detectedText = cleanDetectedText(text);
+  detectedWordStarts = [];
+  elements.detectedWords.replaceChildren();
+  const pattern = /[A-Za-z]+(?:[’'-][A-Za-z]+)*/g;
+  let lastIndex = 0;
+  let match;
+
+  while ((match = pattern.exec(detectedText))) {
+    if (match.index > lastIndex) {
+      elements.detectedWords.append(document.createTextNode(
+        detectedText.slice(lastIndex, match.index)
+      ));
+    }
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "detected-text-word";
+    button.textContent = match[0];
+    button.dataset.start = String(match.index);
+    button.setAttribute(
+      "aria-label",
+      `${match[0]}，短按由此朗讀，長按一秒查看解釋`
+    );
+    addDetectedWordInteraction(button, match[0], match.index);
+    detectedWordStarts.push(match.index);
+    elements.detectedWords.append(button);
+    lastIndex = pattern.lastIndex;
+  }
+  if (lastIndex < detectedText.length) {
+    elements.detectedWords.append(document.createTextNode(detectedText.slice(lastIndex)));
+  }
+  elements.scannerPlayback.hidden = !detectedWordStarts.length;
 }
 
 async function scanImage(file) {
@@ -534,7 +656,11 @@ async function scanImage(file) {
     return;
   }
   elements.scannerPanel.hidden = false;
+  stopSpeaking();
+  detectedText = "";
+  detectedWordStarts = [];
   elements.detectedWords.replaceChildren();
+  elements.scannerPlayback.hidden = true;
   elements.scannerProgress.hidden = false;
   elements.scannerProgress.value = 0;
   elements.scannerStatus.textContent = "正在準備相片...";
@@ -549,11 +675,11 @@ async function scanImage(file) {
     const image = await prepareOcrImage(file);
     const worker = await getOcrWorker();
     const result = await worker.recognize(image);
-    const words = extractDetectedWords(result.data.text);
-    renderDetectedWords(words);
-    elements.scannerStatus.textContent = words.length
-      ? `偵測到 ${words.length} 個不同英文詞。點按詞語查字，或按喇叭試聽。`
+    renderDetectedText(result.data.text);
+    elements.scannerStatus.textContent = detectedWordStarts.length
+      ? `文字掃描完成，共偵測到 ${detectedWordStarts.length} 個英文詞。`
       : "未能偵測到清晰英文文字，請嘗試光線較好及文字較正面的相片。";
+    if (detectedWordStarts.length) speakDetectedText(0);
   } catch (error) {
     console.error("OCR scan failed:", error);
     elements.scannerStatus.textContent =
@@ -855,7 +981,15 @@ document.querySelectorAll("[data-word]").forEach((button) => {
 
 elements.scanButton.addEventListener("click", () => elements.scanInput.click());
 elements.scanInput.addEventListener("change", () => scanImage(elements.scanInput.files[0]));
+elements.scannerPlayButton.addEventListener("click", () => {
+  if (ocrIsSpeaking) {
+    stopSpeaking();
+  } else {
+    speakDetectedText(0);
+  }
+});
 elements.scannerClose.addEventListener("click", () => {
+  stopSpeaking();
   elements.scannerPanel.hidden = true;
 });
 
