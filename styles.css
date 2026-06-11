@@ -82,42 +82,9 @@ footer {
 }
 
 .brand-mark {
-  position: relative;
-  display: grid;
-  width: 28px;
-  height: 28px;
-  place-items: center;
-  border-radius: 50%;
-  background: var(--green);
-  transform: rotate(-8deg);
-}
-
-.brand-mark::before,
-.brand-mark::after {
-  position: absolute;
-  top: -5px;
-  width: 8px;
-  height: 14px;
-  border-radius: 70% 30% 60% 40%;
-  background: var(--green);
-  content: "";
-}
-
-.brand-mark::before {
-  left: 3px;
-  transform: rotate(-34deg);
-}
-
-.brand-mark::after {
-  right: 3px;
-  transform: rotate(34deg);
-}
-
-.brand-mark span {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: var(--paper);
+  width: 31px;
+  height: 31px;
+  color: var(--green);
 }
 
 .database-status {
@@ -138,7 +105,7 @@ footer {
 }
 
 main {
-  padding: 70px 0 84px;
+  padding: 34px 0 84px;
 }
 
 .search-section {
@@ -147,7 +114,6 @@ main {
   text-align: center;
 }
 
-.eyebrow,
 .mini-label {
   margin: 0 0 14px;
   color: var(--green);
@@ -156,45 +122,10 @@ main {
   letter-spacing: 0.17em;
 }
 
-h1 {
-  margin: 0;
-  font-size: clamp(3rem, 8vw, 6.2rem);
-  letter-spacing: -0.075em;
-  line-height: 0.98;
-}
-
-h1 em {
-  position: relative;
-  color: var(--green);
-  font-style: normal;
-  white-space: nowrap;
-}
-
-h1 em::after {
-  position: absolute;
-  right: 1%;
-  bottom: -7px;
-  left: 3%;
-  z-index: -1;
-  height: 12px;
-  border-radius: 50%;
-  background: var(--lime);
-  content: "";
-  opacity: 0.8;
-  transform: rotate(-1deg);
-}
-
-.intro {
-  max-width: 580px;
-  margin: 27px 0 0;
-  color: var(--muted);
-  line-height: 1.75;
-}
-
 .search-form {
   position: relative;
   width: min(780px, 100%);
-  margin-top: 36px;
+  margin-top: 0;
 }
 
 .search-box {
@@ -307,8 +238,9 @@ h1 em::after {
 
 .scanner-actions {
   display: grid;
+  width: min(780px, 100%);
   justify-items: center;
-  gap: 7px;
+  gap: 9px;
   margin-top: 25px;
 }
 
@@ -320,27 +252,29 @@ h1 em::after {
 
 .scan-button {
   display: inline-flex;
+  width: 100%;
   align-items: center;
   justify-content: center;
-  gap: 9px;
-  min-height: 44px;
-  padding: 0 17px;
-  border: 1px solid rgba(232, 214, 182, 0.45);
-  border-radius: 12px;
-  color: var(--green);
-  background: rgba(24, 56, 95, 0.75);
+  gap: 12px;
+  min-height: 64px;
+  padding: 0 24px;
+  border: 0;
+  border-radius: 17px;
+  color: var(--paper);
+  background: var(--green);
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.2);
   cursor: pointer;
-  font-size: 0.78rem;
-  font-weight: 800;
+  font-size: 1rem;
+  font-weight: 850;
+  letter-spacing: 0.02em;
 }
 
 .scan-button svg {
-  width: 21px;
+  width: 27px;
 }
 
 .scan-button:hover {
-  color: var(--paper);
-  background: var(--green);
+  background: var(--green-dark);
 }
 
 .scan-button:disabled {
@@ -746,6 +680,35 @@ h1 em::after {
   line-height: 1.65;
 }
 
+.interactive-definition {
+  line-height: inherit;
+}
+
+.definition-word {
+  display: inline;
+  padding: 0;
+  border: 0;
+  border-radius: 3px;
+  color: inherit;
+  background: transparent;
+  cursor: pointer;
+  font: inherit;
+  font-style: inherit;
+  line-height: inherit;
+  text-decoration: underline;
+  text-decoration-color: rgba(232, 214, 182, 0.24);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.definition-word:hover,
+.definition-word:focus-visible {
+  color: var(--paper);
+  background: var(--green);
+  outline: 0;
+}
+
 .sense-labels {
   display: flex;
   flex-wrap: wrap;
@@ -902,7 +865,7 @@ footer a {
   }
 
   main {
-    padding-top: 52px;
+    padding-top: 24px;
   }
 
   .settings-grid {
@@ -976,6 +939,11 @@ footer a {
 
   .scanner-actions p {
     max-width: 280px;
+  }
+
+  .scan-button {
+    min-height: 60px;
+    border-radius: 15px;
   }
 
   .settings-heading {

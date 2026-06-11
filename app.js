@@ -788,6 +788,34 @@ function renderPronunciations(entry) {
   }
 }
 
+function appendInteractiveDefinition(container, text) {
+  const value = String(text || "");
+  const pattern = /[A-Za-z]+(?:[’'-][A-Za-z]+)*/g;
+  let lastIndex = 0;
+  let match;
+
+  while ((match = pattern.exec(value))) {
+    if (match.index > lastIndex) {
+      container.append(document.createTextNode(value.slice(lastIndex, match.index)));
+    }
+    const word = match[0];
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "definition-word";
+    button.textContent = word;
+    button.setAttribute("aria-label", `查看 ${word} 的解釋`);
+    button.addEventListener("click", () => {
+      searchWord(word, false);
+      elements.resultShell.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+    container.append(button);
+    lastIndex = pattern.lastIndex;
+  }
+  if (lastIndex < value.length) {
+    container.append(document.createTextNode(value.slice(lastIndex)));
+  }
+}
+
 function renderMeanings(entry) {
   elements.meanings.replaceChildren();
   entry.meanings.forEach((meaning) => {
@@ -812,7 +840,8 @@ function renderMeanings(entry) {
         item.append(labels);
       }
       const gloss = document.createElement("div");
-      gloss.textContent = sense.gloss;
+      gloss.className = "interactive-definition";
+      appendInteractiveDefinition(gloss, sense.gloss);
       item.append(gloss);
       if (sense.glossZh) {
         const glossZh = document.createElement("p");
@@ -826,7 +855,8 @@ function renderMeanings(entry) {
         const example = document.createElement("p");
         example.className = "example";
         const english = document.createElement("span");
-        english.textContent = examplePair.en;
+        english.className = "interactive-definition";
+        appendInteractiveDefinition(english, examplePair.en);
         example.append(english);
         if (examplePair.zh) {
           const chinese = document.createElement("span");

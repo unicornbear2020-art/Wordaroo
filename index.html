@@ -8,12 +8,20 @@
       content="Wordaroo 完整離線英語字典，支援英式、美式及澳洲英語詞彙、音標與裝置發音。"
     />
     <title>Wordaroo 離線英語字典</title>
-    <link rel="stylesheet" href="styles.css?v=6" />
+    <link rel="stylesheet" href="styles.css?v=8" />
   </head>
   <body>
     <header class="site-header">
       <a class="brand" href="./" aria-label="Wordaroo 字典首頁">
-        <span class="brand-mark" aria-hidden="true"><span></span></span>
+        <svg class="brand-mark" aria-hidden="true" viewBox="0 0 43.243 38.919">
+          <path
+            d="M32.61 7.295c1.11 0 2.137.302 2.968.874 1.001.689 1.641 1.719 1.801 2.902.15 1.106-.152 2.202-.828 3.007a4.01 4.01 0 0 1-.826.71l-1.059.647.521 1.127c.745 1.61 1.122 3.299 1.122 5.019 0 3.285-1.409 6.08-4.075 8.084-2.61 1.962-6.283 3.042-10.342 3.042s-7.732-1.08-10.342-3.042c-2.666-2.004-4.075-4.799-4.075-8.084 0-1.72.378-3.409 1.122-5.019l.521-1.127-1.059-.647a4.03 4.03 0 0 1-.826-.71c-.676-.805-.978-1.9-.828-3.007.16-1.183.8-2.213 1.801-2.902.832-.572 1.858-.874 2.968-.874 1.567 0 3.078.619 3.944 1.616l.63.726.902-.332a15.16 15.16 0 0 1 5.242-.933c1.795 0 3.559.314 5.242.933l.902.332.63-.726c.866-.997 2.377-1.616 3.944-1.616Z"
+            fill="none"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-width="2"
+          />
+        </svg>
         <span>WORDAROO</span>
       </a>
       <div class="database-status" id="databaseStatus">
@@ -23,11 +31,7 @@
     </header>
 
     <main>
-      <section class="search-section" aria-labelledby="pageTitle">
-        <p class="eyebrow">OFFLINE ENGLISH DICTIONARY</p>
-        <h1 id="pageTitle"><em>一查即明</em></h1>
-        <p class="intro">詞義、詞性、地域用法、例句、音標及裝置發音，全程離線。</p>
-
+      <section class="search-section" aria-label="字典搜尋">
         <form class="search-form" id="searchForm" role="search">
           <label class="sr-only" for="wordInput">輸入英文單詞或詞組</label>
           <div class="search-box">
@@ -74,7 +78,7 @@
                 stroke-width="1.8"
               />
             </svg>
-            Scan with Camera
+            Scan
           </button>
           <input id="scanInput" type="file" accept="image/*" hidden />
           <p>相機拍攝或選擇相片，文字只會在此裝置處理。</p>
@@ -116,9 +120,8 @@
 
       <section class="result-shell" id="resultShell" aria-live="polite">
         <div class="welcome-card" id="welcomeCard">
-          <p class="mini-label">READY OFFLINE</p>
+          <p class="mini-label">READY</p>
           <h2>字典已準備好</h2>
-          <p>輸入兩個或以上英文字母即可搜尋。資料會按字首分段載入，適合大型離線詞庫。</p>
         </div>
 
         <article class="entry-card" id="entryCard" hidden>
@@ -198,7 +201,7 @@
     </main>
 
     <footer>
-      <span>WORDAROO OFFLINE</span>
+      <span>WORDAROO</span>
       <a href="DATA-LICENSE.html">資料來源及授權</a>
     </footer>
 
@@ -207,6 +210,6 @@
     <script src="data/custom/disney-characters.js"></script>
     <script src="data/custom/pixar-characters.js"></script>
     <script src="vendor/tesseract/tesseract.min.js"></script>
-    <script src="app.js?v=6"></script>
+    <script src="app.js?v=8"></script>
   </body>
 </html>
