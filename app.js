@@ -495,13 +495,60 @@ function prepareOcrImage(file) {
   });
 }
 
+function isUsefulOcrLine(line) {
+  const words = line.match(/[A-Za-z]+(?:[’'-][A-Za-z]+)*/g) || [];
+  const letters = words.join("");
+  if (letters.length < 5 || !words.length) return false;
+
+  const strangeCharacters = (line.match(/[=|<>[\]{}\\/~@_^`™]/g) || []).length;
+  const digitCount = (line.match(/\d/g) || []).length;
+  const meaningfulWords = words.filter((word) => word.replace(/[’'-]/g, "").length >= 3);
+  const shortWords = words.filter((word) => word.replace(/[’'-]/g, "").length <= 2);
+  const uppercaseWords = words.filter((word) =>
+    word.length >= 2 && word === word.toUpperCase()
+  );
+  const averageLength = letters.length / words.length;
+
+  if (!meaningfulWords.length) return false;
+  if (strangeCharacters >= 2) return false;
+  if (strangeCharacters && (words.length <= 3 || letters.length < 16)) return false;
+  if (digitCount >= 2 && letters.length < 24) return false;
+  if (words.length >= 4 && uppercaseWords.length / words.length >= 0.55 && averageLength < 4.5) {
+    return false;
+  }
+  if (words.length >= 4 && shortWords.length / words.length > 0.55 && averageLength < 3.5) {
+    return false;
+  }
+  if (words.length === 1 && (letters.length < 4 || strangeCharacters || digitCount)) return false;
+  return true;
+}
+
 function cleanDetectedText(text) {
-  return String(text || "")
+  const normalised = String(text || "")
     .replace(/\r\n?/g, "\n")
     .replace(/[ \t]+/g, " ")
     .replace(/ *\n */g, "\n")
-    .replace(/\n{3,}/g, "\n\n")
     .trim();
+  if (!normalised) return "";
+
+  const paragraphs = [];
+  let paragraphLines = [];
+  const flushParagraph = () => {
+    if (!paragraphLines.length) return;
+    paragraphs.push(paragraphLines.join(" "));
+    paragraphLines = [];
+  };
+
+  normalised.split("\n").forEach((line) => {
+    const trimmed = line.trim();
+    if (!trimmed) {
+      flushParagraph();
+    } else if (isUsefulOcrLine(trimmed)) {
+      paragraphLines.push(trimmed);
+    }
+  });
+  flushParagraph();
+  return paragraphs.join("\n\n");
 }
 
 function finishOcrSpeech(token) {
@@ -649,6 +696,10 @@ function renderDetectedText(text) {
   }
   elements.scannerPlayback.hidden = !detectedWordStarts.length;
 }
+
+elements.detectedWords.addEventListener("selectstart", (event) => event.preventDefault());
+elements.detectedWords.addEventListener("contextmenu", (event) => event.preventDefault());
+elements.detectedWords.addEventListener("dragstart", (event) => event.preventDefault());
 
 async function scanImage(file) {
   if (!file || !file.type.startsWith("image/")) {

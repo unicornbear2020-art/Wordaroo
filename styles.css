@@ -463,6 +463,10 @@ h1 em::after {
   font-size: 1rem;
   line-height: 1.9;
   white-space: pre-wrap;
+  cursor: default;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
 }
 
 .detected-text-word {
