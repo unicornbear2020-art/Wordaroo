@@ -1,0 +1,7 @@
+Tesseract.js 7.0.0
+tesseract.js-core 7.0.0
+English trained data: tessdata.projectnaptha.com/4.0.0/eng.traineddata.gz
+
+Sources:
+https://github.com/naptha/tesseract.js
+https://github.com/naptha/tesseract.js-core

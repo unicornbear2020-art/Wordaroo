@@ -8,7 +8,7 @@
       content="Wordaroo 完整離線英語字典，支援英式、美式及澳洲英語詞彙、音標與裝置發音。"
     />
     <title>Wordaroo 離線英語字典</title>
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="styles.css?v=4" />
   </head>
   <body>
     <header class="site-header">
@@ -60,6 +60,42 @@
           <button type="button" data-word="colour">colour</button>
           <button type="button" data-word="sidewalk">sidewalk</button>
           <button type="button" data-word="arvo">arvo</button>
+        </div>
+
+        <div class="scanner-actions">
+          <button class="scan-button" id="scanButton" type="button">
+            <svg aria-hidden="true" viewBox="0 0 24 24">
+              <path
+                d="M4 7V5a1 1 0 0 1 1-1h2m10 0h2a1 1 0 0 1 1 1v2M4 17v2a1 1 0 0 0 1 1h2m10 0h2a1 1 0 0 0 1-1v-2M8 9.5h8v5H8v-5Z"
+                fill="none"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="1.8"
+              />
+            </svg>
+            Scan with Camera
+          </button>
+          <input id="scanInput" type="file" accept="image/*" hidden />
+          <p>相機拍攝或選擇相片，文字只會在此裝置處理。</p>
+        </div>
+      </section>
+
+      <section class="scanner-panel" id="scannerPanel" aria-labelledby="scannerTitle" hidden>
+        <div class="scanner-heading">
+          <div>
+            <p class="mini-label">ON-DEVICE OCR</p>
+            <h2 id="scannerTitle">相片文字掃描</h2>
+          </div>
+          <button class="scanner-close" id="scannerClose" type="button" aria-label="關閉文字掃描">關閉</button>
+        </div>
+        <div class="scanner-content">
+          <img id="scanPreview" alt="待掃描相片預覽" hidden />
+          <div class="scanner-results">
+            <p class="scanner-status" id="scannerStatus" role="status">請拍攝或選擇一張有英文文字的相片。</p>
+            <progress id="scannerProgress" max="100" value="0" hidden></progress>
+            <div class="detected-words" id="detectedWords" aria-label="偵測到的文字"></div>
+          </div>
         </div>
       </section>
 
@@ -152,6 +188,10 @@
     </footer>
 
     <script src="data/manifest.js"></script>
-    <script src="app.js"></script>
+    <script src="data/custom/people-names.js"></script>
+    <script src="data/custom/disney-characters.js"></script>
+    <script src="data/custom/pixar-characters.js"></script>
+    <script src="vendor/tesseract/tesseract.min.js"></script>
+    <script src="app.js?v=4"></script>
   </body>
 </html>
